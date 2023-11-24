@@ -5,20 +5,71 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
+
+warnings.filterwarnings("ignore")
+warnings.filterwarnings("ignore", category=FutureWarning, module="seaborn._oldcore")
+warnings.filterwarnings("ignore", category=FutureWarning, module="seaborn._core")
+
+# Color palete
+color_palette = {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "github_backborund": "#0D1117"}
+
+sns.set_theme(style="whitegrid")
+
 # Importar y transformar sig data
-sig_provincias = gpd.read_file("data/sig/provincia.shp")
-sig_localidades = gpd.read_file("data/sig/localidad_bahra.shp")
+sig_estados = gpd.read_file("data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp")
+sig_ciudades = gpd.read_file("data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp")
+sig_ciudades.rename(columns={"NOMBRE": "city"}, inplace=True)
+
+# Importar y transformar sig data
+sig_provincias = gpd.read_file("data/sig/Argentina/provincia.shp")
+sig_localidades = gpd.read_file("data/sig/Argentina/localidad_bahra.shp")
 sig_provincias["nam"] = sig_provincias["nam"].str.replace("Ciudad Autónoma de Buenos Aires", "Capital Federal")
 sig_provincias["nam"] = sig_provincias["nam"].str.replace("Tierra del Fuego, Antártida e Islas del Atlántico Sur", "Tierra Del Fuego")
 sig_provincias["nam"] = sig_provincias["nam"].str.replace("Santiago del Estero", "Santiago Del Estero")
 sig_provincias.drop(columns=["gid", "entidad", "fna", "gna", "in1", "fdc", "sag"], inplace=True)
 sig_provincias.rename(columns={"nam": "Provincia"}, inplace=True)
 
+
 # Color palete
 white = "#FFFFFF"
 black = "#000000"
 
 sns.set_theme(style="whitegrid")
+
+
+def mapa_scatterplot_light(title, data, size=10):
+    fig, ax = plt.subplots(figsize=(10, 10))
+    sig_estados.plot(ax=ax, color="white", edgecolor="black", alpha=0.5, markersize=10)
+    data.plot(ax=ax, color="black", edgecolor="none", alpha=0.1, markersize=size)
+    ax.set_xlim([-130, -63])
+    ax.set_ylim([20, 55])
+    ax.set_facecolor('white')
+    plt.xticks(fontsize=8, color="black")
+    plt.yticks(fontsize=8, color="black")
+    plt.title(title, fontsize=12, loc='right', color="black")
+    fig.savefig(f"gallery/{title}_daymode.jpg", format='jpg', dpi=300, bbox_inches='tight')
+    fig.show()
+
+def mapa_scatterplot_dark(title, data, size=10):
+    fig, ax = plt.subplots(figsize=(10, 10))
+    ax.grid(color='darkgrey', linewidth=0.25)
+    sig_estados.plot(ax=ax, color="none", edgecolor="white", alpha=0.25, markersize=10)
+    data.plot(ax=ax, color="white", edgecolor="none", alpha=0.1, markersize=size)
+    ax.set_xlim([-130, -63])
+    ax.set_ylim([20, 55])
+    ax.set_facecolor(color_palette["github_backborund"])
+    plt.xticks(fontsize=8, color="white")
+    plt.yticks(fontsize=8, color="white")
+    plt.title(title, fontsize=12, loc='right', color="white")
+    plt.gca().set_facecolor(color_palette["github_backborund"])
+    plt.gca().set_facecolor(color_palette["github_backborund"])
+    fig.savefig(f"gallery/{title}_nightmode.jpg", format='jpg', dpi=300, bbox_inches='tight', facecolor=color_palette["github_backborund"])
+    plt.close(fig)
+
+
 
 def map_technology(prov_data, loc_data, technology, max_color, min_color):
     cmap = LinearSegmentedColormap.from_list('custom_colormap', [max_color, min_color], N=256)
@@ -57,7 +108,7 @@ def missing_values_heatmap(dataframe, title):
     plt.yticks(fontsize=9, color=white) # Y axis
     plt.xticks([]) # X axis
     # Save and show
-    plt.savefig(f"gallery/ETL/{title}.png", format='png', dpi=300, bbox_inches='tight')
+    plt.savefig(f"gallery/{title}.png", format='png', dpi=300, bbox_inches='tight')
     plt.show()
 
 #

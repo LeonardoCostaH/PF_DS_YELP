@@ -58,9 +58,9 @@ Python, Jupyter Notebooks, Pandas, AWS.
 |---------------|-----------------------------                                         |--------------------------------|-------------------------------------|
 | Data Enginner| [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)          |[melisaamelia.arce](mailto:melisaamelia.arce@gmail.com) | [Melisa Arce](https://github.com/melisaameliaarce)  |
 | Data Enginner| [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/) | [vluis2386](mailto:vluis2386@gmail.com) | [LuisOVaras](https://github.com/LuisOVaras) |
-| Data Analytic| [Leonardo Augusto Costa Hermes](https://linkedin.com/in/leonardo-costa-672a3a1b9) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com) | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/) |
-| Data Analytic| [Diego Saint Denis](https://www.linkedin.com/in/diego/) | [diego.saintdenis](mailto:diego.saintdenis@gmail.com) | [data-d-s-d](https://github.com/data-d-s-d) |
-| Data Analytic|  [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/) |[julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories)|
+| Data Analyst| [Leonardo Augusto Costa Hermes](https://linkedin.com/in/leonardo-costa-672a3a1b9) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com) | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/) |
+| Data Analyst| [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/) | [diego.saintdenis](mailto:diego.saintdenis@gmail.com) | [data-d-s-d](https://github.com/data-d-s-d) |
+| Data Analyst|  [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/) |[julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories)|
             
 
 ---

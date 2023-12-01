@@ -1,14 +1,21 @@
 # Proyecto GeoGenesis Hotels
+---
 <p align=center><img src=img/Geogenesis.png><p>
+
+---
+### INDICE
 
 - [Presentacion GeoGenesis Hotels](#presentacion-geogenesis-hotels)
 - [Conjunto y Fuente de Datos](#conjunto-y-fuente-de-datos)
 - [Cliente](#cliente)
 - [Objetivos](#objetivos)
 - [Alcance](#alcance)
+- [Workflow](#workflow)
 - [Tecnologías](#tecnologías)
 - [KPIS propuestos](#kpis-propuestos)
 - [Desarrolladores](#desarrolladores)
+
+---
 
 ## Presentacion GeoGenesis Hotels
 
@@ -21,12 +28,15 @@ Lo que nos distingue es nuestra capacidad para extraer información valiosa de f
 
 ## Cliente
 
+Cliente: 
+Cadena hotelera en Estados Unidos que quiere mejorar servicios ya existentes
 Nuestra consultora está diseñada específicamente para satisfacer las necesidades únicas y exigencias de aquellos que buscan lanzar, expandir o mejorar sus proyectos hoteleros. Trabajamos estrechamente con propietarios de hoteles, inversores y equipos de gestión, brindando asesoramiento estratégico respaldado por análisis geográficos detallados y pronósticos de análisis de sentimiento. En Geogenesis, entendemos que cada cliente es único, y adaptamos nuestra experiencia y conocimientos para asegurar el éxito de cada proyecto hotelero que emprendemos.
+
+
 
 ## Objetivos
 
-- Análisis de Sentimientos y Predicción de Crecimiento
-Utilizar análisis de sentimientos en reseñas de Yelp y Google Maps para predecir el crecimiento o declive de diferentes rubros de negocios relacionados con el turismo y ocio en Estados Unidos. Esto permitirá tomar decisiones estratégicas basadas en las opiniones de los usuarios.
+- Objetivo principal: Desarrollar una herramienta de análisis para facilitar la mejora de hoteles existentes. Esta herramienta se basará en el análisis de opiniones de usuarios, las características específicas de los hoteles actuales y las atracciones turísticas populares en sus respectivas zonas.
 
 ## Alcance 
 
@@ -65,10 +75,21 @@ Utilizar datos geográficos y reseñas para identificar las ubicaciones más est
 
     Descripción:
         Este KPI explora cómo las emociones y calificaciones de las reseñas varían estacionalmente. La desviación estándar indica la dispersión de las calificaciones y emociones, proporcionando información sobre la consistencia entre las estaciones del año.
+---
+
+## Workflow
+
+<p align=center><img src=img/workflow.jpeg><p>
+
+- Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
+
+---
 
 ## Tecnologías 
 
 Python, Jupyter Notebooks, Pandas, AWS, trello, postgreSQL, drive, google colab, visual studio code, github.
+
+---
 
 ## Desarrolladores
 

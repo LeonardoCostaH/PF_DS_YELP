@@ -5,7 +5,6 @@ import geopandas as gpd
 import matplotlib.pyplot as plt
 from matplotlib.colors import LinearSegmentedColormap
 
-
 warnings.filterwarnings("ignore")
 warnings.filterwarnings("ignore", category=FutureWarning, module="seaborn._oldcore")
 warnings.filterwarnings("ignore", category=FutureWarning, module="seaborn._core")
@@ -18,19 +17,69 @@ color_palette = {
 
 sns.set_theme(style="whitegrid")
 
-# Importar y transformar sig data
-sig_estados = gpd.read_file("data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp")
-sig_ciudades = gpd.read_file("data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp")
-sig_ciudades.rename(columns={"NOMBRE": "city"}, inplace=True)
 
 # Importar y transformar sig data
-sig_provincias = gpd.read_file("data/sig/Argentina/provincia.shp")
-sig_localidades = gpd.read_file("data/sig/Argentina/localidad_bahra.shp")
-sig_provincias["nam"] = sig_provincias["nam"].str.replace("Ciudad Autónoma de Buenos Aires", "Capital Federal")
-sig_provincias["nam"] = sig_provincias["nam"].str.replace("Tierra del Fuego, Antártida e Islas del Atlántico Sur", "Tierra Del Fuego")
-sig_provincias["nam"] = sig_provincias["nam"].str.replace("Santiago del Estero", "Santiago Del Estero")
-sig_provincias.drop(columns=["gid", "entidad", "fna", "gna", "in1", "fdc", "sag"], inplace=True)
-sig_provincias.rename(columns={"nam": "Provincia"}, inplace=True)
+usa_states = pd.read_csv("data/usa_states.csv")
+usa_cities = pd.read_csv("data/usa_cities.csv")
+sig_states = gpd.read_file("data/sig/Estados/Estados_Unidos_Estados.shp")
+sig_cities = gpd.read_file("data/sig/Ciudades/Estados_Unidos_Poblaciones.shp")
+sig_routes = gpd.read_file("data/sig/Vialidad/Estados_Unidos_Vialidad.shp")
+sig_hidrography = gpd.read_file("data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp")
+
+sig_california = sig_states[sig_states["STATE_NAME"] == "California"]
+sig_florida = sig_states[sig_states["STATE_NAME"] == "Florida"]
+sig_newyork = sig_states[sig_states["STATE_NAME"] == "New York"]
+sig_utah = sig_states[sig_states["STATE_NAME"] == "Utah"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Importar y transformar sig data
+#sig_estados = gpd.read_file("data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp")
+#sig_ciudades = gpd.read_file("data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp")
+#sig_ciudades.rename(columns={"NOMBRE": "city"}, inplace=True)
+
+# Importar y transformar sig data
+#sig_provincias = gpd.read_file("data/sig/Argentina/provincia.shp")
+#sig_localidades = gpd.read_file("data/sig/Argentina/localidad_bahra.shp")
+#sig_provincias["nam"] = sig_provincias["nam"].str.replace("Ciudad Autónoma de Buenos Aires", "Capital Federal")
+#sig_provincias["nam"] = sig_provincias["nam"].str.replace("Tierra del Fuego, Antártida e Islas del Atlántico Sur", "Tierra Del Fuego")
+#sig_provincias["nam"] = sig_provincias["nam"].str.replace("Santiago del Estero", "Santiago Del Estero")
+#sig_provincias.drop(columns=["gid", "entidad", "fna", "gna", "in1", "fdc", "sag"], inplace=True)
+#sig_provincias.rename(columns={"nam": "Provincia"}, inplace=True)
 
 
 # Color palete

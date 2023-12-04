@@ -1,6 +1,6 @@
 # Proyecto GeoGenesis Hotels
 ---
-<p align=center><img src=img/Geogenesis.png><p>
+<p align=center><img src=img/Geogenesis_logo.png><p>
 
 ---
 ### INDICE

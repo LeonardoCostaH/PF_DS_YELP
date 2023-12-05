@@ -16,19 +16,20 @@ usa_cities = pd.read_csv("../files/data/usa_cities.csv")
 usa_states = pd.read_csv("../files/data/usa_states.csv")
 
 
-# This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions
-def scrape_state_attractions(state: str, url: str, report=True) -> list:
+# This function takes a state and the corresponding url and returns a pandas dataframe with each state's touristic attractions
+def scrap_state_attractions(state: str, url: str, report=True) -> list:
+
     state_attractions = pd.DataFrame()
     failed_states = [] # to store errors while scrapping
 
     # Instanciate and configurate driver
     chrome_options = selenium.webdriver.chrome.options.Options()
-    chrome_options.add_argument('--disable-infobars') # unables images loading
+    chrome_options.add_argument('--disable-infobars') # disables images loading
     driver = webdriver.Chrome(options=chrome_options)
 
     # Connect to url and wait to load
-    driver.get(url) if report else None
-    print(state, url)
+    driver.get(url) 
+    print(state, url) if report else None
     time.sleep(5)
 
     try:
@@ -53,7 +54,8 @@ def scrape_state_attractions(state: str, url: str, report=True) -> list:
                             attractions = pd.DataFrame({
                                 "attraction": [parts[0]],
                                 "n_reviews": [parts[1]],
-                                "categories": [parts[2]]})
+                                "categories": [parts[2]],
+                                "state": state})
                             state_attractions = pd.concat([state_attractions, attractions], ignore_index=True)
                 
                 except:
@@ -65,7 +67,7 @@ def scrape_state_attractions(state: str, url: str, report=True) -> list:
     
     except:
         failed_states.append(state)
-        print(f"{state} state added to failed states.") if not report else None
+        print(f"{state} state added to failed states.") if report else None
 
     # Close browser and return list with hotels data
     driver.quit()
@@ -116,14 +118,15 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
                         name_and_price_elements = div.find_elements(By.CLASS_NAME, "f6431b446c") # find name and price
                         url_element = div.find_element(By.CLASS_NAME, "a78ca197d0") # find url
                         score_element = div.find_element(By.CLASS_NAME, "a3b8729ab1") # find avg_score
+                        n_reviews = div.find_element(By.CLASS_NAME, "abf093bdfe") # find avg_score
                         # Store data in cities_hotels list
-                        if len(name_and_price_elements) == 2 and url_element and score_element: 
+                        if len(name_and_price_elements) == 2 and url_element and score_element and n_pages: 
                             name = name_and_price_elements[0].text
                             price = name_and_price_elements[1].text
                             url = url_element.get_attribute('href')
                             avg_score = score_element.text
-                            #parts = n_reviews.text.split(" ")
-                            cities_hotels.append({"state": state, "city": city,"name": name, "avg_score": avg_score, "price": price, "reviews_url": url})
+                            parts = n_pages.split(" ")
+                            cities_hotels.append({"state": state, "city": city,"name": name, "avg_score": avg_score, "n_revies": parts[0],"price": price, "reviews_url": url})
                     except Exception as e:
                         pass
                 if report:
@@ -167,7 +170,7 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
     
     # Close browser and return list with hotels data
     driver.quit()
-    cities_hotels.to_csv(f"../files/data/booking/{state.lower()}_hotels.csv", index=False)
+    cities_hotels.to_csv(f"../data/booking/{state.lower()}_hotels.csv", index=False)
     return cities_hotels
 
 
@@ -204,14 +207,11 @@ def scrape_hotels_attributes(urls, report=True):
 
         # Obtener atributos (limitado a 10)
         try:
-            list_items = driver.find_elements(By.CLASS_NAME, "a8b57ad3ff")[:10]
-            attributes_set = set()  # Usamos un conjunto para evitar duplicados
-            for li in list_items:
-                attribute = li.text
-                if attribute not in attributes_set:
-                    attributes_set.add(attribute)
-            attributes_list = list(attributes_set)  # Convertir el conjunto a lista
-            print(attributes_list)
+            attributes_list = []
+            attributes_box = driver.find_element(By.CLASS_NAME, "a6541fb018")
+            attributes = attributes_box.find_elements(By.CLASS_NAME, "a8b57ad3ff")
+            for at in attributes:
+                attributes_list.append(at.text)
         except:
             attributes_list = None
 

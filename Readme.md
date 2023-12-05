@@ -1,11 +1,21 @@
 # Proyecto GeoGenesis Hotels
-<p align=center><img src=img/Geogenesis.png><p>
+---
+<p align=center><img src=img/Geogenesis_logo.png><p>
+
+---
+### INDICE
 
 - [Presentacion GeoGenesis Hotels](#presentacion-geogenesis-hotels)
 - [Conjunto y Fuente de Datos](#conjunto-y-fuente-de-datos)
+- [Cliente](#cliente)
 - [Objetivos](#objetivos)
+- [Alcance](#alcance)
+- [Workflow](#workflow)
 - [Tecnologías](#tecnologías)
+- [KPIS propuestos](#kpis-propuestos)
 - [Desarrolladores](#desarrolladores)
+
+---
 
 ## Presentacion GeoGenesis Hotels
 
@@ -16,12 +26,18 @@ En Geogenesis Hotels, nos destacamos por nuestra dedicación a la excelencia, nu
 
 Lo que nos distingue es nuestra capacidad para extraer información valiosa de fuentes confiables como Yelp y Google Maps, así como de otras fuentes externas, para complementar y enriquecer nuestro trabajo. Esta integración de datos exhaustivos nos permite ofrecer análisis más completos y perspicaces, asegurando que cada proyecto hotelero se beneficie de una visión global y precisa. En Geogenesis, entendemos que cada cliente es único, y adaptamos nuestra experiencia y conocimientos para asegurar el éxito de cada proyecto hotelero que emprendemos.
 
+## Cliente
+
+
+Cliente: 
+Cadena hotelera en Estados Unidos que quiere mejorar servicios ya existentes
+Nuestra consultora está diseñada específicamente para satisfacer las necesidades únicas y exigencias de aquellos que buscan lanzar, expandir o mejorar sus proyectos hoteleros. Trabajamos estrechamente con propietarios de hoteles, inversores y equipos de gestión, brindando asesoramiento estratégico respaldado por análisis geográficos detallados y pronósticos de análisis de sentimiento. En Geogenesis, entendemos que cada cliente es único, y adaptamos nuestra experiencia y conocimientos para asegurar el éxito de cada proyecto hotelero que emprendemos.
+
 ## Objetivos
 
-- Análisis de Sentimientos y Predicción de Crecimiento
-Utilizar análisis de sentimientos en reseñas de Yelp y Google Maps para predecir el crecimiento o declive de diferentes rubros de negocios relacionados con el turismo y ocio en Estados Unidos. Esto permitirá tomar decisiones estratégicas basadas en las opiniones de los usuarios.
+- Objetivo principal: Desarrollar una herramienta de análisis para facilitar la mejora de hoteles existentes. Esta herramienta se basará en el análisis de opiniones de usuarios, las características específicas de los hoteles actuales y las atracciones turísticas populares en sus respectivas zonas.
 
-### Escalabilidad y alcance: 
+## Alcance 
 
 - Recomendación de Locales Basada en Experiencias Anteriores
 Desarrollar un sistema de recomendación de restaurantes que utilice las experiencias anteriores de los usuarios en Yelp y Google Maps. Esto proporcionará a los usuarios sugerencias personalizadas para explorar nuevos lugares basados en sus preferencias y reseñas anteriores.
@@ -31,52 +47,52 @@ Utilizar datos geográficos y reseñas para identificar las ubicaciones más est
 
 ### KPIS propuestos
 
-- KPI 1: Aumentar el Índice de Positividad de Reseñas (IPR) en un X% en los próximos 6 meses. 
+- #### KPI 1: Porcentaje de Sentimientos Positivos
+    Fórmula: 
+        (Número de reseñas positivas / Total de reseñas) 100*
 
-Descripción:
-El IPR calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes.
+    Descripción:
+        Este KPI calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes.
 
-Fórmula:
-IPR = (Número de Reseñas positivas/Total de reseñas) * 100
-
-
-- KPI 2: Mantener un IPR por encima de X% para reflejar experiencias positivas.
-
-Descripción:
-El IPR calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes. Es importante mantener un IPR alto, ya que es un indicador fundamental a la hora de evaluar las experiencias a través de las reseñas, tanto para el cliente como para sus los futuros clientes.
-
-Fórmula:
-IPR = (Número de Reseñas positivas/Total de reseñas) * 100
+- #### KPI 2: Volumen de Reseñas
+    Fórmula:
+        Volumen de Reseñas = Número total de reseñas
 
 
-- KPI 3: Reducir el porcentaje de reseñas negativas abordando áreas de preocupación identificadas a través del análisis del INR (Índice de Negatividad de Reseñas).
+    Descripción:
+        Este KPI representa el número total de reseñas recibidas por cada hotel a lo largo del tiempo. Proporciona una visión general del nivel de participación y compromiso de los clientes con el establecimiento.
 
-Descripción:
-El INR calcula el porcentaje de reseñas que contienen sentimientos negativos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la negatividad de las experiencias compartidas por los clientes. El análisis de sentimiento acarrea además una identificación de áreas de preocupación a ser mejoradas.
+- #### KPI 3: Diversidad de Temas
+    Fórmula:
+        Diversidad de Temas=Número de temas únicos / Número total de reseñas
 
-Fórmula:
-INR = (Número de Reseñas negativas/Total de reseñas) * 100.
+    Descripción:
+        Este KPI mide la diversidad de temas discutidos en las reseñas. Cuanto mayor sea el valor, mayor será la variedad de temas abordados por los clientes en sus reseñas.
+
+- #### KPI 4: Variación Estacional
+    Fórmula:
+        Variación Estacional = Desviación estándar de calificaciones y emociones por temporada
+
+    Descripción:
+        Este KPI explora cómo las emociones y calificaciones de las reseñas varían estacionalmente. La desviación estándar indica la dispersión de las calificaciones y emociones, proporcionando información sobre la consistencia entre las estaciones del año.
+---
+
+## Workflow
+
+<p align=center><img src=img/workflow.jpeg><p>
+
+- Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
+
+---
+
+## Tecnologías
+
+Python, Jupyter Notebooks, Pandas, AWS, trello, postgreSQL, drive, google colab, visual studio code, github.
 
 
-- KPI 4: Mantener el Índice de Respuestas a Reseñas Negativas (IRRN) por encima del 95%.
-
-Descripción:
-Esto da cuenta de que nos importan los huéspedes y sus opiniones. Es fundamental que, si hay alguien no satisfecho por la calidad del servicio o por algún factor en particular, podemos mostrar a los huéspedes que nos preocupamos por su experiencia y que estamos dispuestos a resolver cualquier obstáculo que se interponga entre el huésped y una experiencia lo más placentera posible.
-
-Fórmula: 
-IRRN = (Reseñas negativas contestadas/Total Reseñas Negativas) * 100
+---
 
 
-Acciones sugeridas:
-1)	Implementar mejoras basadas en los comentarios de las reseñas negativas.
-2)	Incentivar y reconocer a los empleados que contribuyen significativamente a experiencias positivas del cliente.
-3)	Monitorear regularmente el IPR, INR y el IRRN y ajustar estrategias según sea necesario para mejorar la satisfacción del cliente.
-
-
-
-## Tecnologías 
-
-Python, Jupyter Notebooks, Pandas, AWS.
 
 ## Desarrolladores
 

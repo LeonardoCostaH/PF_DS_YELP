@@ -12,8 +12,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 
 #
-usa_cities = pd.read_csv("../data/usa_cities.csv")
-usa_states = pd.read_csv("../data/usa_states.csv")
+usa_cities = pd.read_csv("../files/data/usa_cities.csv")
+usa_states = pd.read_csv("../files/data/usa_states.csv")
 
 
 # This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions
@@ -122,6 +122,7 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
                             price = name_and_price_elements[1].text
                             url = url_element.get_attribute('href')
                             avg_score = score_element.text
+                            #parts = n_reviews.text.split(" ")
                             cities_hotels.append({"state": state, "city": city,"name": name, "avg_score": avg_score, "price": price, "reviews_url": url})
                     except Exception as e:
                         pass
@@ -166,7 +167,7 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
     
     # Close browser and return list with hotels data
     driver.quit()
-    cities_hotels.to_csv(f"../data/booking/{state.lower()}_hotels.csv", index=False)
+    cities_hotels.to_csv(f"../files/data/booking/{state.lower()}_hotels.csv", index=False)
     return cities_hotels
 
 

@@ -53,156 +53,1394 @@
         "documentation": {}
     },
     {
+        "label": "LinearSegmentedColormap",
+        "importPath": "matplotlib.colors",
+        "description": "matplotlib.colors",
+        "isExtraImport": true,
+        "detail": "matplotlib.colors",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "selenium",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "selenium",
+        "description": "selenium",
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "webdriver",
+        "importPath": "selenium",
+        "description": "selenium",
+        "isExtraImport": true,
+        "detail": "selenium",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "By",
+        "importPath": "selenium.webdriver.common.by",
+        "description": "selenium.webdriver.common.by",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.common.by",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "WebDriverWait",
+        "importPath": "selenium.webdriver.support.ui",
+        "description": "selenium.webdriver.support.ui",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support.ui",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "expected_conditions",
+        "importPath": "selenium.webdriver.support",
+        "description": "selenium.webdriver.support",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.support",
+        "documentation": {}
+    },
+    {
+        "label": "StaleElementReferenceException",
+        "importPath": "selenium.common.exceptions",
+        "description": "selenium.common.exceptions",
+        "isExtraImport": true,
+        "detail": "selenium.common.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "importPath": "connect",
+        "description": "connect",
+        "isExtraImport": true,
+        "detail": "connect",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "WordCloud",
+        "importPath": "wordcloud",
+        "description": "wordcloud",
+        "isExtraImport": true,
+        "detail": "wordcloud",
+        "documentation": {}
+    },
+    {
+        "label": "Point",
+        "importPath": "shapely.geometry",
+        "description": "shapely.geometry",
+        "isExtraImport": true,
+        "detail": "shapely.geometry",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.express",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.express",
+        "description": "plotly.express",
+        "detail": "plotly.express",
+        "documentation": {}
+    },
+    {
+        "label": "literal_eval",
+        "importPath": "ast",
+        "description": "ast",
+        "isExtraImport": true,
+        "detail": "ast",
+        "documentation": {}
+    },
+    {
+        "label": "Options",
+        "importPath": "selenium.webdriver.chrome.options",
+        "description": "selenium.webdriver.chrome.options",
+        "isExtraImport": true,
+        "detail": "selenium.webdriver.chrome.options",
+        "documentation": {}
+    },
+    {
+        "label": "plotly.graph_objects",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "plotly.graph_objects",
+        "description": "plotly.graph_objects",
+        "detail": "plotly.graph_objects",
+        "documentation": {}
+    },
+    {
+        "label": "psycopg2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "psycopg2",
+        "description": "psycopg2",
+        "detail": "psycopg2",
+        "documentation": {}
+    },
+    {
         "label": "mapa_scatterplot_light",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    sig_estados.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=10)\n    data.plot(ax=ax, color=\"black\", edgecolor=\"none\", alpha=0.1, markersize=size)\n    ax.set_xlim([-130, -63])\n    ax.set_ylim([20, 55])\n    ax.set_facecolor('white')\n    plt.xticks(fontsize=8, color=\"black\")\n    plt.yticks(fontsize=8, color=\"black\")\n    plt.title(title, fontsize=12, loc='right', color=\"black\")",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "mapa_scatterplot_dark",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def mapa_scatterplot_dark(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    ax.grid(color='darkgrey', linewidth=0.25)\n    sig_estados.plot(ax=ax, color=\"none\", edgecolor=\"white\", alpha=0.25, markersize=10)\n    data.plot(ax=ax, color=\"white\", edgecolor=\"none\", alpha=0.1, markersize=size)\n    ax.set_xlim([-130, -63])\n    ax.set_ylim([20, 55])\n    ax.set_facecolor(color_palette[\"github_backborund\"])\n    plt.xticks(fontsize=8, color=\"white\")\n    plt.yticks(fontsize=8, color=\"white\")",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "map_technology",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def map_technology(prov_data, loc_data, technology, max_color, min_color):\n    cmap = LinearSegmentedColormap.from_list('custom_colormap', [max_color, min_color], N=256)\n    vmin = prov_data[technology].min()\n    vmax = prov_data[technology].max()\n    fig, ax = plt.subplots(figsize=(8, 8))\n    prov_data.plot(column=technology, legend=False, ax=ax, edgecolor='black', linewidth=0.5, cmap=cmap, vmin=vmin, vmax=vmax)\n    loc_data[f\"scaled_{technology}\"] = (loc_data[technology] - loc_data[technology].min()) / (loc_data[technology].max() - loc_data[technology].min()) * (50 - 5) + 5\n    loc_data.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=loc_data[f\"scaled_{technology}\"])\n    plt.gcf().set_facecolor(\"white\") # Background\n    plt.gca().set_facecolor(\"white\") # Background",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "missing_values_heatmap",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "def missing_values_heatmap(dataframe, title):\n    # Create and configurate heatmap\n    sns.heatmap(data=dataframe.isnull().T, cbar=False, annot_kws={\"color\": \"red\"}, cmap=sns.color_palette([\"#0D1117\", white]))\n    plt.gcf().set_facecolor(\"#0D1117\") # Background\n    plt.gca().set_facecolor(\"#0D1117\") # Background\n    plt.title(f\"{title} missing values\", fontsize=10, loc='left', color=white) # Title\n    plt.yticks(fontsize=9, color=white) # Y axis\n    plt.xticks([]) # X axis\n    # Save and show\n    plt.savefig(f\"gallery/{title}.png\", format='png', dpi=300, bbox_inches='tight')",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "def missing_values_heatmap(dataframe, title):\n    # Create and configurate heatmap\n    sns.heatmap(data=dataframe.isnull().T, cbar=False, annot_kws={\"color\": \"red\"}, cmap=sns.color_palette([\"#0D1117\", white]))\n    plt.gcf().set_facecolor(\"#0D1117\") # Background\n    plt.gca().set_facecolor(\"#0D1117\") # Background\n    plt.title(f\"{title} missing values\", fontsize=10, loc='left', color=white) # Title\n    plt.yticks(fontsize=9, color=white) # Y axis\n    plt.xticks([]) # X axis\n    # Save and show\n    plt.savefig(f\"../files/img/{title}.png\", format='png', dpi=300, bbox_inches='tight')",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "histogram",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def histogram(column, title):\n    # Create histogram\n    plt.figure(figsize=(10, 6))\n    plt.gcf().set_facecolor(\"#0D1117\") # Background\n    plt.gca().set_facecolor(\"#0D1117\") # Background\n    plt.hist(column, bins=len(column.value_counts()), color=white, edgecolor=white)\n    # Title\n    plt.title(title, fontsize=10, loc='right', color=white)\n    # X axis\n    plt.xticks(fontsize=9, color=white) ",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "barplot",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def barplot(data, title):\n    plt.figure(figsize=(10, 6))\n    plt.gcf().set_facecolor(\"#0D1117\") # Background\n    plt.gca().set_facecolor(\"#0D1117\") # Background\n    data.plot(kind='bar', color=white, edgecolor=white)\n    # Title\n    plt.title(title, fontsize=10, loc='right', color=white)\n    # X axis\n    plt.xticks(fontsize=9, color=white) \n    plt.xlabel('')",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "scatter_plot",
         "kind": 2,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "def scatter_plot(data, title):\n    red_color = \"#E63946\"\n    back_color = \"#0D1117\"\n    sns.set_theme(style=\"whitegrid\")\n    plt.figure(figsize=(10, 6))\n    plt.gca().set_facecolor(back_color)\n    sns.scatterplot(x='date', y='price', data=data, color=\"white\", size=\"score\", legend=False, edgecolor='none', alpha=0.4, sizes=(5,250))\n    #sns.scatterplot(x='date', y='price', data=edata_white, color=red_color, size='count', legend=False, edgecolor='none', alpha=0.4, sizes=(5,250))\n    plt.xlabel('')\n    plt.ylabel('')",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "color_palette",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "color_palette = {\n    \"white\": \"#FFFFFF\",\n    \"black\": \"#000000\",\n    \"github_backborund\": \"#0D1117\"}\nsns.set_theme(style=\"whitegrid\")\n# Importar y transformar sig data\nsig_estados = gpd.read_file(\"data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp\")\nsig_ciudades = gpd.read_file(\"data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_ciudades.rename(columns={\"NOMBRE\": \"city\"}, inplace=True)\n# Importar y transformar sig data",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "color_palette = {\n    \"white\": \"#FFFFFF\",\n    \"black\": \"#000000\",\n    \"github_backborund\": \"#0D1117\"}\nsns.set_theme(style=\"whitegrid\")\n# Importar y transformar sig data\nusa_states = pd.read_csv(\"../files/data/usa_states.csv\")\nusa_cities = pd.read_csv(\"../files/data/usa_cities.csv\")\nsig_states = gpd.read_file(\"../files/data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_estados",
+        "label": "usa_states",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_estados = gpd.read_file(\"data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp\")\nsig_ciudades = gpd.read_file(\"data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_ciudades.rename(columns={\"NOMBRE\": \"city\"}, inplace=True)\n# Importar y transformar sig data\nsig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\nsig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "usa_states = pd.read_csv(\"../files/data/usa_states.csv\")\nusa_cities = pd.read_csv(\"../files/data/usa_cities.csv\")\nsig_states = gpd.read_file(\"../files/data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_ciudades",
+        "label": "usa_cities",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_ciudades = gpd.read_file(\"data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_ciudades.rename(columns={\"NOMBRE\": \"city\"}, inplace=True)\n# Importar y transformar sig data\nsig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\nsig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "usa_cities = pd.read_csv(\"../files/data/usa_cities.csv\")\nsig_states = gpd.read_file(\"../files/data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_provincias",
+        "label": "sig_states",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\nsig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_states = gpd.read_file(\"../files/data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_localidades",
+        "label": "sig_cities",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_cities = gpd.read_file(\"../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_provincias[\"nam\"]",
+        "label": "sig_routes",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_routes = gpd.read_file(\"../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_provincias[\"nam\"]",
+        "label": "sig_hidrography",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\nsig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_hidrography = gpd.read_file(\"../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
-        "label": "sig_provincias[\"nam\"]",
+        "label": "sig_california",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
-        "peekOfCode": "sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\nsig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\nsig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    sig_estados.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=10)",
-        "detail": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "sig_florida",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "sig_newyork",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "sig_utah",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "sig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_estados",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_estados = gpd.read_file(\"data/sig/Estados Unidos/Estados/Estados_Unidos_Estados.shp\")\n#sig_ciudades = gpd.read_file(\"data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp\")\n#sig_ciudades.rename(columns={\"NOMBRE\": \"city\"}, inplace=True)\n# Importar y transformar sig data\n#sig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\n#sig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_ciudades",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_ciudades = gpd.read_file(\"data/sig/Estados Unidos/Ciudades/Estados_Unidos_Poblaciones.shp\")\n#sig_ciudades.rename(columns={\"NOMBRE\": \"city\"}, inplace=True)\n# Importar y transformar sig data\n#sig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\n#sig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_provincias",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_provincias = gpd.read_file(\"data/sig/Argentina/provincia.shp\")\n#sig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_localidades",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_localidades = gpd.read_file(\"data/sig/Argentina/localidad_bahra.shp\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_provincias[\"nam\"]",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Ciudad Autónoma de Buenos Aires\", \"Capital Federal\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_provincias[\"nam\"]",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Tierra del Fuego, Antártida e Islas del Atlántico Sur\", \"Tierra Del Fuego\")\n#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "#sig_provincias[\"nam\"]",
+        "kind": 5,
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
+        "peekOfCode": "#sig_provincias[\"nam\"] = sig_provincias[\"nam\"].str.replace(\"Santiago del Estero\", \"Santiago Del Estero\")\n#sig_provincias.drop(columns=[\"gid\", \"entidad\", \"fna\", \"gna\", \"in1\", \"fdc\", \"sag\"], inplace=True)\n#sig_provincias.rename(columns={\"nam\": \"Provincia\"}, inplace=True)\n# Color palete\nwhite = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    sig_estados.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=10)",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "white",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "white = \"#FFFFFF\"\nblack = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    sig_estados.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=10)\n    data.plot(ax=ax, color=\"black\", edgecolor=\"none\", alpha=0.1, markersize=size)\n    ax.set_xlim([-130, -63])\n    ax.set_ylim([20, 55])\n    ax.set_facecolor('white')",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
         "documentation": {}
     },
     {
         "label": "black",
         "kind": 5,
-        "importPath": "lib.personalised_graphics",
-        "description": "lib.personalised_graphics",
+        "importPath": "files.lib.personalised_graphics",
+        "description": "files.lib.personalised_graphics",
         "peekOfCode": "black = \"#000000\"\nsns.set_theme(style=\"whitegrid\")\ndef mapa_scatterplot_light(title, data, size=10):\n    fig, ax = plt.subplots(figsize=(10, 10))\n    sig_estados.plot(ax=ax, color=\"white\", edgecolor=\"black\", alpha=0.5, markersize=10)\n    data.plot(ax=ax, color=\"black\", edgecolor=\"none\", alpha=0.1, markersize=size)\n    ax.set_xlim([-130, -63])\n    ax.set_ylim([20, 55])\n    ax.set_facecolor('white')\n    plt.xticks(fontsize=8, color=\"black\")",
-        "detail": "lib.personalised_graphics",
+        "detail": "files.lib.personalised_graphics",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_state_attractions",
+        "kind": 2,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "def scrape_state_attractions(state: str, url: str, report=True) -> list:\n    states_attractions = [] # to store data while scrapping\n    failed_states = [] # to store errors while scrapping\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    #chrome_options.add_argument('--headless') # unables GUI\n    chrome_options.add_argument('--disable-infobars') # unables images loading\n    driver = webdriver.Chrome(options=chrome_options)\n    # Connect to url and wait to load\n    driver.get(url)",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_attractions_attribute",
+        "kind": 2,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "def scrape_attractions_attribute(urls: str, report=True) -> list:\n    attributes = [] # to store data while scrapping\n    failed_urls = [] # to store errors while scrapping\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    chrome_options.add_argument('--headless') # unables GUI\n    chrome_options.add_argument('--disable-infobars') # unables images loading\n    driver = webdriver.Chrome(options=chrome_options)\n    for i, url in enumerate(urls):\n        print(f'{i+1}/{len(urls)}')",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_cities_hotels",
+        "kind": 2,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) -> list:\n    cities_hotels = [] # to store data while scrapping\n    failed_cities = [] # to store errors while scrapping\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    chrome_options.add_argument('--headless') if not interfase else None\n    chrome_options.add_argument('--disable-infobars') # unables image loading\n    driver = webdriver.Chrome(options=chrome_options)\n    # Iterate over each city and scrape data into cities_hotels list\n    for i, city in enumerate(cities):",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "scrape_hotels_attributes",
+        "kind": 2,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "def scrape_hotels_attributes(urls, report=True):\n    hotels_attributes = pd.DataFrame()\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    # chrome_options.add_argument('--headless') # unables GUI\n    chrome_options.add_argument('--disable-infobars') # unables images loading\n    chrome_options.add_argument('--blink-settings=imagesEnabled=false')  # deshabilita carga de imágenes\n    driver = webdriver.Chrome(options=chrome_options)\n    for i, url in enumerate(urls):\n        driver.get(url)",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities",
+        "kind": 5,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "usa_cities = pd.read_csv(\"../files/data/usa_cities.csv\")\nusa_states = pd.read_csv(\"../files/data/usa_states.csv\")\n# This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions\ndef scrape_state_attractions(state: str, url: str, report=True) -> list:\n    states_attractions = [] # to store data while scrapping\n    failed_states = [] # to store errors while scrapping\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    #chrome_options.add_argument('--headless') # unables GUI\n    chrome_options.add_argument('--disable-infobars') # unables images loading",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "usa_states",
+        "kind": 5,
+        "importPath": "scrapping.scrapping",
+        "description": "scrapping.scrapping",
+        "peekOfCode": "usa_states = pd.read_csv(\"../files/data/usa_states.csv\")\n# This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions\ndef scrape_state_attractions(state: str, url: str, report=True) -> list:\n    states_attractions = [] # to store data while scrapping\n    failed_states = [] # to store errors while scrapping\n    # Instanciate and configurate driver\n    chrome_options = selenium.webdriver.chrome.options.Options()\n    #chrome_options.add_argument('--headless') # unables GUI\n    chrome_options.add_argument('--disable-infobars') # unables images loading\n    driver = webdriver.Chrome(options=chrome_options)",
+        "detail": "scrapping.scrapping",
+        "documentation": {}
+    },
+    {
+        "label": "obtener_datos",
+        "kind": 2,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "def obtener_datos(cursor, tabla, *columnas):\n    # Aquí ejecuta tu consulta SQL para obtener datos de Google\n    cursor.execute(f\"SELECT * FROM {tabla}\")\n    data = cursor.fetchall()\n    # Convierte los resultados en un DataFrame de pandas\n    df = pd.DataFrame(data, columns=list(columnas))\n    return df\ndf_google_hotel_business = obtener_datos(cursor, \"sources\", 'source_id', 'source')\nst.dataframe(df_google_hotel_business)\n# Obtén datos de Google",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "def main():\n    # Configuración de la aplicación\n    st.title('Análisis de Sentimientos y Predicción de Crecimiento')\n    # Conexión a la base de datos (esto dependerá de cómo tengas configurada tu conexión)\n    # cursor = ...\n    # Obtener datos de Google y Yelp\n    # df_google = obtener_datos(cursor)\n    # df_yelp = obtener_datos(cursor, yelp_hotel_business, )\n    # # Página 1\n    # st.header('Página 1: Análisis de Google')",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "df_google_hotel_business",
+        "kind": 5,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "df_google_hotel_business = obtener_datos(cursor, \"sources\", 'source_id', 'source')\nst.dataframe(df_google_hotel_business)\n# Obtén datos de Google\ngoogle_data = obtener_datos(cursor, \"google_hotel_business\", \"hotel_id\", \"name\", \"categories\", \"avg_rating\", \"num_of_reviews\")\n# Gráfico 1: Histograma de puntuaciones promedio\nst.subheader(\"Gráfico 1: Histograma de puntuaciones promedio\")\nfig, ax = plt.subplots()\nax.hist(google_data[\"avg_rating\"], bins=10, edgecolor=\"black\")\nax.set_xlabel(\"Puntuación Promedio\")\nax.set_ylabel(\"Frecuencia\")",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "google_data",
+        "kind": 5,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "google_data = obtener_datos(cursor, \"google_hotel_business\", \"hotel_id\", \"name\", \"categories\", \"avg_rating\", \"num_of_reviews\")\n# Gráfico 1: Histograma de puntuaciones promedio\nst.subheader(\"Gráfico 1: Histograma de puntuaciones promedio\")\nfig, ax = plt.subplots()\nax.hist(google_data[\"avg_rating\"], bins=10, edgecolor=\"black\")\nax.set_xlabel(\"Puntuación Promedio\")\nax.set_ylabel(\"Frecuencia\")\nst.pyplot(fig)\ngoogle_data = obtener_datos(cursor, \"google_hotel_reviews\", \"hotel_id\", \"reviews\")\n# Gráfico 2: Nube de palabras",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "google_data",
+        "kind": 5,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "google_data = obtener_datos(cursor, \"google_hotel_reviews\", \"hotel_id\", \"reviews\")\n# Gráfico 2: Nube de palabras\nst.subheader(\"Gráfico 2: Nube de palabras\")\nwordcloud_text = \" \".join(review for review in google_data[\"reviews\"])\nwordcloud = WordCloud(width=800, height=400, background_color=\"white\").generate(wordcloud_text)\nplt.figure(figsize=(10, 5))\nplt.imshow(wordcloud, interpolation=\"bilinear\")\nplt.axis(\"off\")\nst.pyplot(plt)\n# Streamlit App",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "wordcloud_text",
+        "kind": 5,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "wordcloud_text = \" \".join(review for review in google_data[\"reviews\"])\nwordcloud = WordCloud(width=800, height=400, background_color=\"white\").generate(wordcloud_text)\nplt.figure(figsize=(10, 5))\nplt.imshow(wordcloud, interpolation=\"bilinear\")\nplt.axis(\"off\")\nst.pyplot(plt)\n# Streamlit App\ndef main():\n    # Configuración de la aplicación\n    st.title('Análisis de Sentimientos y Predicción de Crecimiento')",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "wordcloud",
+        "kind": 5,
+        "importPath": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "description": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "peekOfCode": "wordcloud = WordCloud(width=800, height=400, background_color=\"white\").generate(wordcloud_text)\nplt.figure(figsize=(10, 5))\nplt.imshow(wordcloud, interpolation=\"bilinear\")\nplt.axis(\"off\")\nst.pyplot(plt)\n# Streamlit App\ndef main():\n    # Configuración de la aplicación\n    st.title('Análisis de Sentimientos y Predicción de Crecimiento')\n    # Conexión a la base de datos (esto dependerá de cómo tengas configurada tu conexión)",
+        "detail": "streamlit.pages.01_💞_Análisis de Sentimiento y Opiniones de Usuarios",
+        "documentation": {}
+    },
+    {
+        "label": "generar_mapa",
+        "kind": 2,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "def generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())\n        utah_hotel_count.columns = [\"city\", \"hotel_count\"]\n        utah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\").dropna()\n        top_10_cities_with_most_hotels = utah_hotel_count.sort_values(by=\"hotel_count\", ascending=False).head(10)\n        # Reescalate sizes\n        min_size = top_10_cities_with_most_hotels['hotel_count'].min()",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "top_10_population_cities",
+        "kind": 2,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "def top_10_population_cities(state):\n    #\n    state_id = usa_states[\"state_id\"][usa_states[\"state\"] == state].iloc[0]\n    top_cities_state = usa_cities[usa_cities[\"state_id\"] == state_id].sort_values(by=\"population\", ascending=False).head(10)\n    #\n    fig, ax = plt.subplots(figsize=(10, 6))\n    ax.bar(top_cities_state[\"city\"], top_cities_state[\"population\"], color='white')\n    #\n    fig.patch.set_facecolor('#0E1117')\n    ax.set_xlabel('')",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "top_10_population_cities_hotel_score_distribution",
+        "kind": 2,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "def top_10_population_cities_hotel_score_distribution(state):\n    # Prepare data\n    state_id = usa_states[\"state_id\"][usa_states[\"state\"] == state].iloc[0]\n    top_10_cities = usa_cities[usa_cities[\"state_id\"] == state_id].sort_values(by=\"population\", ascending=False).head(10)\n    filtered_data = utah_hotels[utah_hotels[\"city\"].isin(top_10_cities[\"city\"].to_list())]\n    # Create figure\n    fig, ax = plt.subplots(figsize=(10, 6))\n    sns.boxplot(x='city', y='avg_score', data=filtered_data, color=\"white\")\n    # Modificate Figure\n    fig.patch.set_facecolor('#0E1117')",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "top_10_population_cities_hotel_price_distribution",
+        "kind": 2,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "def top_10_population_cities_hotel_price_distribution(state):\n    # Prepare data\n    state_id = usa_states[\"state_id\"][usa_states[\"state\"] == state].iloc[0]\n    top_10_cities = usa_cities[usa_cities[\"state_id\"] == state_id].sort_values(by=\"population\", ascending=False).head(10)\n    filtered_data = utah_hotels[utah_hotels[\"city\"].isin(top_10_cities[\"city\"].to_list())]\n    # Create figure\n    fig, ax = plt.subplots(figsize=(10, 6))\n    sns.boxplot(x='city', y='price', data=filtered_data, color=\"white\")\n    # Modificate Figure\n    fig.patch.set_facecolor('#0E1117')",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_states = pd.read_csv(\"data/usa_states.csv\")\nusa_cities = pd.read_csv(\"data/usa_cities.csv\")\nsig_states = gpd.read_file(\"data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_cities = pd.read_csv(\"data/usa_cities.csv\")\nsig_states = gpd.read_file(\"data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_states = gpd.read_file(\"data/sig/Estados/Estados_Unidos_Estados.shp\")\nsig_cities = gpd.read_file(\"data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_cities",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_cities = gpd.read_file(\"data/sig/Ciudades/Estados_Unidos_Poblaciones.shp\")\nsig_routes = gpd.read_file(\"data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_routes",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_routes = gpd.read_file(\"data/sig/Vialidad/Estados_Unidos_Vialidad.shp\")\nsig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_hidrography",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_hidrography = gpd.read_file(\"data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp\")\nsig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_california",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_california = sig_states[sig_states[\"STATE_NAME\"] == \"California\"]\nsig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_florida",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_florida = sig_states[sig_states[\"STATE_NAME\"] == \"Florida\"]\nsig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_newyork",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_newyork = sig_states[sig_states[\"STATE_NAME\"] == \"New York\"]\nsig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "sig_utah",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "sig_utah = sig_states[sig_states[\"STATE_NAME\"] == \"Utah\"]\nutah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_attractions",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_attractions = pd.read_csv(\"data/utah_attractions.csv\")\n# Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'\nusa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities['geometry']",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)\n# Crea el GeoDataFrame usando la columna 'geometry'\nusa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities_gdf",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_cities_gdf = gpd.GeoDataFrame(usa_cities, geometry='geometry')\nusa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities_gdf.crs",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_cities_gdf.crs = \"EPSG:4326\"\nusa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "usa_cities",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "usa_cities = gpd.GeoDataFrame(usa_cities, geometry=\"geometry\")\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\ncount = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "count",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "count = utah_hotels.groupby(\"city\")[\"name\"].count()\nutah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count = pd.DataFrame(count.reset_index())\nutah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count.columns",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count.columns = [\"city\", \"hotel_count\"]\nutah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\")\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())\n        utah_hotel_count.columns = [\"city\", \"hotel_count\"]",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry='geometry')\nutah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())\n        utah_hotel_count.columns = [\"city\", \"hotel_count\"]\n        utah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\").dropna()",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count.crs",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count.crs = \"EPSG:4326\"\nutah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())\n        utah_hotel_count.columns = [\"city\", \"hotel_count\"]\n        utah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\").dropna()\n        top_10_cities_with_most_hotels = utah_hotel_count.sort_values(by=\"hotel_count\", ascending=False).head(10)",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotel_count",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "utah_hotel_count = gpd.GeoDataFrame(utah_hotel_count, geometry=\"geometry\")\ndef generar_mapa(estado_seleccionado):\n    if estado_seleccionado == \"Utah\":\n        # Calculate top cities with most hotels\n        count = utah_hotels.groupby(\"city\")[\"name\"].count()\n        utah_hotel_count = pd.DataFrame(count.reset_index())\n        utah_hotel_count.columns = [\"city\", \"hotel_count\"]\n        utah_hotel_count = pd.merge(utah_hotel_count, usa_cities[usa_cities[\"state_id\"] == \"UT\"], on=\"city\", how=\"left\").dropna()\n        top_10_cities_with_most_hotels = utah_hotel_count.sort_values(by=\"hotel_count\", ascending=False).head(10)\n        # Reescalate sizes",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "states",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "states = [\"Utah\", \"California\", \"Florida\", \"New Yorl\"]\nselected_state = st.sidebar.selectbox(\"Selecciona una opción\", states)\nfigura_mapa = generar_mapa(selected_state)\ncol1, col2, col3 = st.columns((4, 2, 2))  # Col1 toma el 33% y col2 el 66% del ancho total\nwith col1:\n    st.pyplot(figura_mapa)\nwith col2:\n    st.text(\"\")\n    st.text(\"\")\n    st.pyplot(top_10_population_cities(selected_state))",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "selected_state",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "selected_state = st.sidebar.selectbox(\"Selecciona una opción\", states)\nfigura_mapa = generar_mapa(selected_state)\ncol1, col2, col3 = st.columns((4, 2, 2))  # Col1 toma el 33% y col2 el 66% del ancho total\nwith col1:\n    st.pyplot(figura_mapa)\nwith col2:\n    st.text(\"\")\n    st.text(\"\")\n    st.pyplot(top_10_population_cities(selected_state))\n    st.text(\"\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "figura_mapa",
+        "kind": 5,
+        "importPath": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "description": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "peekOfCode": "figura_mapa = generar_mapa(selected_state)\ncol1, col2, col3 = st.columns((4, 2, 2))  # Col1 toma el 33% y col2 el 66% del ancho total\nwith col1:\n    st.pyplot(figura_mapa)\nwith col2:\n    st.text(\"\")\n    st.text(\"\")\n    st.pyplot(top_10_population_cities(selected_state))\n    st.text(\"\")\n    st.text(\"\")",
+        "detail": "streamlit.pages.02_🌍_Análisis de Ubicaciones y Demografía",
+        "documentation": {}
+    },
+    {
+        "label": "lista_diccionarios_a_diccionario",
+        "kind": 2,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "def lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:\n        resultado.update(diccionario)\n    return resultado\nutah_hotels[\"personal_score\"] = None\nutah_hotels[\"ammenities_score\"] = None\nutah_hotels[\"cleanning_score\"] = None\nutah_hotels[\"confort_score\"] = None\nutah_hotels[\"price_cuality_score\"] = None",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "usa_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "usa_states = pd.read_csv(\"data/usa_states.csv\")\nstate_list = sorted(usa_states[\"state\"].tolist()) # Crear una lista de opciones para el checklist\ndefault_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\nutah_hotels.dropna(inplace=True)\nutah_hotels.isna().sum()\nutah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "state_list",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "state_list = sorted(usa_states[\"state\"].tolist()) # Crear una lista de opciones para el checklist\ndefault_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\nutah_hotels.dropna(inplace=True)\nutah_hotels.isna().sum()\nutah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "default_selection",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "default_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\nutah_hotels.dropna(inplace=True)\nutah_hotels.isna().sum()\nutah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:\n        resultado.update(diccionario)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "selected_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\nutah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\nutah_hotels.dropna(inplace=True)\nutah_hotels.isna().sum()\nutah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:\n        resultado.update(diccionario)\n    return resultado",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels = pd.read_csv(\"data/booking_utah_hotels.csv\")\nutah_hotels.dropna(inplace=True)\nutah_hotels.isna().sum()\nutah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:\n        resultado.update(diccionario)\n    return resultado\nutah_hotels[\"personal_score\"] = None",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels['scores']",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)\ndef lista_diccionarios_a_diccionario(lista_diccionarios):\n    resultado = {}\n    for diccionario in lista_diccionarios:\n        resultado.update(diccionario)\n    return resultado\nutah_hotels[\"personal_score\"] = None\nutah_hotels[\"ammenities_score\"] = None\nutah_hotels[\"cleanning_score\"] = None\nutah_hotels[\"confort_score\"] = None",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"personal_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"personal_score\"] = None\nutah_hotels[\"ammenities_score\"] = None\nutah_hotels[\"cleanning_score\"] = None\nutah_hotels[\"confort_score\"] = None\nutah_hotels[\"price_cuality_score\"] = None\nutah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"ammenities_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"ammenities_score\"] = None\nutah_hotels[\"cleanning_score\"] = None\nutah_hotels[\"confort_score\"] = None\nutah_hotels[\"price_cuality_score\"] = None\nutah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"cleanning_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"cleanning_score\"] = None\nutah_hotels[\"confort_score\"] = None\nutah_hotels[\"price_cuality_score\"] = None\nutah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)\n    utah_hotels.at[i, \"cleanning_score\"] = dict_scores.get(\"Limpieza\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"confort_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"confort_score\"] = None\nutah_hotels[\"price_cuality_score\"] = None\nutah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)\n    utah_hotels.at[i, \"cleanning_score\"] = dict_scores.get(\"Limpieza\", 0)\n    utah_hotels.at[i, \"confort_score\"] = dict_scores.get(\"Confort\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"price_cuality_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"price_cuality_score\"] = None\nutah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)\n    utah_hotels.at[i, \"cleanning_score\"] = dict_scores.get(\"Limpieza\", 0)\n    utah_hotels.at[i, \"confort_score\"] = dict_scores.get(\"Confort\", 0)\n    utah_hotels.at[i, \"price_cuality_score\"] = dict_scores.get(\"Relación calidad-precio\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"location\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"location\"] = None\nutah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)\n    utah_hotels.at[i, \"cleanning_score\"] = dict_scores.get(\"Limpieza\", 0)\n    utah_hotels.at[i, \"confort_score\"] = dict_scores.get(\"Confort\", 0)\n    utah_hotels.at[i, \"price_cuality_score\"] = dict_scores.get(\"Relación calidad-precio\", 0)\n    utah_hotels.at[i, \"location\"] = dict_scores.get(\"Ubicación\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "utah_hotels[\"wifi_score\"]",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "utah_hotels[\"wifi_score\"] = None\nfor i, row in utah_hotels.iterrows():\n    dict_scores = lista_diccionarios_a_diccionario(row[\"scores\"])\n    utah_hotels.at[i, \"personal_score\"] = dict_scores.get(\"Personal\", 0)\n    utah_hotels.at[i, \"ammenities_score\"] = dict_scores.get(\"Instalaciones y servicios\", 0)\n    utah_hotels.at[i, \"cleanning_score\"] = dict_scores.get(\"Limpieza\", 0)\n    utah_hotels.at[i, \"confort_score\"] = dict_scores.get(\"Confort\", 0)\n    utah_hotels.at[i, \"price_cuality_score\"] = dict_scores.get(\"Relación calidad-precio\", 0)\n    utah_hotels.at[i, \"location\"] = dict_scores.get(\"Ubicación\", 0)\n    utah_hotels.at[i, \"wifi_score\"] = dict_scores.get(\"WiFi gratis\", 0)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "hotels",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "hotels = utah_hotels.copy()\nclient_list = sorted(hotels[\"name\"].tolist())\nselected_clients = st.sidebar.multiselect('Clients:', client_list) # Crear el checklist desplegable\nhotels['is_client'] = hotels['name'].apply(lambda x: 1 if x in selected_clients else 0)\nmi_gradiente_invertida = ['#9D1E27', '#FFFFFF']\nscore_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "client_list",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "client_list = sorted(hotels[\"name\"].tolist())\nselected_clients = st.sidebar.multiselect('Clients:', client_list) # Crear el checklist desplegable\nhotels['is_client'] = hotels['name'].apply(lambda x: 1 if x in selected_clients else 0)\nmi_gradiente_invertida = ['#9D1E27', '#FFFFFF']\nscore_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "selected_clients",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "selected_clients = st.sidebar.multiselect('Clients:', client_list) # Crear el checklist desplegable\nhotels['is_client'] = hotels['name'].apply(lambda x: 1 if x in selected_clients else 0)\nmi_gradiente_invertida = ['#9D1E27', '#FFFFFF']\nscore_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "hotels['is_client']",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "hotels['is_client'] = hotels['name'].apply(lambda x: 1 if x in selected_clients else 0)\nmi_gradiente_invertida = ['#9D1E27', '#FFFFFF']\nscore_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "mi_gradiente_invertida",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "mi_gradiente_invertida = ['#9D1E27', '#FFFFFF']\nscore_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior\nfig.update(layout_coloraxis_showscale=False)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "score_categories",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "score_categories = [\"personal_score\", \"amenities_score\", \"cleaning_score\", \"comfort_score\", \"price_quality_score\", \"location\", \"wifi_score\"]\ndefault_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior\nfig.update(layout_coloraxis_showscale=False)\nst.plotly_chart(fig)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "default_selection",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "default_selection = [\"personal_score\"]\nselected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior\nfig.update(layout_coloraxis_showscale=False)\nst.plotly_chart(fig)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "selected_categories",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "selected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)\nfig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior\nfig.update(layout_coloraxis_showscale=False)\nst.plotly_chart(fig)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "fig",
+        "kind": 5,
+        "importPath": "streamlit.pages.04_🧠_ML",
+        "description": "streamlit.pages.04_🧠_ML",
+        "peekOfCode": "fig = px.scatter_3d(hotels, x='price', y='state', z=\"avg_score\", color='is_client',\n                    color_continuous_scale=mi_gradiente_invertida)\nfig.update_layout(scene=dict(xaxis=dict(autorange=\"reversed\")))\nfig.update_traces(marker=dict(size=3, sizemode='diameter'))\nfig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior\nfig.update(layout_coloraxis_showscale=False)\nst.plotly_chart(fig)",
+        "detail": "streamlit.pages.04_🧠_ML",
+        "documentation": {}
+    },
+    {
+        "label": "#utah_hotels",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "#utah_hotels = pd.read_csv(\"files/data/booking_utah_hotels.csv\", index_col=0)\n#utah_hotels_reviews = pd.read_csv(\"files/data/utah_hotels_reviews.csv\", index_col=0)\n# Establecer la configuración de la página\nst.set_page_config(\n    layout=\"wide\",\n    initial_sidebar_state=\"expanded\",\n    page_title=\"Tu Aplicación\",\n    page_icon=\":chart_with_upwards_trend:\"\n)\nst.markdown(",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "#utah_hotels_reviews",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "#utah_hotels_reviews = pd.read_csv(\"files/data/utah_hotels_reviews.csv\", index_col=0)\n# Establecer la configuración de la página\nst.set_page_config(\n    layout=\"wide\",\n    initial_sidebar_state=\"expanded\",\n    page_title=\"Tu Aplicación\",\n    page_icon=\":chart_with_upwards_trend:\"\n)\nst.markdown(\n    \"\"\"",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "usa_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "usa_states = pd.read_csv(\"files/data/usa_states.csv\")\nstate_list = sorted(usa_states[\"state\"].tolist()) # Crear una lista de opciones para el checklist\ndefault_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\ndf = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')\ndf.head()\ndf['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "state_list",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "state_list = sorted(usa_states[\"state\"].tolist()) # Crear una lista de opciones para el checklist\ndefault_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\ndf = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')\ndf.head()\ndf['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "default_selection",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "default_selection = [\"Utah\"]\nselected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\ndf = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')\ndf.head()\ndf['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "selected_states",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)\ndf = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')\ndf.head()\ndf['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "df = pd.read_csv('https://raw.githubusercontent.com/plotly/datasets/master/2014_us_cities.csv')\ndf.head()\ndf['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "df['text']",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "df['text'] = df['name'] + '<br>Population ' + (df['pop']/1e6).astype(str)+' million'\nlimits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "limits",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "limits = [(0,2),(3,10),(11,20),(21,50),(50,3000)]\ncolors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(\n        locationmode = 'USA-states',",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "colors",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "colors = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\ncities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(\n        locationmode = 'USA-states',\n        lon = df_sub['lon'],",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "cities",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "cities = []\nscale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(\n        locationmode = 'USA-states',\n        lon = df_sub['lon'],\n        lat = df_sub['lat'],",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "scale",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "scale = 5000\nmap = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(\n        locationmode = 'USA-states',\n        lon = df_sub['lon'],\n        lat = df_sub['lat'],\n        text = df_sub['text'],",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "map",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "map = go.Figure()\nfor i in range(len(limits)):\n    lim = limits[i]\n    df_sub = df[lim[0]:lim[1]]\n    map.add_trace(go.Scattergeo(\n        locationmode = 'USA-states',\n        lon = df_sub['lon'],\n        lat = df_sub['lat'],\n        text = df_sub['text'],\n        marker = dict(",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "categorias",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "categorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']\nvalores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig1 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig1.update_layout(\n    title='Top populated 5 cities',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "valores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig1 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig1.update_layout(\n    title='Top populated 5 cities',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "colores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "colores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig1 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig1.update_layout(\n    title='Top populated 5 cities',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos\ncategorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "fig1",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "fig1 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig1.update_layout(\n    title='Top populated 5 cities',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos\ncategorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']\nvalores = [20, 35, 25, 40, 15]",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "categorias",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "categorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']\nvalores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig2 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig2.update_layout(\n    title='Top cities with most hotels',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "valores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig2 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig2.update_layout(\n    title='Top cities with most hotels',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "colores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "colores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig2 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig2.update_layout(\n    title='Top cities with most hotels',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos\ncategorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "fig2",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "fig2 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig2.update_layout(\n    title='Top cities with most hotels',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\n# Datos\ncategorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']\nvalores = [20, 35, 25, 40, 15]",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "categorias",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "categorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']\nvalores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig3 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig3.update_layout(\n    title='Top 5 popular touristic attractions categories',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "valores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "valores = [20, 35, 25, 40, 15]\ncolores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig3 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig3.update_layout(\n    title='Top 5 popular touristic attractions categories',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\ncol1, col2 = st.columns((2, 5))",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "colores",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "colores = [\"royalblue\",\"crimson\",\"lightseagreen\",\"orange\",\"lightgrey\"]\nfig3 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig3.update_layout(\n    title='Top 5 popular touristic attractions categories',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\ncol1, col2 = st.columns((2, 5))\nwith col1:",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "fig3",
+        "kind": 5,
+        "importPath": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "description": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "peekOfCode": "fig3 = go.Figure(data=[go.Bar(x=valores, y=categorias, orientation='h', marker=dict(color=colores))])\nfig3.update_layout(\n    title='Top 5 popular touristic attractions categories',\n    xaxis_title='Valores',\n    yaxis_title='Categorías',\n    height=300, \n    width=600)\ncol1, col2 = st.columns((2, 5))\nwith col1:\n    st.plotly_chart(fig1)",
+        "detail": "streamlit.pages.S02 - GLOBAL ANALYSIS",
+        "documentation": {}
+    },
+    {
+        "label": "dbname",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "dbname = 'postgres'\nuser = 'postgres'\npassword = 'ozZpSSXJxNiYbBo6KiLM'\nhost = 'pfyeld.csogvboudl4p.us-east-2.rds.amazonaws.com'  # endpoint de la base de datos en AWS\nport = '5432'  \n# Conexión a la base de datos\nconn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "user",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "user = 'postgres'\npassword = 'ozZpSSXJxNiYbBo6KiLM'\nhost = 'pfyeld.csogvboudl4p.us-east-2.rds.amazonaws.com'  # endpoint de la base de datos en AWS\nport = '5432'  \n# Conexión a la base de datos\nconn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "password",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "password = 'ozZpSSXJxNiYbBo6KiLM'\nhost = 'pfyeld.csogvboudl4p.us-east-2.rds.amazonaws.com'  # endpoint de la base de datos en AWS\nport = '5432'  \n# Conexión a la base de datos\nconn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "host",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "host = 'pfyeld.csogvboudl4p.us-east-2.rds.amazonaws.com'  # endpoint de la base de datos en AWS\nport = '5432'  \n# Conexión a la base de datos\nconn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "port",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "port = '5432'  \n# Conexión a la base de datos\nconn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "conn",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "conn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, port=port)\n# Crear un cursor\ncursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "cursor",
+        "kind": 5,
+        "importPath": "streamlit.connect",
+        "description": "streamlit.connect",
+        "peekOfCode": "cursor = conn.cursor()",
+        "detail": "streamlit.connect",
+        "documentation": {}
+    },
+    {
+        "label": "img_logo",
+        "kind": 5,
+        "importPath": "streamlit.main",
+        "description": "streamlit.main",
+        "peekOfCode": "img_logo = \"img/Geogenesis_logo.png\"\n# Mostrar la imagen con tamaño y alineación personalizados\nst.image(img_logo, use_column_width=True)\nst.title(\"¡Bienvenido a Neogenesis Data Solutions!\")\nst.markdown(\"***\") # Línea de división \nst.markdown(\"## Nuestra Misión:\")\nst.markdown(\"En Neogenesis, nos dedicamos a transformar datos en decisiones estratégicas para impulsar el crecimiento de la industria hotelera. Nuestra misión es ofrecer soluciones innovadoras que permitan a nuestros clientes mejorar sus servicios y tomar decisiones informadas.\")\nst.sidebar.markdown(\"## Principales Beneficios para Nuestros Clientes:\")\nst.sidebar.markdown(\"- *Optimización del Servicio:* Mejore la calidad del servicio basándose en la retroalimentación de los usuarios.\")\nst.sidebar.markdown(\"- *Predicciones Precisas:* Anticipe tendencias y tome decisiones informadas para el crecimiento del negocio.\")",
+        "detail": "streamlit.main",
         "documentation": {}
     }
 ]

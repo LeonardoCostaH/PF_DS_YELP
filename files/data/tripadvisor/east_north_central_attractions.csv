@@ -1,0 +1,296 @@
+,attraction,n_reviews,categories,state,region
+0,Instituto de Arte de Chicago,24.543,Museos de arte,Illinois,East North Central
+1,Parque Millennium,25.133,"Monumentos y lugares de interés, Parques",Illinois,East North Central
+2,Museo de Ciencia e Industria,11.184,Museos de ciencia,Illinois,East North Central
+3,Cloud Gate,18.279,"Monumentos y lugares de interés, Monumentos y estatuas",Illinois,East North Central
+4,The Magnificent Mile,15.799,"Barrios, Monumentos y lugares de interés",Illinois,East North Central
+5,Chicago Architecture Center,3.285,Museos especializados,Illinois,East North Central
+6,Skydeck Chicago - Willis Tower,17.862,"Monumentos y lugares de interés, Edificios con valor arquitectónico",Illinois,East North Central
+7,Wrigley Field,9.948,Campos de juego y estadios,Illinois,East North Central
+8,Field Museum,8.929,"Museos de historia natural, Museos de ciencia",Illinois,East North Central
+9,Biblioteca y Museo Presidencial de Abraham Lincoln,4.602,"Bibliotecas, Museos de historia",Illinois,East North Central
+10,Blaum Bros. Distilling Co.,2.518,Destilerías,Illinois,East North Central
+11,Lincoln Park Zoo,5.975,Zoológicos,Illinois,East North Central
+12,Lincoln Home National Historic Site,2.886,"Lugares históricos, Museos de historia",Illinois,East North Central
+13,Navy Pier,15.164,"Parques de diversión y temáticos, Muelles y paseos peatonales",Illinois,East North Central
+14,Chicago Riverwalk,3.096,Áreas históricas peatonales,Illinois,East North Central
+15,Chicago Cultural Center,3.060,"Edificios con valor arquitectónico, Centros cívicos",Illinois,East North Central
+16,P.T. Murphy Magic Theatre,872,Teatros,Illinois,East North Central
+17,Historic Auto Attractions,495,"Museos militares, Museos especializados",Illinois,East North Central
+18,Richard H. Driehaus Museum,1.470,"Museos especializados, Museos de arte",Illinois,East North Central
+19,Chicago River,2.028,Masas de agua,Illinois,East North Central
+20,Buckingham Fountain,3.424,"Monumentos y lugares de interés, Fuentes",Illinois,East North Central
+21,Dana-Thomas House,1.176,Lugares históricos,Illinois,East North Central
+22,Lincoln Tomb & War Memorials,1.998,Monumentos y lugares de interés,Illinois,East North Central
+23,Ulysses S. Grant Home,1.407,Lugares históricos,Illinois,East North Central
+24,United Center,1.505,Campos de juego y estadios,Illinois,East North Central
+25,Starved Rock State Park,1.612,"Parques estatales, Rutas para senderismo",Illinois,East North Central
+26,Garfield Park Conservatory,855,"Lugares históricos, Jardines",Illinois,East North Central
+27,Medieval Torture Museum,591,Museos especializados,Illinois,East North Central
+28,Route 66,1.154,"Monumentos y lugares de interés, Rutas turísticas",Illinois,East North Central
+29,Lakefront Trail,2.448,"Rutas para ciclismo, Rutas para senderismo",Illinois,East North Central
+30,The Chicago Theatre,812,Teatros,Illinois,East North Central
+31,Anderson Japanese Gardens,863,Jardines,Illinois,East North Central
+32,Psychic Medium Chris McBrien,322,"Lugares misteriosos, Centros de juego y entretenimiento",Illinois,East North Central
+33,Chicago History Museum,1.196,Museos de historia,Illinois,East North Central
+34,Lincoln Park,872,Parques,Illinois,East North Central
+35,Lincoln Park Conservatory,791,Jardines,Illinois,East North Central
+36,The Loop,1.262,Barrios,Illinois,East North Central
+37,Chicago Skyline,743,Monumentos y lugares de interés,Illinois,East North Central
+38,Maggie Daley Park,1.343,"Parques, Parques infantiles",Illinois,East North Central
+39,American Writers Museum,430,Museos especializados,Illinois,East North Central
+40,Crown Fountain,2.139,Fuentes,Illinois,East North Central
+41,Galena Trolley Tours,618,Tranvías,Illinois,East North Central
+42,Grant Park,931,Parques,Illinois,East North Central
+43,University of Chicago,476,"Universidades y escuelas, Lugares educativos",Illinois,East North Central
+44,Old State Capitol State Historic Site,906,"Lugares históricos, Edificios gubernamentales",Illinois,East North Central
+45,Illinois State Capitol,692,Edificios gubernamentales,Illinois,East North Central
+46,Historic Nauvoo,329,"Lugares históricos, Lugares educativos",Illinois,East North Central
+47,National Museum of Mexican Art,249,Museos de arte,Illinois,East North Central
+48,Superman Statue,666,Monumentos y estatuas,Illinois,East North Central
+49,IL Route 66 Association Hall of Fame & Museum,344,Museos especializados,Illinois,East North Central
+50,Engine 18 Chicago Fire,64,Monumentos y lugares de interés,Illinois,East North Central
+51,Accelerate Indoor Speedway,606,Centros de juego y entretenimiento,Illinois,East North Central
+52,Root Beer Revelry,381,"Tiendas de regalos, Lugares históricos",Illinois,East North Central
+53,Dowling House,223,Lugares históricos,Illinois,East North Central
+54,Aikman Wildlife Adventure,121,"Áreas de naturaleza y vida silvestre, Zoológicos",Illinois,East North Central
+55,Museum Of Illusions Chicago,87,Museos especializados,Illinois,East North Central
+56,The Escape Game Chicago,2.823,"Juegos de escape, Centros de juego y entretenimiento",Illinois,East North Central
+57,The Lincoln Home Visitor Center,69,Museos de historia,Illinois,East North Central
+58,John Hancock Center,66,Edificios con valor arquitectónico,Illinois,East North Central
+59,Fox in a Box Chicago,1.518,Juegos de escape,Illinois,East North Central
+60,Galena / Jo Daviess County Historical Society and Museum,355,"Tiendas de regalos, Museos de historia",Illinois,East North Central
+61,Second City,1.709,"Clubes de comedia, Teatro y espectáculos",Illinois,East North Central
+62,Mastermind Escape Games,322,Juegos de escape,Illinois,East North Central
+63,Escapology Orland Park,836,Juegos de escape,Illinois,East North Central
+64,Blue Chicago,575,Bares de blues,Illinois,East North Central
+65,Healing Touch of Galena,317,Spas,Illinois,East North Central
+66,Children's Museum of Indianapolis,3.973,Museos para niños,Indiana,East North Central
+67,Indianapolis Motor Speedway Museum,2.888,"Museos especializados, Pistas de carreras de automóviles",Indiana,East North Central
+68,Indianapolis Museum of Art,1.472,"Museos especializados, Lugares históricos",Indiana,East North Central
+69,Benjamin Harrison Presidential Site,520,Lugares históricos,Indiana,East North Central
+70,Lucas Oil Stadium,1.618,Complejos deportivos,Indiana,East North Central
+71,University of Notre Dame,1.072,Universidades y escuelas,Indiana,East North Central
+72,Turkey Run State Park,681,Parques estatales,Indiana,East North Central
+73,Fort Wayne Children's Zoo,1.191,Zoológicos,Indiana,East North Central
+74,Urban Vines Winery & Brewery Co.,577,"Viñedos con bodegas, Cervecerías",Indiana,East North Central
+75,Indiana Dunes State Park,891,"Parques estatales, Parques",Indiana,East North Central
+76,Central Canal,1.161,Monumentos y lugares de interés,Indiana,East North Central
+77,Studebaker National Museum,614,"Museos especializados, Lugares educativos",Indiana,East North Central
+78,Indiana War Memorial,669,"Museos militares, Monumentos y estatuas",Indiana,East North Central
+79,The Eiteljorg Museum,869,Museos especializados,Indiana,East North Central
+80,Basilica of the Sacred Heart,700,Iglesias y catedrales,Indiana,East North Central
+81,Brown County State Park,846,Parques,Indiana,East North Central
+82,Victory Field,1.286,Campos de juego y estadios,Indiana,East North Central
+83,USS LST Ship Memorial,383,"Museos militares, Museos de historia",Indiana,East North Central
+84,Marengo Cave,464,Cavernas y cuevas,Indiana,East North Central
+85,Clifty Falls State Park,667,Parques estatales,Indiana,East North Central
+86,Indiana State Museum,530,Museos especializados,Indiana,East North Central
+87,Monument Circle,919,"Monumentos y lugares de interés, Monumentos y estatuas",Indiana,East North Central
+88,Columbus Visitors Center,520,Centros de información turística,Indiana,East North Central
+89,The Miller House and Garden,227,"Lugares históricos, Monumentos y lugares de interés",Indiana,East North Central
+90,Huber's Orchard & Winery,311,"Destilerías, Viñedos con bodegas",Indiana,East North Central
+91,Blue Gate Theatre,5.817,"Conciertos, Teatros",Indiana,East North Central
+92,Hard Truth Distilling Co.,301,Destilerías,Indiana,East North Central
+93,Wolf Park,177,"Áreas de naturaleza y vida silvestre, Zoológicos",Indiana,East North Central
+94,Indiana Convention Center,513,Centros de convenciones,Indiana,East North Central
+95,Indiana State Capitol,282,Edificios con valor arquitectónico,Indiana,East North Central
+96,Lanthier Winery & Distillery,170,Viñedos con bodegas,Indiana,East North Central
+97,The Escape Room USA,1.112,Juegos de escape,Indiana,East North Central
+98,Saugatuck Dune Rides,3.614,Senderos para vehículos todo terreno,Michigan,East North Central
+99,Museo de Henry Ford,4.731,Museos especializados,Michigan,East North Central
+100,Frederik Meijer Gardens & Sculpture Park,3.054,Jardines,Michigan,East North Central
+101,Detroit Institute of Arts,2.993,Museos de arte,Michigan,East North Central
+102,Pictured Rocks National Lakeshore,2.200,"Masas de agua, Parques nacionales",Michigan,East North Central
+103,Motown Museum,2.141,"Museos especializados, Lugares históricos",Michigan,East North Central
+104,Arch Rock,2.807,Formaciones geológicas,Michigan,East North Central
+105,Shepler's Mackinac Island Ferry,3.072,Ferris,Michigan,East North Central
+106,Tahquamenon Falls State Park,1.770,"Parques estatales, Cascadas",Michigan,East North Central
+107,Greenfield Village,2.584,Barrios,Michigan,East North Central
+108,Sleeping Bear Dunes National Lakeshore,1.922,"Áreas históricas peatonales, Parques nacionales",Michigan,East North Central
+109,Comerica Park,2.719,Campos de juego y estadios,Michigan,East North Central
+110,Soo Locks,1.724,Monumentos y lugares de interés,Michigan,East North Central
+111,Fort Mackinac,2.129,Lugares históricos,Michigan,East North Central
+112,Mackinac Island State Park,1.991,Parques estatales,Michigan,East North Central
+113,Mackinac Bridge,1.403,Puentes,Michigan,East North Central
+114,Detroit RiverFront,1.480,Muelles y paseos peatonales,Michigan,East North Central
+115,Gerald R. Ford Museum,1.148,Museos especializados,Michigan,East North Central
+116,Holland State Park Beach,1.399,Playas,Michigan,East North Central
+117,Oval Beach,1.094,Playas,Michigan,East North Central
+118,Presque Isle Park,1.003,"Parques estatales, Áreas de naturaleza y vida silvestre",Michigan,East North Central
+119,The Ford Piquette Avenue Plant,572,"Museos especializados, Lugares históricos",Michigan,East North Central
+120,The Guardian Building,757,Edificios con valor arquitectónico,Michigan,East North Central
+121,Windmill Island Gardens,1.256,"Monumentos y lugares de interés, Parques",Michigan,East North Central
+122,Mackinac Island Ferry Co.,1.567,Ferris,Michigan,East North Central
+123,Lakenenland Sculpture Park,582,"Galerías de arte, Parques",Michigan,East North Central
+124,Colonial Michilimackinac,959,Parques,Michigan,East North Central
+125,Kitch-Iti-Kipi (The Big Spring),603,Masas de agua,Michigan,East North Central
+126,Quincy Mine,493,"Lugares históricos, Minas",Michigan,East North Central
+127,Porcupine Mountains Wilderness State Park,633,"Parques estatales, Rutas para senderismo",Michigan,East North Central
+128,Ludington State Park,982,"Parques estatales, Parques",Michigan,East North Central
+129,Ford Field,877,Campos de juego y estadios,Michigan,East North Central
+130,Great Lakes Shipwreck Museum,974,Museos especializados,Michigan,East North Central
+131,Gilmore Car Museum,671,Museos especializados,Michigan,East North Central
+132,Brys Estate Vineyard & Winery,481,Viñedos con bodegas,Michigan,East North Central
+133,Silver Beach County Park,813,"Playas, Parques",Michigan,East North Central
+134,Miners Castle Rock,884,Formaciones geológicas,Michigan,East North Central
+135,S.S. Badger: Lake Michigan Carferry,1.132,"Lugares históricos, Ferris",Michigan,East North Central
+136,Frankenmuth River Place Shops,885,Centros comerciales,Michigan,East North Central
+137,Sugarloaf Mountain,576,Montañas,Michigan,East North Central
+138,Star Line Mackinac Island Ferry,1.698,Ferris,Michigan,East North Central
+139,Pierce Stocking Scenic Drive,720,Rutas turísticas,Michigan,East North Central
+140,Brockway Mountain Drive,631,Rutas turísticas,Michigan,East North Central
+141,Bond Falls,418,Cascadas,Michigan,East North Central
+142,Old Mackinac Point Lighthouse,704,"Faros, Museos de historia",Michigan,East North Central
+143,The Original Mackinac Island Butterfly House & Insect World,712,Áreas de naturaleza y vida silvestre,Michigan,East North Central
+144,Munising Falls,773,Cascadas,Michigan,East North Central
+145,Mission Point Lighthouse,923,"Monumentos y lugares de interés, Faros",Michigan,East North Central
+146,Castle Rock,658,Miradores,Michigan,East North Central
+147,Whitefish Point Lighthouse,608,Museos de historia,Michigan,East North Central
+148,Wagner Falls,522,Cascadas,Michigan,East North Central
+149,McGulpin Point Lighthouse & Historic Site,611,"Lugares históricos, Faros",Michigan,East North Central
+150,Butler Street,419,Monumentos y lugares de interés,Michigan,East North Central
+151,Museum Ship Valley Camp,426,"Museos especializados, Acuarios",Michigan,East North Central
+152,USS Silversides Submarine Museum,352,Museos especializados,Michigan,East North Central
+153,Adventure Mining Company,224,Minas,Michigan,East North Central
+154,Bronner's Christmas Wonderland,3.354,Tiendas de regalos,Michigan,East North Central
+155,GM Renaissance Center,570,"Edificios con valor arquitectónico, Torres y observatorios",Michigan,East North Central
+156,Point Betsie Lighthouse,330,Faros,Michigan,East North Central
+157,University of Michigan Museum of Natural History,192,"Museos de historia natural, Museos de ciencia",Michigan,East North Central
+158,Tahquamenon Falls,326,Masas de agua,Michigan,East North Central
+159,Saginaw Valley Naval Ship Museum,197,Museos militares,Michigan,East North Central
+160,Headlands International Dark Sky Park,337,"Parques nacionales, Parques",Michigan,East North Central
+161,Tunnel of Trees - M119,381,Rutas turísticas,Michigan,East North Central
+162,Bell's Comstock Brewery,281,Cervecerías,Michigan,East North Central
+163,Mount Baldhead Park,247,"Monumentos y lugares de interés, Parques",Michigan,East North Central
+164,Journeyman Distillery - Three Oaks,187,Destilerías,Michigan,East North Central
+165,KJC ATV Rentals and Trails of South Haven,767,Alquileres de equipos,Michigan,East North Central
+166,The Manistique Boardwalk and River Walk,225,Rutas para senderismo,Michigan,East North Central
+167,Sable Falls,149,Cascadas,Michigan,East North Central
+168,Stony Lake Stables,252,"Rutas ecuestres, Tours a caballo",Michigan,East North Central
+169,Decode Ann Arbor,845,"Juegos de escape, Búsquedas del tesoro",Michigan,East North Central
+170,Mackinac Island Carriage Tours,2.068,Taxis y otros servicios de traslado,Michigan,East North Central
+171,Shepler's Mackinac Island Ferry,82,Ferris,Michigan,East North Central
+172,Museo Nacional de la Fuerza Aérea de Estados Unidos,5.094,Museos especializados,Ohio,East North Central
+173,Rock & Roll Hall of Fame,9.943,Museos especializados,Ohio,East North Central
+174,Cleveland Museum of Art,3.564,Museos de arte,Ohio,East North Central
+175,Cedar Point Amusement Park,9.250,"Parques de diversión y temáticos, Parques acuáticos",Ohio,East North Central
+176,West Side Market,4.453,"Lugares históricos, Mercados de las pulgas y al aire libre",Ohio,East North Central
+177,Cincinnati Zoo & Botanical Garden,3.962,"Zoológicos, Jardines",Ohio,East North Central
+178,A Christmas Story House,2.335,"Museos especializados, Monumentos y lugares de interés",Ohio,East North Central
+179,Easton Town Center,3.303,"Barrios, Monumentos y lugares de interés",Ohio,East North Central
+180,Great American Ball Park,2.941,Campos de juego y estadios,Ohio,East North Central
+181,Franklin Park Conservatory and Botanical Gardens,1.676,"Galerías de arte, Lugares históricos",Ohio,East North Central
+182,Hocking Hills State Park,1.498,Parques estatales,Ohio,East North Central
+183,Pro Football Hall of Fame,2.257,"Museos especializados, Clínicas y campos deportivos",Ohio,East North Central
+184,The Wilds,1.033,"Áreas de naturaleza y vida silvestre, Lugares educativos",Ohio,East North Central
+185,Cincinnati Museum Center,1.845,"Museos de historia natural, Museos de ciencia",Ohio,East North Central
+186,Toledo Zoo,1.868,Zoológicos,Ohio,East North Central
+187,Progressive Field,2.419,Campos de juego y estadios,Ohio,East North Central
+188,Kings Island,2.961,Parques de diversión y temáticos,Ohio,East North Central
+189,Jungle Jim's International Market,1.119,Mercados de las pulgas y al aire libre,Ohio,East North Central
+190,Cincinnati Art Museum,1.102,"Ballets, Museos de arte",Ohio,East North Central
+191,Carillon Historical Park,980,"Lugares históricos, Museos para niños",Ohio,East North Central
+192,Lake View Cemetery,1.034,Cementerios,Ohio,East North Central
+193,Cleveland Metroparks Zoo,1.701,Zoológicos,Ohio,East North Central
+194,Stan Hywet Hall & Gardens,840,"Lugares históricos, Jardines",Ohio,East North Central
+195,German Village,1.174,"Lugares históricos, Barrios",Ohio,East North Central
+196,North Market Farmer's Market,836,Mercados de las pulgas y al aire libre,Ohio,East North Central
+197,COSI Center of Science and Industry,1.472,Museos de ciencia,Ohio,East North Central
+198,National Underground Railroad Freedom Center,1.061,Museos de historia,Ohio,East North Central
+199,USS Cod Submarine Memorial,585,"Lugares históricos, Museos de historia",Ohio,East North Central
+200,American Sign Museum,874,Museos especializados,Ohio,East North Central
+201,Ash Cave,591,Cavernas y cuevas,Ohio,East North Central
+202,Roebling Suspension Bridge,691,Puentes,Ohio,East North Central
+203,Ohio Stadium,979,Campos de juego y estadios,Ohio,East North Central
+204,Marblehead Lighthouse,654,Faros,Ohio,East North Central
+205,Findlay Market,597,Mercados de las pulgas y al aire libre,Ohio,East North Central
+206,Cuyahoga Valley National Park,904,Parques nacionales,Ohio,East North Central
+207,Heinen's Downtown,711,"Lugares históricos, Monumentos y lugares de interés",Ohio,East North Central
+208,Hershberger's Farm & Bakery,503,Granjas,Ohio,East North Central
+209,Old Man's Cave,408,Cavernas y cuevas,Ohio,East North Central
+210,Gervasi Vineyard,496,Viñedos con bodegas,Ohio,East North Central
+211,Rock House,588,Monumentos y lugares de interés,Ohio,East North Central
+212,Cedar Falls Hiking Trail,529,Rutas para senderismo,Ohio,East North Central
+213,America's Packard Museum - The Citizens Motorcar Co.,314,Museos especializados,Ohio,East North Central
+214,Castle Noel,570,Museos especializados,Ohio,East North Central
+215,The Amish Country Theater,290,Teatros,Ohio,East North Central
+216,Miller Boat Line,465,Ferris,Ohio,East North Central
+217,Columbus Museum of Art,489,Museos de arte,Ohio,East North Central
+218,Frank Lloyd Wright's Westcott House,270,"Museos especializados, Lugares históricos",Ohio,East North Central
+219,Dayton Aviation Heritage National Historical Park,250,"Lugares históricos, Parques nacionales",Ohio,East North Central
+220,African Safari Wildlife Park,1.080,"Áreas de naturaleza y vida silvestre, Zoológicos",Ohio,East North Central
+221,Armstrong Air & Space Museum,346,Museos de ciencia,Ohio,East North Central
+222,Hollywood Casino Toledo,1.003,Casinos,Ohio,East North Central
+223,William Howard Taft National Historic Site,286,Lugares históricos,Ohio,East North Central
+224,Loveland Castle,336,"Castillos, Museos de historia",Ohio,East North Central
+225,Edgewater Park,290,Parques,Ohio,East North Central
+226,Thomas Edison Birthplace Museum,172,"Lugares históricos, Museos de historia",Ohio,East North Central
+227,Greater Cincinnati Police Museum,83,Museos especializados,Ohio,East North Central
+228,Campus Martius Museum,173,Museos especializados,Ohio,East North Central
+229,World's Largest Cuckoo Clock,344,Monumentos y lugares de interés,Ohio,East North Central
+230,Seneca Caverns,140,Cavernas y cuevas,Ohio,East North Central
+231,Breakout Games - Dayton,1.063,Juegos de escape,Ohio,East North Central
+232,Miller Ferry,96,Ferris,Ohio,East North Central
+233,"Taliesin Preservation, Inc.",4.485,Edificios con valor arquitectónico,Wisconsin,East North Central
+234,Lambeau Field,3.540,Campos de juego y estadios,Wisconsin,East North Central
+235,Rick Wilcox Magic Theater,1.566,Teatros,Wisconsin,East North Central
+236,Milwaukee Art Museum,2.796,Museos de arte,Wisconsin,East North Central
+237,Harley-Davidson Museum,3.147,Museos especializados,Wisconsin,East North Central
+238,Noah's Ark Water Park,2.920,Parques acuáticos,Wisconsin,East North Central
+239,American Family Field,3.106,Campos de juego y estadios,Wisconsin,East North Central
+240,Olbrich Botanical Gardens,1.698,Jardines,Wisconsin,East North Central
+241,Wisconsin State Capitol,2.069,Edificios gubernamentales,Wisconsin,East North Central
+242,Peninsula State Park,1.779,Parques estatales,Wisconsin,East North Central
+243,Cave Point County Park,1.262,Parques,Wisconsin,East North Central
+244,Pabst Mansion,1.097,Lugares históricos,Wisconsin,East North Central
+245,Henry Vilas Zoo,1.699,Zoológicos,Wisconsin,East North Central
+246,Devil's Lake State Park,1.281,Parques estatales,Wisconsin,East North Central
+247,House on the Rock,1.992,"Museos especializados, Edificios con valor arquitectónico",Wisconsin,East North Central
+248,Wisconsin Deer Park,1.459,"Zoológicos, Parques",Wisconsin,East North Central
+249,Milwaukee Public Market,1.114,Mercados de las pulgas y al aire libre,Wisconsin,East North Central
+250,Basilica of St. Josaphat,882,"Edificios con valor arquitectónico, Lugares religiosos",Wisconsin,East North Central
+251,Witches Gulch,614,Áreas de naturaleza y vida silvestre,Wisconsin,East North Central
+252,Great Lakes Distillery,816,Destilerías,Wisconsin,East North Central
+253,Bay Beach Amusement Park,1.180,Parques de diversión y temáticos,Wisconsin,East North Central
+254,Milwaukee Public Museum,1.090,Museos de historia natural,Wisconsin,East North Central
+255,Circus World,714,Museos especializados,Wisconsin,East North Central
+256,Tristan Crist Magic Theatre,899,Teatros,Wisconsin,East North Central
+257,EAA Aviation Museum,720,Museos especializados,Wisconsin,East North Central
+258,Peninsula Players Theatre,635,Teatros,Wisconsin,East North Central
+259,Milwaukee RiverWalk,1.050,Áreas históricas peatonales,Wisconsin,East North Central
+260,Green Bay Packer Hall of Fame,956,Museos especializados,Wisconsin,East North Central
+261,Cana Island Lighthouse,718,Faros,Wisconsin,East North Central
+262,Mitchell Park Horticultural Conservatory (The Domes),644,"Parques, Jardines",Wisconsin,East North Central
+263,Stone's Throw Winery,809,Viñedos con bodegas,Wisconsin,East North Central
+264,Green Bay Botanical Garden,523,Jardines,Wisconsin,East North Central
+265,Safari Lake Geneva,348,Safaris,Wisconsin,East North Central
+266,Cave of the Mounds,588,"Cavernas y cuevas, Formaciones geológicas",Wisconsin,East North Central
+267,Bay Beach Wildlife Sanctuary,522,Áreas de naturaleza y vida silvestre,Wisconsin,East North Central
+268,Leinie Lodge,369,Cervecerías,Wisconsin,East North Central
+269,Door County Maritime Museum,450,Museos especializados,Wisconsin,East North Central
+270,National Railroad Museum,489,Museos especializados,Wisconsin,East North Central
+271,Paine Art Center and Gardens,297,"Edificios con valor arquitectónico, Jardines",Wisconsin,East North Central
+272,Crystal Cave,333,Cavernas y cuevas,Wisconsin,East North Central
+273,Wizard Quest,1.281,Centros de juego y entretenimiento,Wisconsin,East North Central
+274,Belfry Music Theatre,328,Teatros,Wisconsin,East North Central
+275,Riverwalk,418,Áreas peatonales pintorescas,Wisconsin,East North Central
+276,Fawn Creek Winery,314,Viñedos con bodegas,Wisconsin,East North Central
+277,Bronze Fonz,616,Monumentos y lugares de interés,Wisconsin,East North Central
+278,Geneva Lake Distilling + Studio Winery,204,"Destilerías, Viñedos con bodegas",Wisconsin,East North Central
+279,Shalom Wildlife Zoo,244,Zoológicos,Wisconsin,East North Central
+280,Door County Brewing Co.,303,Cervecerías,Wisconsin,East North Central
+281,Elusive Escape Rooms,1.241,"Juegos de escape, Centros de juego y entretenimiento",Wisconsin,East North Central
+282,Infinity Beverages Winery & Distillery,184,"Destilerías, Viñedos con bodegas",Wisconsin,East North Central
+283,Frank Lloyd Wright Visitor Center,274,Centros de información turística,Wisconsin,East North Central
+284,Pirate's Cove Adventure Golf,888,Campos de golf,Wisconsin,East North Central
+285,Fragrant Isle Lavender Farm & Shop,237,"Tiendas de regalos, Monumentos y lugares de interés",Wisconsin,East North Central
+286,Red Ridge Riding Stable,141,Rutas ecuestres,Wisconsin,East North Central
+287,Game Show Battle Rooms,170,Centros de juego y entretenimiento,Wisconsin,East North Central
+288,Asgard Axe Throwing,207,Centros de juego y entretenimiento,Wisconsin,East North Central
+289,Dells Escape Rooms,624,Juegos de escape,Wisconsin,East North Central
+290,Lake Geneva Cruise Line,4.934,"Tours históricos, Tours en barco",Wisconsin,East North Central
+291,Mid-Continent Railway Museum,183,"Tiendas de regalos, Museos especializados",Wisconsin,East North Central
+292,J. Henry & Sons,60,Destilerías,Wisconsin,East North Central
+293,Ephraim Historical Foundation,35,Museos especializados,Wisconsin,East North Central
+294,Bigfoot Zipline,2.775,Tirolesa y parques de aventuras aéreas,Wisconsin,East North Central

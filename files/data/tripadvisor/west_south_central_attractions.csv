@@ -1,0 +1,286 @@
+,attraction,n_reviews,categories,state,region
+0,Museo de Arte Americano de Crystal Bridges,4.585,Museos de arte,Akansas,West South Central
+1,Garvan Woodland Gardens,2.751,Jardines,Akansas,West South Central
+2,Thorncrown Chapel,3.666,Lugares religiosos,Akansas,West South Central
+3,Turpentine Creek Wildlife Refuge,2.479,Áreas de naturaleza y vida silvestre,Akansas,West South Central
+4,Fordyce Bathhouse,2.181,"Centros de información turística, Lugares históricos",Akansas,West South Central
+5,Intrigue Theater,1.060,Teatros,Akansas,West South Central
+6,Little Rock Central High School National Historic Site,1.245,"Lugares históricos, Museos de historia",Akansas,West South Central
+7,Christ of the Ozarks,1.648,Monumentos y estatuas,Akansas,West South Central
+8,Bathhouse Row,1.374,"Monumentos y lugares de interés, Áreas históricas peatonales",Akansas,West South Central
+9,William J. Clinton Presidential Library,2.626,"Lugares históricos, Edificios con valor arquitectónico",Akansas,West South Central
+10,Petit Jean State Park,746,"Parques estatales, Rutas para senderismo",Akansas,West South Central
+11,Hot Springs National Park,1.051,Parques nacionales,Akansas,West South Central
+12,Crater of Diamonds State Park,1.562,"Parques estatales, Minas",Akansas,West South Central
+13,Anthony Chapel,605,"Edificios con valor arquitectónico, Jardines",Akansas,West South Central
+14,Museum of Native American History,1.001,"Tiendas de regalos, Museos de arte",Akansas,West South Central
+15,Mid-America Science Museum,600,"Museos de ciencia, Museos para niños",Akansas,West South Central
+16,Lake Ouachita,531,Masas de agua,Akansas,West South Central
+17,Wegner Quartz Crystal Mines,461,Minas,Akansas,West South Central
+18,Cosmic Cavern,511,Cavernas y cuevas,Akansas,West South Central
+19,Lake Catherine State Park,501,Parques estatales,Akansas,West South Central
+20,Hot Springs Mountain Tower,1.765,Torres y observatorios,Akansas,West South Central
+21,Fort Smith National Historic Site,636,Lugares históricos,Akansas,West South Central
+22,The Walmart Museum,1.829,Museos de historia,Akansas,West South Central
+23,Grand Promenade,472,Rutas para senderismo,Akansas,West South Central
+24,Eureka Springs Historical Downtown,836,Barrios,Akansas,West South Central
+25,War Eagle Cavern on Beaver Lake,381,Cavernas y cuevas,Akansas,West South Central
+26,Arkansas State Capitol,509,Edificios gubernamentales,Akansas,West South Central
+27,Ozark Folk Center State Park,443,"Museos especializados, Parques estatales",Akansas,West South Central
+28,Moro Bay State Park,223,Parques estatales,Akansas,West South Central
+29,Gangster Museum of America,640,"Museos especializados, Museos de historia",Akansas,West South Central
+30,Quigley's Castle,554,Castillos,Akansas,West South Central
+31,Eureka Springs Transit,171,Tranvías,Akansas,West South Central
+32,Superior Bathhouse Brewery and Distillery,182,"Destilerías, Cervecerías",Akansas,West South Central
+33,Great Passion Play,1.210,Teatro y espectáculos,Akansas,West South Central
+34,Daisy Airgun Museum,177,Museos especializados,Akansas,West South Central
+35,Quapaw Baths & Spa,1.178,Spas,Akansas,West South Central
+36,Mystery Mansion Escape Room,887,Juegos de escape,Akansas,West South Central
+37,Coler Mountain Bike Preserve,51,"Rutas para ciclismo, Rutas para senderismo",Akansas,West South Central
+38,Thai-Me Spa,592,"Tiendas de regalos, Spas",Akansas,West South Central
+39,The Maxwell Blade Theatre of Magic,1.141,Teatro y espectáculos,Akansas,West South Central
+40,A Narrow Escape,397,Juegos de escape,Akansas,West South Central
+41,Ozark Mountain Ziplines,2.177,"Tours extremos y de adrenalina, Tirolesa y parques de aventuras aéreas",Akansas,West South Central
+42,Museo Nacional de la Segunda Guerra Mundial,30.892,"Museos militares, Museos especializados",Luisiana,West South Central
+43,Calle de los Franceses,12.058,Barrios,Luisiana,West South Central
+44,Jackson Square,16.379,"Monumentos y lugares de interés, Áreas históricas peatonales",Luisiana,West South Central
+45,Garden District,8.945,"Barrios, Áreas históricas peatonales",Luisiana,West South Central
+46,Catedral de San Luis,8.408,"Edificios con valor arquitectónico, Iglesias y catedrales",Luisiana,West South Central
+47,City Park,4.353,Parques,Luisiana,West South Central
+48,Preservation Hall,5.921,"Monumentos y lugares de interés, Teatros",Luisiana,West South Central
+49,Laura Plantation: Louisiana's Creole Heritage Site,3.518,"Museos especializados, Lugares históricos",Luisiana,West South Central
+50,St. Louis Cemetery No. 1,4.050,Cementerios,Luisiana,West South Central
+51,Blaine Kern's Mardi Gras World,4.399,Museos especializados,Luisiana,West South Central
+52,Houmas House and Gardens,2.353,"Lugares históricos, Monumentos y lugares de interés",Luisiana,West South Central
+53,Royal Street,7.775,Áreas históricas peatonales,Luisiana,West South Central
+54,Whitney Plantation,1.807,Museos especializados,Luisiana,West South Central
+55,The Sydney and Walda Besthoff Sculpture Garden at NOMA,1.394,Museos de arte,Luisiana,West South Central
+56,Basin St. Station,1.032,Centros de información turística,Luisiana,West South Central
+57,Hermann-Grima House,571,"Lugares históricos, Museos de historia",Luisiana,West South Central
+58,New Orleans Pharmacy Museum,1.145,Museos especializados,Luisiana,West South Central
+59,The Myrtles Plantation,1.350,"Lugares históricos, Monumentos y lugares de interés",Luisiana,West South Central
+60,Jean Lafitte National Historical Park and Preserve,997,"Parques nacionales, Áreas de naturaleza y vida silvestre",Luisiana,West South Central
+61,RTA - Streetcars,16.293,Sistemas de transporte público,Luisiana,West South Central
+62,Audubon Park,1.696,Parques,Luisiana,West South Central
+63,The Sazerac House,379,"Destilerías, Museos especializados",Luisiana,West South Central
+64,New Orleans Museum of Art,1.155,Museos especializados,Luisiana,West South Central
+65,The Historic New Orleans Collection,693,Museos especializados,Luisiana,West South Central
+66,USS Kidd,663,"Museos militares, Museos de historia",Luisiana,West South Central
+67,Jungle Gardens,689,"Áreas de naturaleza y vida silvestre, Jardines",Luisiana,West South Central
+68,The Presbytere,991,"Museos especializados, Museos de historia",Luisiana,West South Central
+69,Louisiana's Old State Capitol,727,"Museos especializados, Lugares históricos",Luisiana,West South Central
+70,Lake Martin,393,Masas de agua,Luisiana,West South Central
+71,Louisiana State Capitol,763,Edificios gubernamentales,Luisiana,West South Central
+72,Longue Vue House and Gardens,260,"Lugares históricos, Jardines",Luisiana,West South Central
+73,Rosedown Plantation State Historic Site,489,Lugares históricos,Luisiana,West South Central
+74,New Orleans Musical Legends Park,1.114,"Monumentos y lugares de interés, Parques",Luisiana,West South Central
+75,Kaffie-Frederick General Mercantile Store,545,Lugares históricos,Luisiana,West South Central
+76,Insta-Gator Ranch & Hatchery,272,Áreas de naturaleza y vida silvestre,Luisiana,West South Central
+77,New Orleans School of Cooking,9.443,Clases de cocina,Luisiana,West South Central
+78,Rip Van Winkle Gardens,413,"Lugares históricos, Jardines",Luisiana,West South Central
+79,Memorial Hall Confederate Civil War Museum,591,"Museos militares, Museos especializados",Luisiana,West South Central
+80,Lafitte's Blacksmith Shop Bar,2.991,"Lugares históricos, Bares y boliches",Luisiana,West South Central
+81,Southern Food and Beverage Museum,174,Museos especializados,Luisiana,West South Central
+82,International Petroleum Museum & Exposition,133,Museos especializados,Luisiana,West South Central
+83,Shreveport Aquarium,221,Acuarios,Luisiana,West South Central
+84,Mardi Gras Museum of Costumes and Culture,145,Museos especializados,Luisiana,West South Central
+85,Clue Carre - New Orleans' First Live Escape Game,4.069,"Juegos de escape, Búsquedas del tesoro",Luisiana,West South Central
+86,The Spotted Cat Music Club,1.490,"Bares y boliches, Bares de jazz",Luisiana,West South Central
+87,Hex: Old World Witchery,804,Tiendas de regalos,Luisiana,West South Central
+88,Escape My Room New Orleans,1.771,"Juegos de escape, Museos especializados",Luisiana,West South Central
+89,Mardi Gras School of Cooking,408,Clases de cocina,Luisiana,West South Central
+90,The Escape Game New Orleans,633,Juegos de escape,Luisiana,West South Central
+91,Spa Atlantis,280,Spas,Luisiana,West South Central
+92,Maison Bourbon Jazz Club,435,"Bares y boliches, Bares de jazz",Luisiana,West South Central
+93,Snug Harbor Jazz Bistro,636,Bares de jazz,Luisiana,West South Central
+94,Erin Rose,389,Bares y boliches,Luisiana,West South Central
+95,Escape Room Lafayette,205,Juegos de escape,Luisiana,West South Central
+96,The Carousel Bar & Lounge,430,"Bares y boliches, Piano bar",Luisiana,West South Central
+97,Spa Atlantis - French Quarter,155,Spas,Luisiana,West South Central
+98,Witches Brew Tours,13.842,"Tours culturales, Tours de fantasmas y vampiros",Luisiana,West South Central
+99,The Sazerac Bar,367,Bares y boliches,Luisiana,West South Central
+100,Haunted History Tours of New Orleans,8.536,Tours de fantasmas y vampiros,Luisiana,West South Central
+101,Mahogany Jazz Hall,108,Bares de jazz,Luisiana,West South Central
+102,Cajun Encounters Tour,6.332,"Tours por la ciudad, Tours históricos",Luisiana,West South Central
+103,Gray Line,4.179,"Tours de bares, discotecas y pubs, Tours de fantasmas y vampiros",Luisiana,West South Central
+104,Royal Carriages,6.852,"Tours por la ciudad, Tours de fantasmas y vampiros",Luisiana,West South Central
+105,Omen: Psychic Parlor and Witchcraft Emporium,131,Tiendas de regalos,Luisiana,West South Central
+106,Free Tours by Foot,5.028,"Tours de fantasmas y vampiros, Tours en bicicleta",Luisiana,West South Central
+107,French Quarter Phantoms,3.658,Tours de fantasmas y vampiros,Luisiana,West South Central
+108,Louisiana Tour Company,2.735,"Tours en barco, Tours turísticos",Luisiana,West South Central
+109,Gray Line Transportation Services,86,Servicios de autobús,Luisiana,West South Central
+110,Destination Kitchen,2.596,"Tours de bares, discotecas y pubs, Tours de fantasmas y vampiros",Luisiana,West South Central
+111,Champagne's Cajun Swamp Tours,2.077,"Tours en barco, Tours de naturaleza y vida silvestre",Luisiana,West South Central
+112,Two Chicks Walking Tours,3.734,"Tours culturales, Tours históricos",Luisiana,West South Central
+113,TOURS by STEVEN,2.514,"Tours históricos, Tours a pie",Luisiana,West South Central
+114,Doctor Gumbo Tours,2.620,"Tours de bares, discotecas y pubs, Tours culturales",Luisiana,West South Central
+115,Airboat Adventures,3.206,"Tours extremos y de adrenalina, Tours en barco",Luisiana,West South Central
+116,Hottest Hell Tours - Adults Only,2.588,"Tours de fantasmas y vampiros, Tours privados",Luisiana,West South Central
+117,New Orleans Secrets,2.114,"Tours de bares, discotecas y pubs, Tours de fantasmas y vampiros",Luisiana,West South Central
+118,Tours by Isabelle,2.630,"Tours históricos, Tours turísticos",Luisiana,West South Central
+119,Ghost City Tours of New Orleans,3.126,"Tours de fantasmas y vampiros, Tours a pie",Luisiana,West South Central
+120,Lucky Bean Tours,2.516,"Tours culturales, Tours históricos",Luisiana,West South Central
+121,Confederacy of Cruisers Bike Tours,1.822,"Tours de bares, discotecas y pubs, Tours culturales",Luisiana,West South Central
+122,Cajun Pride Swamp Tours,1.881,Tours turísticos,Luisiana,West South Central
+123,Kayak Swamp Tours,1.450,"Tours en barco, Deportes acuáticos",Luisiana,West South Central
+124,JAMNOLA,1.243,"Tours culturales, Tours privados",Luisiana,West South Central
+125,New Orleans Ghost Adventures Tours,1.842,"Tours por la ciudad, Tours de fantasmas y vampiros",Luisiana,West South Central
+126,Flambeaux Bicycle Tours,1.143,"Tours por la ciudad, Tours históricos",Luisiana,West South Central
+127,Creole Queen Mississippi River Cruises,2.972,Tours en barco,Luisiana,West South Central
+128,Oklahoma City National Memorial & Museum,5.263,"Monumentos y lugares de interés, Monumentos y estatuas",Oklahoma,West South Central
+129,National Cowboy & Western Heritage Museum,2.348,"Museos especializados, Museos de arte",Oklahoma,West South Central
+130,Philbrook Museum of Art,1.330,Museos de arte,Oklahoma,West South Central
+131,Oklahoma Aquarium,941,Acuarios,Oklahoma,West South Central
+132,SKELETONS: Museum of Osteology,1.245,"Museos especializados, Museos de historia natural",Oklahoma,West South Central
+133,Woolaroc Museum & Wildlife Preserve,654,"Galerías de arte, Museos especializados",Oklahoma,West South Central
+134,Wichita Mountains National Wildlife Refuge,526,Áreas de naturaleza y vida silvestre,Oklahoma,West South Central
+135,Armstrong Auditorium,642,Teatros,Oklahoma,West South Central
+136,Tulsa Zoo,1.090,Zoológicos,Oklahoma,West South Central
+137,Centennial Land Run Monument,563,Monumentos y estatuas,Oklahoma,West South Central
+138,Oklahoma Route 66 Museum,449,Museos de historia,Oklahoma,West South Central
+139,National Route 66 Museum,423,Museos especializados,Oklahoma,West South Central
+140,Woody Guthrie Center,305,Museos especializados,Oklahoma,West South Central
+141,Stafford Air & Space Museum,231,"Museos militares, Museos especializados",Oklahoma,West South Central
+142,The Endangered Ark Foundation,192,Áreas de naturaleza y vida silvestre,Oklahoma,West South Central
+143,Blue Whale of Catoosa,490,Monumentos y lugares de interés,Oklahoma,West South Central
+144,Price Tower Arts Center,219,Edificios con valor arquitectónico,Oklahoma,West South Central
+145,Tallgrass Prairie Preserve,255,"Áreas de naturaleza y vida silvestre, Parques",Oklahoma,West South Central
+146,The Old Round Barn,329,Lugares históricos,Oklahoma,West South Central
+147,Vintage Sewing Center And Museum,93,Museos especializados,Oklahoma,West South Central
+148,River Bend Casino,157,Casinos,Oklahoma,West South Central
+149,Greenwood Rising,45,Museos de historia,Oklahoma,West South Central
+150,Water-Zoo Indoor Water Park,195,Parques acuáticos,Oklahoma,West South Central
+151,Lake Carl Blackwell,44,Masas de agua,Oklahoma,West South Central
+152,The Pioneer Woman Mercantile,485,Tiendas de regalos,Oklahoma,West South Central
+153,Paseo del Río,26.993,Áreas peatonales pintorescas,Texas,West South Central
+154,The Alamo,19.662,"Lugares históricos, Museos de historia",Texas,West South Central
+155,The Sixth Floor Museum at Dealey Plaza,9.332,Museos especializados,Texas,West South Central
+156,Texas State Capitol,8.019,"Lugares históricos, Edificios con valor arquitectónico",Texas,West South Central
+157,Arboreto y Jardín Botánico de Dallas,5.879,"Parques, Jardines",Texas,West South Central
+158,Natural Bridge Caverns,4.020,Cavernas y cuevas,Texas,West South Central
+159,Fort Worth Stockyards National Historic District,5.477,"Lugares históricos, Áreas históricas peatonales",Texas,West South Central
+160,LBJ Presidential Library,3.506,"Museos especializados, Museos de historia",Texas,West South Central
+161,National Museum of the Pacific War,3.867,"Museos militares, Museos de historia",Texas,West South Central
+162,Grape Creek Vineyards Fredericksburg,2.592,Viñedos con bodegas,Texas,West South Central
+163,Mission San Jose,3.486,"Lugares históricos, Misiones",Texas,West South Central
+164,USS Lexington Museum,3.461,"Museos militares, Museos de historia",Texas,West South Central
+165,"Museum of Fine Arts, Houston",2.762,Museos de arte,Texas,West South Central
+166,Barton Springs Pool,2.785,"Masas de agua, Fuentes termales y géiseres",Texas,West South Central
+167,"Sea Turtle, Inc.",3.134,Áreas de naturaleza y vida silvestre,Texas,West South Central
+168,Palo Duro Canyon State Park,2.377,"Parques estatales, Ruinas antiguas",Texas,West South Central
+169,Galveston - Port Bolivar Ferry,4.244,Ferris,Texas,West South Central
+170,Lady Bird Lake Hike-and-Bike Trail,2.742,Rutas para senderismo,Texas,West South Central
+171,Bullock Texas State History Museum,2.778,Museos de historia,Texas,West South Central
+172,Japanese Tea Gardens,1.911,"Teatros, Jardines",Texas,West South Central
+173,Perot Museum of Nature and Science,3.607,Museos especializados,Texas,West South Central
+174,San Antonio Missions National Historical Park,1.939,"Monumentos y lugares de interés, Parques",Texas,West South Central
+175,San Fernando De Bexar Cathedral,2.099,Iglesias y catedrales,Texas,West South Central
+176,The George W. Bush Presidential Library and Museum,3.864,Museos especializados,Texas,West South Central
+177,Enchanted Rock State Natural Area,2.363,"Lugares misteriosos, Formaciones geológicas",Texas,West South Central
+178,Fort Worth Zoo,2.456,Zoológicos,Texas,West South Central
+179,San Antonio River,3.676,Masas de agua,Texas,West South Central
+180,Padre Island National Seashore,1.905,"Parques nacionales, Playas",Texas,West South Central
+181,The Driskill,1.858,"Lugares históricos, Edificios con valor arquitectónico",Texas,West South Central
+182,Dealey Plaza National Historic Landmark District,2.530,"Lugares históricos, Monumentos y estatuas",Texas,West South Central
+183,Longhorn Cavern State Park,899,Parques estatales,Texas,West South Central
+184,Top O'Hill Terrace,742,"Lugares históricos, Monumentos y lugares de interés",Texas,West South Central
+185,Wildseed Farms,1.578,Granjas,Texas,West South Central
+186,Main Street,2.063,Monumentos y lugares de interés,Texas,West South Central
+187,Fort Worth Botanic Garden,1.207,"Lugares históricos, Áreas de naturaleza y vida silvestre",Texas,West South Central
+188,South Padre Island Birding and Nature Center,1.428,Áreas de naturaleza y vida silvestre,Texas,West South Central
+189,Waco Mammoth National Monument,1.236,Museos especializados,Texas,West South Central
+190,George Bush Presidential Library and Museum,1.267,"Museos especializados, Bibliotecas",Texas,West South Central
+191,1892 Bishop's Palace,1.362,Lugares históricos,Texas,West South Central
+192,Fossil Rim Wildlife Center,1.181,Áreas de naturaleza y vida silvestre,Texas,West South Central
+193,San Antonio Botanical Garden,1.152,Jardines,Texas,West South Central
+194,Majestic & Empire Theatres,1.297,Teatros,Texas,West South Central
+195,Zilker Metropolitan Park,949,"Parques, Jardines",Texas,West South Central
+196,Gruene Historic District,997,"Tiendas de regalos, Lugares históricos",Texas,West South Central
+197,Grapevine Historic Main Street District,1.451,Áreas históricas peatonales,Texas,West South Central
+198,McDonald Observatory,1.319,Observatorios y planetarios,Texas,West South Central
+199,King Ranch Visitor Center,945,Centros de información turística,Texas,West South Central
+200,Texas Ranger Hall of Fame and Museum,1.119,Museos especializados,Texas,West South Central
+201,The Music Box Theater,523,Teatros,Texas,West South Central
+202,Santa Elena Canyon,709,Cañones,Texas,West South Central
+203,National Museum of Funeral History,577,"Museos especializados, Museos de historia",Texas,West South Central
+204,Dallas Cattle Drive Sculptures,1.050,Monumentos y lugares de interés,Texas,West South Central
+205,Museo de Arte McNay,916,Museos de arte,Texas,West South Central
+206,Briscoe Western Art Museum,879,"Museos de arte, Museos de historia",Texas,West South Central
+207,Scenic Drive - Overlook,1.069,Rutas turísticas,Texas,West South Central
+208,Rockport Beach,764,"Playas, Parques",Texas,West South Central
+209,The RV Museum,675,Museos especializados,Texas,West South Central
+210,"Immersive Gamebox - Grandscape, The Colony",378,"Parques de diversión y temáticos, Centros de juego y entretenimiento",Texas,West South Central
+211,Mission Concepcion,1.025,Misiones,Texas,West South Central
+212,Dinosaur Valley State Park,799,Parques estatales,Texas,West South Central
+213,Cascade Caverns,458,Cavernas y cuevas,Texas,West South Central
+214,King William Historic District,801,"Lugares históricos, Áreas históricas peatonales",Texas,West South Central
+215,Ocean Star Offshore Drilling Rig & Museum,1.028,"Museos especializados, Museos de ciencia",Texas,West South Central
+216,Blue Bell Creameries,649,Museos especializados,Texas,West South Central
+217,Discovery Green,885,"Parques, Parques infantiles",Texas,West South Central
+218,Alamo Plaza,1.230,Monumentos y lugares de interés,Texas,West South Central
+219,Moody Mansion,783,"Lugares históricos, Museos de historia",Texas,West South Central
+220,Fort Davis National Historic Site,812,Lugares históricos,Texas,West South Central
+221,Garrison Brothers Distillery,568,Destilerías,Texas,West South Central
+222,Inner Space Cavern,712,Cavernas y cuevas,Texas,West South Central
+223,The Port Aransas Ferry System,889,Ferris,Texas,West South Central
+224,Frontier Texas!,565,Museos especializados,Texas,West South Central
+225,San Antonio Museum of Art,811,Museos de arte,Texas,West South Central
+226,Caverns of Sonora,477,Cavernas y cuevas,Texas,West South Central
+227,Caldwell Zoo,783,Zoológicos,Texas,West South Central
+228,Lost Mine Trail,350,Rutas para senderismo,Texas,West South Central
+229,Galveston Naval Museum,674,Museos militares,Texas,West South Central
+230,Lyndon B. Johnson National Historical Park,701,"Lugares históricos, Parques nacionales",Texas,West South Central
+231,Leonabelle Turnbull Birding Center,529,Áreas de naturaleza y vida silvestre,Texas,West South Central
+232,Panhandle-Plains Historical Museum,589,Museos de historia,Texas,West South Central
+233,Caprock Canyons State Park,385,"Parques estatales, Cañones",Texas,West South Central
+234,The DoSeum - San Antonio's Museum for Kids,615,Museos para niños,Texas,West South Central
+235,Frontiers of Flight Museum,424,Museos especializados,Texas,West South Central
+236,Heath Sparkling Wines,413,Viñedos con bodegas,Texas,West South Central
+237,Chisos Mountains,359,Montañas,Texas,West South Central
+238,The Coming King Sculpture Prayer Gardens,467,"Lugares religiosos, Jardines",Texas,West South Central
+239,Galveston's 61st Street Fishing Pier,466,"Monumentos y lugares de interés, Muelles y paseos peatonales",Texas,West South Central
+240,Dallas Holocaust and Human Rights Museum,532,Museos especializados,Texas,West South Central
+241,Blue Hole Regional Park,475,Parques,Texas,West South Central
+242,Inks Lake State Park,391,"Parques estatales, Masas de agua",Texas,West South Central
+243,The Buddy Holly Center,582,Museos especializados,Texas,West South Central
+244,Pioneer Museum,389,"Museos especializados, Lugares históricos",Texas,West South Central
+245,Old Tunnel State Park,442,Parques estatales,Texas,West South Central
+246,Tower Station and U-Drop Inn Café,357,"Monumentos y lugares de interés, Torres y observatorios",Texas,West South Central
+247,Buffalo Bayou Park,346,Parques,Texas,West South Central
+248,Cowgirls and Cowboys in the West,1.582,Ranchos,Texas,West South Central
+249,Spoetzl Brewery,324,Cervecerías,Texas,West South Central
+250,"Exotic Resort Zoo, Inc.",259,Zoológicos,Texas,West South Central
+251,St Joseph Catholic Church,453,Iglesias y catedrales,Texas,West South Central
+252,Urban Axes Austin,590,Centros de juego y entretenimiento,Texas,West South Central
+253,Mayfield Park,247,"Parques, Jardines",Texas,West South Central
+254,Museum of the Big Bend,397,Museos especializados,Texas,West South Central
+255,Chihuahuan Desert Nature Center & Botanical Gardens,302,"Áreas de naturaleza y vida silvestre, Rutas para senderismo",Texas,West South Central
+256,Caliente Hot Glass,116,"Galerías de arte, Clases y talleres",Texas,West South Central
+257,Texas Prison Museum,276,Museos especializados,Texas,West South Central
+258,Red River Valley Veterans Memorial Museum,108,Monumentos y estatuas,Texas,West South Central
+259,Medieval Times Dinner & Tournament,1.221,Teatros donde se puede cenar,Texas,West South Central
+260,South Padre Island Adventure Park,1.113,Tours a caballo,Texas,West South Central
+261,Extreme Escape,959,Juegos de escape,Texas,West South Central
+262,Austin Visitor Center,260,"Tiendas de regalos, Centros de información turística",Texas,West South Central
+263,Gruene Hall,750,Discotecas y clubes de baile,Texas,West South Central
+264,Bandera Historical Rides,401,"Clínicas y campos deportivos, Ranchos",Texas,West South Central
+265,Immersive Gamebox - Woodlands Mall,89,Centros de juego y entretenimiento,Texas,West South Central
+266,Horses On The Beach: Corpus Christi,609,Tours a caballo,Texas,West South Central
+267,Texas Star Dinner Theater,499,Teatros donde se puede cenar,Texas,West South Central
+268,Stockyards Rodeo,854,Teatro y espectáculos,Texas,West South Central
+269,Waco Tours,5.594,"Tours por la ciudad, Tours históricos",Texas,West South Central
+270,DASA Spa on the Riverwalk,217,Spas,Texas,West South Central
+271,Hopscotch,225,"Tiendas de regalos, Bares y boliches",Texas,West South Central
+272,Corky's Gaming Bistro - Grapevine,449,"Juegos de escape, Centros de juego y entretenimiento",Texas,West South Central
+273,Extreme Escape,582,Juegos de escape,Texas,West South Central
+274,Escape the Room,793,"Juegos de escape, Centros de juego y entretenimiento",Texas,West South Central
+275,Fort Worth Axe Factory,65,Centros de juego y entretenimiento,Texas,West South Central
+276,Palo Duro Riding Stables,297,Tours a caballo,Texas,West South Central
+277,"Magic, Music, & Mayhem",183,"Teatros, Teatro y espectáculos",Texas,West South Central
+278,Austin Detours,3.289,Tours turísticos,Texas,West South Central
+279,Escape Hour Austin,234,Juegos de escape,Texas,West South Central
+280,Time Crunch Escapes,211,Juegos de escape,Texas,West South Central
+281,Galveston Shuttle & Limo,441,Taxis y otros servicios de traslado,Texas,West South Central
+282,Waco Escape Rooms,614,Juegos de escape,Texas,West South Central
+283,Escapology Escape Rooms Tyler,310,Juegos de escape,Texas,West South Central
+284,Fun Dallas Tours,2.065,Tours turísticos,Texas,West South Central

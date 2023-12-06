@@ -1,0 +1,191 @@
+,attraction,n_reviews,categories,state,region
+0,Mystic Seaport Museum,3.473,Museos de historia,Connecticut,New England
+1,The Mark Twain House & Museum,1.708,"Lugares históricos, Museos de historia",Connecticut,New England
+2,Yale University Art Gallery,983,Museos de arte,Connecticut,New England
+3,Thimble Islands,345,Islas,Connecticut,New England
+4,Olde Mistick Village,1.740,Lugares históricos,Connecticut,New England
+5,Mystic River Bascule Bridge,804,Puentes,Connecticut,New England
+6,New England Air Museum,315,"Museos especializados, Museos de historia",Connecticut,New England
+7,Hammonasset Beach State Park,594,"Parques estatales, Playas",Connecticut,New England
+8,Historic Downtown Mystic,705,Áreas peatonales pintorescas,Connecticut,New England
+9,PEZ Visitor Center,573,Centros de información turística,Connecticut,New England
+10,Lockwood-Mathews Mansion Museum,108,"Lugares históricos, Museos de historia",Connecticut,New England
+11,Mission Escape Games,776,Juegos de escape,Connecticut,New England
+12,Connecticut River Museum,215,"Tiendas de regalos, Museos especializados",Connecticut,New England
+13,"Puzzle Theory, LLC",349,Juegos de escape,Connecticut,New England
+14,Escape New Haven,265,Juegos de escape,Connecticut,New England
+15,Marginal Way,5.434,Áreas históricas peatonales,Maine,New England
+16,Cadillac Mountain,3.725,Montañas,Maine,New England
+17,Portland Head Light,2.437,Faros,Maine,New England
+18,Coastal Maine Botanical Gardens,2.021,"Áreas de naturaleza y vida silvestre, Jardines",Maine,New England
+19,Acadia National Park,2.341,Parques nacionales,Maine,New England
+20,Mount Desert Island,2.959,Islas,Maine,New England
+21,Ogunquit Beach,2.247,Playas,Maine,New England
+22,Cape Neddick Nubble Lighthouse,1.761,Faros,Maine,New England
+23,Mount Battie,1.826,Montañas,Maine,New England
+24,Perkins Cove,2.492,Formaciones geológicas,Maine,New England
+25,Shore Path,2.017,Áreas de naturaleza y vida silvestre,Maine,New England
+26,Park Loop Road,1.615,Rutas turísticas,Maine,New England
+27,Pemaquid Point Lighthouse,874,Faros,Maine,New England
+28,Land Bridge to Bar Island,1.390,Monumentos y lugares de interés,Maine,New England
+29,Jordan Pond,1.288,Masas de agua,Maine,New England
+30,Ocean Trail,987,Rutas para senderismo,Maine,New England
+31,Allagash Brewing Company,1.161,Cervecerías,Maine,New England
+32,Maine Maritime Museum,759,Museos especializados,Maine,New England
+33,Farnsworth Art Museum,1.001,"Lugares históricos, Museos de arte",Maine,New England
+34,Victoria Mansion,816,Museos de historia,Maine,New England
+35,Eastern Promenade Trail,748,"Rutas para ciclismo, Rutas para senderismo",Maine,New England
+36,Casco Bay Lines Ferry Terminal,700,Ferris,Maine,New England
+37,Fort Williams Park,691,Parques,Maine,New England
+38,Saint Ann's Church,695,Iglesias y catedrales,Maine,New England
+39,West Quoddy Head Light,755,Faros,Maine,New England
+40,Rockland Breakwater Light,984,Faros,Maine,New England
+41,Sand Beach,928,Playas,Maine,New England
+42,Penobscot Narrows Bridge and Observatory,932,"Puentes, Torres y observatorios",Maine,New England
+43,Long Sands Beach,685,Playas,Maine,New England
+44,Cabbage Island,506,Islas,Maine,New England
+45,Portland Observatory,536,"Monumentos y lugares de interés, Torres y observatorios",Maine,New England
+46,Camden Hills State Park,789,Parques estatales,Maine,New England
+47,Schoodic Peninsula,529,Formaciones geológicas,Maine,New England
+48,Wells Beach,956,Playas,Maine,New England
+49,Champlain Mountain & Beehive Loop Trail,599,Rutas para senderismo,Maine,New England
+50,Baxter State Park,436,Parques estatales,Maine,New England
+51,Casco Bay,336,"Masas de agua, Playas",Maine,New England
+52,Bass Harbor Head Lighthouse,718,Faros,Maine,New England
+53,Rachel Carson National Wildlife Refuge,583,Áreas de naturaleza y vida silvestre,Maine,New England
+54,Footbridge Beach,445,Playas,Maine,New England
+55,Katahdin Cruises and Moosehead Marine Museum,270,Museos de historia,Maine,New England
+56,Stephen King's House,279,"Monumentos y lugares de interés, Edificios con valor arquitectónico",Maine,New England
+57,L.L. Bean Factory Store,1.255,"Tiendas de regalos, Tiendas de fábricas",Maine,New England
+58,Gorham Mountain Trail,332,Rutas para senderismo,Maine,New England
+59,Spring Point Ledge Lighthouse,360,Faros,Maine,New England
+60,Otter Cliff,315,Formaciones geológicas,Maine,New England
+61,Carousel Music Theater,283,Teatros,Maine,New England
+62,Faro de Marshall Point,315,"Museos especializados, Faros",Maine,New England
+63,Maine Wildlife Park,391,Áreas de naturaleza y vida silvestre,Maine,New England
+64,Cadillac Mountain North Ridge Trail,195,Rutas para senderismo,Maine,New England
+65,Bug Light Park,329,Parques,Maine,New England
+66,Maine Beer Company,274,Cervecerías,Maine,New England
+67,Cliff Walk,274,Áreas peatonales pintorescas,Maine,New England
+68,Palace Playland,570,Parques de diversión y temáticos,Maine,New England
+69,Glidden Point Oyster Farms,98,Granjas,Maine,New England
+70,Sail Power and Steam Museum,128,Museos especializados,Maine,New England
+71,Fort Western,122,"Lugares históricos, Bases e instalaciones militares",Maine,New England
+72,"Wiscasset, Waterville & Farmington Railway Museum",74,"Museos especializados, Museos de historia",Maine,New England
+73,Desert Of Maine,103,"Parques, Minigolf",Maine,New England
+74,Acadia National Park Island Explorer Bus,1.448,"Servicios de autobús, Taxis y otros servicios de traslado",Maine,New England
+75,Maine Mineral and Gem Museum,68,Museos especializados,Maine,New England
+76,Bar Harbor Cellars Winery,217,Viñedos con bodegas,Maine,New England
+77,Portland Discovery Land & Sea Tours,2.790,"Tours en barco, Tours en autobús",Maine,New England
+78,Lulu Lobster Boat,2.484,Tours en barco,Maine,New England
+79,Fort Knox Historic Site,56,"Lugares históricos, Monumentos y lugares de interés",Maine,New England
+80,Oli's Trolley - Acadia National Park Tour,4.731,"Tranvías, Tours de naturaleza y vida silvestre",Maine,New England
+81,Acadian Boat Tours,3.026,Tours en barco,Maine,New England
+82,Belfast & Moosehead Lake Railroad,163,Servicios de ferrocarril,Maine,New England
+83,Stonewall Kitchen,368,Tiendas de regalos,Maine,New England
+84,Timber Tina's Great Maine Lumberjack Show,271,Teatro y espectáculos,Maine,New England
+85,"SK Tours Of Maine, LLC",1.783,Tours turísticos,Maine,New England
+86,Cap'n Fish's Cruises,2.728,"Tours en barco, Tours turísticos",Maine,New England
+87,Schooner Surprise,1.592,"Tours en barco, Tours ecológicos",Maine,New England
+88,Bar Harbor Whale Watch Co.,2.274,"Tours en barco, Avistamiento de delfines y ballenas",Maine,New England
+89,Maine Foodie Tours,1.997,"Tours por la ciudad, Tours históricos",Maine,New England
+90,Maine State Sea Kayak,1.157,"Tours de naturaleza y vida silvestre, Práctica de kayak y canotaje",Maine,New England
+91,Acadia National Park Tours,1.440,"Tours de naturaleza y vida silvestre, Tours en autobús",Maine,New England
+92,Sea Princess Cruises,1.505,Tours en barco,Maine,New England
+93,Hardy Boat Cruises,1.110,"Tours en barco, Tours turísticos",Maine,New England
+94,Ultimate Dog Sledding Experience,124,Tours de esquí y de nieve,Maine,New England
+95,Scenic Flights of Acadia,735,Tours aéreos,Maine,New England
+96,Lucky Catch Cruises,845,"Tours en barco, Excursiones de pesca",Maine,New England
+97,Downeast Windjammer Cruises Lines,2.240,Tours en barco,Maine,New England
+98,The Real Portland Tour,1.039,Tours turísticos,Maine,New England
+99,Skydive New England,601,Tours extremos y de adrenalina,Maine,New England
+100,Maine Brews Cruise,1.359,"Tours y degustaciones de cerveza, Tours turísticos",Maine,New England
+101,Three Rivers Whitewater Rafting,851,"Rafting y nado con salvavidas en el río, Tours extremos y de adrenalina",Maine,New England
+102,Rugosa Lobster Tours,1.017,Tours en barco,Maine,New England
+103,Coastal Kayaking Tours,811,Práctica de kayak y canotaje,Maine,New England
+104,At Your Service Tours,843,"Tours históricos, Tours turísticos",Maine,New England
+105,Finestkind Scenic Cruises,581,Tours en barco,Maine,New England
+106,Portland Fire Engine,1.167,"Tours por la ciudad, Tours culturales",Maine,New England
+107,Acadia Mountain Guides Climbing School,783,"Clínicas y campos deportivos, Tours para escalar",Maine,New England
+108,Island Cruises,611,"Tours en barco, Excursiones de pesca",Maine,New England
+109,A Morning In Maine,595,Tours en barco,Maine,New England
+110,Schooner Olad & Cutter Owl,698,"Tours en barco, Escapadas de un día",Maine,New England
+111,Mainestreet,160,"Bares y boliches, Bares gay",Maine,New England
+112,Kancamagus Highway,3.581,Rutas turísticas,New Hampshire,New England
+113,Flume Gorge,1.768,"Áreas históricas peatonales, Formaciones geológicas",New Hampshire,New England
+114,Santa's Village,1.254,Parques de diversión y temáticos,New Hampshire,New England
+115,Diana's Baths,1.591,Cascadas,New Hampshire,New England
+116,Clark's Bears,1.141,Parques de diversión y temáticos,New Hampshire,New England
+117,Cathedral Ledge,1.034,"Miradores, Formaciones geológicas",New Hampshire,New England
+118,Story Land,1.301,Parques de diversión y temáticos,New Hampshire,New England
+119,Lost River Gorge and Boulder Caves,734,"Áreas de naturaleza y vida silvestre, Parques",New Hampshire,New England
+120,Strawbery Banke Museum,1.155,"Lugares históricos, Museos de historia",New Hampshire,New England
+121,Hampton Beach State Park,1.389,Playas,New Hampshire,New England
+122,Seven Birches Winery,386,Viñedos con bodegas,New Hampshire,New England
+123,Canterbury Shaker Village,372,"Lugares históricos, Museos de historia",New Hampshire,New England
+124,Currier Museum of Art,645,Museos de arte,New Hampshire,New England
+125,Market Square,751,Monumentos y lugares de interés,New Hampshire,New England
+126,Castle in the Clouds,643,Edificios con valor arquitectónico,New Hampshire,New England
+127,Whale's Tale Waterpark,555,Parques acuáticos,New Hampshire,New England
+128,USS Albacore Museum,622,"Museos especializados, Museos de historia",New Hampshire,New England
+129,Polar Caves Park,424,Cavernas y cuevas,New Hampshire,New England
+130,Prescott Park,713,"Parques, Jardines",New Hampshire,New England
+131,Nestlenook Estate & Resort Sleigh Rides,214,Granjas,New Hampshire,New England
+132,AG Paintball,198,Centros de juego y entretenimiento,New Hampshire,New England
+133,Granite State Escape,174,Juegos de escape,New Hampshire,New England
+134,Art Escape,127,Estudios de pintura y cerámica,New Hampshire,New England
+135,Mt. Washington Auto Road,2.028,"Tours para vehículos todo terreno y 4 x 4, Tours autoguiados y alquileres",New Hampshire,New England
+136,Alpine Adventures Outdoor Recreation,1.276,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",New Hampshire,New England
+137,The Breakers,6.204,Museos especializados,Rhode Island,New England
+138,Cliff Walk,5.602,"Monumentos y lugares de interés, Áreas históricas peatonales",Rhode Island,New England
+139,Ocean Drive,2.986,"Áreas históricas peatonales, Rutas turísticas",Rhode Island,New England
+140,The Elms,1.899,Museos especializados,Rhode Island,New England
+141,Newport Mansions,1.627,"Museos especializados, Edificios con valor arquitectónico",Rhode Island,New England
+142,Marble House,1.785,Museos especializados,Rhode Island,New England
+143,Mohegan Bluffs,752,"Playas, Rutas para senderismo",Rhode Island,New England
+144,Fort Adams State Park,1.154,"Lugares históricos, Parques",Rhode Island,New England
+145,Rough Point Museum,601,"Museos especializados, Lugares históricos",Rhode Island,New England
+146,Rhode Island School of Design Museum of Art,980,Museos de arte,Rhode Island,New England
+147,Thames Street,809,Monumentos y lugares de interés,Rhode Island,New England
+148,Touro Synagogue,502,"Lugares históricos, Lugares religiosos",Rhode Island,New England
+149,Bowen's Wharf,425,"Muelles y paseos peatonales, Centros comerciales",Rhode Island,New England
+150,International Tennis Hall of Fame,604,"Museos especializados, Monumentos y lugares de interés",Rhode Island,New England
+151,Rosecliff,1.049,Museos especializados,Rhode Island,New England
+152,Newport Car Museum,206,Museos especializados,Rhode Island,New England
+153,Narragansett Beach,562,Playas,Rhode Island,New England
+154,"Blithewold Mansion, Gardens & Arboretum",362,"Lugares históricos, Monumentos y lugares de interés",Rhode Island,New England
+155,Rhode Island State House,428,"Edificios con valor arquitectónico, Edificios gubernamentales",Rhode Island,New England
+156,Block Island Ferry,563,Ferris,Rhode Island,New England
+157,St. Ann Arts and Cultural Center,115,Museos especializados,Rhode Island,New England
+158,Brenton Point State Park,308,"Parques estatales, Parques",Rhode Island,New England
+159,Firehouse Theater,285,"Teatros, Clubes de comedia",Rhode Island,New England
+160,R1 Indoor Karting,145,Centros de juego y entretenimiento,Rhode Island,New England
+161,TimeMission,146,"Juegos de escape, Centros de juego y entretenimiento",Rhode Island,New England
+162,Rail Explorers,3.231,"Tours ecológicos, Tours turísticos",Rhode Island,New England
+163,Gansett Cruises,1.546,Tours en barco,Rhode Island,New England
+164,"Hildene, The Lincoln Family Home",1.442,"Lugares históricos, Museos de historia",Vermont,New England
+165,Shelburne Museum,1.243,Museos especializados,Vermont,New England
+166,Burlington Bike Path,1.160,Rutas para senderismo,Vermont,New England
+167,Church Street Marketplace,2.001,"Monumentos y lugares de interés, Mercados de las pulgas y al aire libre",Vermont,New England
+168,Sugarbush Farm,1.048,Granjas,Vermont,New England
+169,Quechee Gorge,1.051,"Cañones, Formaciones geológicas",Vermont,New England
+170,Waterfront Park,896,Parques,Vermont,New England
+171,Billings Farm & Museum,755,"Lugares históricos, Granjas",Vermont,New England
+172,Moss Glen Falls,424,Cascadas,Vermont,New England
+173,Marsh - Billings - Rockefeller National Historical Park,473,"Lugares históricos, Parques nacionales",Vermont,New England
+174,Bennington Battle Monument,762,"Miradores, Monumentos y estatuas",Vermont,New England
+175,Vermont Institute of Natural Science (VINS),384,Áreas de naturaleza y vida silvestre,Vermont,New England
+176,Smugglers Notch State Park,381,"Parques estatales, Áreas históricas peatonales",Vermont,New England
+177,Trapp Family Lodge Outdoor Center,550,"Áreas para esquiar y practicar snowboard, Áreas para practicar esquí de fondo",Vermont,New England
+178,Baird Farm Vermont Maple Syrup,205,Granjas,Vermont,New England
+179,Vermont State House,483,"Edificios con valor arquitectónico, Edificios gubernamentales",Vermont,New England
+180,Morse Farm Maple Sugarworks,500,Granjas,Vermont,New England
+181,Dog Mountain Home of Stephen Huneck Gallery,232,Parques,Vermont,New England
+182,North Meadow Farm,121,Granjas,Vermont,New England
+183,The Alchemist Brewery,325,Cervecerías,Vermont,New England
+184,Vermont Toy Museum,143,"Tiendas de regalos, Museos especializados",Vermont,New England
+185,Pastime Pinball,106,Centros de juego y entretenimiento,Vermont,New England
+186,Snowmobile Vermont,273,Tours de esquí y de nieve,Vermont,New England
+187,Snowmobile Vermont,310,Tours de esquí y de nieve,Vermont,New England
+188,Snowmobile Vermont,190,Tours de esquí y de nieve,Vermont,New England
+189,Whistling Man Schooner Company,1.095,"Tours históricos, Tours en barco",Vermont,New England

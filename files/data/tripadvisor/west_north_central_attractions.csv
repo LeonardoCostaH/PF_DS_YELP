@@ -1,0 +1,317 @@
+,attraction,n_reviews,categories,state,region
+0,Theodore Roosevelt National Park,1.884,Parques nacionales,North Dakota,West North Central
+1,Scandinavian Heritage Park,370,Parques,North Dakota,West North Central
+2,Fargo-Moorhead Visitors Center,444,Centros de información turística,North Dakota,West North Central
+3,South Unit,267,"Áreas históricas peatonales, Parques nacionales",North Dakota,West North Central
+4,North Dakota Heritage Center & State Museum,649,"Tiendas de regalos, Museos de historia",North Dakota,West North Central
+5,North Unit,185,Parques nacionales,North Dakota,West North Central
+6,North Dakota State Capitol Building,312,Edificios gubernamentales,North Dakota,West North Central
+7,International Peace Garden,208,Jardines,North Dakota,West North Central
+8,Medora Musical,881,Teatro y espectáculos,North Dakota,West North Central
+9,Mount Rushmore National Memorial,11.914,"Parques nacionales, Monumentos y estatuas",South Dakota,West North Central
+10,Custer State Park,6.209,Parques estatales,South Dakota,West North Central
+11,Bear Country USA,4.256,Áreas de naturaleza y vida silvestre,South Dakota,West North Central
+12,Falls Park,3.428,Parques,South Dakota,West North Central
+13,Wildlife Loop Road,2.768,Rutas turísticas,South Dakota,West North Central
+14,Sylvan Lake,2.002,Masas de agua,South Dakota,West North Central
+15,Reptile Gardens,2.334,"Áreas de naturaleza y vida silvestre, Zoológicos",South Dakota,West North Central
+16,The Mammoth Site of Hot Springs,1.788,"Museos de historia natural, Museos de ciencia",South Dakota,West North Central
+17,Rushmore Tramway Adventures,1.659,Parques de diversión y temáticos,South Dakota,West North Central
+18,Needles Highway,968,Rutas turísticas,South Dakota,West North Central
+19,Iron Mountain Road,1.728,Rutas turísticas,South Dakota,West North Central
+20,Loop Road,1.988,Rutas turísticas,South Dakota,West North Central
+21,Needles Eye,1.739,Formaciones geológicas,South Dakota,West North Central
+22,Spearfish Canyon,832,Cañones,South Dakota,West North Central
+23,Badlands National Park,960,Parques nacionales,South Dakota,West North Central
+24,Badlands National Park,1.070,Parques nacionales,South Dakota,West North Central
+25,Big Thunder Gold Mine,1.281,Minas,South Dakota,West North Central
+26,Downtown Rapid City,2.341,Barrios,South Dakota,West North Central
+27,Mount Moriah Cemetery,1.870,Cementerios,South Dakota,West North Central
+28,Presidential Trail,1.466,Rutas para senderismo,South Dakota,West North Central
+29,Spearfish Canyon Scenic Byway,964,Rutas turísticas,South Dakota,West North Central
+30,Jewel Cave National Monument,1.433,"Parques nacionales, Cavernas y cuevas",South Dakota,West North Central
+31,Black Hills National Forest,914,"Parques nacionales, Áreas de naturaleza y vida silvestre",South Dakota,West North Central
+32,Akta Lakota Museum,472,Museos de historia,South Dakota,West North Central
+33,Chapel in the Hills,680,"Edificios con valor arquitectónico, Iglesias y catedrales",South Dakota,West North Central
+34,Adams House,515,"Lugares históricos, Museos de historia",South Dakota,West North Central
+35,Minuteman Missile National Historic Site,875,"Lugares históricos, Parques nacionales",South Dakota,West North Central
+36,Dignity,392,"Monumentos y lugares de interés, Monumentos y estatuas",South Dakota,West North Central
+37,Rush Mountain Adventure Park,718,Parques de diversión y temáticos,South Dakota,West North Central
+38,SculptureWalk,558,Rutas para senderismo,South Dakota,West North Central
+39,Museum of Geology,385,Museos especializados,South Dakota,West North Central
+40,Wind Cave National Park,745,"Parques nacionales, Áreas de naturaleza y vida silvestre",South Dakota,West North Central
+41,The Journey Museum and Learning Center,405,Museos especializados,South Dakota,West North Central
+42,Notch Trail,404,Rutas para senderismo,South Dakota,West North Central
+43,Dinosaur Park,1.142,Monumentos y lugares de interés,South Dakota,West North Central
+44,Cathedral Spires Hiking Trail,236,Rutas para senderismo,South Dakota,West North Central
+45,Fort Hays Old West Town and Dinner Show,1.105,"Monumentos y lugares de interés, Teatros donde se puede cenar",South Dakota,West North Central
+46,National Presidential Wax Museum,397,Museos especializados,South Dakota,West North Central
+47,Tatanka: Story of the Bison,459,"Museos especializados, Monumentos y lugares de interés",South Dakota,West North Central
+48,Laura Ingalls Wilder Historic Homes,237,"Lugares históricos, Monumentos y lugares de interés",South Dakota,West North Central
+49,Saloon #10 American Whiskey Bar,1.064,"Museos especializados, Bares y boliches",South Dakota,West North Central
+50,Black Hills Caverns,200,"Tiendas de regalos, Lugares históricos",South Dakota,West North Central
+51,Wonderland Caves,166,Cavernas y cuevas,South Dakota,West North Central
+52,The Brothel Deadwood,40,Museos especializados,South Dakota,West North Central
+53,Needle Eye Tunnel,34,Monumentos y lugares de interés,South Dakota,West North Central
+54,Moccasin Springs,55,"Fuentes termales y géiseres, Spas termales",South Dakota,West North Central
+55,The Stables at Palmer Gulch,429,Tours a caballo,South Dakota,West North Central
+56,Dahl's Chainsaw Art,60,Galerías de arte,South Dakota,West North Central
+57,Escapades Escape Rooms,274,"Juegos de escape, Centros de juego y entretenimiento",South Dakota,West North Central
+58,Safari Zoological Park,1.142,Zoológicos,Kansas,West North Central
+59,Strataca,881,"Museos especializados, Minas",Kansas,West North Central
+60,Boot Hill Museum,1.124,Museos de historia,Kansas,West North Central
+61,Dwight D. Eisenhower Presidential Library and Museum,934,Museos especializados,Kansas,West North Central
+62,Botanica: The Wichita Gardens,760,Jardines,Kansas,West North Central
+63,Cosmosphere,695,"Museos especializados, Museos de ciencia",Kansas,West North Central
+64,The Keeper of the Plains,872,Monumentos y lugares de interés,Kansas,West North Central
+65,Museum of World Treasures,576,Museos especializados,Kansas,West North Central
+66,Kansas State Capitol Building,586,Edificios gubernamentales,Kansas,West North Central
+67,Old Cowtown Museum,482,"Lugares históricos, Museos de historia",Kansas,West North Central
+68,Evel Knievel Museum,488,Museos especializados,Kansas,West North Central
+69,OZ Museum,546,"Tiendas de regalos, Museos especializados",Kansas,West North Central
+70,Bury the Hatchet,836,Centros de juego y entretenimiento,Kansas,West North Central
+71,New Theatre & Restaurant,1.031,Teatros donde se puede cenar,Kansas,West North Central
+72,Locked Manhattan,528,Juegos de escape,Kansas,West North Central
+73,Mastermind Escape Games,316,Juegos de escape,Kansas,West North Central
+74,Mall of America,5.974,Centros comerciales,Minnesota,West North Central
+75,Minnesota's North Shore Scenic Drive,2.013,Rutas turísticas,Minnesota,West North Central
+76,Minneapolis Institute of Art,2.392,Museos de arte,Minnesota,West North Central
+77,Minnehaha Park,2.500,"Parques, Cascadas",Minnesota,West North Central
+78,Gooseberry Falls State Park,1.647,"Parques estatales, Rutas para ciclismo",Minnesota,West North Central
+79,Target Field,3.042,Complejos deportivos,Minnesota,West North Central
+80,Aerial Lift Bridge,1.732,Puentes,Minnesota,West North Central
+81,Cathedral of Saint Paul,1.079,Lugares religiosos,Minnesota,West North Central
+82,Mill City Museum,1.570,"Museos especializados, Museos de historia",Minnesota,West North Central
+83,Minneapolis Sculpture Garden,1.815,"Monumentos y lugares de interés, Jardines",Minnesota,West North Central
+84,Canal Park,1.465,"Monumentos y lugares de interés, Parques",Minnesota,West North Central
+85,Glensheen - The Historic Congdon Estate,1.294,"Museos especializados, Lugares históricos",Minnesota,West North Central
+86,Split Rock Lighthouse,1.107,"Monumentos y lugares de interés, Faros",Minnesota,West North Central
+87,Minnesota State Fair,1.243,Monumentos y lugares de interés,Minnesota,West North Central
+88,Itasca State Park,552,Parques estatales,Minnesota,West North Central
+89,North American Bear Center,732,"Museos especializados, Museos de ciencia",Minnesota,West North Central
+90,Enger Park and Tower,913,"Monumentos y lugares de interés, Parques",Minnesota,West North Central
+91,National Eagle Center,808,Áreas de naturaleza y vida silvestre,Minnesota,West North Central
+92,Spam Museum and Visitor Center,712,Museos especializados,Minnesota,West North Central
+93,Lakewalk,922,Áreas históricas peatonales,Minnesota,West North Central
+94,International Wolf Center,736,"Museos especializados, Áreas de naturaleza y vida silvestre",Minnesota,West North Central
+95,Lake Superior Maritime Visitor Center,686,"Centros de información turística, Museos especializados",Minnesota,West North Central
+96,Science Museum of Minnesota,1.131,"Museos especializados, Museos de historia natural",Minnesota,West North Central
+97,Paisley Park,719,"Museos especializados, Monumentos y lugares de interés",Minnesota,West North Central
+98,Chilly Dogs Sled Dog Trips,262,Rutas para senderismo,Minnesota,West North Central
+99,Niagara Cave,287,Cavernas y cuevas,Minnesota,West North Central
+100,Commonweal Theatre Company,241,Teatros,Minnesota,West North Central
+101,Mississippi Headwaters,286,Monumentos y lugares de interés,Minnesota,West North Central
+102,Minnehaha Falls,484,Monumentos y lugares de interés,Minnesota,West North Central
+103,Grand Portage National Monument,356,Museos especializados,Minnesota,West North Central
+104,Minnesota State Capitol,400,"Lugares históricos, Monumentos y lugares de interés",Minnesota,West North Central
+105,Extreme Sandbox - Minnesota,664,Centros de juego y entretenimiento,Minnesota,West North Central
+106,Split Rock Lighthouse State Park,273,Parques estatales,Minnesota,West North Central
+107,Vince Shute Wildlife Sanctuary,170,Áreas de naturaleza y vida silvestre,Minnesota,West North Central
+108,Great Lakes Aquarium,618,"Museos especializados, Museos de historia natural",Minnesota,West North Central
+109,Minnesota Transportation Museum,99,Museos especializados,Minnesota,West North Central
+110,Wild State Cider,55,"Destilerías, Viñedos con bodegas",Minnesota,West North Central
+111,Escapology,747,Juegos de escape,Minnesota,West North Central
+112,Lake Superior Art Glass,317,"Tiendas de regalos, Galerías de arte",Minnesota,West North Central
+113,Zero Hour Escape Rooms,692,Juegos de escape,Minnesota,West North Central
+114,"Running Aces Casino, Hotel & Racetrack",235,"Casinos,  Carreras de caballos",Minnesota,West North Central
+115,The Escape Challenge,327,Juegos de escape,Minnesota,West North Central
+116,The Haygoods,8.786,Teatros,Missouri,West North Central
+117,Sight & Sound Theatres,8.345,Teatros,Missouri,West North Central
+118,The Gateway Arch,12.700,"Monumentos y lugares de interés, Torres y observatorios",Missouri,West North Central
+119,National WWI Museum and Memorial,5.641,"Museos militares, Museos de historia",Missouri,West North Central
+120,Titanic Museum,7.432,"Museos especializados, Lugares educativos",Missouri,West North Central
+121,Silver Dollar City,12.189,"Parques de diversión y temáticos, Parques acuáticos",Missouri,West North Central
+122,St. Louis Zoo,8.683,Zoológicos,Missouri,West North Central
+123,Missouri Botanical Garden,4.483,Jardines,Missouri,West North Central
+124,The Nelson-Atkins Museum of Art,3.332,Museos de arte,Missouri,West North Central
+125,Busch Stadium,4.953,Campos de juego y estadios,Missouri,West North Central
+126,Cathedral Basilica of Saint Louis,3.112,Iglesias y catedrales,Missouri,West North Central
+127,Arabia Steamboat Museum,2.240,"Museos especializados, Museos de historia",Missouri,West North Central
+128,Presleys' Country Jubilee,1.872,Teatros,Missouri,West North Central
+129,Fantastic Caverns,2.094,Cavernas y cuevas,Missouri,West North Central
+130,Grant’s Farm,2.380,Granjas,Missouri,West North Central
+131,Forest Park,2.495,Parques,Missouri,West North Central
+132,Dogwood Canyon Nature Park,1.559,"Áreas de naturaleza y vida silvestre, Parques",Missouri,West North Central
+133,College of the Ozarks,3.175,"Miradores, Jardines",Missouri,West North Central
+134,Missouri State Penitentiary,1.392,Lugares históricos,Missouri,West North Central
+135,Pierce Arrow,2.910,Teatros,Missouri,West North Central
+136,Jerry Presley's God and Country Theaters,1.735,Teatros,Missouri,West North Central
+137,Harry S. Truman Presidential Library & Museum,1.510,"Museos especializados, Bibliotecas",Missouri,West North Central
+138,Branson Landing,2.679,Centros comerciales,Missouri,West North Central
+139,Runaway Mountain Coaster,1.986,Parques de diversión y temáticos,Missouri,West North Central
+140,Union Station,2.559,Lugares históricos,Missouri,West North Central
+141,Rockcliffe Mansion (Tours),906,"Lugares históricos, Edificios con valor arquitectónico",Missouri,West North Central
+142,Saint Louis Art Museum,1.464,Museos de arte,Missouri,West North Central
+143,Ha Ha Tonka State Park,853,Parques estatales,Missouri,West North Central
+144,Shepherd of the Hills Fish Hatchery,2.017,Áreas de naturaleza y vida silvestre,Missouri,West North Central
+145,Negro Leagues Baseball Museum,1.099,Museos especializados,Missouri,West North Central
+146,Johnny Morris' Wonders of Wildlife National Museum and Aquarium,1.331,"Museos de historia natural, Acuarios",Missouri,West North Central
+147,Hughes Brothers Theatre,1.718,Teatros,Missouri,West North Central
+148,St. Charles Historic District,1.402,Áreas históricas peatonales,Missouri,West North Central
+149,The Butterfly Palace,1.654,Áreas de naturaleza y vida silvestre,Missouri,West North Central
+150,Branson's Promised Land Zoo,2.180,Zoológicos,Missouri,West North Central
+151,The Fabulous Fox Theatre,880,Teatros,Missouri,West North Central
+152,Kansas City Zoo & Aquarium,1.564,Zoológicos,Missouri,West North Central
+153,Branson Landing Fountain Show,2.383,"Monumentos y lugares de interés, Fuentes",Missouri,West North Central
+154,Aquarium At The Boardwalk,731,Acuarios,Missouri,West North Central
+155,Bridal Cave,530,Cavernas y cuevas,Missouri,West North Central
+156,Mark Twain Cave and Cameron Cave,795,Cavernas y cuevas,Missouri,West North Central
+157,Meramec Caverns,910,Cavernas y cuevas,Missouri,West North Central
+158,Science City at Union Station,580,Museos de ciencia,Missouri,West North Central
+159,Boulevard Brewing Company,665,Cervecerías,Missouri,West North Central
+160,Veterans Memorial Museum,709,"Museos especializados, Museos de historia",Missouri,West North Central
+161,Gateway Arch National Park,534,"Monumentos y lugares de interés, Parques nacionales",Missouri,West North Central
+162,The National Museum of Toys and Miniatures,350,Museos especializados,Missouri,West North Central
+163,Bingham Waggoner Mansion & Estate,407,Lugares históricos,Missouri,West North Central
+164,Stark Caverns,220,Cavernas y cuevas,Missouri,West North Central
+165,Table Rock Dam,780,Represas,Missouri,West North Central
+166,Table Rock State Park,488,Parques estatales,Missouri,West North Central
+167,The Branson Coaster,774,Parques de diversión y temáticos,Missouri,West North Central
+168,Mark Twain Boyhood Home and Museum,1.046,Lugares históricos,Missouri,West North Central
+169,Ulysses S. Grant National Historical Site,561,Lugares históricos,Missouri,West North Central
+170,Lone Elk Park,526,Parques,Missouri,West North Central
+171,Lost Canyon Nature Trail and Cave,525,Rutas para senderismo,Missouri,West North Central
+172,Branson's Famous Baldknobbers,1.481,Teatros,Missouri,West North Central
+173,Hollywood Wax Museum,1.759,"Museos especializados, Centros de juego y entretenimiento",Missouri,West North Central
+174,Historic Downtown Branson,935,Barrios,Missouri,West North Central
+175,World Bird Sanctuary,319,Áreas de naturaleza y vida silvestre,Missouri,West North Central
+176,Ozark Distillery and Brewery,278,Destilerías,Missouri,West North Central
+177,Tanger Outlets Branson,933,"Tiendas de fábricas, Centros comerciales",Missouri,West North Central
+178,Stone Hill Winery,723,Viñedos con bodegas,Missouri,West North Central
+179,Campbell House Museum,177,"Museos especializados, Lugares históricos",Missouri,West North Central
+180,The Track Family Fun Parks Track 4,1.306,Parques de diversión y temáticos,Missouri,West North Central
+181,Hallmark Visitors Center,496,"Centros de información turística, Museos especializados",Missouri,West North Central
+182,Pony Express Museum,448,Museos especializados,Missouri,West North Central
+183,Ancient Ozarks Natural History Museum,377,"Museos de historia natural, Museos de historia",Missouri,West North Central
+184,Anheuser-Busch Brewery,542,Cervecerías,Missouri,West North Central
+185,Elephant Rocks State Park,366,Parques estatales,Missouri,West North Central
+186,Lake Taneycomo,398,Masas de agua,Missouri,West North Central
+187,The Money Museum,497,Museos especializados,Missouri,West North Central
+188,Branson Ferris Wheel,765,Torres y observatorios,Missouri,West North Central
+189,Smallin Civil War Cave,287,Cavernas y cuevas,Missouri,West North Central
+190,The Branson Craft Mall,555,Centros comerciales,Missouri,West North Central
+191,White Water,757,Parques acuáticos,Missouri,West North Central
+192,Dolly Parton's Stampede Dinner Attraction,8.047,Teatros donde se puede cenar,Missouri,West North Central
+193,Jefferson Barracks Telephone Museum,145,"Museos especializados, Monumentos y lugares de interés",Missouri,West North Central
+194,Harry S Truman National Historic Site,546,Lugares históricos,Missouri,West North Central
+195,Showboat Branson Belle,4.604,"Teatros donde se puede cenar, Teatro y espectáculos",Missouri,West North Central
+196,Clay Cooper Theatre,2.812,Tiendas de regalos,Missouri,West North Central
+197,Top of the Rock Ozarks Heritage Preserve,147,"Monumentos y lugares de interés, Miradores",Missouri,West North Central
+198,Branson's Wild World,915,Zoológicos,Missouri,West North Central
+199,TWA Museum,136,Museos especializados,Missouri,West North Central
+200,Grand Country Indoor Mini Golf,371,Parques de diversión y temáticos,Missouri,West North Central
+201,National Blues Museum,330,Museos especializados,Missouri,West North Central
+202,Americana Theatre,129,Teatros,Missouri,West North Central
+203,Lewis & Clark Boat House and Museum,189,Museos especializados,Missouri,West North Central
+204,Pirate's Cove Adventure Golf,469,Centros de juego y entretenimiento,Missouri,West North Central
+205,The Mansion Theatre for the Performing Arts,184,Teatros,Missouri,West North Central
+206,Big Joel's Safari,107,Zoológicos,Missouri,West North Central
+207,Dean Z - the Ultimate Elvis,1.476,"Conciertos, Teatros",Missouri,West North Central
+208,Celebrity Car Museum,257,Museos especializados,Missouri,West North Central
+209,Branson Auto & Farm Museum,380,Museos especializados,Missouri,West North Central
+210,Warm Springs Ranch,941,Ranchos,Missouri,West North Central
+211,Route 66 Car Museum,95,Museos especializados,Missouri,West North Central
+212,Historic Downtown Hannibal,129,Barrios,Missouri,West North Central
+213,Hermann Farm,40,Granjas,Missouri,West North Central
+214,The Petersens,1.012,Teatro y espectáculos,Missouri,West North Central
+215,Bass Pro Shops Outdoor World,1.577,Tiendas de regalos,Missouri,West North Central
+216,Hamners' Unbelievable,1.745,"Conciertos, Teatros",Missouri,West North Central
+217,Country Evolution with Dalena Ditto,65,Teatros,Missouri,West North Central
+218,Yakov Smirnoff Show,816,"Teatros, Clubes de comedia",Missouri,West North Central
+219,Branson Murder Mystery Branson's Original and #1 Murder Mystery,1.217,Teatros donde se puede cenar,Missouri,West North Central
+220,Smoke on the Mountain,1.060,Teatro y espectáculos,Missouri,West North Central
+221,Legends In Concert,1.864,"Conciertos, Teatros",Missouri,West North Central
+222,Missouri State Penitentiary Museum,61,Museos de historia,Missouri,West North Central
+223,Escape Reality Magic Dinner Show,1.319,Teatro y espectáculos,Missouri,West North Central
+224,1984 Branson,141,Centros de juego y entretenimiento,Missouri,West North Central
+225,KC Streetcar,198,Sistemas de transporte público,Missouri,West North Central
+226,Back to the Bee Gees,197,"Conciertos, Teatros",Missouri,West North Central
+227,Sons of Britches,844,"Conciertos, Teatros",Missouri,West North Central
+228,Puzzle Warehouse,521,Tiendas de regalos,Missouri,West North Central
+229,Henry Doorly Zoo,5.988,"Teatros, Zoológicos",Nebraska,West North Central
+230,Museum of American Speed,803,Museos especializados,Nebraska,West North Central
+231,The Durham Museum,1.227,Museos de historia,Nebraska,West North Central
+232,Old Market,2.576,Barrios,Nebraska,West North Central
+233,Lauritzen Gardens Omaha's Botanical Center,1.145,Jardines,Nebraska,West North Central
+234,Nebraska State Capitol,873,Edificios gubernamentales,Nebraska,West North Central
+235,Bob Kerrey Pedestrian Bridge,1.477,Puentes,Nebraska,West North Central
+236,Sunken Gardens,763,Jardines,Nebraska,West North Central
+237,Scotts Bluff National Monument,647,Parques nacionales,Nebraska,West North Central
+238,Golden Spike Tower and Visitor Center,586,Centros de información turística,Nebraska,West North Central
+239,Strategic Air Command & Aerospace Museum,552,Museos especializados,Nebraska,West North Central
+240,Classic Car Collection,214,Museos especializados,Nebraska,West North Central
+241,Union Pacific Railroad Bailey Yard,281,Lugares históricos,Nebraska,West North Central
+242,Gene Leahy Mall,264,Parques,Nebraska,West North Central
+243,Joslyn Castle,134,Lugares históricos,Nebraska,West North Central
+244,Chimney Rock National Historic Site,346,"Lugares históricos, Parques nacionales",Nebraska,West North Central
+245,Christine's horseback riding,164,"Rutas ecuestres, Tours a caballo",Nebraska,West North Central
+246,Craft Axe Throwing- Omaha,139,Centros de juego y entretenimiento,Nebraska,West North Central
+247,Locked Room Omaha,159,Juegos de escape,Nebraska,West North Central
+248,House of Conundrum,146,Juegos de escape,Nebraska,West North Central
+249,Dusty Trails,49,Tours a caballo,Nebraska,West North Central
+250,Gran Cañón de Yellowstone,5.159,Cañones,Wyoming,West North Central
+251,Centro Histórico Buffalo Bill,4.724,"Museos especializados, Museos de historia",Wyoming,West North Central
+252,Devils Tower National Monument,3.820,Formaciones geológicas,Wyoming,West North Central
+253,Grand Teton,2.814,Montañas,Wyoming,West North Central
+254,Lamar Valley,3.073,Rutas turísticas,Wyoming,West North Central
+255,Grand Prismatic Spring,3.187,Fuentes termales y géiseres,Wyoming,West North Central
+256,Yellowstone National Park,1.824,Parques nacionales,Wyoming,West North Central
+257,Old Faithful,5.063,Fuentes termales y géiseres,Wyoming,West North Central
+258,National Museum of Wildlife Art,2.072,"Museos especializados, Museos de arte",Wyoming,West North Central
+259,Jackson Hole Aerial Tram,2.008,Tranvías,Wyoming,West North Central
+260,Artist Point,1.338,"Monumentos y lugares de interés, Rutas para senderismo",Wyoming,West North Central
+261,Cody Dug Up Gun Museum,785,Museos especializados,Wyoming,West North Central
+262,Upper Geyser Basin,1.351,Fuentes termales y géiseres,Wyoming,West North Central
+263,National Elk Refuge,1.829,Áreas de naturaleza y vida silvestre,Wyoming,West North Central
+264,Jackson Town Square,2.804,Monumentos y lugares de interés,Wyoming,West North Central
+265,Yellowstone Lake,1.803,Masas de agua,Wyoming,West North Central
+266,Mammoth Hot Springs,2.207,Fuentes termales y géiseres,Wyoming,West North Central
+267,National Historic Trails Interpretive Center,553,Museos de historia,Wyoming,West North Central
+268,Jenny Lake,810,Masas de agua,Wyoming,West North Central
+269,Hayden Valley,1.141,Áreas de naturaleza y vida silvestre,Wyoming,West North Central
+270,Cody Firearms Museum,694,Museos especializados,Wyoming,West North Central
+271,Old Trail Town,1.202,Lugares históricos,Wyoming,West North Central
+272,Grand Loop Road,783,Rutas turísticas,Wyoming,West North Central
+273,Jackson Hole Rodeo,789, Carreras de caballos,Wyoming,West North Central
+274,Wyoming Territorial Prison State Historic Site,532,Lugares históricos,Wyoming,West North Central
+275,Buffalo Bill Dam,1.053,Represas,Wyoming,West North Central
+276,West Thumb Geyser Basin,910,Fuentes termales y géiseres,Wyoming,West North Central
+277,Wild West Spectacular,200,Teatros,Wyoming,West North Central
+278,Grand Teton National Park,344,Parques nacionales,Wyoming,West North Central
+279,Teton Raptor Center,186,Áreas de naturaleza y vida silvestre,Wyoming,West North Central
+280,Jackson Hole Playhouse,517,Teatros,Wyoming,West North Central
+281,Grand Targhee Ski Resort,499,Áreas para esquiar y practicar snowboard,Wyoming,West North Central
+282,American Fossil,190,"Áreas de naturaleza y vida silvestre, Formaciones geológicas",Wyoming,West North Central
+283,Hot Springs State Park,742,"Parques estatales, Fuentes termales y géiseres",Wyoming,West North Central
+284,Midway Geyser Basin,599,Fuentes termales y géiseres,Wyoming,West North Central
+285,National Museum of Military Vehicles,92,"Museos militares, Museos especializados",Wyoming,West North Central
+286,Heart Mountain Interpretive Center,299,Museos de historia,Wyoming,West North Central
+287,Museum of the Plains Indian,305,"Museos especializados, Museos de historia",Wyoming,West North Central
+288,Antler Arches of Jackson,560,Monumentos y lugares de interés,Wyoming,West North Central
+289,Museum of the Mountain Man,263,Museos especializados,Wyoming,West North Central
+290,Devil's Tower National Monument Visitor Center,610,Centros de información turística,Wyoming,West North Central
+291,Fort Laramie National Historic Site,478,"Lugares históricos, Parques nacionales",Wyoming,West North Central
+292,Wyoming Frontier Prison,294,"Museos especializados, Lugares históricos",Wyoming,West North Central
+293,Cheyenne Depot Museum,519,Museos especializados,Wyoming,West North Central
+294,Mormon Row Historic District,569,Lugares históricos,Wyoming,West North Central
+295,Yellowstone Geysers - Mud Volcano Area,535,"Fuentes termales y géiseres, Volcanes",Wyoming,West North Central
+296,Wyoming State Capitol,345,Edificios gubernamentales,Wyoming,West North Central
+297,Tower Trail,362,"Monumentos y lugares de interés, Áreas peatonales pintorescas",Wyoming,West North Central
+298,The Cody Cattle Company,789,Teatros donde se puede cenar,Wyoming,West North Central
+299,Jackson Hole Shooting Experience,800,"Clínicas y campos deportivos, Campos de tiro",Wyoming,West North Central
+300,Mill Iron Ranch,590,Tours a caballo,Wyoming,West North Central
+301,Cheyenne Botanic Gardens,204,Jardines,Wyoming,West North Central
+302,Old Faithful Snowmobile Tours - Day Tours,338,Tours de esquí y de nieve,Wyoming,West North Central
+303,Willow Creek Horseback Rides,216,Tours a caballo,Wyoming,West North Central
+304,Jackson Hole Eco Tour Adventures,3.355,"Tours ecológicos, Tours de naturaleza y vida silvestre",Wyoming,West North Central
+305,BrushBuck Wildlife Tours,3.177,"Tours de varios días, Tours ecológicos",Wyoming,West North Central
+306,Jackson Hole Backcountry Rentals,315,Alquileres de equipos,Wyoming,West North Central
+307,"Cody Firearms Experience, LLC",410,"Campos de tiro, Centros de juego y entretenimiento",Wyoming,West North Central
+308,Solitude Float Trips,1.713,"Tours en barco, Tours turísticos",Wyoming,West North Central
+309,Jackson Hole Adventure Rentals,255,Alquileres de equipos,Wyoming,West North Central
+310,North Fork Trail Rides,283,Tours a caballo,Wyoming,West North Central
+311,Jackson Hole Wildlife Safaris,1.709,"Tours ecológicos, Tours privados",Wyoming,West North Central
+312,Jackson Hole Whitewater,1.324,Rafting y nado con salvavidas en el río,Wyoming,West North Central
+313,Bar-T-5 Covered Wagon Cookout,613,Teatros donde se puede cenar,Wyoming,West North Central
+314,Barker-Ewing Scenic Float Trips,1.052,Tours turísticos,Wyoming,West North Central
+315,Wildlife Expeditions of Teton Science Schools,1.293,Tours de naturaleza y vida silvestre,Wyoming,West North Central

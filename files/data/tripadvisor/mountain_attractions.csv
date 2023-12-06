@@ -1,0 +1,825 @@
+,attraction,n_reviews,categories,state,region
+0,Grand Canyon South Rim,23.475,Cañones,Arizona,Mountain
+1,Horseshoe Bend,15.386,"Miradores, Formaciones geológicas",Arizona,Mountain
+2,Antelope Canyon,8.765,Cañones,Arizona,Mountain
+3,Desert Botanical Garden,9.113,Jardines,Arizona,Mountain
+4,Chapel of the Holy Cross,10.707,"Edificios con valor arquitectónico, Lugares misteriosos",Arizona,Mountain
+5,Arizona-Sonora Desert Museum,8.854,"Galerías de arte, Museos especializados",Arizona,Mountain
+6,Musical Instrument Museum,6.534,Museos especializados,Arizona,Mountain
+7,Cathedral Rock,6.054,Formaciones geológicas,Arizona,Mountain
+8,Lower Antelope Canyon,6.979,Cañones,Arizona,Mountain
+9,Pima Air and Space Museum,4.904,Museos especializados,Arizona,Mountain
+10,Devil's Bridge Trail,3.685,Rutas para senderismo,Arizona,Mountain
+11,Sabino Canyon,4.884,Cañones,Arizona,Mountain
+12,Bell Rock,4.997,Formaciones geológicas,Arizona,Mountain
+13,Taliesin West,4.181,Edificios con valor arquitectónico,Arizona,Mountain
+14,Southwest Wildlife Conservation Center,1.264,Áreas de naturaleza y vida silvestre,Arizona,Mountain
+15,Oak Creek Canyon,3.426,"Cañones, Rutas para senderismo",Arizona,Mountain
+16,Bearizona Wildlife Park,3.800,"Safaris, Áreas de naturaleza y vida silvestre",Arizona,Mountain
+17,Heard Museum,2.973,"Museos especializados, Museos de arte",Arizona,Mountain
+18,Walnut Canyon National Monument,2.754,"Parques nacionales, Cañones",Arizona,Mountain
+19,Red Rock Scenic Byway (SR 179),4.283,Rutas turísticas,Arizona,Mountain
+20,Mission San Xavier del Bac,4.398,"Edificios con valor arquitectónico, Misiones",Arizona,Mountain
+21,Mt. Lemmon Scenic Byway,3.245,Rutas turísticas,Arizona,Mountain
+22,Camelback Mountain,2.555,Montañas,Arizona,Mountain
+23,Bright Angel Trail,2.394,Rutas para senderismo,Arizona,Mountain
+24,Kartchner Caverns State Park,1.826,"Parques estatales, Cavernas y cuevas",Arizona,Mountain
+25,Montezuma Castle National Monument,2.667,Lugares históricos,Arizona,Mountain
+26,Airport Mesa,2.876,Rutas para senderismo,Arizona,Mountain
+27,Wupatki National Monument,2.098,"Lugares históricos, Ruinas antiguas",Arizona,Mountain
+28,Grand Canyon North Rim,2.438,Cañones,Arizona,Mountain
+29,Titan Missile Museum,1.468,Museos militares,Arizona,Mountain
+30,Slide Rock State Park,2.410,Parques estatales,Arizona,Mountain
+31,O.K. Corral,2.707,Museos de historia,Arizona,Mountain
+32,Canyon de Chelly National Monument,1.917,Cañones,Arizona,Mountain
+33,Chase Field,2.363,Campos de juego y estadios,Arizona,Mountain
+34,Painted Desert,2.498,Desiertos,Arizona,Mountain
+35,South Kaibab Trail,1.750,Rutas para senderismo,Arizona,Mountain
+36,Lowell Observatory,2.000,Observatorios y planetarios,Arizona,Mountain
+37,Red Rock State Park,1.603,"Parques estatales, Áreas de naturaleza y vida silvestre",Arizona,Mountain
+38,Sunset Crater Volcano National Monument,2.156,"Parques nacionales, Monumentos y estatuas",Arizona,Mountain
+39,Saguaro National Park,1.273,Parques nacionales,Arizona,Mountain
+40,Hole in the Rock,1.100,Formaciones geológicas,Arizona,Mountain
+41,McCormick-Stillman Railroad Park,1.242,Parques de diversión y temáticos,Arizona,Mountain
+42,Tohono Chul,1.432,Parques,Arizona,Mountain
+43,Rim Trail,1.555,Rutas para senderismo,Arizona,Mountain
+44,Broken Arrow Trail,1.437,Rutas para senderismo,Arizona,Mountain
+45,Yuma Territorial Prison State Historic Park,1.464,"Lugares históricos, Parques estatales",Arizona,Mountain
+46,South Mountain Park,1.335,Parques,Arizona,Mountain
+47,McDowell Sonoran Preserve,1.145,Áreas de naturaleza y vida silvestre,Arizona,Mountain
+48,Copper Queen Mine,977,Minas,Arizona,Mountain
+49,Mather Point,1.603,Miradores,Arizona,Mountain
+50,Petrified Forest National Park,1.314,Parques nacionales,Arizona,Mountain
+51,Grand Canyon Desert View Watchtower,1.269,Torres y observatorios,Arizona,Mountain
+52,Chiricahua National Monument,844,"Áreas de naturaleza y vida silvestre, Monumentos y estatuas",Arizona,Mountain
+53,Grand Canyon National Park,848,"Monumentos y lugares de interés, Parques nacionales",Arizona,Mountain
+54,Bird Cage Theatre,1.713,"Monumentos y lugares de interés, Lugares misteriosos",Arizona,Mountain
+55,Watson Lake,1.029,Masas de agua,Arizona,Mountain
+56,Boynton Canyon Trail,1.045,"Cañones, Rutas para senderismo",Arizona,Mountain
+57,Butterfly Wonderland,1.530,Zoológicos,Arizona,Mountain
+58,Jardín Botánico de Tucson,1.042,Jardines,Arizona,Mountain
+59,Tonto Natural Bridge State Park,933,Parques estatales,Arizona,Mountain
+60,Pinnacle Peak Park,1.014,Parques,Arizona,Mountain
+61,KOLI Equestrian Center,624,Rutas ecuestres,Arizona,Mountain
+62,Glen Canyon National Recreation Area,898,"Parques nacionales, Áreas de naturaleza y vida silvestre",Arizona,Mountain
+63,Catalina State Park,820,Parques estatales,Arizona,Mountain
+64,Downtown Historic Area,1.092,Lugares históricos,Arizona,Mountain
+65,Amitabha Stupa & Peace Park,799,"Parques, Lugares religiosos",Arizona,Mountain
+66,Boyce Thompson Arboretum,592,"Lugares históricos, Áreas de naturaleza y vida silvestre",Arizona,Mountain
+67,Glen Canyon Dam Overlook,1.807,Represas,Arizona,Mountain
+68,The Gaslight Theatre,743,Teatros,Arizona,Mountain
+69,Apache Trail Scenic Drive,647,"Rutas para senderismo, Rutas turísticas",Arizona,Mountain
+70,Colossal Cave Mountain Park,710,"Cavernas y cuevas, Museos de historia",Arizona,Mountain
+71,Reid Park Zoo,1.058,Zoológicos,Arizona,Mountain
+72,Mesa Arizona Temple Visitors' Center,563,"Centros de información turística, Lugares históricos",Arizona,Mountain
+73,Sedona Airport Overlook,1.588,Monumentos y lugares de interés,Arizona,Mountain
+74,Western Spirit: Scottsdale's Museum of the West,662,"Museos especializados, Museos de arte",Arizona,Mountain
+75,Riordan Mansion State Historic Park,577,"Lugares históricos, Parques estatales",Arizona,Mountain
+76,The Mini Time Machine Museum of Miniatures,637,Museos especializados,Arizona,Mountain
+77,Grand Canyon Village,705,Monumentos y lugares de interés,Arizona,Mountain
+78,Sharlot Hall Museum,652,Museos de historia,Arizona,Mountain
+79,Palatki Ruins,806,Ruinas antiguas,Arizona,Mountain
+80,Organ Pipe Cactus National Monument,581,"Áreas de naturaleza y vida silvestre, Desiertos",Arizona,Mountain
+81,Allen Street,1.065,"Lugares históricos, Monumentos y lugares de interés",Arizona,Mountain
+82,Organ Stop Pizza,643,Monumentos y lugares de interés,Arizona,Mountain
+83,Historic Old Town Cottonwood,862,Barrios,Arizona,Mountain
+84,Tombstone Courthouse State Historic Park,1.023,Museos especializados,Arizona,Mountain
+85,Historic Navajo Bridge,496,"Lugares históricos, Puentes",Arizona,Mountain
+86,Montezuma Well National Monument,613,Monumentos y estatuas,Arizona,Mountain
+87,Tuzigoot National Monument,781,Ruinas antiguas,Arizona,Mountain
+88,Arizona Copper Art Museum,530,"Museos especializados, Museos de arte",Arizona,Mountain
+89,Bisbee Mining & Historical Museum,505,"Museos especializados, Museos de historia",Arizona,Mountain
+90,Arizona Museum of Natural History,373,Museos especializados,Arizona,Mountain
+91,Williams Depot,703,Museos de historia,Arizona,Mountain
+92,Octane Raceway,440,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",Arizona,Mountain
+93,Bright Angel Point,659,"Áreas históricas peatonales, Rutas para senderismo",Arizona,Mountain
+94,Fort Verde State Historic Park,454,"Lugares históricos, Parques estatales",Arizona,Mountain
+95,Casa Grande Ruins National Monument,520,"Parques estatales, Ruinas antiguas",Arizona,Mountain
+96,Soldier Pass (Brin's Mesa),387,Formaciones geológicas,Arizona,Mountain
+97,Grand Canyon Deer Farm,368,Zoológicos,Arizona,Mountain
+98,Caywood Farms,171,Granjas,Arizona,Mountain
+99,Vermilion Cliffs National Monument,324,Formaciones geológicas,Arizona,Mountain
+100,Crescent Moon Picnic Site,450,"Parques, Bosques",Arizona,Mountain
+101,Fort Tuthill Military History Museum,158,Museos militares,Arizona,Mountain
+102,Tonto National Monument,254,"Parques nacionales, Cavernas y cuevas",Arizona,Mountain
+103,Goodyear Ballpark,437,"Complejos deportivos, Campos de juego y estadios",Arizona,Mountain
+104,Kingman Visitor Center,218,Centros de información turística,Arizona,Mountain
+105,Standin' On The Corner,2.349,Tiendas de regalos,Arizona,Mountain
+106,Rooster Cogburn Ostrich Ranch,382,"Áreas de naturaleza y vida silvestre, Ranchos",Arizona,Mountain
+107,Hackberry General Store,757,"Tiendas de regalos, Museos especializados",Arizona,Mountain
+108,Canyon Trail Rides,824,Tours a caballo,Arizona,Mountain
+109,Sedona's New Day Spa,822,Spas,Arizona,Mountain
+110,Cave Creek Outfitters,679,Tours a caballo,Arizona,Mountain
+111,Cave Creek Trail Rides,626,Tours a caballo,Arizona,Mountain
+112,Pink Jeep Tours Sedona,10.732,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",Arizona,Mountain
+113,Vortex Yoga Hiking In Sedona,532,Yoga y pilates,Arizona,Mountain
+114,Barleens Dinner Show,827,"Teatros donde se puede cenar, Teatro y espectáculos",Arizona,Mountain
+115,Dixie's Lower Antelope Canyon Tours,8.865,"Tours culturales, Tours históricos",Arizona,Mountain
+116,A Spa for You Sedona Day Spa,438,Spas,Arizona,Mountain
+117,Ken's Tours Lower Antelope Canyon,6.315,Tours de naturaleza y vida silvestre,Arizona,Mountain
+118,Madaras Gallery,206,"Tiendas de regalos, Galerías de arte",Arizona,Mountain
+119,Arizona Safari Jeep Tours,6.264,Tours para vehículos todo terreno y 4 x 4,Arizona,Mountain
+120,Blazin' M Ranch,1.044,Ranchos,Arizona,Mountain
+121,Arizona Outdoor Fun,4.959,"Tours para vehículos todo terreno y 4 x 4, Alquileres de equipos",Arizona,Mountain
+122,Double R Ranch,493,Ranchos,Arizona,Mountain
+123,Puzzle Effect - Phoenix,307,Juegos de escape,Arizona,Mountain
+124,Namti Spa,553,Spas,Arizona,Mountain
+125,Arizona Horses (Ponderosa Stables and South Mountain Stables),352,Tours a caballo,Arizona,Mountain
+126,The Phoenician Spa,361,Spas,Arizona,Mountain
+127,Pedego Electric Bikes Tucson,393,Alquileres de equipos,Arizona,Mountain
+128,Antelope Canyon Tours by Roger Ekis,7.024,Tours de naturaleza y vida silvestre,Arizona,Mountain
+129,MacDonald's Ranch,336,"Ranchos, Tours a caballo",Arizona,Mountain
+130,Phoenix Scottsdale Golf,93,Campos de golf,Arizona,Mountain
+131,Red Heritage,203,Teatros donde se puede cenar,Arizona,Mountain
+132,New Serenity Spa - Facial and Massage in Scottsdale,200,Spas,Arizona,Mountain
+133,Wyatt Earp’s Oriental Saloon & Theater,108,"Bares y boliches, Teatros",Arizona,Mountain
+134,Horseshoe Bend Slot Canyon Tours,3.879,"Tours culturales, Tours para vehículos todo terreno y 4 x 4",Arizona,Mountain
+135,Scottsdale Adventure Tours,3.338,"Tours culturales, Tours para vehículos todo terreno y 4 x 4",Arizona,Mountain
+136,Kachina House,361,Tiendas de regalos,Arizona,Mountain
+137,Desert Wolf Tours,3.618,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Arizona,Mountain
+138,Uptown Massage,236,Spas,Arizona,Mountain
+139,Antelope Slot Canyon Tours,3.099,"Tours turísticos, Tours de naturaleza y vida silvestre",Arizona,Mountain
+140,Gunfighter Canyon Indoor Shooting Experience,258,Campos de tiro,Arizona,Mountain
+141,Detours American West,2.793,"Tours por la ciudad, Tours en helicóptero",Arizona,Mountain
+142,Saguaro Lake Ranch Kayaking & Tubing,2.161,"Alquileres de equipos, Práctica de kayak y canotaje",Arizona,Mountain
+143,Pistoleros Wild West Show,220,"Teatros, Teatro y espectáculos",Arizona,Mountain
+144,Right On Target,205,Campos de tiro,Arizona,Mountain
+145,Arizona ATV Adventures,2.582,Tours para vehículos todo terreno y 4 x 4,Arizona,Mountain
+146,Desert Monsters Tours,1.864,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Arizona,Mountain
+147,Hot Air Expeditions,2.270,Paseos en globo aerostático,Arizona,Mountain
+148,Verde Canyon Railroad,2.523,"Ferrocarriles turísticos, Tours de naturaleza y vida silvestre",Arizona,Mountain
+149,Vita Pura Yoga & Hiking,117,Yoga y pilates,Arizona,Mountain
+150,Western Destinations Canyon Creek Ranch - Tours,1.790,"Tours privados, Tours a caballo",Arizona,Mountain
+151,Wildland Trekking,2.275,"Tours de varios días, Tours de excursionismo y campamentos",Arizona,Mountain
+152,Gateway Cottage Wellness Center,114,"Tiendas de regalos, Monumentos y lugares de interés",Arizona,Mountain
+153,Antelope Canyon X by Taadidiin Tours,1.455,"Tours turísticos, Tours de excursionismo y campamentos",Arizona,Mountain
+154,Inspire Day Spa,115,Spas,Arizona,Mountain
+155,Red Rock Jeep Tours,2.090,Tours para vehículos todo terreno y 4 x 4,Arizona,Mountain
+156,Will You Escape?,176,"Juegos de escape, Centros de juego y entretenimiento",Arizona,Mountain
+157,Escapology Phoenix - Santan,139,Juegos de escape,Arizona,Mountain
+158,the Dolly Steamboat,1.647,Tours en barco,Arizona,Mountain
+159,Wild West Horse Adventures,73,Tours a caballo,Arizona,Mountain
+160,Bright Angel Bike Rentals and Tours,1.651,"Tours en bicicleta, Tours autoguiados y alquileres",Arizona,Mountain
+161,Sedona Stargazing,1.664,"Tours ecológicos, Tours nocturnos",Arizona,Mountain
+162,Red Rock Balloons,905,"Paseos en globo aerostático, Tours aéreos",Arizona,Mountain
+163,Jardín de los Dioses,17.891,Parques,Colorado,Mountain
+164,Denver Botanic Gardens,5.796,"Galerías de arte, Jardines",Colorado,Mountain
+165,Pikes Peak - America's Mountain,7.786,"Monumentos y lugares de interés, Rutas turísticas",Colorado,Mountain
+166,Red Rocks Park and Amphitheatre,3.803,Teatros,Colorado,Mountain
+167,Cheyenne Mountain Zoo,4.912,Zoológicos,Colorado,Mountain
+168,Cave of the Winds Mountain Park,4.434,Parques de diversión y temáticos,Colorado,Mountain
+169,Denver Museum of Nature & Science,4.105,"Museos de historia natural, Museos de ciencia",Colorado,Mountain
+170,National Museum of World War II Aviation,1.729,Museos militares,Colorado,Mountain
+171,Coors Field,4.865,Campos de juego y estadios,Colorado,Mountain
+172,Trail Ridge Road,3.463,Rutas turísticas,Colorado,Mountain
+173,Mount Evans,2.572,Montañas,Colorado,Mountain
+174,Maroon Bells,2.625,Montañas,Colorado,Mountain
+175,The International Church of Cannabis,981,"Museos especializados, Museos de arte",Colorado,Mountain
+176,Telluride Mountain Village Gondola,1.972,"Tranvías, Sistemas de transporte público",Colorado,Mountain
+177,Colorado National Monument,1.819,Áreas de naturaleza y vida silvestre,Colorado,Mountain
+178,Fish Creek Falls,2.180,Cascadas,Colorado,Mountain
+179,Argo Mill and Tunnel,1.548,"Museos especializados, Minas",Colorado,Mountain
+180,Stranahan's Whiskey Distillery & Cocktail Bar,1.096,Destilerías,Colorado,Mountain
+181,Hanging Lake Trail,2.211,Rutas para senderismo,Colorado,Mountain
+182,Peak to Peak Scenic Byway,1.841,Rutas turísticas,Colorado,Mountain
+183,United States Air Force Academy,3.009,"Bases e instalaciones militares, Lugares educativos",Colorado,Mountain
+184,Molly Brown House Museum,1.482,"Museos especializados, Lugares históricos",Colorado,Mountain
+185,Glenwood Caverns Adventure Park,2.210,Parques de diversión y temáticos,Colorado,Mountain
+186,Main Street,1.958,Monumentos y lugares de interés,Colorado,Mountain
+187,Cosmo's Magic Theater,675,Teatros,Colorado,Mountain
+188,Black Canyon Of The Gunnison National Park,1.110,"Parques nacionales, Cañones",Colorado,Mountain
+189,Box Canyon Waterfall & Park,1.309,Parques,Colorado,Mountain
+190,Independence Pass,1.730,"Monumentos y lugares de interés, Miradores",Colorado,Mountain
+191,Cliff Palace,1.492,"Lugares históricos, Ruinas antiguas",Colorado,Mountain
+192,Skyline Drive,1.260,Rutas turísticas,Colorado,Mountain
+193,Historic Downtown Durango,1.908,Monumentos y lugares de interés,Colorado,Mountain
+194,Colorado Chautauqua: Park,1.344,Parques,Colorado,Mountain
+195,Glen Eyrie Castle,905,"Tiendas de regalos, Castillos",Colorado,Mountain
+196,Red Rock Canyon,1.186,"Parques, Formaciones geológicas",Colorado,Mountain
+197,Bear Lake,1.684,Masas de agua,Colorado,Mountain
+198,Mollie Kathleen Gold Mine,887,Minas,Colorado,Mountain
+199,Million Dollar Highway,750,Rutas turísticas,Colorado,Mountain
+200,Great Sand Dunes National Park,1.039,"Montañas, Parques nacionales",Colorado,Mountain
+201,New Belgium Brewing,1.270,Cervecerías,Colorado,Mountain
+202,Flatirons,1.130,"Rutas para senderismo, Formaciones geológicas",Colorado,Mountain
+203,Betty Ford Alpine Gardens,876,Jardines,Colorado,Mountain
+204,Empower Field at Mile High,1.193,Campos de juego y estadios,Colorado,Mountain
+205,Lookout Mountain,902,Montañas,Colorado,Mountain
+206,Treasure Falls,1.083,Cascadas,Colorado,Mountain
+207,Helen Hunt Falls,884,Cascadas,Colorado,Mountain
+208,Manitou Springs Incline,860,"Masas de agua, Rutas para senderismo",Colorado,Mountain
+209,Riverwalk in Downtown Estes Park,760,Áreas peatonales pintorescas,Colorado,Mountain
+210,The John Denver Sanctuary,730,"Parques, Monumentos y estatuas",Colorado,Mountain
+211,Forney Museum of Transportation,548,Museos especializados,Colorado,Mountain
+212,Wolf Creek Ski Area,815,Áreas para esquiar y practicar snowboard,Colorado,Mountain
+213,Capital Prize Gold Mine Tour,375,Minas,Colorado,Mountain
+214,Yampa River Botanic Park,718,Jardines,Colorado,Mountain
+215,Bachelor Syracuse Mine Tour,393,Minas,Colorado,Mountain
+216,Hovenweep National Monument,709,"Ruinas antiguas, Parques nacionales",Colorado,Mountain
+217,Hidee Gold Mine,328,Minas,Colorado,Mountain
+218,Yankee Boy Basin,480,"Rutas para senderismo, Formaciones geológicas",Colorado,Mountain
+219,Ouray Alchemist Museum,361,Museos especializados,Colorado,Mountain
+220,Butterfly Pavilion,729,"Museos de ciencia, Áreas de naturaleza y vida silvestre",Colorado,Mountain
+221,Kirkland Museum of Fine & Decorative Art,403,Museos especializados,Colorado,Mountain
+222,Frisco Adventure Park,364,"Parques, Áreas para esquiar y practicar snowboard",Colorado,Mountain
+223,South Park City Museum,317,Museos de historia,Colorado,Mountain
+224,Sprague Lake,416,Masas de agua,Colorado,Mountain
+225,Colorado Wolf and Wildlife Center,566,Áreas de naturaleza y vida silvestre,Colorado,Mountain
+226,Museum of the Mountain West,401,Museos de historia,Colorado,Mountain
+227,Mesa Verde National Park,382,Parques nacionales,Colorado,Mountain
+228,Animas River Trail,504,Rutas para senderismo,Colorado,Mountain
+229,Arapahoe Basin,476,Áreas para esquiar y practicar snowboard,Colorado,Mountain
+230,Alpine Visitor Center,591,Centros de información turística,Colorado,Mountain
+231,Last Chance Mine,296,"Museos especializados, Lugares históricos",Colorado,Mountain
+232,National Mining Hall of Fame & Museum,442,Museos especializados,Colorado,Mountain
+233,North Pole - Santa's Workshop,526,Parques de diversión y temáticos,Colorado,Mountain
+234,Bent's Old Fort National Historic Site,436,Lugares históricos,Colorado,Mountain
+235,Colorado Springs Pioneers Museum,365,Museos de historia,Colorado,Mountain
+236,Walking Mountains Science Center,181,Museos especializados,Colorado,Mountain
+237,U.S. Olympic & Paralympic Museum,338,"Museos especializados, Museos de historia",Colorado,Mountain
+238,Zapata Falls,471,Cascadas,Colorado,Mountain
+239,The Paint Mines Interpretive Park,253,Parques,Colorado,Mountain
+240,Steamboat Gondola,440,Áreas para esquiar y practicar snowboard,Colorado,Mountain
+241,Totally 80's Pizza & Museum,147,Museos de historia,Colorado,Mountain
+242,National Ballpark Museum,205,Museos especializados,Colorado,Mountain
+243,Tunnel Drive,235,Rutas para senderismo,Colorado,Mountain
+244,Sapphire Point Overlook,149,"Monumentos y lugares de interés, Miradores",Colorado,Mountain
+245,Dinosaur National Monument,288,"Monumentos y lugares de interés, Formaciones geológicas",Colorado,Mountain
+246,Perimeter Trail,344,Rutas para senderismo,Colorado,Mountain
+247,Seven Bridges Trail,211,Rutas para senderismo,Colorado,Mountain
+248,Riverside Park,251,Parques,Colorado,Mountain
+249,National Park Gateway Stables,938,Tours a caballo,Colorado,Mountain
+250,Dillon Marina,174,Puertos deportivos,Colorado,Mountain
+251,Mt Princeton Hot Springs Stables,1.471,Tours a caballo,Colorado,Mountain
+252,Breckenridge Gondola,2.529,Taxis y otros servicios de traslado,Colorado,Mountain
+253,Grand Adventures,1.367,Tours de esquí y de nieve,Colorado,Mountain
+254,Summit Shuttle,114,Ferris,Colorado,Mountain
+255,Long House,292,Ruinas antiguas,Colorado,Mountain
+256,Escapology,1.263,"Juegos de escape, Bares y boliches",Colorado,Mountain
+257,Academy Riding Stables,1.053,Tours a caballo,Colorado,Mountain
+258,Saddleback Ranch,1.015,"Tours de esquí y de nieve, Tours a caballo",Colorado,Mountain
+259,Durango Welcome Center,175,Centros de información turística,Colorado,Mountain
+260,Steamboat Snowmobile Tours,1.339,Tours de esquí y de nieve,Colorado,Mountain
+261,T-Lazy-7 Ranch,713,Ranchos,Colorado,Mountain
+262,Snowmobile Adventures,1.046,Tours de esquí y de nieve,Colorado,Mountain
+263,Snow Buddy Aventuras,740,Tours de esquí y de nieve,Colorado,Mountain
+264,Museum of Friends,134,"Galerías de arte, Museos especializados",Colorado,Mountain
+265,Glenwood Vaudeville Revue,834,Teatros donde se puede cenar,Colorado,Mountain
+266,Grizzle-T Dog & Sled Works,713,Tours de esquí y de nieve,Colorado,Mountain
+267,Rusty Spurr Ranch,549,Tours a caballo,Colorado,Mountain
+268,Sombrero Stables,1.089,"Ranchos, Tours a caballo",Colorado,Mountain
+269,EscapeWorks Denver,497,"Juegos de escape, Centros de juego y entretenimiento",Colorado,Mountain
+270,Del's Triangle 3 Ranch,717,Tours a caballo,Colorado,Mountain
+271,Winding River Resort Stables,152,"Rutas ecuestres, Tours a caballo",Colorado,Mountain
+272,Estes Park Massage,537,Spas,Colorado,Mountain
+273,Durango and Silverton Narrow Gauge Railroad and Museum,5.851,Ferrocarriles turísticos,Colorado,Mountain
+274,Peak 1 Express,433,Taxis y otros servicios de traslado,Colorado,Mountain
+275,WildSide 4x4 Tours,3.253,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",Colorado,Mountain
+276,Aspire Tours,4.467,"Tours por la ciudad, Tours históricos",Colorado,Mountain
+277,The Crooked Key,819,"Juegos de escape, Búsquedas del tesoro",Colorado,Mountain
+278,Echo Canyon River Expeditions,4.930,Rafting y nado con salvavidas en el río,Colorado,Mountain
+279,Steamboat Tennis and Pickleball Center,197,"Complejos deportivos, Clases y talleres",Colorado,Mountain
+280,Lazy B Chuckwagon and Show,468,Teatros donde se puede cenar,Colorado,Mountain
+281,Oakwell Beer Spa,206,Spas,Colorado,Mountain
+282,Mountain Time Escape Rooms,548,Juegos de escape,Colorado,Mountain
+283,Kirks Flyshop & Mountain Adventures,385,Tiendas de regalos,Colorado,Mountain
+284,American Adventure Expeditions,4.868,"Rafting y nado con salvavidas en el río, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+285,Royal Gorge Rafting and Zip Line Tours,4.258,Rafting y nado con salvavidas en el río,Colorado,Mountain
+286,Mild to Wild Rafting and Jeep Tours,3.676,"Rafting y nado con salvavidas en el río, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+287,Whimsy Studios,282,Estudios de pintura y cerámica,Colorado,Mountain
+288,Conundrum Escape Rooms,286,Juegos de escape,Colorado,Mountain
+289,Elements of Touch Wellness Spa,265,Spas,Colorado,Mountain
+290,Sol Impressions Massage & Facials,236,Spas,Colorado,Mountain
+291,Time Emporium Escape Rooms - Loveland,308,Juegos de escape,Colorado,Mountain
+292,Peak 1 Express,281,Taxis y otros servicios de traslado,Colorado,Mountain
+293,Noah's Ark Colorado Rafting & Aerial Adventure Park,2.734,"Rafting y nado con salvavidas en el río, Tirolesa y parques de aventuras aéreas",Colorado,Mountain
+294,Pagosa Escape Zone,482,"Juegos de escape, Centros de juego y entretenimiento",Colorado,Mountain
+295,Bearcat Stables,283,Tours a caballo,Colorado,Mountain
+296,ilimo,2.111,"Tours por la ciudad, Taxis y otros servicios de traslado",Colorado,Mountain
+297,On The Trail Rentals,365,Alquileres de equipos,Colorado,Mountain
+298,Adventures Out West,1.704,"Tours en Segway, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+299,Winter Park Adventure Quest,272,Clínicas y campos deportivos,Colorado,Mountain
+300,Bar D Chuckwagon Supper Show,503,Teatros donde se puede cenar,Colorado,Mountain
+301,Escape Room Breckenridge,465,Juegos de escape,Colorado,Mountain
+302,Performance Tours Whitewater Rafting,2.551,"Rafting y nado con salvavidas en el río, Escapadas de un día",Colorado,Mountain
+303,Vail Valley Escape Room,349,"Juegos de escape, Centros de juego y entretenimiento",Colorado,Mountain
+304,Frisco Escape Room,331,Juegos de escape,Colorado,Mountain
+305,Broadmoor Outfitters,1.992,"Tirolesa y parques de aventuras aéreas, Tours en bicicleta",Colorado,Mountain
+306,Mind Blown Telluride,235,Teatro y espectáculos,Colorado,Mountain
+307,Mountain Waters Rafting & Adventure Company,2.097,"Rafting y nado con salvavidas en el río, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+308,James Ranch,270,Ranchos,Colorado,Mountain
+309,The Adventure Company,1.809,"Rafting y nado con salvavidas en el río, Práctica de kayak y canotaje",Colorado,Mountain
+310,Mountain Whitewater,2.306,"Rafting y nado con salvavidas en el río, Alquileres de equipos",Colorado,Mountain
+311,Puzzle Effect - Denver,218,"Juegos de escape, Búsquedas del tesoro",Colorado,Mountain
+312,Sage Outdoor Adventures,1.895,"Rafting y nado con salvavidas en el río, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+313,Delicious Denver Food Tours,1.214,"Tours de bares, discotecas y pubs, Tours culturales",Colorado,Mountain
+314,Backbone Adventures,2.206,"Tours para vehículos todo terreno y 4 x 4, Alquileres de equipos",Colorado,Mountain
+315,Royal Gorge Zip Line Tours,2.650,Tirolesa y parques de aventuras aéreas,Colorado,Mountain
+316,"Whitewater Rafting, LLC",1.718,Rafting y nado con salvavidas en el río,Colorado,Mountain
+317,Raft Masters,1.416,"Rafting y nado con salvavidas en el río, Tours turísticos",Colorado,Mountain
+318,Aspen Whitewater Rafting,1.376,"Rafting y nado con salvavidas en el río, Deportes acuáticos",Colorado,Mountain
+319,Country Boy Mine,886,"Tours extremos y de adrenalina, Tours históricos",Colorado,Mountain
+320,Hands Down Best In Town Therapeutic Massage,120,Spas,Colorado,Mountain
+321,Good Times Adventures,1.154,Tours turísticos,Colorado,Mountain
+322,Sunshine Massage Studio,111,"Yoga y pilates, Spas",Colorado,Mountain
+323,Colorado Sightseer,1.078,"Tours turísticos, Tours de naturaleza y vida silvestre",Colorado,Mountain
+324,Time Escape Loveland,248,Juegos de escape,Colorado,Mountain
+325,Centro de Aventuras de Colorado,1.613,"Rafting y nado con salvavidas en el río, Tirolesa y parques de aventuras aéreas",Colorado,Mountain
+326,Blazing Adventures,1.188,"Rafting y nado con salvavidas en el río, Tours para vehículos todo terreno y 4 x 4",Colorado,Mountain
+327,Alpine Scenic Jeep Tours,973,"Tours para vehículos todo terreno y 4 x 4, Tours turísticos",Colorado,Mountain
+328,Green Jeep Tours,1.217,"Tours para vehículos todo terreno y 4 x 4, Tours históricos",Colorado,Mountain
+329,Soaring Tree Top Adventures,1.293,Tirolesa y parques de aventuras aéreas,Colorado,Mountain
+330,Clear Creek Rafting Company,980,Rafting y nado con salvavidas en el río,Colorado,Mountain
+331,"Rocky Mountain Balloon Adventures, LLC",763,Paseos en globo aerostático,Colorado,Mountain
+332,Denver Local Tours,887,"Tours por la ciudad, Tours culturales",Colorado,Mountain
+333,Shoshone Falls,2.045,Cascadas,Idaho,Mountain
+334,Cinturón Verde del Rio Boise,1.477,Rutas para senderismo,Idaho,Mountain
+335,Coeur d'Alene Lake,1.423,Masas de agua,Idaho,Mountain
+336,Craters of the Moon National Monument,1.298,"Parques nacionales, Áreas de naturaleza y vida silvestre",Idaho,Mountain
+337,Old Idaho Penitentiary,1.020,Lugares históricos,Idaho,Mountain
+338,Idaho Falls Temple & Visitors' Center,934,"Lugares históricos, Monumentos y lugares de interés",Idaho,Mountain
+339,Perrine Bridge,887,Puentes,Idaho,Mountain
+340,Mesa Falls,433,Cascadas,Idaho,Mountain
+341,Lava Hot Springs,705,Fuentes termales y géiseres,Idaho,Mountain
+342,Idaho Falls River Walk,328,Cascadas,Idaho,Mountain
+343,Idaho Potato Museum,364,Museos especializados,Idaho,Mountain
+344,Seven Stars Alpaca Ranch LLC,575,Ranchos,Idaho,Mountain
+345,Burgdorf Hot Springs,68,Spas termales,Idaho,Mountain
+346,Historic Wallace,146,Áreas históricas peatonales,Idaho,Mountain
+347,Tamarack Resort,96,Áreas para esquiar y practicar snowboard,Idaho,Mountain
+348,Shoshone Ice Caves,160,Cavernas y cuevas,Idaho,Mountain
+349,Escape This Boise,822,Juegos de escape,Idaho,Mountain
+350,Yellowstone Horses - Eagle Ridge Ranch,458,Tours a caballo,Idaho,Mountain
+351,59:Escape Room Adventures,567,"Juegos de escape, Centros de convenciones",Idaho,Mountain
+352,Pedego Electric Bikes Boise,237,Alquileres de equipos,Idaho,Mountain
+353,Escape Game Coeur d'Alene,271,Juegos de escape,Idaho,Mountain
+354,"Tranquil Turtle Massage, LLC",146,Spas,Idaho,Mountain
+355,High Mountain Adventures,195,Alquileres de equipos,Idaho,Mountain
+356,Redfish Lake Corrals- Mystic Saddle Ranch,124,Tours a caballo,Idaho,Mountain
+357,Timberline Adventures,2.374,Tirolesa y parques de aventuras aéreas,Idaho,Mountain
+358,Yellowstone Playhouse,116,Teatros donde se puede cenar,Idaho,Mountain
+359,Sawtooth Traxx,77,Alquileres de equipos,Idaho,Mountain
+360,Teton River Supply,84,Alquileres de equipos,Idaho,Mountain
+361,Clockwise Escape Room Boise,62,"Juegos de escape, Búsquedas del tesoro",Idaho,Mountain
+362,Snake River Adventures,749,Tours en barco,Idaho,Mountain
+363,Escape The Room Boise,50,Juegos de escape,Idaho,Mountain
+364,Coeur d'Alene Bike Co.,64,Alquileres de equipos,Idaho,Mountain
+365,Going-to-the-Sun Road,3.267,Rutas turísticas,Montana,Mountain
+366,Grizzly and Wolf Discovery Center,3.293,Áreas de naturaleza y vida silvestre,Montana,Mountain
+367,Little Bighorn Battlefield National Monument,1.925,"Lugares históricos, Campos de batalla",Montana,Mountain
+368,Museum of the Rockies,1.911,"Museos de historia natural, Museos de ciencia",Montana,Mountain
+369,Playmill Theatre,683,Teatros,Montana,Mountain
+370,Beartooth Highway,873,Rutas turísticas,Montana,Mountain
+371,Lewis and Clark Interpretive Center,896,"Áreas históricas peatonales, Teatros",Montana,Mountain
+372,Lake McDonald,921,Masas de agua,Montana,Mountain
+373,Big Sky Resort,1.362,Áreas para esquiar y practicar snowboard,Montana,Mountain
+374,Avalanche Lake,849,"Masas de agua, Rutas para senderismo",Montana,Mountain
+375,Hidden Lake,741,Masas de agua,Montana,Mountain
+376,Gates of the Mountains,656,"Parques nacionales, Áreas de naturaleza y vida silvestre",Montana,Mountain
+377,Ousel Falls Trail,568,Rutas para senderismo,Montana,Mountain
+378,American Computer & Robotics Museum,315,"Museos especializados, Museos de historia",Montana,Mountain
+379,World Museum of Mining,516,"Museos especializados, Lugares históricos",Montana,Mountain
+380,Yellowstone River,734,Masas de agua,Montana,Mountain
+381,Cathedral of St. Helena,617,"Edificios con valor arquitectónico, Lugares religiosos",Montana,Mountain
+382,St. Mary Lake,395,Masas de agua,Montana,Mountain
+383,Jackson Hole Eco Tour Adventures,3.355,"Tours ecológicos, Tours de naturaleza y vida silvestre",Montana,Mountain
+384,BrushBuck Wildlife Tours,3.177,"Tours de varios días, Tours ecológicos",Montana,Mountain
+385,Jackson Hole Fly Fishing School,638,Excursiones de pesca,Montana,Mountain
+386,Teton Whitewater Rafting and Scenic Trips,958,"Rafting y nado con salvavidas en el río, Tours en barco",Montana,Mountain
+387,Jackson Hole Wildlife Safaris,1.709,"Tours ecológicos, Tours privados",Montana,Mountain
+388,Wildlife Expeditions of Teton Science Schools,1.293,Tours de naturaleza y vida silvestre,Montana,Mountain
+389,Jackson Hole Shooting Experience,800,"Clínicas y campos deportivos, Campos de tiro",Montana,Mountain
+390,High Alpine Anglers,91,"Tours en barco, Excursiones de pesca",Montana,Mountain
+391,Jack Bayles Photography - Team 399,260,"Tours de naturaleza y vida silvestre, Tours fotográficos",Montana,Mountain
+392,The Wildland Trekking Company,420,Tours de excursionismo y campamentos,Montana,Mountain
+393,Buffalo Roam Tours - Day Tours,369,"Tours de varios días, Tours ecológicos",Montana,Mountain
+394,Yellowstone Wild,159,Tours de naturaleza y vida silvestre,Montana,Mountain
+395,Jackson Hole Whitewater,1.324,Rafting y nado con salvavidas en el río,Montana,Mountain
+396,Old Faithful Snowmobile Tours - Day Tours,338,Tours de esquí y de nieve,Montana,Mountain
+397,Pedego Electric Bikes Jackson Hole,86,Tours autoguiados y alquileres,Montana,Mountain
+398,Rendezvous River Sports,207,"Rafting y nado con salvavidas en el río, Tours extremos y de adrenalina",Montana,Mountain
+399,The Hole Hiking Experience,400,"Tours de esquí y de nieve, Tours de excursionismo y campamentos",Montana,Mountain
+400,Jackson Hole Mountain Guides,184,"Tours de varios días, Tours de excursionismo y campamentos",Montana,Mountain
+401,Jackson Hole Backcountry Rentals,315,Alquileres de equipos,Montana,Mountain
+402,Willow Creek Horseback Rides,216,Tours a caballo,Montana,Mountain
+403,Gran Cañón de Yellowstone,5.159,Cañones,Montana,Mountain
+404,Fish The Fly Guide Service & Travel,345,"Tours en barco, Deportes acuáticos",Montana,Mountain
+405,Mill Iron Ranch,590,Tours a caballo,Montana,Mountain
+406,Upper Geyser Basin,1.351,Fuentes termales y géiseres,Montana,Mountain
+407,Artist Point,1.338,"Monumentos y lugares de interés, Rutas para senderismo",Montana,Mountain
+408,Grizzly Country Wildlife Adventures,466,"Tours ecológicos, Tours privados",Montana,Mountain
+409,Wyoming Stargazing,345,"Tours nocturnos, Tours privados",Montana,Mountain
+410,Lamar Valley,3.073,Rutas turísticas,Montana,Mountain
+411,Yellowstone National Park,1.824,Parques nacionales,Montana,Mountain
+412,Teton Tour Co.,458,"Tours de esquí y de nieve, Tours turísticos",Montana,Mountain
+413,Scenic Safaris,1.544,"Safaris, Tours de esquí y de nieve",Montana,Mountain
+414,National Museum of Wildlife Art,2.072,"Museos especializados, Museos de arte",Montana,Mountain
+415,Midway Geyser Basin,599,Fuentes termales y géiseres,Montana,Mountain
+416,North Fork Trail Rides,283,Tours a caballo,Montana,Mountain
+417,Hayden Valley,1.141,Áreas de naturaleza y vida silvestre,Montana,Mountain
+418,The Wandering Angler,93,Excursiones de pesca,Montana,Mountain
+419,Grand Prismatic Spring,3.187,Fuentes termales y géiseres,Montana,Mountain
+420,Grand Loop Road,783,Rutas turísticas,Montana,Mountain
+421,Jackson Hole Playhouse,517,Teatros,Montana,Mountain
+422,West Thumb Geyser Basin,910,Fuentes termales y géiseres,Montana,Mountain
+423,Yellowstone Lake,1.803,Masas de agua,Montana,Mountain
+424,Antler Arches of Jackson,560,Monumentos y lugares de interés,Montana,Mountain
+425,Old Faithful,5.063,Fuentes termales y géiseres,Montana,Mountain
+426,Jackson Hole Adventure Rentals,255,Alquileres de equipos,Montana,Mountain
+427,Jackson Hole Rodeo,789, Carreras de caballos,Montana,Mountain
+428,National Elk Refuge,1.829,Áreas de naturaleza y vida silvestre,Montana,Mountain
+429,Jackson Town Square,2.804,Monumentos y lugares de interés,Montana,Mountain
+430,Yellowstone Geysers - Mud Volcano Area,535,"Fuentes termales y géiseres, Volcanes",Montana,Mountain
+431,Mammoth Hot Springs,2.207,Fuentes termales y géiseres,Montana,Mountain
+432,Bar-T-5 Covered Wagon Cookout,613,Teatros donde se puede cenar,Montana,Mountain
+433,Snow King Mountain Resort,809,"Tours extremos y de adrenalina, Tours de esquí y de nieve",Montana,Mountain
+434,Wildland Llamas,98,Tours de excursionismo y campamentos,Montana,Mountain
+435,Teton Wild Custom Wildlife Tours,70,"Tours de naturaleza y vida silvestre, Escapadas de un día",Montana,Mountain
+436,"Wilderness Trails, Inc.",77,Tours de naturaleza y vida silvestre,Montana,Mountain
+437,Snowmobile JH,53,Tours de esquí y de nieve,Montana,Mountain
+438,Steve Mattheis Photography Workshops,41,"Estudios de pintura y cerámica, Tours de varios días",Montana,Mountain
+439,Glacier National Park,614,Parques nacionales,Montana,Mountain
+440,Downtown Bozeman,1.026,Áreas históricas peatonales,Montana,Mountain
+441,A Carousel for Missoula,612,Parques de diversión y temáticos,Montana,Mountain
+442,Lewis and Clark Caverns State Park,513,Parques estatales,Montana,Mountain
+443,Kootenai Falls & Swinging Bridge,387,Puentes,Montana,Mountain
+444,Montana Grizzly Encounter,696,Zoológicos,Montana,Mountain
+445,Bison Range,480,Áreas de naturaleza y vida silvestre,Montana,Mountain
+446,Giant Springs State Park,469,"Parques estatales, Áreas de naturaleza y vida silvestre",Montana,Mountain
+447,Earthquake Lake,479,"Lugares históricos, Masas de agua",Montana,Mountain
+448,Garnet Ghost Town,414,Pueblos fantasma,Montana,Mountain
+449,Back Country Adventures,219,Senderos para vehículos todo terreno,Montana,Mountain
+450,Spirit of the North Sled Dog Adventures,86,Rutas para senderismo,Montana,Mountain
+451,Solace Spa At Big Sky Resort,367,Spas,Montana,Mountain
+452,Glacier Raft Company,5.337,"Rafting y nado con salvavidas en el río, Tours en barco",Montana,Mountain
+453,The Diamond P Ranch,585,Tours a caballo,Montana,Mountain
+454,ZooMontana,366,Zoológicos,Montana,Mountain
+455,Yellowstone Adventures,294,Alquileres de equipos,Montana,Mountain
+456,City Beach,121,Playas,Montana,Mountain
+457,Glacier Guides and Montana Raft,2.845,"Rafting y nado con salvavidas en el río, Tours en bicicleta",Montana,Mountain
+458,Fuentes del Hotel Bellagio,92.252,"Monumentos y lugares de interés, Fuentes",Nevada,Mountain
+459,Red Rock Canyon National Conservation Area,26.414,"Parques estatales, Parques nacionales",Nevada,Mountain
+460,Bellagio Conservatory & Botanical Garden,14.822,Jardines,Nevada,Mountain
+461,High Roller,25.789,Torres y observatorios,Nevada,Mountain
+462,Valley of Fire State Park,4.733,Parques estatales,Nevada,Mountain
+463,Hoover Dam,9.531,Represas,Nevada,Mountain
+464,The Mob Museum,9.933,Museos especializados,Nevada,Mountain
+465,Hoover Dam Bypass,11.579,"Monumentos y lugares de interés, Puentes",Nevada,Mountain
+466,The Neon Museum,5.370,Museos especializados,Nevada,Mountain
+467,Titanic: The Artifact Exhibition,4.611,Museos de historia,Nevada,Mountain
+468,Wynn Las Vegas Casino,6.433,Casinos,Nevada,Mountain
+469,National Automobile Museum,1.832,Museos especializados,Nevada,Mountain
+470,Lion Habitat Ranch,1.602,Zoológicos,Nevada,Mountain
+471,The Grand Canal Shoppes at The Venetian Resort,2.871,Centros comerciales,Nevada,Mountain
+472,Welcome to Fabulous Las Vegas Sign,5.488,Monumentos y lugares de interés,Nevada,Mountain
+473,Mirage Volcano,6.026,Monumentos y lugares de interés,Nevada,Mountain
+474,Forum Shops at Caesars Palace,2.681,Centros comerciales,Nevada,Mountain
+475,The LINQ Promenade,3.342,Barrios,Nevada,Mountain
+476,"Shelby American, Inc.",1.543,Museos especializados,Nevada,Mountain
+477,Mount Charleston,1.486,Montañas,Nevada,Mountain
+478,Sand Harbor,795,Playas,Nevada,Mountain
+479,Fashion Show Las Vegas,2.164,Centros comerciales,Nevada,Mountain
+480,Springs Preserve,765,"Museos especializados, Áreas de naturaleza y vida silvestre",Nevada,Mountain
+481,The Atomic Museum,1.626,Museos especializados,Nevada,Mountain
+482,Dig This,3.602,Centros de juego y entretenimiento,Nevada,Mountain
+483,Allegiant Stadium Tours,374,"Complejos deportivos, Monumentos y lugares de interés",Nevada,Mountain
+484,Count's Kustoms,2.029,Museos especializados,Nevada,Mountain
+485,The Colosseum,997,Teatros,Nevada,Mountain
+486,Chapel of the Flowers,2.406,"Monumentos y lugares de interés, Capillas para bodas",Nevada,Mountain
+487,Las Vegas Downtown,4.285,Barrios,Nevada,Mountain
+488,Magique at The Theatre,163,Teatros,Nevada,Mountain
+489,Animal Ark,308,Áreas de naturaleza y vida silvestre,Nevada,Mountain
+490,Lake Mead National Recreation Area,745,Áreas de naturaleza y vida silvestre,Nevada,Mountain
+491,Truckee River Walk,1.251,Áreas históricas peatonales,Nevada,Mountain
+492,Atlantis Casino,1.070,Casinos,Nevada,Mountain
+493,Historic Railroad Trail,198,Rutas para senderismo,Nevada,Mountain
+494,Nelson Ghost Town,259,Pueblos fantasma,Nevada,Mountain
+495,Hemenway Park,207,Parques,Nevada,Mountain
+496,Peppermill Casino,1.201,Casinos,Nevada,Mountain
+497,Dolby Live,401,Teatros,Nevada,Mountain
+498,The River Passage Water Taxi,386,Ferris,Nevada,Mountain
+499,Boulder City/Hoover Dam Museum,395,Museos especializados,Nevada,Mountain
+500,California Trail Historic Interpretive Center,272,"Centros de información turística, Museos de historia",Nevada,Mountain
+501,The Beatles - Love - Cirque du Soleil,18.479,"Espectáculos del Cirque du Soleil, Teatro y espectáculos",Nevada,Mountain
+502,Vegas Indoor Skydiving,1.244,Centros de juego y entretenimiento,Nevada,Mountain
+503,Pioneer Saloon,322,"Lugares históricos, Monumentos y lugares de interés",Nevada,Mountain
+504,O - Cirque du Soleil,11.956,"Espectáculos del Cirque du Soleil, Teatro y espectáculos",Nevada,Mountain
+505,Battlefield Vegas,5.644,Campos de tiro,Nevada,Mountain
+506,Cathedral Gorge State Park,160,Parques estatales,Nevada,Mountain
+507,Ethel M Chocolates Factory and Cactus Garden,1.733,"Tiendas de regalos, Jardines",Nevada,Mountain
+508,The Little Vegas Chapel,1.343,Capillas para bodas,Nevada,Mountain
+509,Paranormal - The Mindreading Magic Show,3.054,Teatro y espectáculos,Nevada,Mountain
+510,Piff the Magic Dragon,2.310,"Teatros, Teatro y espectáculos",Nevada,Mountain
+511,Raiding The Rock Vault,4.467,"Conciertos, Teatro y espectáculos",Nevada,Mountain
+512,Las Vegas Shooting Center,1.094,Campos de tiro,Nevada,Mountain
+513,Machine Guns Vegas,4.956,Campos de tiro,Nevada,Mountain
+514,The Range 702,2.195,Campos de tiro,Nevada,Mountain
+515,Escapology Escape Rooms Las Vegas,3.255,Juegos de escape,Nevada,Mountain
+516,David Copperfield,7.499,Teatro y espectáculos,Nevada,Mountain
+517,ALL SHOOK UP - Tribute to the King,2.491,Teatro y espectáculos,Nevada,Mountain
+518,Las Vegas North Premium Outlets,5.337,Tiendas de regalos,Nevada,Mountain
+519,Vegas Superkarts - Outdoor Go Kart,150,Centros de juego y entretenimiento,Nevada,Mountain
+520,Soul Of Motown,732,"Conciertos, Cabarets",Nevada,Mountain
+521,The Spa at the LINQ,704,Spas,Nevada,Mountain
+522,Nathan Burton Comedy Magic (inside FlyOver),1.968,Teatro y espectáculos,Nevada,Mountain
+523,Hershey's Chocolate World,1.133,"Tiendas de regalos, Barrios",Nevada,Mountain
+524,The Gun Store,1.180,Campos de tiro,Nevada,Mountain
+525,Royalty Exotic Cars,1.951,Alquileres de equipos,Nevada,Mountain
+526,The Official SAW Escape Las Vegas,1.697,Juegos de escape,Nevada,Mountain
+527,Tournament of Kings,1.875,"Teatros donde se puede cenar, Teatro y espectáculos",Nevada,Mountain
+528,Barry Manilow at the Westgate Las Vegas Resort and Casino,497,Teatro y espectáculos,Nevada,Mountain
+529,Strip Gun Club,789,Campos de tiro,Nevada,Mountain
+530,Elvis Chapel,613,Capillas para bodas,Nevada,Mountain
+531,Vegas Weddings,848,Capillas para bodas,Nevada,Mountain
+532,Wayne Newton: Up Close and Personal,648,Teatro y espectáculos,Nevada,Mountain
+533,The Escape Game Las Vegas,348,Juegos de escape,Nevada,Mountain
+534,Escapology Las Vegas Town Square,852,Juegos de escape,Nevada,Mountain
+535,The Magic of Jen Kramer,399,Teatro y espectáculos,Nevada,Mountain
+536,Spa at Flamingo Las Vegas,275,Spas,Nevada,Mountain
+537,Voie Spa & Salon,385,Spas,Nevada,Mountain
+538,American Shooters,392,Campos de tiro,Nevada,Mountain
+539,Green Valley Range,592,Campos de tiro,Nevada,Mountain
+540,A Little White Chapel,627,Capillas para bodas,Nevada,Mountain
+541,T&T Tactical,272,"Campos de tiro, Clases y talleres",Nevada,Mountain
+542,Topgolf,926,Minigolf,Nevada,Mountain
+543,Orsi Skin Care,239,Spas,Nevada,Mountain
+544,The Piano Bar at Harrah's,637,Piano bar,Nevada,Mountain
+545,The Bronx Wanderers,796,Teatro y espectáculos,Nevada,Mountain
+546,Rex Center Vegas,153,"Centros de juego y entretenimiento, Minigolf",Nevada,Mountain
+547,The Chandelier,627,Bares y boliches,Nevada,Mountain
+548,Spa at Harrah's,195,Spas,Nevada,Mountain
+549,The Spa at Encore,298,Spas,Nevada,Mountain
+550,Comedy on Deck Tours,7.324,"Tours históricos, Escapadas de un día",Nevada,Mountain
+551,LVC Exotic Car Rentals,166,Alquileres de equipos,Nevada,Mountain
+552,Shin Lim: LIMITLESS,235,Teatro y espectáculos,Nevada,Mountain
+553,Massage Well,105,Spas,Nevada,Mountain
+554,Exotics Racing,4.923,Tours extremos y de adrenalina,Nevada,Mountain
+555,"Alain Nu, The Man Who Knows",143,Teatro y espectáculos,Nevada,Mountain
+556,Reflections The Spa At Planet Hollywood,103,Spas,Nevada,Mountain
+557,Las Vegas Elite Offroad,3.536,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Nevada,Mountain
+558,Maverick Helicopters,7.522,"Tours por la ciudad, Tours en helicóptero",Nevada,Mountain
+559,Trapped! Escape Room Las Vegas,112,Juegos de escape,Nevada,Mountain
+560,Serenity Spa by Westgate Las Vegas,123,Spas,Nevada,Mountain
+561,Grand Adventures Tours,4.677,"Tours turísticos, Tours privados",Nevada,Mountain
+562,Wow - The Vegas Spectacular,285,Teatro y espectáculos,Nevada,Mountain
+563,Grand Sierra Resort and Casino,588,Bares y boliches,Nevada,Mountain
+564,Grand Canyon Destinations,6.605,"Tours en helicóptero, Tours turísticos",Nevada,Mountain
+565,Spirit of the King,262,Teatro y espectáculos,Nevada,Mountain
+566,Antique Angel Wedding Chapel,103,Capillas para bodas,Nevada,Mountain
+567,Star Foot Spa,410,Spas,Nevada,Mountain
+568,MaxTour,2.510,"Tours de varios días, Escapadas de un día",Nevada,Mountain
+569,Lip Smacking Foodie Tours,2.719,"Tours por la ciudad, Tours a pie",Nevada,Mountain
+570,Bullets and Burgers,3.763,Tours extremos y de adrenalina,Nevada,Mountain
+571,The Underground at The Mob Museum,87,Bares y boliches,Nevada,Mountain
+572,Sunbuggy Fun Rentals,4.030,"Tours para vehículos todo terreno y 4 x 4, Alquileres de equipos",Nevada,Mountain
+573,Tap Sports Bar at MGM Grand Las Vegas,349,Bares y boliches,Nevada,Mountain
+574,Dream Racing,3.242,Tours extremos y de adrenalina,Nevada,Mountain
+575,London Bridge Jet Boat Tours,2.151,"Tours turísticos, Tours en lanchas a motor",Nevada,Mountain
+576,Sandia Peak Tramway,7.185,Tranvías,New Mexico,Mountain
+577,White Sands National Park,4.204,"Parques nacionales, Formaciones geológicas",New Mexico,Mountain
+578,Bandelier National Monument,2.261,"Lugares históricos, Cañones",New Mexico,Mountain
+579,Rio Grande Gorge Bridge,3.689,Puentes,New Mexico,Mountain
+580,The Cathedral Basilica of St. Francis of Assisi,3.999,Iglesias y catedrales,New Mexico,Mountain
+581,Loretto Chapel,5.207,"Lugares históricos, Lugares religiosos",New Mexico,Mountain
+582,McGinn's PistachioLand,1.832,"Tiendas de regalos, Viñedos con bodegas",New Mexico,Mountain
+583,Canyon Road,4.066,"Barrios, Monumentos y lugares de interés",New Mexico,Mountain
+584,Albuquerque Old Town,5.372,"Barrios, Áreas históricas peatonales",New Mexico,Mountain
+585,Georgia O'Keeffe Museum,5.210,Museos de arte,New Mexico,Mountain
+586,Santa Fe Plaza,3.240,"Lugares históricos, Monumentos y lugares de interés",New Mexico,Mountain
+587,Indian Pueblo Cultural Center,2.132,"Museos especializados, Museos de historia natural",New Mexico,Mountain
+588,Museum of International Folk Art,2.126,Museos especializados,New Mexico,Mountain
+589,The National Museum of Nuclear Science & History,1.355,"Museos especializados, Museos de ciencia",New Mexico,Mountain
+590,Petroglyph National Monument,1.993,"Lugares históricos, Parques nacionales",New Mexico,Mountain
+591,Big Room,1.017,Cavernas y cuevas,New Mexico,Mountain
+592,Santa Fe Opera House,1.088,Óperas,New Mexico,Mountain
+593,Carlsbad Caverns National Park Visitor Center,1.212,Centros de información turística,New Mexico,Mountain
+594,Chaco Culture National Historical Park,762,Parques nacionales,New Mexico,Mountain
+595,New Mexico History Museum,1.494,Museos de historia,New Mexico,Mountain
+596,Turquoise Museum,470,"Galerías de arte, Museos especializados",New Mexico,Mountain
+597,International UFO Museum and Research Center,2.762,Museos especializados,New Mexico,Mountain
+598,High Road to Taos,1.296,Rutas turísticas,New Mexico,Mountain
+599,New Mexico State Capitol (Roundhouse),1.064,Edificios gubernamentales,New Mexico,Mountain
+600,Albuquerque International Balloon Fiesta,711,Eventos culturales,New Mexico,Mountain
+601,Ghost Ranch,926,"Lugares educativos, Museos de arte",New Mexico,Mountain
+602,Museum of Indian Arts & Culture,892,Museos especializados,New Mexico,Mountain
+603,ABQ BioPark Botanic Garden,849,Jardines,New Mexico,Mountain
+604,Enchanted Circle Drive,621,Rutas turísticas,New Mexico,Mountain
+605,Bradbury Science Museum,910,"Museos de ciencia, Museos de historia",New Mexico,Mountain
+606,Pecos National Historical Park,472,Parques nacionales,New Mexico,Mountain
+607,San Francisco de Assisi Mission Church,813,Lugares religiosos,New Mexico,Mountain
+608,Bosque del Apache National Wildlife Refuge,543,Áreas de naturaleza y vida silvestre,New Mexico,Mountain
+609,Electric Playhouse,202,"Eventos culturales, Centros de juego y entretenimiento",New Mexico,Mountain
+610,New Mexico Museum of Natural History and Science,859,Museos de historia natural,New Mexico,Mountain
+611,Old Mesilla Village,1.003,Lugares históricos,New Mexico,Mountain
+612,Dripping Springs Natural Area,531,Parques,New Mexico,Mountain
+613,San Miguel Chapel,921,"Lugares religiosos, Museos de arte",New Mexico,Mountain
+614,Albuquerque Museum,641,"Museos de arte, Museos de historia",New Mexico,Mountain
+615,Puye Cliff Dwellings,391,Ruinas antiguas,New Mexico,Mountain
+616,El Santuario de Chimayo,659,"Lugares históricos, Lugares religiosos",New Mexico,Mountain
+617,Roswell Museum,349,"Observatorios y planetarios, Museos de arte",New Mexico,Mountain
+618,Capulin Volcano National Monument,497,Volcanes,New Mexico,Mountain
+619,Heart of the Desert,380,"Viñedos con bodegas, Granjas",New Mexico,Mountain
+620,San Felipe de Neri Church,818,Lugares religiosos,New Mexico,Mountain
+621,Anderson-Abruzzo International Balloon Museum,694,"Museos especializados, Museos de historia",New Mexico,Mountain
+622,Living Desert Zoo and Gardens State Park,564,"Parques estatales, Áreas de naturaleza y vida silvestre",New Mexico,Mountain
+623,Sitting Bull Falls,324,Cascadas,New Mexico,Mountain
+624,New Mexico Museum of Space History,590,Museos especializados,New Mexico,Mountain
+625,Bisti/De-Na-Zin Wilderness,315,"Parques estatales, Áreas de naturaleza y vida silvestre",New Mexico,Mountain
+626,Los Alamos History Museum,329,Museos de historia,New Mexico,Mountain
+627,Tinkertown Museum,375,"Museos especializados, Tiendas de antigüedades",New Mexico,Mountain
+628,Angel Fire Resort,426,Áreas para esquiar y practicar snowboard,New Mexico,Mountain
+629,Santa Fe Botanical Garden,323,Jardines,New Mexico,Mountain
+630,White Sands National Park,94,Parques nacionales,New Mexico,Mountain
+631,Recycled Roadrunner Sculpture,201,Monumentos y estatuas,New Mexico,Mountain
+632,Southwest Safaris,60,Safaris,New Mexico,Mountain
+633,ABQ BioPark Aquarium,558,Acuarios,New Mexico,Mountain
+634,Roswell UFO Spacewalk,188,"Galerías de arte, Parques de diversión y temáticos",New Mexico,Mountain
+635,Cross of the Martyrs,200,Monumentos y estatuas,New Mexico,Mountain
+636,Salmon Ruins,200,Ruinas antiguas,New Mexico,Mountain
+637,Railyard Arts District,269,"Barrios, Monumentos y lugares de interés",New Mexico,Mountain
+638,Billy the Kid Museum,248,Museos de historia,New Mexico,Mountain
+639,La Cieneguilla Petroglyph Site,161,Lugares históricos,New Mexico,Mountain
+640,Anderson Museum of Contemporary Art,132,Museos de arte,New Mexico,Mountain
+641,Luca decor,42,Galerías de arte,New Mexico,Mountain
+642,Turquoise Trail,262,Rutas para senderismo,New Mexico,Mountain
+643,Santa Fe School of Cooking,570,Clases de cocina,New Mexico,Mountain
+644,Castaneda Hotel,79,"Lugares históricos, Edificios con valor arquitectónico",New Mexico,Mountain
+645,Wo' P'in Spa at Hilton Santa Fe Buffalo Thunder,255,Spas,New Mexico,Mountain
+646,Bryce Canyon National Park,9.123,Formaciones geológicas,Utah,Mountain
+647,Arches National Park,10.957,"Parques nacionales, Rutas para senderismo",Utah,Mountain
+648,Monument Valley Navajo Tribal Park,7.443,"Monumentos y lugares de interés, Formaciones geológicas",Utah,Mountain
+649,The Narrows,3.649,"Parques nacionales, Rutas para senderismo",Utah,Mountain
+650,Dead Horse Point State Park,5.563,Parques estatales,Utah,Mountain
+651,Angel's Landing,2.975,Rutas para senderismo,Utah,Mountain
+652,Zion National Park,4.046,Parques nacionales,Utah,Mountain
+653,Canyonlands National Park,3.858,"Montañas, Parques nacionales",Utah,Mountain
+654,Zion Canyon Scenic Drive,2.674,Rutas turísticas,Utah,Mountain
+655,Navajo/Queens Garden Loop,1.771,Rutas para senderismo,Utah,Mountain
+656,Best Friends Animal Sanctuary,1.506,Áreas de naturaleza y vida silvestre,Utah,Mountain
+657,Temple Square,5.063,"Monumentos y lugares de interés, Lugares religiosos",Utah,Mountain
+658,Delicate Arch,1.921,"Monumentos y lugares de interés, Formaciones geológicas",Utah,Mountain
+659,Capitol Reef National Park,1.734,"Parques nacionales, Áreas de naturaleza y vida silvestre",Utah,Mountain
+660,Big Cottonwood Canyon,1.169,Cañones,Utah,Mountain
+661,Hell's Revenge,898,Senderos para vehículos todo terreno,Utah,Mountain
+662,Natural History Museum of Utah,1.571,Museos de historia natural,Utah,Mountain
+663,Inspiration Point,1.270,Miradores,Utah,Mountain
+664,Corona Arch,1.033,Formaciones geológicas,Utah,Mountain
+665,Antelope Island State Park,1.286,"Parques estatales, Islas",Utah,Mountain
+666,Cedar Breaks National Monument,1.280,"Parques nacionales, Cañones",Utah,Mountain
+667,The Tabernacle,1.351,Lugares religiosos,Utah,Mountain
+668,Utah State Capitol,1.567,Edificios gubernamentales,Utah,Mountain
+669,Zion-Mt. Carmel Highway,887,Rutas turísticas,Utah,Mountain
+670,Zion Shuttle,2.214,Rutas turísticas,Utah,Mountain
+671,Goblin Valley State Park,999,Parques estatales,Utah,Mountain
+672,Mesa Arch,769,Formaciones geológicas,Utah,Mountain
+673,Backcountry Snowmobiling,640,Áreas para esquiar y practicar snowboard,Utah,Mountain
+674,The Wave at Coyote Buttes,338,Formaciones geológicas,Utah,Mountain
+675,Hill Aerospace Museum,728,Museos especializados,Utah,Mountain
+676,Snow Canyon State Park,691,Parques estatales,Utah,Mountain
+677,Dinosaur National Monument,974,Parques nacionales,Utah,Mountain
+678,Bryce Point,836,Torres y observatorios,Utah,Mountain
+679,Moab Reservation Center,429,Centros de información turística,Utah,Mountain
+680,Kolob Canyons,659,Cañones,Utah,Mountain
+681,Park City Mountain Resort,2.100,"Áreas para esquiar y practicar snowboard, Playa y clubes con piscina",Utah,Mountain
+682,This is the Place Heritage Park,561,Parques estatales,Utah,Mountain
+683,Bonneville Salt Flats,618,"Pistas de carreras de automóviles, Fuentes termales y géiseres",Utah,Mountain
+684,Bluff Fort Historic Site,705,Lugares históricos,Utah,Mountain
+685,Forrest Gump Point,596,Monumentos y lugares de interés,Utah,Mountain
+686,Island in the Sky,689,"Parques nacionales, Formaciones geológicas",Utah,Mountain
+687,Red Canyon,791,"Cañones, Rutas para senderismo",Utah,Mountain
+688,Double Arch,669,"Rutas para senderismo, Formaciones geológicas",Utah,Mountain
+689,Red Hills Desert Garden,412,"Parques, Jardines",Utah,Mountain
+690,Pioneer Park,548,Parques,Utah,Mountain
+691,Potash Road,790,"Rutas para ciclismo, Rutas turísticas",Utah,Mountain
+692,Natural Bridges National Monument,873,"Parques nacionales, Formaciones geológicas",Utah,Mountain
+693,Goosenecks State Park,690,Parques estatales,Utah,Mountain
+694,Park City Main Street Historic District,1.438,Monumentos y lugares de interés,Utah,Mountain
+695,Coral Pink Sand Dunes State Park,1.199,Parques estatales,Utah,Mountain
+696,Grand View Point Overlook,422,Miradores,Utah,Mountain
+697,Riverside Walk,501,Rutas para senderismo,Utah,Mountain
+698,Windows,541,"Rutas para senderismo, Formaciones geológicas",Utah,Mountain
+699,Balanced Rock Trail,727,Rutas para senderismo,Utah,Mountain
+700,Scenic Byway Route 12,401,Rutas turísticas,Utah,Mountain
+701,Clark Planetarium,433,Museos de ciencia,Utah,Mountain
+702,Utah Field House of Natural History State Park,417,Museos de historia natural,Utah,Mountain
+703,Brian Head Resort,397,"Rutas para ciclismo, Áreas para esquiar y practicar snowboard",Utah,Mountain
+704,Wilson's Arch,651,Formaciones geológicas,Utah,Mountain
+705,Emerald Pools,1.631,"Formaciones geológicas, Cascadas",Utah,Mountain
+706,Canyon Trail Rides,2.581,Tours a caballo,Utah,Mountain
+707,Kodachrome Basin State Park,552,Parques estatales,Utah,Mountain
+708,Devil's Garden,406,Jardines,Utah,Mountain
+709,Wildcat Trail,401,Rutas para senderismo,Utah,Mountain
+710,Goulding’s Trading Post Museum.,684,Museos especializados,Utah,Mountain
+711,Watchman Trail,314,Rutas para senderismo,Utah,Mountain
+712,Zion Canyon Visitor Center,504,Centros de información turística,Utah,Mountain
+713,Utah Scenic Byway 279 Rock Art Sites,421,Monumentos y lugares de interés,Utah,Mountain
+714,Bryce Amphitheatre,159,"Áreas de naturaleza y vida silvestre, Rutas para senderismo",Utah,Mountain
+715,Arches National Park Scenic Drive,246,Rutas turísticas,Utah,Mountain
+716,Land Cruiser Heritage Museum,77,Museos especializados,Utah,Mountain
+717,St. George Dinosaur Discovery Site at Johnson Farm,477,"Museos especializados, Museos de historia natural",Utah,Mountain
+718,McConkie Ranch,223,"Ruinas antiguas, Monumentos y lugares de interés",Utah,Mountain
+719,Moab Museum of Film and Western Heritage,260,Museos especializados,Utah,Mountain
+720,Peek-A-Boo Slot Canyon,50,Rutas para senderismo,Utah,Mountain
+721,Moab Information Center,491,Centros de información turística,Utah,Mountain
+722,Monument Valley – Highway 163 Scenic Drive,120,Rutas turísticas,Utah,Mountain
+723,Kanab Heritage House Museum,129,Museos de historia,Utah,Mountain
+724,Moab Backyard Theater,78,Teatros,Utah,Mountain
+725,Canyon Trail Rides,1.159,Tours a caballo,Utah,Mountain
+726,Egyptian Theatre,367,"Teatros, Clubes de comedia",Utah,Mountain
+727,Sand Island Petroglyphs,189,Monumentos y lugares de interés,Utah,Mountain
+728,Park City Peaks Snowmobiling,650,Tours de esquí y de nieve,Utah,Mountain
+729,The Spa at Hotel Park City,324,Spas,Utah,Mountain
+730,Serenity Spa by Westgate,384,Spas,Utah,Mountain
+731,Red Giant Escape Rooms,378,Juegos de escape,Utah,Mountain
+732,St. George Shuttle,805,"Servicios de autobús, Taxis y otros servicios de traslado",Utah,Mountain
+733,A Great Escape at Gardner Village,354,Juegos de escape,Utah,Mountain
+734,Social Axe Throwing SLC,67,Centros de juego y entretenimiento,Utah,Mountain
+735,Kanab Tour Company,3.691,"Tours para practicar rápel y barranquismo, Tours para vehículos todo terreno y 4 x 4",Utah,Mountain
+736,Dreamland Safari Tours,3.586,"Tours de varios días, Tours para vehículos todo terreno y 4 x 4",Utah,Mountain
+737,Red Pine Adventures,195,"Tours de esquí y de nieve, Tours a caballo",Utah,Mountain
+738,NAVTEC Expeditions - Day Tours,3.927,Rafting y nado con salvavidas en el río,Utah,Mountain
+739,Escape Room Park City,216,Juegos de escape,Utah,Mountain
+740,East Zion Adventures,2.882,"Tours para practicar rápel y barranquismo, Tours para vehículos todo terreno y 4 x 4",Utah,Mountain
+741,Moab Tourism Center,3.182,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Utah,Mountain
+742,Xtreme 4x4 Tours,2.636,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Utah,Mountain
+743,Moab Adventure Center,2.952,"Paseos en globo aerostático, Tours en bicicleta",Utah,Mountain
+744,Moab Express,160,Taxis y otros servicios de traslado,Utah,Mountain
+745,"Thunder Mountain Motorsports, Inc.",122,Tours de esquí y de nieve,Utah,Mountain
+746,Navajo Spirit Tours,2.015,"Tours culturales, Tours nocturnos",Utah,Mountain
+747,Dan Mick's Guided Jeep Tours,2.472,Tours para vehículos todo terreno y 4 x 4,Utah,Mountain
+748,Blue Sage Adventures,96,Tours a caballo,Utah,Mountain
+749,ROAM Outdoor Adventure Co,1.880,"Tours para practicar rápel y barranquismo, Tours para vehículos todo terreno y 4 x 4",Utah,Mountain
+750,Monument Valley Safari,2.047,"Tours para vehículos todo terreno y 4 x 4, Tours turísticos",Utah,Mountain
+751,Epic 4X4 Adventures,1.574,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Utah,Mountain
+752,Dineh Bekeyah Tours,1.647,"Tours históricos, Tours turísticos",Utah,Mountain
+753,Zion Shooting Experience,94,Campos de tiro,Utah,Mountain
+754,Utah E-Bike Adventures,73,Alquileres de equipos,Utah,Mountain
+755,Adrift Adventures,2.317,"Rafting y nado con salvavidas en el río, Escapadas de un día",Utah,Mountain
+756,Jenn’s Jeep Rentals,97,Alquileres de equipos,Utah,Mountain
+757,ROAM East Zion,1.071,"Tours para practicar rápel y barranquismo, Tours para vehículos todo terreno y 4 x 4",Utah,Mountain
+758,Gran Cañón de Yellowstone,5.159,Cañones,Wioming,Mountain
+759,Centro Histórico Buffalo Bill,4.724,"Museos especializados, Museos de historia",Wioming,Mountain
+760,Devils Tower National Monument,3.820,Formaciones geológicas,Wioming,Mountain
+761,Grand Teton,2.814,Montañas,Wioming,Mountain
+762,Lamar Valley,3.073,Rutas turísticas,Wioming,Mountain
+763,Grand Prismatic Spring,3.187,Fuentes termales y géiseres,Wioming,Mountain
+764,Yellowstone National Park,1.824,Parques nacionales,Wioming,Mountain
+765,Old Faithful,5.063,Fuentes termales y géiseres,Wioming,Mountain
+766,National Museum of Wildlife Art,2.072,"Museos especializados, Museos de arte",Wioming,Mountain
+767,Jackson Hole Aerial Tram,2.008,Tranvías,Wioming,Mountain
+768,Artist Point,1.338,"Monumentos y lugares de interés, Rutas para senderismo",Wioming,Mountain
+769,Cody Dug Up Gun Museum,785,Museos especializados,Wioming,Mountain
+770,Upper Geyser Basin,1.351,Fuentes termales y géiseres,Wioming,Mountain
+771,National Elk Refuge,1.829,Áreas de naturaleza y vida silvestre,Wioming,Mountain
+772,Jackson Town Square,2.804,Monumentos y lugares de interés,Wioming,Mountain
+773,Yellowstone Lake,1.803,Masas de agua,Wioming,Mountain
+774,Mammoth Hot Springs,2.207,Fuentes termales y géiseres,Wioming,Mountain
+775,National Historic Trails Interpretive Center,553,Museos de historia,Wioming,Mountain
+776,Jenny Lake,810,Masas de agua,Wioming,Mountain
+777,Hayden Valley,1.141,Áreas de naturaleza y vida silvestre,Wioming,Mountain
+778,Cody Firearms Museum,694,Museos especializados,Wioming,Mountain
+779,Old Trail Town,1.202,Lugares históricos,Wioming,Mountain
+780,Grand Loop Road,783,Rutas turísticas,Wioming,Mountain
+781,Jackson Hole Rodeo,789, Carreras de caballos,Wioming,Mountain
+782,Wyoming Territorial Prison State Historic Site,532,Lugares históricos,Wioming,Mountain
+783,Buffalo Bill Dam,1.053,Represas,Wioming,Mountain
+784,West Thumb Geyser Basin,910,Fuentes termales y géiseres,Wioming,Mountain
+785,Wild West Spectacular,200,Teatros,Wioming,Mountain
+786,Grand Teton National Park,344,Parques nacionales,Wioming,Mountain
+787,Teton Raptor Center,186,Áreas de naturaleza y vida silvestre,Wioming,Mountain
+788,Jackson Hole Playhouse,517,Teatros,Wioming,Mountain
+789,Grand Targhee Ski Resort,499,Áreas para esquiar y practicar snowboard,Wioming,Mountain
+790,American Fossil,190,"Áreas de naturaleza y vida silvestre, Formaciones geológicas",Wioming,Mountain
+791,Hot Springs State Park,742,"Parques estatales, Fuentes termales y géiseres",Wioming,Mountain
+792,Midway Geyser Basin,599,Fuentes termales y géiseres,Wioming,Mountain
+793,National Museum of Military Vehicles,92,"Museos militares, Museos especializados",Wioming,Mountain
+794,Heart Mountain Interpretive Center,299,Museos de historia,Wioming,Mountain
+795,Museum of the Plains Indian,305,"Museos especializados, Museos de historia",Wioming,Mountain
+796,Antler Arches of Jackson,560,Monumentos y lugares de interés,Wioming,Mountain
+797,Museum of the Mountain Man,263,Museos especializados,Wioming,Mountain
+798,Devil's Tower National Monument Visitor Center,610,Centros de información turística,Wioming,Mountain
+799,Fort Laramie National Historic Site,478,"Lugares históricos, Parques nacionales",Wioming,Mountain
+800,Wyoming Frontier Prison,294,"Museos especializados, Lugares históricos",Wioming,Mountain
+801,Cheyenne Depot Museum,519,Museos especializados,Wioming,Mountain
+802,Mormon Row Historic District,569,Lugares históricos,Wioming,Mountain
+803,Yellowstone Geysers - Mud Volcano Area,535,"Fuentes termales y géiseres, Volcanes",Wioming,Mountain
+804,Wyoming State Capitol,345,Edificios gubernamentales,Wioming,Mountain
+805,Tower Trail,362,"Monumentos y lugares de interés, Áreas peatonales pintorescas",Wioming,Mountain
+806,The Cody Cattle Company,789,Teatros donde se puede cenar,Wioming,Mountain
+807,Jackson Hole Shooting Experience,800,"Clínicas y campos deportivos, Campos de tiro",Wioming,Mountain
+808,Mill Iron Ranch,590,Tours a caballo,Wioming,Mountain
+809,Cheyenne Botanic Gardens,204,Jardines,Wioming,Mountain
+810,Old Faithful Snowmobile Tours - Day Tours,338,Tours de esquí y de nieve,Wioming,Mountain
+811,Willow Creek Horseback Rides,216,Tours a caballo,Wioming,Mountain
+812,Jackson Hole Eco Tour Adventures,3.355,"Tours ecológicos, Tours de naturaleza y vida silvestre",Wioming,Mountain
+813,BrushBuck Wildlife Tours,3.177,"Tours de varios días, Tours ecológicos",Wioming,Mountain
+814,Jackson Hole Backcountry Rentals,315,Alquileres de equipos,Wioming,Mountain
+815,"Cody Firearms Experience, LLC",410,"Campos de tiro, Centros de juego y entretenimiento",Wioming,Mountain
+816,Solitude Float Trips,1.713,"Tours en barco, Tours turísticos",Wioming,Mountain
+817,Jackson Hole Adventure Rentals,255,Alquileres de equipos,Wioming,Mountain
+818,North Fork Trail Rides,283,Tours a caballo,Wioming,Mountain
+819,Jackson Hole Wildlife Safaris,1.709,"Tours ecológicos, Tours privados",Wioming,Mountain
+820,Jackson Hole Whitewater,1.324,Rafting y nado con salvavidas en el río,Wioming,Mountain
+821,Bar-T-5 Covered Wagon Cookout,613,Teatros donde se puede cenar,Wioming,Mountain
+822,Barker-Ewing Scenic Float Trips,1.052,Tours turísticos,Wioming,Mountain
+823,Wildlife Expeditions of Teton Science Schools,1.293,Tours de naturaleza y vida silvestre,Wioming,Mountain

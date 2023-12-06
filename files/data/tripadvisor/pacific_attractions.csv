@@ -1,0 +1,576 @@
+,attraction,n_reviews,categories,state,region
+0,Mendenhall Glacier Visitor Center,7.131,"Centros de información turística, Formaciones geológicas",Alaska,West Pacific
+1,Fountainhead Antique Auto Museum,2.009,Museos especializados,Alaska,West Pacific
+2,Tracy Arm Fjord,2.953,Masas de agua,Alaska,West Pacific
+3,Alaska Wildlife Conservation Center,3.865,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+4,Denali,2.939,Montañas,Alaska,West Pacific
+5,Glacier Bay National Park & Preserve,1.430,"Masas de agua, Parques nacionales",Alaska,West Pacific
+6,Kenai Fjords National Park,1.781,Parques nacionales,Alaska,West Pacific
+7,University of Alaska Museum of the North,2.641,"Galerías de arte, Museos de historia natural",Alaska,West Pacific
+8,Hubbard Glacier,711,"Monumentos y lugares de interés, Formaciones geológicas",Alaska,West Pacific
+9,Husky Homestead,1.968,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+10,Alaska SeaLife Center,3.472,"Áreas de naturaleza y vida silvestre, Acuarios",Alaska,West Pacific
+11,Nugget Falls,1.481,Cascadas,Alaska,West Pacific
+12,Morris Thompson Cultural & Visitors Center,1.832,Centros de información turística,Alaska,West Pacific
+13,Tony Knowles Coastal Trail,1.896,"Áreas históricas peatonales, Rutas para ciclismo",Alaska,West Pacific
+14,Black Spruce Dog Sledding,947,"Más actividades al aire libre, Más ranchos y granjas",Alaska,West Pacific
+15,Sitka National Historic Park/Totem Park,966,"Parques estatales, Áreas históricas peatonales",Alaska,West Pacific
+16,Creek Street,2.451,Áreas históricas peatonales,Alaska,West Pacific
+17,Running Reindeer Ranch,1.912,"Granjas, Ranchos",Alaska,West Pacific
+18,Alaska Raptor Center,1.151,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+19,Mendenhall Glacier,810,"Monumentos y lugares de interés, Formaciones geológicas",Alaska,West Pacific
+20,Alyeska Aerial Tram,1.455,Tranvías,Alaska,West Pacific
+21,Reindeer Farm,742,Granjas,Alaska,West Pacific
+22,Alaska Native Heritage Center,1.715,"Lugares históricos, Lugares educativos",Alaska,West Pacific
+23,Alaska Rainforest Sanctuary,977,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+24,Resurrection Bay,949,Masas de agua,Alaska,West Pacific
+25,Kroschel Films Wildlife Center,580,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+26,Denali National Park,733,Parques estatales,Alaska,West Pacific
+27,Matanuska Glacier,556,Formaciones geológicas,Alaska,West Pacific
+28,Exit Glacier,920,"Áreas de naturaleza y vida silvestre, Rutas para senderismo",Alaska,West Pacific
+29,Denali Visitor Center,1.582,Centros de información turística,Alaska,West Pacific
+30,Homer Spit,1.825,"Rutas para ciclismo, Playas",Alaska,West Pacific
+31,Miller's Landing,798,Muelles y paseos peatonales,Alaska,West Pacific
+32,Totem Bight State Historical Park,1.020,"Lugares históricos, Parques estatales",Alaska,West Pacific
+33,Portage Glacier,1.076,Formaciones geológicas,Alaska,West Pacific
+34,Alaska State Museum,609,"Museos especializados, Lugares históricos",Alaska,West Pacific
+35,Red Onion Saloon Brothel Museum,925,Museos especializados,Alaska,West Pacific
+36,Alaska Railroad Depot,1.079,Edificios con valor arquitectónico,Alaska,West Pacific
+37,Fortress of the Bear,1.003,Zoológicos,Alaska,West Pacific
+38,Flattop Mountain Trail,949,Rutas para senderismo,Alaska,West Pacific
+39,Alyeska Pipeline Viewing Point,692,Monumentos y lugares de interés,Alaska,West Pacific
+40,Dog Gone It,265,Granjas,Alaska,West Pacific
+41,Visit Anchorage Log Cabin Visitor Information Center,845,Centros de información turística,Alaska,West Pacific
+42,Alaska 360,613,Centros de juego y entretenimiento,Alaska,West Pacific
+43,Great Alaskan Lumberjack Show,2.626,Teatro y espectáculos,Alaska,West Pacific
+44,Gold Daughters Alaska,246,"Museos especializados, Centros de juego y entretenimiento",Alaska,West Pacific
+45,BearHead Photography Gallery,164,Galerías de arte,Alaska,West Pacific
+46,Potter Marsh Bird Sanctuary,721,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+47,Byron Glacier Trail,289,Rutas para senderismo,Alaska,West Pacific
+48,The Solomon Gulch Hatchery,293,Áreas de naturaleza y vida silvestre,Alaska,West Pacific
+49,DIPAC's Macaulay Salmon Hatchery,558,Acuarios,Alaska,West Pacific
+50,Lower Reid Falls,261,Monumentos y lugares de interés,Alaska,West Pacific
+51,Anton Anderson Memorial Tunnel,579,Monumentos y lugares de interés,Alaska,West Pacific
+52,Seldovia Bay Ferry,189,Ferris,Alaska,West Pacific
+53,St. Michael's Russian Orthodox Cathedral,417,Lugares religiosos,Alaska,West Pacific
+54,Dean Homestead and Art Studios Tour and The Dean Gallery,96,"Galerías de arte, Granjas",Alaska,West Pacific
+55,Juneau Tours & Whale Watch,9.386,"Tours en barco, Tours turísticos",Alaska,West Pacific
+56,Horseshoe Lake Trail,177,Rutas para senderismo,Alaska,West Pacific
+57,Wilderness Express Train,554,Servicios de ferrocarril,Alaska,West Pacific
+58,Pablo Bicycle Rentals,793,Alquileres de equipos,Alaska,West Pacific
+59,Alaska Horse Adventures,922,Tours a caballo,Alaska,West Pacific
+60,Major Marine Tours - Kenai Fjords Cruise,7.842,"Tours en barco, Avistamiento de delfines y ballenas",Alaska,West Pacific
+61,Antler Arch,243,Monumentos y lugares de interés,Alaska,West Pacific
+62,Gastineau Guiding,5.663,"Tours en barco, Avistamiento de delfines y ballenas",Alaska,West Pacific
+63,Alaska Railroad,319,"Servicios de ferrocarril, Sistemas de transporte público",Alaska,West Pacific
+64,Kenai Fjords Tours,5.938,"Tours en barco, Avistamiento de delfines y ballenas",Alaska,West Pacific
+65,Aurora Dora,548,"Tiendas de regalos, Galerías de arte",Alaska,West Pacific
+66,AK Sled Dog Tours,397,Tours de esquí y de nieve,Alaska,West Pacific
+67,Alaska Wildlife Guide LLC,3.501,"Excursiones de pesca, Tours nocturnos",Alaska,West Pacific
+68,White Pass & Yukon Route Railway,5.026,Ferrocarriles turísticos,Alaska,West Pacific
+69,Harv and Marv's Outback Alaska,2.094,"Tours en barco, Tours turísticos",Alaska,West Pacific
+70,Sled Dog Demonstration,948,"Áreas de naturaleza y vida silvestre, Teatro y espectáculos",Alaska,West Pacific
+71,K2 Aviation,3.233,"Tours turísticos, Tours aéreos",Alaska,West Pacific
+72,Alaska Railroad,2.846,Ferrocarriles turísticos,Alaska,West Pacific
+73,Bering Sea Crab Fishermen's Tour,2.157,"Tours en barco, Tours de cine y TV",Alaska,West Pacific
+74,Talkeetna Air Taxi,2.970,"Taxis y otros servicios de traslado, Tours turísticos",Alaska,West Pacific
+75,Ketchikan Duck Tour,2.640,"Tours por la ciudad, Tours en barco",Alaska,West Pacific
+76,Anchorage City Trolley Tours,3.184,"Tranvías, Tours en autobús",Alaska,West Pacific
+77,The Days of '98 Show,397,Teatro y espectáculos,Alaska,West Pacific
+78,Denali Horseback Tours,171,Tours a caballo,Alaska,West Pacific
+79,Baranof Fishing Excursions,1.631,Excursiones de pesca,Alaska,West Pacific
+80,Liquid Alaska Tours,1.715,"Tours en barco, Tours ecológicos",Alaska,West Pacific
+81,PicTours Alaska,2.026,"Tours ecológicos, Tours turísticos",Alaska,West Pacific
+82,Phillips Cruises and Tours,2.961,"Tours en barco, Tours turísticos",Alaska,West Pacific
+83,Rust's Flying Service,1.538,"Tours turísticos, Tours aéreos",Alaska,West Pacific
+84,Alaska Tour & Travel,1.427,"Tours turísticos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+85,Alaska Cruise Transportation - ACT,2.118,Tours turísticos,Alaska,West Pacific
+86,Rod's Alaskan Guide Service,1.381,"Tours de esquí y de nieve, Excursiones de pesca",Alaska,West Pacific
+87,Sunny Cove Sea Kayaking,1.964,Práctica de kayak y canotaje,Alaska,West Pacific
+88,Bardy's Trail Rides - Day Tour,319,Tours a caballo,Alaska,West Pacific
+89,Riverboat Discovery,2.410,"Tours culturales, Tours históricos",Alaska,West Pacific
+90,Alaska Helicopter Tours,892,"Tours en helicóptero, Tours aéreos",Alaska,West Pacific
+91,Kayak Adventures Worldwide,1.620,"Tours en barco, Práctica de kayak y canotaje",Alaska,West Pacific
+92,Taku Glacier Lodge & Wings Airways,1.269,Tours aéreos,Alaska,West Pacific
+93,MICA Guides,1.777,"Tours en helicóptero, Tours extremos y de adrenalina",Alaska,West Pacific
+94,Alaska Travel Adventures,1.314,"Rafting y nado con salvavidas en el río, Tours históricos",Alaska,West Pacific
+95,Denali Raft Adventures,1.326,"Rafting y nado con salvavidas en el río, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+96,Exit Glacier Guides - Day Tours,1.138,"Tours a pie, Tours de excursionismo y campamentos",Alaska,West Pacific
+97,Alaska Bear Adventures,1.145,"Tours ecológicos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+98,Downtown Bicycle Rental,231,Alquileres de equipos,Alaska,West Pacific
+99,Allen Marine Tours,1.221,"Tours turísticos, Avistamiento de delfines y ballenas",Alaska,West Pacific
+100,Jewels by Kris,109,Tiendas de regalos,Alaska,West Pacific
+101,Trek Bike Rentals - Downtown Anchorage,170,Alquileres de equipos,Alaska,West Pacific
+102,Black Diamond ATV Tours,968,Tours para vehículos todo terreno y 4 x 4,Alaska,West Pacific
+103,Northern Alaska Tour Company,905,"Tours turísticos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+104,1st Alaska Tours,1.079,"Tours por la ciudad, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+105,Chilkoot Charters & Tours,768,Tours turísticos,Alaska,West Pacific
+106,Alaska Icefield Expeditions,695,Tours turísticos,Alaska,West Pacific
+107,Fly Denali,768,Tours aéreos,Alaska,West Pacific
+108,Rainbow Glacier Adventures LLC,840,"Rafting y nado con salvavidas en el río, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+109,Alaska Escape Rooms,102,Juegos de escape,Alaska,West Pacific
+110,Southeast Exposure Outdoor Adventure Center,763,"Tirolesa y parques de aventuras aéreas, Alquileres de equipos",Alaska,West Pacific
+111,Alaska's Finest Tours & Cruises - Tours,824,"Tours en helicóptero, Tours en barco",Alaska,West Pacific
+112,Dolphin Jet Boat Tours,1.502,"Tours ecológicos, Avistamiento de delfines y ballenas",Alaska,West Pacific
+113,Hoonah Travel Adventures,1.050,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+114,Alaska Backcountry Adventure Tours,1.006,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+115,New Wave Adventures,746,Rafting y nado con salvavidas en el río,Alaska,West Pacific
+116,Glacier Wind Charters,575,"Tours en barco, Avistamiento de delfines y ballenas",Alaska,West Pacific
+117,Salmon Berry Travel & Tours,813,"Tours de varios días, Tours históricos",Alaska,West Pacific
+118,Temsco Helicopters Inc.,921,Tours en helicóptero,Alaska,West Pacific
+119,Alaskan Tour Guides,541,"Tours ecológicos, Tours turísticos",Alaska,West Pacific
+120,Gallant Adventures,512,"Tours en barco, Tours turísticos",Alaska,West Pacific
+121,Gold Rush Dog Sled Tours,678,"Tours de excursionismo y campamentos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+122,Liquid Adventures,626,"Tours en barco, Deportes acuáticos",Alaska,West Pacific
+123,The Aurora Chasers,497,"Tours nocturnos, Tours fotográficos",Alaska,West Pacific
+124,St. Elias Alpine Guides,870,"Rafting y nado con salvavidas en el río, Tours históricos",Alaska,West Pacific
+125,Adventure Sixty North,655,"Tours en helicóptero, Tours a pie",Alaska,West Pacific
+126,Nova Alaska Guides,610,"Tours de varios días, Rafting y nado con salvavidas en el río",Alaska,West Pacific
+127,TEMSCO Helicopters - Skagway,621,Tours en helicóptero,Alaska,West Pacific
+128,Trail of '98 Tours - Private Skagway Tours,526,"Tours turísticos, Tours privados",Alaska,West Pacific
+129,Snowhook Adventure Guides of Alaska,432,"Tours de varios días, Tours para vehículos todo terreno y 4 x 4",Alaska,West Pacific
+130,Just Short of Magic,774,Tours de naturaleza y vida silvestre,Alaska,West Pacific
+131,Jayleen's Alaska,365,"Tours en barco, Tours turísticos",Alaska,West Pacific
+132,NorthStar Trekking,498,Tours de excursionismo y campamentos,Alaska,West Pacific
+133,Alaskan Husky Adventures,404,"Tours culturales, Tours extremos y de adrenalina",Alaska,West Pacific
+134,Alaska Adventure Unlimited,428,"Tours de varios días, Tours privados",Alaska,West Pacific
+135,Greatland Adventures,444,"Tours por la ciudad, Tours turísticos",Alaska,West Pacific
+136,Adventures in Alaska,567,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+137,Allen Marine Tours,283,Tours turísticos,Alaska,West Pacific
+138,Knik Glacier Tours,362,Tours de naturaleza y vida silvestre,Alaska,West Pacific
+139,Alaska Fjordlines,418,Tours turísticos,Alaska,West Pacific
+140,Cpt. Gary's Sitka Adventures,348,"Tours en barco, Tours ecológicos",Alaska,West Pacific
+141,"Emerald Air Service, Inc.",303,Tours aéreos,Alaska,West Pacific
+142,Pangaea Adventures Day Tours,643,"Rafting y nado con salvavidas en el río, Alquileres de equipos",Alaska,West Pacific
+143,Icy Strait Point ZipRider,474,Tirolesa y parques de aventuras aéreas,Alaska,West Pacific
+144,Maverick Charters,324,Excursiones de pesca,Alaska,West Pacific
+145,Rum Runner Charters,560,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+146,Alaska Wildland Adventures,335,Tours turísticos,Alaska,West Pacific
+147,Northern Latitude Adventures,409,"Tours en barco, Tours turísticos",Alaska,West Pacific
+148,The Local Guy Charters & Sightseeing,371,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+149,Gold Rush Dog Tours,379,"Tours de excursionismo y campamentos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+150,Alaska Fishing and Raft Adventures - Day Tours,400,Excursiones de pesca,Alaska,West Pacific
+151,49th State Motor Tours,396,"Tours de varios días, Tours para vehículos todo terreno y 4 x 4",Alaska,West Pacific
+152,Smokey Bay Air,418,"Tours ecológicos, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+153,Alaska Sled Dogs & Musher's Camp,652,Tours de naturaleza y vida silvestre,Alaska,West Pacific
+154,Anadyr Adventures,384,"Tours ecológicos, Tours turísticos",Alaska,West Pacific
+155,Paws for Adventure,323,Tours turísticos,Alaska,West Pacific
+156,Sea Roamer Charters,301,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+157,Lazy Otter Charters,346,Tours en barco,Alaska,West Pacific
+158,Seward Ocean Excursions,302,"Tours en barco, Tours turísticos",Alaska,West Pacific
+159,Sasquatch Alaska Adventure Co,416,"Tours privados, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+160,Alaska Ultimate Safaris,352,"Tours en helicóptero, Tours ecológicos",Alaska,West Pacific
+161,Alaska Sled Dog Tours,213,"Tours extremos y de adrenalina, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+162,Coldwater Alaska,271,"Tours en barco, Tours turísticos",Alaska,West Pacific
+163,Ninilchik Charters - Day Tours,799,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+164,Alaska Luxury Tours,334,"Tours en barco, Tours turísticos",Alaska,West Pacific
+165,Bald Mountain Air Service,361,Tours aéreos,Alaska,West Pacific
+166,Kenai Riverdog,309,"Rafting y nado con salvavidas en el río, Tours en barco",Alaska,West Pacific
+167,Takshanuk Mountain Trail by 4x4,546,Tours para vehículos todo terreno y 4 x 4,Alaska,West Pacific
+168,Turning Heads Kennel,394,Tours turísticos,Alaska,West Pacific
+169,Family Air Tours & Hook Up Fly Shop,229,Tours aéreos,Alaska,West Pacific
+170,Sitka Sound Ocean Adventures,476,"Tours en barco, Tours ecológicos",Alaska,West Pacific
+171,True North Kayak Adventures,387,Práctica de kayak y canotaje,Alaska,West Pacific
+172,Homer Ocean Charters,357,"Tours en barco, Excursiones de pesca",Alaska,West Pacific
+173,Last Frontier Mushing Co-op,263,Tours de naturaleza y vida silvestre,Alaska,West Pacific
+174,Alaska Wilderness Adventure,386,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",Alaska,West Pacific
+175,Hawaii Volcanoes National Park,8.670,Volcanes,Hawaii,West Pacific
+176,Mauna Kea Summit,4.626,Montañas,Hawaii,West Pacific
+177,Akaka Falls State Park,6.383,"Parques estatales, Cascadas",Hawaii,West Pacific
+178,Hawaii Tropical Bioreserve and Garden,2.294,"Áreas de naturaleza y vida silvestre, Jardines",Hawaii,West Pacific
+179,Hawaiian Vanilla Company,1.552,Jardines,Hawaii,West Pacific
+180,Hapuna Beach State Recreation Area,2.758,"Parques estatales, Playas",Hawaii,West Pacific
+181,Kilauea Iki Trail,1.475,Rutas para senderismo,Hawaii,West Pacific
+182,Manini'owali Beach (Kua Bay),1.426,Playas,Hawaii,West Pacific
+183,Pu'uhonua O Honaunau National Historical Park,2.298,"Lugares históricos, Parques nacionales",Hawaii,West Pacific
+184,Heavenly Hawaiian Kona Coffee Farm Tours & Konalani Coffee Bar,460,Granjas,Hawaii,West Pacific
+185,Punalu'u Black Sand beach,1.790,"Parques estatales, Playas",Hawaii,West Pacific
+186,Saddle Road,3.732,"Monumentos y lugares de interés, Rutas turísticas",Hawaii,West Pacific
+187,Pololu Valley Lookout,1.162,"Miradores, Valles",Hawaii,West Pacific
+188,The Vanillerie,492,Granjas,Hawaii,West Pacific
+189,Rainbow Falls,3.970,Cascadas,Hawaii,West Pacific
+190,Kona Cloud Forest Sanctuary,356,Áreas de naturaleza y vida silvestre,Hawaii,West Pacific
+191,South Point (Ka Lae) y Green Sand Beach,2.178,Playas,Hawaii,West Pacific
+192,Kilauea,892,Volcanes,Hawaii,West Pacific
+193,Kealakekua Bay,832,"Lugares históricos, Masas de agua",Hawaii,West Pacific
+194,Ocean Rider Seahorse Farm,1.130,Acuarios,Hawaii,West Pacific
+195,Liliuokalani Gardens,1.201,Jardines,Hawaii,West Pacific
+196,Kaloko-Honokohau National Historical Park,835,Parques nacionales,Hawaii,West Pacific
+197,Mauna Kea Beach,461,Playas,Hawaii,West Pacific
+198,Nahuku - Thurston Lava Tube,1.631,Formaciones geológicas,Hawaii,West Pacific
+199,Kula Kai Caverns,212,"Cavernas y cuevas, Formaciones geológicas",Hawaii,West Pacific
+200,Hilo Farmers Market,1.090,Mercados de agricultores,Hawaii,West Pacific
+201,Greenwell Farms,1.530,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+202,Chain of Craters Road,363,Rutas turísticas,Hawaii,West Pacific
+203,Kona Coffee Living History Farm,293,"Granjas, Museos de historia",Hawaii,West Pacific
+204,Hulihe'e Palace,778,"Lugares históricos, Museos de historia",Hawaii,West Pacific
+205,Kaumana Caves Park,419,Cavernas y cuevas,Hawaii,West Pacific
+206,Richardson Beach Park,603,Playas,Hawaii,West Pacific
+207,Lyman Museum,311,Museos especializados,Hawaii,West Pacific
+208,Carlsmith Beach Park,303,"Playas, Parques",Hawaii,West Pacific
+209,The Painted Church,729,"Lugares históricos, Lugares religiosos",Hawaii,West Pacific
+210,Pepeekeo Scenic Drive,365,Monumentos y lugares de interés,Hawaii,West Pacific
+211,Panaewa Rainforest Zoo and Gardens,568,Zoológicos,Hawaii,West Pacific
+212,Kahalu'u Beach Park,443,Parques estatales,Hawaii,West Pacific
+213,The Captain Cook Monument,597,Monumentos y estatuas,Hawaii,West Pacific
+214,Kiholo Bay,405,Masas de agua,Hawaii,West Pacific
+215,Mountain Thunder Coffee Plantation,1.250,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+216,Kahi Ola Mau Farm,194,Granjas,Hawaii,West Pacific
+217,Pacific Tsunami Museum,588,Museos especializados,Hawaii,West Pacific
+218,Ola Brew,179,Cervecerías,Hawaii,West Pacific
+219,Na'alapa Stables - Kahua Ranch,907,Tours a caballo,Hawaii,West Pacific
+220,Kilauea Visitor Center,125,Centros de información turística,Hawaii,West Pacific
+221,Two Step,116,Playas,Hawaii,West Pacific
+222,Hala Tree Coffee,164,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+223,Paniolo Adventures,720,Tours a caballo,Hawaii,West Pacific
+224,Kona Joe Coffee,793,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+225,Lavaloha,133,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+226,Waipi'o on Horseback,1.037,Tours a caballo,Hawaii,West Pacific
+227,Kona Kozy's Comedy & Magic Show,1.105,Teatro y espectáculos,Hawaii,West Pacific
+228,South Point Complex,61,"Monumentos y lugares de interés, Áreas de naturaleza y vida silvestre",Hawaii,West Pacific
+229,Magical Creatures Sanctuary,25,Áreas de naturaleza y vida silvestre,Hawaii,West Pacific
+230,Buddha's Cup Coffee Estate,94,"Tiendas de regalos, Granjas",Hawaii,West Pacific
+231,Sea Quest Hawaii,5.630,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+232,Island Breeze Luau,1.381,"Teatros donde se puede cenar, Luaus",Hawaii,West Pacific
+233,Hawaii Forest and Trail,5.025,"Tours históricos, Tirolesa y parques de aventuras aéreas",Hawaii,West Pacific
+234,Wasabi Tours Hawaii,5.040,"Tours ecológicos, Tours turísticos",Hawaii,West Pacific
+235,Wailea Horseback Adventure,249,Tours a caballo,Hawaii,West Pacific
+236,Big Island Divers,6.287,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+237,Big Island Candies,657,Tiendas de regalos,Hawaii,West Pacific
+238,Fair Wind Big Island Ocean Guides,3.499,"Tours culturales, Buceo y esnórquel",Hawaii,West Pacific
+239,The Umauma Experience,4.081,Tirolesa y parques de aventuras aéreas,Hawaii,West Pacific
+240,Dolphin Discoveries,3.037,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+241,Makana Charters and Tours,3.232,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+242,Hang Loose Boat Tours,3.166,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+243,Kailani Tours Hawaii,2.539,"Tours por la ciudad, Tours culturales",Hawaii,West Pacific
+244,Body Glove Cruises,4.928,"Buceo y esnórquel, Tours históricos",Hawaii,West Pacific
+245,Punalu'u Bake Shop,408,Tiendas de regalos,Hawaii,West Pacific
+246,My Kona Adventures,2.431,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+247,Kona Kayaks,102,Alquileres de equipos,Hawaii,West Pacific
+248,Sea Paradise Sailing and Snorkeling Tours,2.012,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+249,Mauna Kea Summit Adventures,2.043,Tours turísticos,Hawaii,West Pacific
+250,UFO Parasail,2.037,Paravelismo y parapente,Hawaii,West Pacific
+251,Kona Ocean Adventures,2.087,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+252,Kona Boys,1.439,"Surf y windsurf, Alquileres de equipos",Hawaii,West Pacific
+253,Paniolo BBQ Dinner At Kahua Ranch,59,"Luaus, Ranchos",Hawaii,West Pacific
+254,Kona Style,1.911,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+255,Hawaii Island & Ocean Tours,2.026,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+256,Captain Zodiac Raft Expeditions,1.671,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+257,Manta Ray Dives of Hawaii,1.826,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+258,Kohala Zipline,1.346,Tirolesa y parques de aventuras aéreas,Hawaii,West Pacific
+259,Hawaii Oceanic,1.593,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+260,KapohoKine Adventures,3.522,"Tours para vehículos todo terreno y 4 x 4, Tours en helicóptero",Hawaii,West Pacific
+261,Jack's Diving Locker,2.108,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+262,Anelakai Adventures,988,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+263,Kahaluu Bay Surf and Sea,1.107,"Surf y windsurf, Alquileres de equipos",Hawaii,West Pacific
+264,Kona Diving Company,1.267,Buceo y esnórquel,Hawaii,West Pacific
+265,Blue Hawaiian Helicopters - Waikoloa,1.729,"Tours en helicóptero, Tours privados",Hawaii,West Pacific
+266,Camelot Sport Fishing,1.208,Excursiones de pesca,Hawaii,West Pacific
+267,Botanical World Adventures,1.040,"Tours en Segway, Tirolesa y parques de aventuras aéreas",Hawaii,West Pacific
+268,Mauna Kea Oceanfront Luau,271,Luaus,Hawaii,West Pacific
+269,Ehu & Kai Adventures,1.463,"Buceo y esnórquel, Surf de remo",Hawaii,West Pacific
+270,C Big Island Tours,948,"Tours culturales, Tours históricos",Hawaii,West Pacific
+271,Kona Honu Divers,1.597,Buceo y esnórquel,Hawaii,West Pacific
+272,Waikoloa Beach Marriott Sunset Luau,286,Luaus,Hawaii,West Pacific
+273,Paradise Helicopters - KONA,1.274,Tours en helicóptero,Hawaii,West Pacific
+274,TOPSHAPE Kona Sports Fishing,546,Excursiones de pesca,Hawaii,West Pacific
+275,Sunlight on Water,934,Tours en barco,Hawaii,West Pacific
+276,Waipio Valley Shuttle,510,"Tours culturales, Tours para vehículos todo terreno y 4 x 4",Hawaii,West Pacific
+277,Mauka Makai Adventures,688,"Tours culturales, Tours turísticos",Hawaii,West Pacific
+278,Eka Canoe Adventures,696,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+279,Ocean Safaris Kayak Adventures,789,Práctica de kayak y canotaje,Hawaii,West Pacific
+280,HYPR Nalu,833,"Surf y windsurf, Surf de remo",Hawaii,West Pacific
+281,Hawaii Nautical,699,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+282,Torpedo Tours,685,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+283,Liquid Hawaii,461,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+284,Kona Snorkel Trips,731,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+285,Kona Town Surf Adventures,755,"Surf y windsurf, Alquileres de equipos",Hawaii,West Pacific
+286,Wild Hawaii Ocean Adventures,685,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+287,Top Shot Spearfishing,326,"Buceo y esnórquel, Excursiones de pesca",Hawaii,West Pacific
+288,Adventure X Boat Tours,537,"Buceo y esnórquel, Nado con delfines",Hawaii,West Pacific
+289,Kona Sea Salt - The Farm,345,Tours a fábricas,Hawaii,West Pacific
+290,Aquatic Life Divers,447,"Buceo y esnórquel, Buceo con tiburones",Hawaii,West Pacific
+291,Polynesian Adventure Tours,523,"Tours culturales, Tours turísticos",Hawaii,West Pacific
+292,Hawaii Lifeguard Surf Instructors,418,"Surf y windsurf, Deportes acuáticos",Hawaii,West Pacific
+293,Na Pali Explorer,533,"Buceo y esnórquel, Tours en barco",Hawaii,West Pacific
+294,Kohala Divers,1.098,Buceo y esnórquel,Hawaii,West Pacific
+295,Epic Lava Tours,490,Tours de naturaleza y vida silvestre,Hawaii,West Pacific
+296,Alcatraz,56.138,"Lugares históricos, Islas",California,West Pacific
+297,Puente Golden Gate,49.804,"Lugares históricos, Monumentos y lugares de interés",California,West Pacific
+298,Museo del USS Midway,25.610,Museos especializados,California,West Pacific
+299,San Diego Zoo,29.317,Zoológicos,California,West Pacific
+300,Observatorio Griffith,20.622,Observatorios y planetarios,California,West Pacific
+301,Centro Getty,14.729,Museos especializados,California,West Pacific
+302,La Jolla Cove,13.741,"Playas, Parques",California,West Pacific
+303,Cable Cars,25.541,Tranvías,California,West Pacific
+304,Parque Disneylandia,27.984,Parques de diversión y temáticos,California,West Pacific
+305,Parque Balboa,13.079,"Parques, Jardines",California,West Pacific
+306,Pier 39,22.945,"Monumentos y lugares de interés, Muelles y paseos peatonales",California,West Pacific
+307,Monterey Bay Aquarium,14.442,Acuarios,California,West Pacific
+308,Lombard Street,18.389,"Monumentos y lugares de interés, Áreas peatonales pintorescas",California,West Pacific
+309,17-Mile Drive,12.699,Rutas turísticas,California,West Pacific
+310,Santa Monica Pier,19.279,"Monumentos y lugares de interés, Áreas históricas peatonales",California,West Pacific
+311,Point Lobos,4.870,Parques estatales,California,West Pacific
+312,Tahoe Snowshoe Tours,128,"Tours de esquí y de nieve, Tours ecológicos",California,West Pacific
+313,Tahoe Paddle Sports,263,"Taxis y otros servicios de traslado, Tours en barco",California,West Pacific
+314,Dante's View,2.294,Miradores,California,West Pacific
+315,Gracianna Winery,964,Viñedos con bodegas,California,West Pacific
+316,Armstrong Redwood State Reserve,1.433,"Parques estatales, Áreas de naturaleza y vida silvestre",California,West Pacific
+317,Jedediah Smith Redwoods State Park,1.591,Parques estatales,California,West Pacific
+318,Redwood National Park,1.164,"Parques estatales, Parques nacionales",California,West Pacific
+319,Avenue of the Giants,1.001,Rutas turísticas,California,West Pacific
+320,Mendocino Coast Botanical Gardens,1.358,"Monumentos y lugares de interés, Jardines",California,West Pacific
+321,Speed Circuit & Family Fun Center,598,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",California,West Pacific
+322,"Templo de Oakland, California",898,"Lugares históricos, Edificios con valor arquitectónico",California,West Pacific
+323,Pine Ridge Vineyards,525,Viñedos con bodegas,California,West Pacific
+324,Heisler Park,1.320,Parques,California,West Pacific
+325,Dry Creek Vineyard,846,Viñedos con bodegas,California,West Pacific
+326,Alexander Valley Vineyards,541,Viñedos con bodegas,California,West Pacific
+327,Jarvis Estate,350,"Viñedos con bodegas, Cavernas y cuevas",California,West Pacific
+328,VJB Cellars,1.031,Viñedos con bodegas,California,West Pacific
+329,San Francisco Playhouse,346,Teatros,California,West Pacific
+330,B Bryan Preserve,400,Áreas de naturaleza y vida silvestre,California,West Pacific
+331,Gary Farrell Winery,834,Viñedos con bodegas,California,West Pacific
+332,Stout Grove,749,"Áreas de naturaleza y vida silvestre, Rutas para senderismo",California,West Pacific
+333,Marvyn's Magic Theater,309,Teatros,California,West Pacific
+334,Chamisal Vineyards,234,Viñedos con bodegas,California,West Pacific
+335,Baldacci Family Vineyards,191,Viñedos con bodegas,California,West Pacific
+336,VGS Chateau Potelle,229,Viñedos con bodegas,California,West Pacific
+337,Hill Family Estate,217,Viñedos con bodegas,California,West Pacific
+338,West Coast Falconry,401,Áreas de naturaleza y vida silvestre,California,West Pacific
+339,Bhagavad-gita Diorama-Museum,205,Museos de arte,California,West Pacific
+340,Boyden Cavern,340,Cavernas y cuevas,California,West Pacific
+341,Robert Biale Vineyards,232,Viñedos con bodegas,California,West Pacific
+342,Parallel Napa Valley,196,Viñedos con bodegas,California,West Pacific
+343,Stephen & Walker Winery,332,Viñedos con bodegas,California,West Pacific
+344,Escape Room Palm Springs,2.188,Juegos de escape,California,West Pacific
+345,Wellington Cellars,179,Viñedos con bodegas,California,West Pacific
+346,Club Fugazi,180,"Bares y boliches, Teatros",California,West Pacific
+347,Mission Escape Games,1.608,Juegos de escape,California,West Pacific
+348,San Francisco Magic Theater at the Marrakech,1.385,"Teatros donde se puede cenar, Clubes de comedia",California,West Pacific
+349,Escapology San Diego,595,Juegos de escape,California,West Pacific
+350,Crescent Trail Rides,439,Tours a caballo,California,West Pacific
+351,The Escape Game San Francisco (Downtown),533,Juegos de escape,California,West Pacific
+352,Anaheim Town Car Services By Jag Transportation,306,Taxis y otros servicios de traslado,California,West Pacific
+353,San Diego Sand Castles,428,Clases y talleres,California,West Pacific
+354,Smoke Tree Stables,268,Tours a caballo,California,West Pacific
+355,Salt Oasis,325,Spas,California,West Pacific
+356,Dylan's Tours,3.918,"Tours por la ciudad, Tours en bicicleta",California,West Pacific
+357,U Ride,157,Taxis y otros servicios de traslado,California,West Pacific
+358,Elite Black Car Services,229,Taxis y otros servicios de traslado,California,West Pacific
+359,The Escape Revolution,146,"Juegos de escape, Centros de juego y entretenimiento",California,West Pacific
+360,Bikes And Hikes LA Tours,3.264,"Tours por la ciudad, Tours en bicicleta",California,West Pacific
+361,Napa Valley Tours - Why Spit,304,Taxis y otros servicios de traslado,California,West Pacific
+362,MidWilShuttle,163,Taxis y otros servicios de traslado,California,West Pacific
+363,Tahoe Treetop Adventure Parks,2.952,Tirolesa y parques de aventuras aéreas,California,West Pacific
+364,Electric Tour Company Segway Tours,4.541,"Tours por la ciudad, Tours culturales",California,West Pacific
+365,Puzzle Effect - SLO,166,Juegos de escape,California,West Pacific
+366,Best Bay Area Tours,2.174,"Tours por la ciudad, Tours turísticos",California,West Pacific
+367,Discovery Whale Watch,2.381,Avistamiento de delfines y ballenas,California,West Pacific
+368,Dana Wharf Whale Watching & Sportfishing,4.076,"Excursiones de pesca, Avistamiento de delfines y ballenas",California,West Pacific
+369,Sail San Diego,2.958,"Tours en barco, Tours turísticos",California,West Pacific
+370,Pedego Electric Bikes La Quinta,137,Alquileres de equipos,California,West Pacific
+371,Desert Adventures Red Jeep Tours & Events,1.980,"Tours para vehículos todo terreno y 4 x 4, Tours ecológicos",California,West Pacific
+372,Capt. Dave's Dana Point Dolphin & Whale Watching Safari,1.728,Avistamiento de delfines y ballenas,California,West Pacific
+373,Puzzle Effect - Bakersfield,115,Juegos de escape,California,West Pacific
+374,La Jolla Sea Cave Kayaks,1.641,"Tours ecológicos, Tours de naturaleza y vida silvestre",California,West Pacific
+375,Painted Ladies Tour Company,2.819,"Tours por la ciudad, Tours turísticos",California,West Pacific
+376,Guia Turismo Los Angeles,126,Taxis y otros servicios de traslado,California,West Pacific
+377,Next Level Sailing,1.917,"Tours en barco, Avistamiento de delfines y ballenas",California,West Pacific
+378,Local Tastes of the City Tours,2.159,"Tours por la ciudad, Tours culturales",California,West Pacific
+379,"Lions, Tigers & Bears",1.541,"Áreas de naturaleza y vida silvestre, Tours de naturaleza y vida silvestre",California,West Pacific
+380,Monterey Bay Whale Watch,1.581,Avistamiento de delfines y ballenas,California,West Pacific
+381,The Spa at Everline,146,Spas,California,West Pacific
+382,San Francisco City Guides,1.175,"Tours por la ciudad, Tours a pie",California,West Pacific
+383,Puzzle Effect - Clovis,139,Juegos de escape,California,West Pacific
+384,Grapeline Wine Tours,1.410,Tours y catas de vino,California,West Pacific
+385,Stagnaro Sport Fishing Charters & Whale Watching Cruises,1.646,"Tours en barco, Excursiones de pesca",California,West Pacific
+386,Hollywood Bus Tours,1.350,"Tours por la ciudad, Tours culturales",California,West Pacific
+387,Big Wheel Tours,1.064,"Tours para vehículos todo terreno y 4 x 4, Tours en bicicleta",California,West Pacific
+388,Cal Coast Adventures,1.407,"Surf y windsurf, Tours en bicicleta",California,West Pacific
+389,Squire Livery Tours,1.282,"Tours privados, Tours y catas de vino",California,West Pacific
+390,The Grape Escape,112,Juegos de escape,California,West Pacific
+391,Edge of the World Tours,1.083,"Tours turísticos, Tours privados",California,West Pacific
+392,Malibu Wine Hikes,1.413,"Tours a pie, Tours de excursionismo y campamentos",California,West Pacific
+393,Oceanside Adventures,1.774,"Tours en barco, Tours ecológicos",California,West Pacific
+394,Chardonnay Sailing Charters,1.537,Tours en barco,California,West Pacific
+395,Newport Coastal Adventure Whale Watching,868,Avistamiento de delfines y ballenas,California,West Pacific
+396,LA Hood LIfe Tours,683,"Tours históricos, Tours de literatura, arte y música",California,West Pacific
+397,Sanctuary Cruises,1.018,"Tours en barco, Tours privados",California,West Pacific
+398,Clublender,103,Alquileres de equipos,California,West Pacific
+399,Surf City Tours,1.786,"Tours por la ciudad, Tours culturales",California,West Pacific
+400,Golden Ticket LA,1.046,"Tours por la ciudad, Tours de cine y TV",California,West Pacific
+401,Sea Goddess Whale Watching,1.184,"Tours en barco, Avistamiento de delfines y ballenas",California,West Pacific
+402,Lake Tahoe Boat Rides,710,"Tours en barco, Deportes acuáticos",California,West Pacific
+403,Lasting Adventures,1.100,"Tours a pie, Tours turísticos",California,West Pacific
+404,Central Coast Outdoors,765,"Tours en bicicleta, Tours de naturaleza y vida silvestre",California,West Pacific
+405,Red Door Escape Room San Diego,114,Juegos de escape,California,West Pacific
+406,I Ride Like a Star,902,"Tours extremos y de adrenalina, Alquileres de equipos",California,West Pacific
+407,Blue Ocean Whale Watch,1.606,"Tours en barco, Avistamiento de delfines y ballenas",California,West Pacific
+408,Six Taste,839,"Tours por la ciudad, Tours históricos",California,West Pacific
+409,Sonoma Zipline Adventures,1.010,"Tirolesa y parques de aventuras aéreas, Tours de naturaleza y vida silvestre",California,West Pacific
+410,Architecture Tours L.A.,607,Tours turísticos,California,West Pacific
+411,Pacific Surf School,1.374,Surf y windsurf,California,West Pacific
+412,We Drive,600,"Taxis y otros servicios de traslado, Tours privados",California,West Pacific
+413,Sequoia Sightseeing Tours,522,Tours de naturaleza y vida silvestre,California,West Pacific
+414,Calboat Diving - Spectre Dive Boat,1.041,Buceo y esnórquel,California,West Pacific
+415,Mount Hermon Adventures,723,Tirolesa y parques de aventuras aéreas,California,West Pacific
+416,Adventure Whale Watching,838,"Tours en barco, Tours privados",California,West Pacific
+417,San Francisco Sailing Company,886,"Tours en barco, Tours turísticos",California,West Pacific
+418,Aloha Brothers Surf Lessons,641,Surf y windsurf,California,West Pacific
+419,Seaplane Adventures,803,Tours aéreos,California,West Pacific
+420,Apex Limousine Transportation,609,"Taxis y otros servicios de traslado, Tours privados",California,West Pacific
+421,ExperienceFirst,704,"Tours por la ciudad, Tours culturales",California,West Pacific
+422,Point Reyes Safaris,509,"Safaris, Tours de naturaleza y vida silvestre",California,West Pacific
+423,Getaway Adventures,692,"Tours en bicicleta, Tours y degustaciones de cerveza",California,West Pacific
+424,Avila Beach Whale Watching,541,"Tours en barco, Tours ecológicos",California,West Pacific
+425,Fast Raft,561,"Tours en barco, Avistamiento de delfines y ballenas",California,West Pacific
+426,Central Coast Kayaks,555,"Tours extremos y de adrenalina, Tours en bicicleta",California,West Pacific
+427,Sidewalk Food Tours of San Francisco,865,"Tours culturales, Tours a pie",California,West Pacific
+428,SF Excursions,481,"Tours por la ciudad, Tours turísticos",California,West Pacific
+429,Redwood Rides,666,"Rafting y nado con salvavidas en el río, Tours en bicicleta",California,West Pacific
+430,Surf School Santa Cruz,635,Surf y windsurf,California,West Pacific
+431,La Vida Laguna,519,"Surf y windsurf, Tours en bicicleta",California,West Pacific
+432,Sidewalk Food Tours of Los Angeles,534,"Tours por la ciudad, Tours a pie",California,West Pacific
+433,Discover Yosemite,505,"Tours históricos, Tours turísticos",California,West Pacific
+434,San Diego Parasailing Adventures,426,"Paravelismo y parapente, Tours extremos y de adrenalina",California,West Pacific
+435,Sky Watcher Stargazing Tours,300,"Tours nocturnos, Tours turísticos",California,West Pacific
+436,Noble Wine Tours,874,"Tours privados, Tours y catas de vino",California,West Pacific
+437,O’Neill Yacht Charters,424,"Tours en barco, Tours privados",California,West Pacific
+438,Margarita Adventures,559,"Tirolesa y parques de aventuras aéreas, Tours de naturaleza y vida silvestre",California,West Pacific
+439,California Overland Desert Excursions,405,Tours de naturaleza y vida silvestre,California,West Pacific
+440,Free Tours by Foot,826,"Tours por la ciudad, Tours a pie",California,West Pacific
+441,Santa Barbara Surf School,388,Surf y windsurf,California,West Pacific
+442,San Diego Sailing Tours,789,Tours en barco,California,West Pacific
+443,Conductores del Tour del Vino,609,"Tours privados, Tours y catas de vino",California,West Pacific
+444,Zephyr Whitewater Expeditions,246,Rafting y nado con salvavidas en el río,California,West Pacific
+445,Segway of Santa Barbara,739,Tours en Segway,California,West Pacific
+446,Captain Jack's Santa Barbara Tours,333,"Tours en barco, Tours y degustaciones de cerveza",California,West Pacific
+447,East Meets West Whale Watching,483,"Tours en barco, Tours ecológicos",California,West Pacific
+448,Laces and Limos,320,"Tours para vehículos todo terreno y 4 x 4, Tours ecológicos",California,West Pacific
+449,Nation Tours - San Diego Segway Tours,666,"Tours en Segway, Tours históricos",California,West Pacific
+450,Cliffhanger Guides,334,"Tours para practicar rápel y barranquismo, Tours extremos y de adrenalina",California,West Pacific
+451,Rock 'n Walk Tours,255,Tours a pie,California,West Pacific
+452,Intimate Wine Tours,699,"Tours privados, Tours y catas de vino",California,West Pacific
+453,Mad Dogs & Englishmen Bike Shop,325,"Tours en bicicleta, Alquileres de equipos",California,West Pacific
+454,Newport Fun Tours,447,"Tours en barco, Tours turísticos",California,West Pacific
+455,Private Wine Drivers,372,"Tours de varios días, Tours privados",California,West Pacific
+456,Klamath River Jet Boat Tours,419,Tours en lanchas a motor,California,West Pacific
+457,Sandra & Dennis - Deine deutschen Reiseleiter in Los Angeles,315,Tours turísticos,California,West Pacific
+458,Dana Point Parasail,521,Paravelismo y parapente,California,West Pacific
+459,Palm Springs Mod Squad,217,Tours culturales,California,West Pacific
+460,Carmel Walks,356,Tours a pie,California,West Pacific
+461,Perata Luxury Tours Napa & Sonoma,626,"Tours privados, Tours y catas de vino",California,West Pacific
+462,Waterhorse Charters,281,"Buceo y esnórquel, Tours en barco",California,West Pacific
+463,Baja Border Tours,328,"Tours por la ciudad, Tours culturales",California,West Pacific
+464,San Diego Bay Adventures,220,"Esquí acuático y moto acuática, Tours turísticos",California,West Pacific
+465,Sierra Whitewater Rafting Inc.,269,Rafting y nado con salvavidas en el río,California,West Pacific
+466,Platypus Wine Tours,795,Tours y catas de vino,California,West Pacific
+467,Skull Canyon Ziplines,174,"Tirolesa y parques de aventuras aéreas, Tours ecológicos",California,West Pacific
+468,Wine Tasting Driver,304,Tours privados,California,West Pacific
+469,Bamboo Reef Scuba Diving Centers,371,Buceo y esnórquel,California,West Pacific
+470,Baja California Wine Tours,280,"Tours por la ciudad, Tours y degustaciones de cerveza",California,West Pacific
+471,Jack Trout Fly Fishing,385,Excursiones de pesca,California,West Pacific
+472,Sunshine Rafting Adventures,308,"Rafting y nado con salvavidas en el río, Práctica de kayak y canotaje",California,West Pacific
+473,Free Walking Tour Santa Barbara,287,"Tours por la ciudad, Tours históricos",California,West Pacific
+474,Secret Food Tours Los Angeles,221,Tours gastronómicos,California,West Pacific
+475,Golden Gate Rides,379,"Tours históricos, Tours en bicicleta",California,West Pacific
+476,Stagecoach Wine Tours Santa Ynez,444,Tours y catas de vino,California,West Pacific
+477,Matt Heron Fly Fishing,244,Excursiones de pesca,California,West Pacific
+478,Yosemite Adventure Company,173,"Tours para vehículos todo terreno y 4 x 4, Tours privados",California,West Pacific
+479,Cannon Beach,2.560,Playas,Oregon,West Pacific
+480,Haystack Rock,3.288,"Playas, Formaciones geológicas",Oregon,West Pacific
+481,Oregon Coast Aquarium,3.095,Acuarios,Oregon,West Pacific
+482,Ecola State Park,1.878,Parques estatales,Oregon,West Pacific
+483,Astoria Column,2.700,"Áreas de naturaleza y vida silvestre, Monumentos y estatuas",Oregon,West Pacific
+484,Yaquina Head Outstanding Natural Area,1.859,Áreas de naturaleza y vida silvestre,Oregon,West Pacific
+485,Columbia River Maritime Museum,1.835,"Museos especializados, Masas de agua",Oregon,West Pacific
+486,Heceta Head Lighthouse,1.273,Faros,Oregon,West Pacific
+487,Cape Perpetua Scenic Area,1.187,"Parques estatales, Rutas turísticas",Oregon,West Pacific
+488,Devils Punchbowl State Natural Area,1.074,"Parques estatales, Playas",Oregon,West Pacific
+489,Fort Clatsop National Memorial,879,"Lugares históricos, Parques nacionales",Oregon,West Pacific
+490,Newport's Historic Bayfront,1.470,Muelles y paseos peatonales,Oregon,West Pacific
+491,Yaquina Bay Lighthouse,1.238,Faros,Oregon,West Pacific
+492,Face Rock State Scenic Viewpoint,800,"Parques estatales, Áreas de naturaleza y vida silvestre",Oregon,West Pacific
+493,Lincoln City Glass Center,549,Galerías de arte,Oregon,West Pacific
+494,Sea Lion Caves,1.669,Cavernas y cuevas,Oregon,West Pacific
+495,Otter Crest Loop,360,Rutas turísticas,Oregon,West Pacific
+496,Camp 18 Museum,341,Museos de historia,Oregon,West Pacific
+497,Thor's Well,233,Formaciones geológicas,Oregon,West Pacific
+498,Seaside Beach,295,Playas,Oregon,West Pacific
+499,Salishan Golf Links,71,Campos de golf,Oregon,West Pacific
+500,Tillamook Creamery,3.310,Tours a fábricas,Oregon,West Pacific
+501,High Life Adventures,1.832,Tours turísticos,Oregon,West Pacific
+502,Jerry's Rogue Jets,895,Tours turísticos,Oregon,West Pacific
+503,Sandland Adventures,1.067,Tours para vehículos todo terreno y 4 x 4,Oregon,West Pacific
+504,Chihuly Garden and Glass,24.992,"Galerías de arte, Museos de arte",Washington,West Pacific
+505,Pike Place Market,21.922,Mercados de agricultores,Washington,West Pacific
+506,Space Needle,19.826,"Monumentos y lugares de interés, Torres y observatorios",Washington,West Pacific
+507,The Museum of Flight,6.848,Museos especializados,Washington,West Pacific
+508,Mount Rainier,1.813,Montañas,Washington,West Pacific
+509,Parque Kerry,3.504,Parques,Washington,West Pacific
+510,Snoqualmie Falls,2.086,"Rutas para senderismo, Cascadas",Washington,West Pacific
+511,Museum of Pop Culture,7.249,Museos especializados,Washington,West Pacific
+512,T-Mobile Park,4.404,Campos de juego y estadios,Washington,West Pacific
+513,Hiram M. Chittenden Locks,3.258,"Masas de agua, Monumentos y lugares de interés",Washington,West Pacific
+514,Sky View Observatory,2.617,"Edificios con valor arquitectónico, Torres y observatorios",Washington,West Pacific
+515,Hoh Rain Forest,1.537,Bosques,Washington,West Pacific
+516,Hurricane Ridge,1.860,"Monumentos y lugares de interés, Rutas para senderismo",Washington,West Pacific
+517,Deception Pass State Park,1.431,"Parques estatales, Masas de agua",Washington,West Pacific
+518,Parque Manito,1.490,"Parques, Jardines",Washington,West Pacific
+519,Point Defiance Park,1.260,"Parques estatales, Zoológicos",Washington,West Pacific
+520,Cape Flattery Trail,616,Rutas para senderismo,Washington,West Pacific
+521,Seattle Public Library,2.230,"Edificios con valor arquitectónico, Bibliotecas",Washington,West Pacific
+522,Klondike Gold Rush National Historical Park,1.086,"Parques nacionales, Museos de historia",Washington,West Pacific
+523,Whatcom Falls Park,957,"Parques, Rutas para senderismo",Washington,West Pacific
+524,Leavenworth Reindeer Farm,551,Zoológicos,Washington,West Pacific
+525,Riverfront Park,2.095,Parques,Washington,West Pacific
+526,Museum of History & Industry,874,"Museos especializados, Museos de historia",Washington,West Pacific
+527,Marymere Falls,729,Cascadas,Washington,West Pacific
+528,Alki Beach,1.087,Playas,Washington,West Pacific
+529,Mount St. Helens,508,"Montañas, Volcanes",Washington,West Pacific
+530,Leavenworth Sleigh Rides,296,Rutas ecuestres,Washington,West Pacific
+531,Seattle Great Wheel,2.938,Parques de diversión y temáticos,Washington,West Pacific
+532,Black Ball Ferry Line,1.246,Ferris,Washington,West Pacific
+533,Discovery Park,878,"Parques, Pistas para trotar o correr",Washington,West Pacific
+534,Seattle Center,1.535,"Monumentos y lugares de interés, Jardines",Washington,West Pacific
+535,Lime Kiln Point State Park,802,"Parques estatales, Áreas de naturaleza y vida silvestre",Washington,West Pacific
+536,Museum of Glass,1.311,"Museos especializados, Museos de arte",Washington,West Pacific
+537,Sol Duc Falls,598,Rutas para senderismo,Washington,West Pacific
+538,Smith Tower Visitor Experience,815,Torres y observatorios,Washington,West Pacific
+539,Fort Worden State Park,1.057,"Parques estatales, Bases e instalaciones militares",Washington,West Pacific
+540,Mount Rainier National Park,571,"Masas de agua, Montañas",Washington,West Pacific
+541,Seven Hills Winery,160,Viñedos con bodegas,Washington,West Pacific
+542,Fremont Troll,1.519,Monumentos y estatuas,Washington,West Pacific
+543,Gas Works Park,995,Parques,Washington,West Pacific
+544,Bill & Melinda Gates Foundation Discovery Center,711,Museos especializados,Washington,West Pacific
+545,Waterfront Park,584,Parques,Washington,West Pacific
+546,Seattle Japanese Garden,438,Jardines,Washington,West Pacific
+547,Bruce Lee Grave Site,522,Cementerios,Washington,West Pacific
+548,Lady of the Lake,366,Ferris,Washington,West Pacific
+549,Pike Place Fish Market,762,Mercados de agricultores,Washington,West Pacific
+550,Cape Disappointment State Park,513,Parques estatales,Washington,West Pacific
+551,B & B Family Lavender Farm,241,"Granjas, Jardines",Washington,West Pacific
+552,Olympic Game Farm,759,Áreas de naturaleza y vida silvestre,Washington,West Pacific
+553,Amaro Farm,119,Granjas,Washington,West Pacific
+554,Pelindaba Lavender Farm,599,Granjas,Washington,West Pacific
+555,Leavenworth Nutcracker Museum,346,"Tiendas de regalos, Museos especializados",Washington,West Pacific
+556,Seattle Light Rail Service,3.168,Servicios de ferrocarril,Washington,West Pacific
+557,Amazon Spheres,226,Monumentos y lugares de interés,Washington,West Pacific
+558,Starbucks Reserve Roastery Seattle,1.391,"Tiendas de regalos, Monumentos y lugares de interés",Washington,West Pacific
+559,Old Stove Brewing,217,Cervecerías,Washington,West Pacific
+560,Wings Over Washington,446,Centros de juego y entretenimiento,Washington,West Pacific
+561,Refuge River Ranch,139,"Granjas, Ranchos",Washington,West Pacific
+562,The Link Light Rail,208,Sistemas de transporte público,Washington,West Pacific
+563,Puzzle Break,564,Juegos de escape,Washington,West Pacific
+564,Escape Entertainment,543,Juegos de escape,Washington,West Pacific
+565,Escape Hour Gig Harbor,337,Juegos de escape,Washington,West Pacific
+566,Seattle Express,377,"Servicios de autobús, Taxis y otros servicios de traslado",Washington,West Pacific
+567,NW Escape Experience,210,Juegos de escape,Washington,West Pacific
+568,Theo Chocolate,641,Tiendas de regalos,Washington,West Pacific
+569,Seattle Chocolate Factory Store,246,Tiendas de regalos,Washington,West Pacific
+570,paradigmQ,163,Juegos de escape,Washington,West Pacific
+571,Escape Hour Point Ruston,109,Juegos de escape,Washington,West Pacific
+572,Argosy Cruises - Seattle Waterfront,4.930,"Tours por la ciudad, Tours en barco",Washington,West Pacific
+573,Beneath the Streets,4.201,"Tours históricos, Tours a pie",Washington,West Pacific
+574,Puget Sound Express,2.906,"Tours en barco, Avistamiento de delfines y ballenas",Washington,West Pacific

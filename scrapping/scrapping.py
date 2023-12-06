@@ -61,19 +61,13 @@ def scrape_state_attractions(state: str, url: str, report=True) -> list:
 
     # Close browser and return list with hotels data
     driver.quit()
-
-    # Transform
-    attractions = pd.DataFrame(states_attractions)
-    attractions['attraction'] = attractions['attraction'].str.replace(r'^\d+\.\s*', '', regex=True) # Process attraction
-    attractions['categories'] = attractions['categories'].str.replace(' • ', ', ') # Process categories
-    
-    return attractions
-
+    return states_attractions
 
 
 
 # This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions
-def scrap_attractions_attribute(urls: str, report=True) -> list:
+def scrape_attractions_attribute(urls: str, report=True) -> list:
+    
     attributes = [] # to store data while scrapping
     failed_urls = [] # to store errors while scrapping
 
@@ -104,7 +98,6 @@ def scrap_attractions_attribute(urls: str, report=True) -> list:
             attributes.append({"url": url, "latitud": None, "longitude": None})
 
     return attributes
-
 
 
 

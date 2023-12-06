@@ -31,7 +31,7 @@ st.markdown(
 # Agregar un título a la página
 st.title("G L O B A L  A N A L Y S I S")
 
-usa_states = pd.read_csv("files/data/usa_states.csv")
+usa_states = pd.read_csv("../files/data/usa_states.csv")
 state_list = sorted(usa_states["state"].tolist()) # Crear una lista de opciones para el checklist
 default_selection = ["Utah"]
 selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)

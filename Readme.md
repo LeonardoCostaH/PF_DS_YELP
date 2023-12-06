@@ -1,6 +1,6 @@
 # Proyecto GeoGenesis Hotels
 ---
-<p align=center><img src=img/Geogenesis_logo.png><p>
+<p align=center><img src=files\img/Geogenesis_logo.png><p>
 
 ---
 ### INDICE
@@ -79,7 +79,7 @@ Utilizar datos geográficos y reseñas para identificar las ubicaciones más est
 
 ## Workflow
 
-<p align=center><img src=img/workflow.jpeg><p>
+<p align=center><img src=files\img\workflow.jpeg><p>
 
 - Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
 
@@ -97,7 +97,7 @@ Python, Jupyter Notebooks, Pandas, AWS, trello, postgreSQL, drive, google colab,
 ## Desarrolladores
 
 
-| Rol           | ![Linkedin](img/linkedin.png)                                        |![Gmail](img/gmail.png)         | ![GitHub](img/github.png)           | 
+| Rol           | ![Linkedin](files\img/linkedin.png)                                        |![Gmail](files\img/gmail.png)         | ![GitHub](files\img/github.png)           | 
 |---------------|-----------------------------                                         |--------------------------------|-------------------------------------|
 | Data Enginner| [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)          |[melisaamelia.arce](mailto:melisaamelia.arce@gmail.com) | [Melisa Arce](https://github.com/melisaameliaarce)  |
 | Data Enginner| [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/) | [vluis2386](mailto:vluis2386@gmail.com) | [LuisOVaras](https://github.com/LuisOVaras) |

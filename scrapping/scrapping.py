@@ -18,23 +18,23 @@ usa_states = pd.read_csv("../files/data/usa_states.csv")
 
 # This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions
 def scrape_state_attractions(state: str, url: str, report=True) -> list:
-    state_attractions = pd.DataFrame()
+
+    states_attractions = [] # to store data while scrapping
     failed_states = [] # to store errors while scrapping
 
     # Instanciate and configurate driver
     chrome_options = selenium.webdriver.chrome.options.Options()
+    #chrome_options.add_argument('--headless') # unables GUI
     chrome_options.add_argument('--disable-infobars') # unables images loading
     driver = webdriver.Chrome(options=chrome_options)
 
     # Connect to url and wait to load
-    driver.get(url) if report else None
-    print(state, url)
+    driver.get(url)
     time.sleep(5)
 
+    # Find amount of pages for the city
     try:
-        for page in range(10):
-            print(f"{page+1}/10") if report else None
-
+        for _ in range(10):
             # Find each attraction box
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.85);") # scroll to load page and buttons
             wait = WebDriverWait(driver, 10) # 
@@ -47,29 +47,57 @@ def scrape_state_attractions(state: str, url: str, report=True) -> list:
                     if 15 > len(parts) > 2 and url:
                         if parts[0] == '2023':
                             del parts[0]
-                            print(parts[0]) if report else None
-                            print(parts[1]) if report else None
-                            print(parts[2]) if report else None
-                            attractions = pd.DataFrame({
-                                "attraction": [parts[0]],
-                                "n_reviews": [parts[1]],
-                                "categories": [parts[2]]})
-                            state_attractions = pd.concat([state_attractions, attractions], ignore_index=True)
-                
+                            states_attractions.append({"state_id": usa_states[usa_states["state"] == state]["state_id"].iloc[0], "attraction": parts[0], "categories": parts[2], "reviews_url": url.get_attribute('href')})
                 except:
                     pass
-            
+
             next_page_button = driver.find_element(By.XPATH, '/html/body/div[1]/main/div[1]/div/div/div[3]/div/div[2]/div[2]/div[2]/div/div/div[2]/div/div[2]/div/div/section[40]/div/div[1]/div/div[1]/div[2]')
             next_page_button.click()
-            time.sleep(2)
-    
+            
     except:
         failed_states.append(state)
-        print(f"{state} state added to failed states.") if not report else None
+        if report:
+            print(f"{state} state added to failed states.") # Console report
 
     # Close browser and return list with hotels data
     driver.quit()
-    return state_attractions
+    return states_attractions
+
+
+
+# This function takes a state and the corresponding url and returns a list of dicts with each state's touristic attractions
+def scrape_attractions_attribute(urls: str, report=True) -> list:
+    
+    attributes = [] # to store data while scrapping
+    failed_urls = [] # to store errors while scrapping
+
+    # Instanciate and configurate driver
+    chrome_options = selenium.webdriver.chrome.options.Options()
+    chrome_options.add_argument('--headless') # unables GUI
+    chrome_options.add_argument('--disable-infobars') # unables images loading
+    driver = webdriver.Chrome(options=chrome_options)
+
+    for i, url in enumerate(urls):
+        print(f'{i+1}/{len(urls)}')
+        try:         
+            # 
+            driver.get(url)
+            time.sleep(5)
+            #
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.85);") # scroll to load page and buttons
+            path_element = driver.find_element(By.CLASS_NAME, 'oPZZx')
+            html = path_element.get_attribute("outerHTML")
+            matches = re.search(r'center=([\d.-]+),([\d.-]+)', html)
+            #
+            if matches:
+                attributes.append({"url": url, "latitud": matches.group(1), "longitude": matches.group(2)})
+            else:
+                attributes.append({"url": url, "latitud": matches.group(1), "longitude": matches.group(2)})
+                
+        except:
+            attributes.append({"url": url, "latitud": None, "longitude": None})
+
+    return attributes
 
 
 

@@ -1,0 +1,260 @@
+,attraction,n_reviews,categories,state,region
+0,Central Park,133.985,"Monumentos y lugares de interés, Parques",New York,Mid Atlantic
+1,Monumento Conmemorativo del 11 de Septiembre,96.845,"Museos especializados, Lugares históricos",New York,Mid Atlantic
+2,Museo Metropolitano de Arte,55.167,"Monumentos y lugares de interés, Museos de arte",New York,Mid Atlantic
+3,Empire State Building,94.729,"Monumentos y lugares de interés, Edificios con valor arquitectónico",New York,Mid Atlantic
+4,High Line,62.992,"Parques, Áreas peatonales pintorescas",New York,Mid Atlantic
+5,Broadway,31.658,Monumentos y lugares de interés,New York,Mid Atlantic
+6,"Plataforma de Observación ""Top of the Rock""",80.123,"Miradores, Torres y observatorios",New York,Mid Atlantic
+7,Puente de Brooklyn,25.981,Puentes,New York,Mid Atlantic
+8,Statue of Liberty,44.015,"Monumentos y lugares de interés, Monumentos y estatuas",New York,Mid Atlantic
+9,Grand Central Terminal,44.719,"Monumentos y lugares de interés, Edificios con valor arquitectónico",New York,Mid Atlantic
+10,Manhattan Skyline,21.495,Monumentos y lugares de interés,New York,Mid Atlantic
+11,Times Square,56.767,"Barrios, Monumentos y lugares de interés",New York,Mid Atlantic
+12,Staten Island Ferry,22.991,Ferris,New York,Mid Atlantic
+13,Parque Bryant,23.863,Parques,New York,Mid Atlantic
+14,Rockefeller Center,25.591,"Monumentos y lugares de interés, Edificios con valor arquitectónico",New York,Mid Atlantic
+15,St. Patrick's Cathedral,15.296,Iglesias y catedrales,New York,Mid Atlantic
+16,New York Public Library,14.622,Museos especializados,New York,Mid Atlantic
+17,One World Observatory,28.985,"Edificios con valor arquitectónico, Miradores",New York,Mid Atlantic
+18,American Museum of Natural History,26.150,Museos de historia natural,New York,Mid Atlantic
+19,The Museum of Modern Art (MoMA),18.337,Museos de arte,New York,Mid Atlantic
+20,SUMMIT One Vanderbilt,2.451,Torres y observatorios,New York,Mid Atlantic
+21,Chelsea Market,9.801,Mercados de las pulgas y al aire libre,New York,Mid Atlantic
+22,Museo Taller de la Zona Cero,3.063,Museos especializados,New York,Mid Atlantic
+23,Radio City Music Hall,9.292,"Monumentos y lugares de interés, Teatros",New York,Mid Atlantic
+24,Intrepid Museum,9.627,Museos militares,New York,Mid Atlantic
+25,Madison Square Garden,9.166,Campos de juego y estadios,New York,Mid Atlantic
+26,The Met Cloisters,5.157,"Galerías de arte, Museos de arte",New York,Mid Atlantic
+27,Fifth Avenue,8.581,Monumentos y lugares de interés,New York,Mid Atlantic
+28,Museum of Sex,721,"Museos especializados, Museos de historia",New York,Mid Atlantic
+29,Ellis Island,7.314,"Lugares históricos, Monumentos y lugares de interés",New York,Mid Atlantic
+30,The Oculus,2.667,"Edificios con valor arquitectónico, Monumentos y estatuas",New York,Mid Atlantic
+31,The Morgan Library & Museum,2.111,"Museos especializados, Bibliotecas",New York,Mid Atlantic
+32,World Trade Center's Liberty Park,3.010,Parques,New York,Mid Atlantic
+33,Greenwich Village,3.833,Barrios,New York,Mid Atlantic
+34,SoHo,3.858,Barrios,New York,Mid Atlantic
+35,Christmas Spectacular Starring the Radio City Rockettes,2.909,Eventos culturales,New York,Mid Atlantic
+36,The Roosevelt Island Tramway,3.756,Tranvías,New York,Mid Atlantic
+37,Capilla de San Pablo,3.459,"Lugares religiosos, Iglesias y catedrales",New York,Mid Atlantic
+38,Madame Tussauds New York,8.239,Museos especializados,New York,Mid Atlantic
+39,Whitney Museum of American Art,3.239,Museos de arte,New York,Mid Atlantic
+40,Museum at Eldridge Street,499,Museos especializados,New York,Mid Atlantic
+41,World Trade Center Memorial Foundation,1.368,"Lugares históricos, Áreas históricas peatonales",New York,Mid Atlantic
+42,The Vessel,1.416,"Monumentos y lugares de interés, Edificios con valor arquitectónico",New York,Mid Atlantic
+43,United Nations Headquarters,2.148,"Lugares históricos, Monumentos y lugares de interés",New York,Mid Atlantic
+44,Ellis Island Immigration Museum,3.171,Museos especializados,New York,Mid Atlantic
+45,Trinity Church,1.530,"Edificios con valor arquitectónico, Lugares religiosos",New York,Mid Atlantic
+46,Roosevelt Island,905,Islas,New York,Mid Atlantic
+47,One World Trade Center,1.016,"Monumentos y lugares de interés, Edificios con valor arquitectónico",New York,Mid Atlantic
+48,Gershwin Theater,590,Teatros,New York,Mid Atlantic
+49,St. Patrick's Old Cathedral,473,"Edificios con valor arquitectónico, Lugares religiosos",New York,Mid Atlantic
+50,World Trade Center Station (PATH),1.291,Edificios con valor arquitectónico,New York,Mid Atlantic
+51,Manhattan Bridge,1.248,Puentes,New York,Mid Atlantic
+52,Harlem,1.191,Barrios,New York,Mid Atlantic
+53,New-York Historical Society Museum & Library,853,"Museos especializados, Museos de arte",New York,Mid Atlantic
+54,Neue Galerie,1.617,Museos de arte,New York,Mid Atlantic
+55,Merchant's House Museum,318,Museos de historia,New York,Mid Atlantic
+56,"Strawberry Fields, John Lennon Memorial",1.852,"Parques, Monumentos y estatuas",New York,Mid Atlantic
+57,Madison Square Park,738,Monumentos y lugares de interés,New York,Mid Atlantic
+58,National Museum of the American Indian,806,Museos especializados,New York,Mid Atlantic
+59,Minskoff Theatre,284,Teatros,New York,Mid Atlantic
+60,GhostBusters Firestation,437,Monumentos y lugares de interés,New York,Mid Atlantic
+61,Neil Simon Theatre,284,Teatros,New York,Mid Atlantic
+62,Al Hirschfeld Theatre,249,Teatros,New York,Mid Atlantic
+63,Little Island,197,Parques,New York,Mid Atlantic
+64,The Lion King,9.268,Teatro y espectáculos,New York,Mid Atlantic
+65,RiseNY,231,"Centros de juego y entretenimiento, Museos de historia",New York,Mid Atlantic
+66,Winter Garden Theatre,244,Teatros,New York,Mid Atlantic
+67,Aladdin - The Musical,2.970,Teatro y espectáculos,New York,Mid Atlantic
+68,The Shops & Restaurants at Hudson Yards,283,Centros comerciales,New York,Mid Atlantic
+69,Steve Cohen - Chamber Magic,2.652,"Teatros, Teatro y espectáculos",New York,Mid Atlantic
+70,Battery Park,198,"Parques, Jardines",New York,Mid Atlantic
+71,General Grant National Memorial,323,"Monumentos y lugares de interés, Parques nacionales",New York,Mid Atlantic
+72,NYC Perfect Transportation,675,Taxis y otros servicios de traslado,New York,Mid Atlantic
+73,The Metropolitan Opera,3.105,"Óperas, Teatro y espectáculos",New York,Mid Atlantic
+74,The Phantom of the Opera,6.087,"Óperas, Teatro y espectáculos",New York,Mid Atlantic
+75,The Magician New York,517,Teatro y espectáculos,New York,Mid Atlantic
+76,ExperienceFirst,29.400,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+77,Birdland,862,Bares de jazz,New York,Mid Atlantic
+78,The Escape Game NYC,368,Juegos de escape,New York,Mid Atlantic
+79,McSorley's Old Ale House,1.408,Bares y boliches,New York,Mid Atlantic
+80,NYC Platinum Transport,343,Taxis y otros servicios de traslado,New York,Mid Atlantic
+81,The Strand Bookstore,815,Tiendas de regalos,New York,Mid Atlantic
+82,FAO Schwarz,1.635,Tiendas de regalos,New York,Mid Atlantic
+83,Dizzy's Club,858,Bares de jazz,New York,Mid Atlantic
+84,9/11 Ground Zero Tour,12.305,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+85,Grand Central Bodywork,150,Spas,New York,Mid Atlantic
+86,Accomplice New York,983,Teatro y espectáculos,New York,Mid Atlantic
+87,Apollo Theater,637,"Teatros, Teatro y espectáculos",New York,Mid Atlantic
+88,Pizza School NYC,312,"Clases y talleres, Clases de cocina",New York,Mid Atlantic
+89,Grand Central Bodywork,114,Spas,New York,Mid Atlantic
+90,Rudy's Bar & Grill,656,Bares y boliches,New York,Mid Atlantic
+91,Precision NY Chauffeur & Airport Transportation Services,98,Taxis y otros servicios de traslado,New York,Mid Atlantic
+92,Pocono Daytripper,346,"Servicios de autobús, Taxis y otros servicios de traslado",New York,Mid Atlantic
+93,Foods of New York Tours,8.378,"Tours a pie, Tours privados",New York,Mid Atlantic
+94,AIRE Ancient Baths New York,334,Spas,New York,Mid Atlantic
+95,Exit Escape Room,188,Juegos de escape,New York,Mid Atlantic
+96,The Yoga Trail,225,Yoga y pilates,New York,Mid Atlantic
+97,Classic Harbor Line,4.674,Tours en barco,New York,Mid Atlantic
+98,Free Tours by Foot,7.829,"Tours en bicicleta, Tours a pie",New York,Mid Atlantic
+99,NYC Horse Carriage Rides,6.349,"Tours por la ciudad, Tours de cine y TV",New York,Mid Atlantic
+100,The LEGO Store,732,Tiendas de regalos,New York,Mid Atlantic
+101,HeliNY,3.765,Tours en helicóptero,New York,Mid Atlantic
+102,Circle Line Cruises,13.546,Tours en barco,New York,Mid Atlantic
+103,USA Guided Tours New York,4.651,"Tours por la ciudad, Tours con paradas",New York,Mid Atlantic
+104,On Location Tours New York City,6.552,"Tours a pie, Tours de cine y TV",New York,Mid Atlantic
+105,Hershey's Chocolate World Times Square,1.014,Tiendas de regalos,New York,Mid Atlantic
+106,Don't Tell Mama,426,Piano bar,New York,Mid Atlantic
+107,NYC Rich Limo,333,Taxis y otros servicios de traslado,New York,Mid Atlantic
+108,Real New York Tours,5.922,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+109,Blue Man Group,1.042,Teatro y espectáculos,New York,Mid Atlantic
+110,Ahoy New York Food Tours,1.778,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+111,Harry Potter New York,211,Tiendas de regalos,New York,Mid Atlantic
+112,Nice Guy Tours,2.184,"Tours culturales, Tours históricos",New York,Mid Atlantic
+113,Beetlejuice The Musical,176,Teatro y espectáculos,New York,Mid Atlantic
+114,A Slice of Brooklyn Bus Tours,2.391,"Tours turísticos, Tours gastronómicos",New York,Mid Atlantic
+115,Manhattan Walking Tour,1.927,"Tours históricos, Tours a pie",New York,Mid Atlantic
+116,Inside Out Tours,4.249,"Tours por la ciudad, Tours históricos",New York,Mid Atlantic
+117,Top Dog Tours NYC,2.095,"Tours culturales, Tours históricos",New York,Mid Atlantic
+118,Hush Hip Hop Tours,1.484,"Tours por la ciudad, Tours de literatura, arte y música",New York,Mid Atlantic
+119,Walks,1.848,"Tours por la ciudad, Tours históricos",New York,Mid Atlantic
+120,The Wall Street Experience - Wall Street Tours,2.113,"Tours por la ciudad, Tours históricos",New York,Mid Atlantic
+121,Secret Food Tours New York City,902,Tours gastronómicos,New York,Mid Atlantic
+122,Untapped New York,1.486,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+123,Streetwise New York Tours (Tours de Nueva York a pie en español),1.512,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+124,SANDEMANs NEW Europe - New York,4.373,"Tours por la ciudad, Tours históricos",New York,Mid Atlantic
+125,Experience NYC,1.141,"Tours por la ciudad, Tours en bicicleta",New York,Mid Atlantic
+126,Food On Foot Tours,3.622,"Tours a pie, Tours turísticos",New York,Mid Atlantic
+127,Scott's Pizza Tours,864,"Tours por la ciudad, Tours a pie",New York,Mid Atlantic
+128,Babylon Tours New York City,782,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+129,Amigo Tours,2.018,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+130,New York en francais,594,"Tours por la ciudad, Tours en bicicleta",New York,Mid Atlantic
+131,Tribeca Sailing,979,"Tours por la ciudad, Tours en barco",New York,Mid Atlantic
+132,Big Apple Jazz Tours,643,"Tours de bares, discotecas y pubs, Tours culturales",New York,Mid Atlantic
+133,New York City Tour Hub,1.202,"Tours de compras, Tours históricos",New York,Mid Atlantic
+134,Big Apple Greeter,810,Tours turísticos,New York,Mid Atlantic
+135,New York Off Road,810,"Tours por la ciudad, Tours culturales",New York,Mid Atlantic
+136,Central Park Pedicab Tours,487,Tours turísticos,New York,Mid Atlantic
+137,Style Room NYC Shopping Tour Experiences,761,"Tours y espectáculos de moda, Tours de compras",New York,Mid Atlantic
+138,Sidewalks of New York Tours,1.007,"Tours culturales, Tours a pie",New York,Mid Atlantic
+139,Gite A Piedi New York Tours,801,"Tours a pie, Tours privados",New York,Mid Atlantic
+140,PhotoTrek Tours,686,"Tours por la ciudad, Tours a pie",New York,Mid Atlantic
+141,Like A Local Tours,743,"Tours culturales, Tours históricos",New York,Mid Atlantic
+142,Big Onion Walking Tours,1.124,"Tours culturales, Tours históricos",New York,Mid Atlantic
+143,Olidaytours,472,"Tours por la ciudad, Tours en bicicleta",New York,Mid Atlantic
+144,Renny Tours NYC,388,"Tours por la ciudad, Taxis y otros servicios de traslado",New York,Mid Atlantic
+145,Fancy Apple,990,"Tours por la ciudad, Tours en bicicleta",New York,Mid Atlantic
+146,Gossip Girl Tour,444,"Tours por la ciudad, Tours de cine y TV",New York,Mid Atlantic
+147,Greg Walks NYC,877,"Tours a pie, Tours gastronómicos",New York,Mid Atlantic
+148,Graff Tours,916,"Tours culturales, Tours de literatura, arte y música",New York,Mid Atlantic
+149,Unlimited Biking,1.959,"Tours en bicicleta, Tours a pie",New York,Mid Atlantic
+150,New York Historical Tours,368,"Tours por la ciudad, Tours históricos",New York,Mid Atlantic
+151,Parque Nacional Militar de Gettysburg,8.470,"Campos de batalla, Parques",Pen,Mid Atlantic
+152,Eastern State Penitentiary,6.505,Museos de historia,Pen,Mid Atlantic
+153,Independence Hall,9.119,"Lugares históricos, Edificios gubernamentales",Pen,Mid Atlantic
+154,PNC Park,6.158,Campos de juego y estadios,Pen,Mid Atlantic
+155,Longwood Gardens,4.450,"Jardines, Áreas peatonales pintorescas",Pen,Mid Atlantic
+156,Reading Terminal Market,4.856,Mercados de las pulgas y al aire libre,Pen,Mid Atlantic
+157,Sight & Sound Theatres,3.428,Teatros,Pen,Mid Atlantic
+158,Philadelphia Museum of Art,7.435,Museos de arte,Pen,Mid Atlantic
+159,Phipps Conservatory and Botanical Gardens,3.355,"Lugares históricos, Jardines",Pen,Mid Atlantic
+160,Duquesne Incline,4.365,"Museos especializados, Tranvías",Pen,Mid Atlantic
+161,Museo y Centro de Visitantes de Gettysburg,5.809,"Centros de información turística, Campos de batalla",Pen,Mid Atlantic
+162,Barnes,5.428,Museos de arte,Pen,Mid Atlantic
+163,Fallingwater,2.813,Lugares históricos,Pen,Mid Atlantic
+164,Knoebel's Amusement Resort,2.514,Parques de diversión y temáticos,Pen,Mid Atlantic
+165,The Amish Farm and House,2.314,Granjas,Pen,Mid Atlantic
+166,Presque Isle State Park,3.224,Parques,Pen,Mid Atlantic
+167,Liberty Bell Center,4.894,"Lugares históricos, Monumentos y lugares de interés",Pen,Mid Atlantic
+168,Mount Washington,3.037,"Barrios, Montañas",Pen,Mid Atlantic
+169,Acrisure Stadium Tours,2.229,Campos de juego y estadios,Pen,Mid Atlantic
+170,Flight 93 National Memorial,2.067,"Museos especializados, Monumentos y lugares de interés",Pen,Mid Atlantic
+171,Carnegie Museum of Natural History,1.694,Museos de historia natural,Pen,Mid Atlantic
+172,Splash Lagoon Indoor Water Park Resort,3.079,Parques acuáticos,Pen,Mid Atlantic
+173,Strip District,3.015,Barrios,Pen,Mid Atlantic
+174,Rocky Statue,3.247,Monumentos y estatuas,Pen,Mid Atlantic
+175,Independence National Historical Park,3.008,"Lugares históricos, Áreas históricas peatonales",Pen,Mid Atlantic
+176,Senator John Heinz History Center,1.495,Museos de historia,Pen,Mid Atlantic
+177,Bicycle Heaven,989,Museos especializados,Pen,Mid Atlantic
+178,Lancaster Central Market,1.054,Mercados de las pulgas y al aire libre,Pen,Mid Atlantic
+179,Bushkill Falls,1.898,Cascadas,Pen,Mid Atlantic
+180,National Aviary,1.470,"Áreas de naturaleza y vida silvestre, Zoológicos",Pen,Mid Atlantic
+181,Pittsburgh Zoo & Aquarium,2.032,"Zoológicos, Acuarios",Pen,Mid Atlantic
+182,American Music Theatre,1.416,Teatros,Pen,Mid Atlantic
+183,Valley Forge National Historical Park,1.482,"Lugares históricos, Parques nacionales",Pen,Mid Atlantic
+184,Hershey Gardens,1.448,Jardines,Pen,Mid Atlantic
+185,Dutch Wonderland,2.411,Parques de diversión y temáticos,Pen,Mid Atlantic
+186,The Hershey Story Museum,1.827,Museos especializados,Pen,Mid Atlantic
+187,Independence Visitor Center,2.465,Centros de información turística,Pen,Mid Atlantic
+188,The Amish Village,1.041,Museos de historia,Pen,Mid Atlantic
+189,Jennie Wade House,1.578,"Lugares históricos, Museos de historia",Pen,Mid Atlantic
+190,Gettysburg National Cemetery,1.978,Cementerios,Pen,Mid Atlantic
+191,The Andy Warhol Museum,1.660,Museos de arte,Pen,Mid Atlantic
+192,Shriver House Museum,919,"Lugares históricos, Museos de historia",Pen,Mid Atlantic
+193,Rodin Museum,1.479,Museos de arte,Pen,Mid Atlantic
+194,Old Windmill Farm,626,Granjas,Pen,Mid Atlantic
+195,Eisenhower National Historic Site,1.268,Lugares históricos,Pen,Mid Atlantic
+196,Railroad Museum of Pennsylvania,1.133,"Museos especializados, Museos de historia",Pen,Mid Atlantic
+197,Museum of the American Revolution,1.444,Museos de historia,Pen,Mid Atlantic
+198,Philadelphia's Magic Gardens,1.146,"Galerías de arte, Museos de arte",Pen,Mid Atlantic
+199,National Civil War Museum,1.153,Museos de historia,Pen,Mid Atlantic
+200,Kinzua Bridge State Park,682,Parques estatales,Pen,Mid Atlantic
+201,National Constitution Center,1.633,"Museos especializados, Museos de historia",Pen,Mid Atlantic
+202,Ohiopyle State Park,781,Parques estatales,Pen,Mid Atlantic
+203,"AACA Museum, Inc.",864,Museos especializados,Pen,Mid Atlantic
+204,Carnegie Science Center,1.310,Museos de ciencia,Pen,Mid Atlantic
+205,Wolf Sanctuary of PA,951,Áreas de naturaleza y vida silvestre,Pen,Mid Atlantic
+206,Steamtown National Historic Site,901,"Museos especializados, Lugares históricos",Pen,Mid Atlantic
+207,Pennsylvania State Capitol,977,Edificios gubernamentales,Pen,Mid Atlantic
+208,Elfreth's Alley,1.179,Lugares históricos,Pen,Mid Atlantic
+209,Indian Echo Caverns,932,"Cavernas y cuevas, Formaciones geológicas",Pen,Mid Atlantic
+210,Kentuck Knob,696,"Lugares históricos, Monumentos y lugares de interés",Pen,Mid Atlantic
+211,Point State Park,949,"Lugares históricos, Parques estatales",Pen,Mid Atlantic
+212,Weitzman National Museum of American Jewish History,1.128,"Museos especializados, Lugares educativos",Pen,Mid Atlantic
+213,D.G. Yuengling and Son Brewery,644,Cervecerías,Pen,Mid Atlantic
+214,Crossing Vineyards and Winery,652,Viñedos con bodegas,Pen,Mid Atlantic
+215,Asa Packer Mansion,662,"Lugares históricos, Museos de historia",Pen,Mid Atlantic
+216,Fonthill Castle,535,"Lugares históricos, Castillos",Pen,Mid Atlantic
+217,Brandywine River Museum of Art,823,"Museos especializados, Museos de arte",Pen,Mid Atlantic
+218,President James Buchanan's Wheatland,549,Lugares históricos,Pen,Mid Atlantic
+219,Monongahela Incline,1.206,"Lugares históricos, Tranvías",Pen,Mid Atlantic
+220,Liberty Magic,456,Teatros,Pen,Mid Atlantic
+221,Gettysburg Heritage Center,588,Museos de historia,Pen,Mid Atlantic
+222,Wanamaker Organ,871,Monumentos y lugares de interés,Pen,Mid Atlantic
+223,United States Mint,1.154,Edificios gubernamentales,Pen,Mid Atlantic
+224,Cherry Crest Adventure Farm,500,Granjas,Pen,Mid Atlantic
+225,Mercer Museum,532,Museos de historia,Pen,Mid Atlantic
+226,Magic & Wonder Show,401,Teatros,Pen,Mid Atlantic
+227,Randyland,419,Museos especializados,Pen,Mid Atlantic
+228,Betsy Ross House,1.212,Museos especializados,Pen,Mid Atlantic
+229,Sachs Covered Bridge,847,Puentes,Pen,Mid Atlantic
+230,Bury The Hatchet Bensalem - Axe Throwing,825,Complejos deportivos,Pen,Mid Atlantic
+231,Dobbin House Tavern,688,Lugares históricos,Pen,Mid Atlantic
+232,Hickory Run State Park,441,"Parques estatales, Áreas de naturaleza y vida silvestre",Pen,Mid Atlantic
+233,30th Street Station,706,Monumentos y lugares de interés,Pen,Mid Atlantic
+234,Leonard Harrison State Park,659,Parques estatales,Pen,Mid Atlantic
+235,Lincoln Caverns and Whisper Rocks,372,Cavernas y cuevas,Pen,Mid Atlantic
+236,Bird in Hand Farmers Market,793,Mercados de las pulgas y al aire libre,Pen,Mid Atlantic
+237,Seminary Ridge Museum and Education Center,629,"Museos especializados, Museos de historia",Pen,Mid Atlantic
+238,Gettysburg Diorama,782,Museos especializados,Pen,Mid Atlantic
+239,Bury The Hatchet King of Prussia - Axe Throwing,2.080,Centros de juego y entretenimiento,Pen,Mid Atlantic
+240,Choo Choo Barn,504,Museos especializados,Pen,Mid Atlantic
+241,Old Jail Museum,568,Museos de historia,Pen,Mid Atlantic
+242,Benjamin Franklin Museum,628,Museos especializados,Pen,Mid Atlantic
+243,Little Round Top,688,Lugares históricos,Pen,Mid Atlantic
+244,Polymath Park,328,Edificios con valor arquitectónico,Pen,Mid Atlantic
+245,Hershey's Chocolate World,435,Museos especializados,Pen,Mid Atlantic
+246,Lost River Caverns,293,"Cavernas y cuevas, Formaciones geológicas",Pen,Mid Atlantic
+247,Kreider Farms,286,"Granjas, Lugares educativos",Pen,Mid Atlantic
+248,Hoover Mason Trestle,213,"Lugares históricos, Áreas históricas peatonales",Pen,Mid Atlantic
+249,Episcopal Parish of St. Mark and St. John,164,Iglesias y catedrales,Pen,Mid Atlantic
+250,Colton Point State Park,325,Parques estatales,Pen,Mid Atlantic
+251,Washington Crossing Historic Park,311,"Lugares históricos, Parques",Pen,Mid Atlantic
+252,Bury The Hatchet Philadelphia - Axe Throwing,727,Centros de juego y entretenimiento,Pen,Mid Atlantic
+253,Gettysburg Museum Of Haunted Objects,142,Museos especializados,Pen,Mid Atlantic
+254,State of Pennsylvania Monument,231,Monumentos y estatuas,Pen,Mid Atlantic
+255,Jim Thorpe Memorial,301,Monumentos y estatuas,Pen,Mid Atlantic
+256,Hickory Hollow Horse Farm,1.389,Tours a caballo,Pen,Mid Atlantic
+257,Kitchen Kettle Village,2.191,Tiendas de regalos,Pen,Mid Atlantic
+258,Keystone Safari,64,Zoológicos,Pen,Mid Atlantic

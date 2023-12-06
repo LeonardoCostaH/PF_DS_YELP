@@ -34,12 +34,6 @@ Lo que nos distingue es nuestra capacidad para extraer información valiosa de f
 Cadena hotelera en Estados Unidos que quiere mejorar servicios ya existentes
 Nuestra consultora está diseñada específicamente para satisfacer las necesidades únicas y exigencias de aquellos que buscan lanzar, expandir o mejorar sus proyectos hoteleros. Trabajamos estrechamente con propietarios de hoteles, inversores y equipos de gestión, brindando asesoramiento estratégico respaldado por análisis geográficos detallados y pronósticos de análisis de sentimiento. En Geogenesis, entendemos que cada cliente es único, y adaptamos nuestra experiencia y conocimientos para asegurar el éxito de cada proyecto hotelero que emprendemos.
 
-
-
-=======
-Nuestra consultora está diseñada específicamente para satisfacer las necesidades únicas y exigencias de aquellos que buscan lanzar, expandir o mejorar sus proyectos hoteleros. Trabajamos estrechamente con propietarios de hoteles, inversores y equipos de gestión, brindando asesoramiento estratégico respaldado por análisis geográficos detallados y pronósticos de análisis de sentimiento. En Geogenesis, entendemos que cada cliente es único, y adaptamos nuestra experiencia y conocimientos para asegurar el éxito de cada proyecto hotelero que emprendemos.
-
-
 ## Objetivos
 
 - Objetivo principal: Desarrollar una herramienta de análisis para facilitar la mejora de hoteles existentes. Esta herramienta se basará en el análisis de opiniones de usuarios, las características específicas de los hoteles actuales y las atracciones turísticas populares en sus respectivas zonas.

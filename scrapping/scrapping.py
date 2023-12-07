@@ -11,6 +11,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import StaleElementReferenceException
 
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.chrome.service import Service as ChromeService
+
 #
 usa_cities = pd.read_csv("../files/data/usa_cities.csv")
 usa_states = pd.read_csv("../files/data/usa_states.csv")
@@ -192,9 +195,12 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
 
 
 
-def scrape_hotels_attributes(urls, report=True):
+def scrape_hotels_attributes(urls, ids, report=True):
 
-    hotels_attributes = pd.DataFrame()
+    hotels_attributes = pd.DataFrame(columns=[
+        "hotel_id", "direction", "description", "attributes", 
+        "latitude", "longitude", "scores"
+    ])
 
     # Instanciate and configurate driver
     chrome_options = selenium.webdriver.chrome.options.Options()
@@ -203,27 +209,26 @@ def scrape_hotels_attributes(urls, report=True):
     chrome_options.add_argument('--blink-settings=imagesEnabled=false')  # deshabilita carga de imágenes
     driver = webdriver.Chrome(options=chrome_options)
     
-    for i, url in enumerate(urls):
+    for i in range(len(urls)):
 
-        driver.get(url)
         print(f"{i+1}/{len(urls)}")
+        driver.get(urls[i])
 
-        # Obtener dirección
-        try:
+        try: # Obtener dirección
             direccion_element = driver.find_element(By.CLASS_NAME, "hp_address_subtitle")
             direccion_texto = direccion_element.text
-        except:
+        except Exception as e:
+            print(f"Error obteniendo dirección para el hotel con ID {ids[i]}: {str(e)}")
             direccion_texto = None
 
-        # Obtener descripción
-        try:
+        try: # Obtener descripción
             descripcion_element = driver.find_element(By.CLASS_NAME, "b3efd73f69")
             descripcion_texto = descripcion_element.text
-        except:
+        except Exception as e:
+            print(f"Error obteniendo descripción para el hotel con ID {ids[i]}: {str(e)}")
             descripcion_texto = None
 
-        # Obtener atributos (limitado a 10)
-        try:
+        try: # Obtener atributos (limitado a 10)
             list_items = driver.find_elements(By.CLASS_NAME, "a8b57ad3ff")[:10]
             attributes_set = set()  # Usamos un conjunto para evitar duplicados
             for li in list_items:
@@ -231,41 +236,41 @@ def scrape_hotels_attributes(urls, report=True):
                 if attribute not in attributes_set:
                     attributes_set.add(attribute)
             attributes_list = list(attributes_set)  # Convertir el conjunto a lista
-            print(attributes_list)
-        except:
+        except Exception as e:
+            print(f"Error obteniendo atributos para el hotel con ID {ids[i]}: {str(e)}")
             attributes_list = None
 
-        # Obtener latitud y longitud
-        try:
+        try: # Obtener latitud y longitud
             map_element = driver.find_element(By.ID, 'hotel_sidebar_static_map')
             lat_lng_attribute = map_element.get_attribute('data-atlas-latlng')
             lat, lng = map(float, lat_lng_attribute.split(','))
-        except:
+        except Exception as e:
+            print(f"Error obteniendo latitud y longitud para el hotel con ID {ids[i]}: {str(e)}")
             lat, lng = None, None
 
-        # Scores
         score_list = []
-        try:
+        try: # Scores
             scores = driver.find_elements(By.CLASS_NAME, 'b817090550')
-            for i, score in enumerate(scores):
-                score = score.text
+            for score_element in scores:
+                score = score_element.text
                 score = score.replace(",", ".")
                 parts = score.split("\n")
                 if len(parts) == 2:
                     score_list.append({f"{parts[0]}": parts[1]})
-        except:
-            pass
-
-        # Crear el DataFrame
+        except Exception as e:
+            print(f"Error {type(e).__name__} obteniendo scores para el hotel con ID {ids[i]}")
+            score_list = None
+        
+        # Create dataframe to concat
         attributes = pd.DataFrame({
-            "Dirección": [direccion_texto],
-            "Descripción": [descripcion_texto],
-            "Atributos": [attributes_list],
-            "Latitud": [lat],
-            "Longitud": [lng],
-            "Scores": [score_list]
-        })
-        hotels_attributes = pd.concat([hotels_attributes, attributes], ignore_index=True)
+            "hotel_id": [ids[i]],
+            "direction": [direccion_texto],
+            "description": [descripcion_texto],
+            "attributes": [attributes_list],
+            "latitude": [lat],
+            "longitude": [lng],
+            "scores": [score_list]})
+        hotels_attributes = pd.concat([hotels_attributes, attributes], ignore_index=True, sort=False)
 
     driver.quit()
     return hotels_attributes

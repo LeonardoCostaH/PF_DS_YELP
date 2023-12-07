@@ -1,302 +1,180 @@
-,attraction,n_reviews,categories,state,region
-0,Louisville Mega Cavern,19.940,Cavernas y cuevas,Kentucky,East South Central
-1,Maker's Mark,2.858,Destilerías,Kentucky,East South Central
-2,Louisville Slugger Museum & Factory,6.889,Museos especializados,Kentucky,East South Central
-3,Lost River Cave,3.422,"Cavernas y cuevas, Formaciones geológicas",Kentucky,East South Central
-4,Keeneland,2.927, Carreras de caballos,Kentucky,East South Central
-5,Kentucky Derby Museum,3.562,Museos especializados,Kentucky,East South Central
-6,Buffalo Trace Distillery,2.612,Destilerías,Kentucky,East South Central
-7,Mammoth Cave,4.242,Cavernas y cuevas,Kentucky,East South Central
-8,Ark Encounter,4.621,Museos especializados,Kentucky,East South Central
-9,Churchill Downs,3.804,"Lugares históricos,  Carreras de caballos",Kentucky,East South Central
-10,National Corvette Museum,3.070,Museos especializados,Kentucky,East South Central
-11,James E. Pepper Distillery,1.162,Destilerías,Kentucky,East South Central
-12,Conrad-Caldwell House Museum (Conrad's Castle),764,"Museos especializados, Lugares históricos",Kentucky,East South Central
-13,Parque Ecuestre Kentucky,2.743,"Museos especializados, Parques estatales",Kentucky,East South Central
-14,Crystal Onyx Cave,525,Cavernas y cuevas,Kentucky,East South Central
-15,Creation Museum,2.457,Museos de historia natural,Kentucky,East South Central
-16,Castle & Key Distillery,796,Destilerías,Kentucky,East South Central
-17,Woodford Reserve Distillery,2.016,"Destilerías, Cervecerías",Kentucky,East South Central
-18,The Big Four Bridge,1.969,Puentes,Kentucky,East South Central
-19,James B. Beam Distilling Co.,1.599,Destilerías,Kentucky,East South Central
-20,Willett Distilling Company,1.098,Destilerías,Kentucky,East South Central
-21,Four Roses,1.169,Destilerías,Kentucky,East South Central
-22,The National Quilt Museum,1.077,Museos de arte,Kentucky,East South Central
-23,NCM Motorsports Park,484,Pistas de carreras de automóviles,Kentucky,East South Central
-24,Muhammad Ali Center,1.316,Museos especializados,Kentucky,East South Central
-25,Angel's Envy Distillery,956,Destilerías,Kentucky,East South Central
-26,Stitzel-Weller Distillery,826,Destilerías,Kentucky,East South Central
-27,Mill Ridge Farm,394,Granjas,Kentucky,East South Central
-28,Cumberland Gap National Historical Park,608,Parques nacionales,Kentucky,East South Central
-29,Cumberland Falls State Resort Park,1.392,"Parques estatales, Cascadas",Kentucky,East South Central
-30,Lexington Brewing & Distilling Co.,972,Cervecerías,Kentucky,East South Central
-31,Evan Williams Bourbon Experience,1.277,Destilerías,Kentucky,East South Central
-32,Old Friends at Dream Chase Farm,523,Granjas,Kentucky,East South Central
-33,Floodwall Murals,949,Monumentos y lugares de interés,Kentucky,East South Central
-34,Claiborne Farm,552,Granjas,Kentucky,East South Central
-35,Kentucky Peerless Distilling Co,468,Destilerías,Kentucky,East South Central
-36,Limestone Branch Distillery,498,Destilerías,Kentucky,East South Central
-37,Natural Bridge State Resort Park,810,"Parques estatales, Parques",Kentucky,East South Central
-38,Lux Row Distillers,563,Destilerías,Kentucky,East South Central
-39,Cave Hill Cemetery,762,Cementerios,Kentucky,East South Central
-40,Swope's Cars of Yesteryear Museum,303,Museos especializados,Kentucky,East South Central
-41,Hidden River Cave and American Cave Museum,527,"Áreas de naturaleza y vida silvestre, Cavernas y cuevas",Kentucky,East South Central
-42,Copper & Kings American Brandy Distillery,676,Destilerías,Kentucky,East South Central
-43,The Great American Dollhouse Museum,390,Museos especializados,Kentucky,East South Central
-44,Diamond Caverns,470,Cavernas y cuevas,Kentucky,East South Central
-45,New Riff Distillery,315,Destilerías,Kentucky,East South Central
-46,Heaven Hill Bourbon Experience,1.056,Destilerías,Kentucky,East South Central
-47,Godolphin,148,Granjas,Kentucky,East South Central
-48,Kentucky Artisan Distillery,364,Destilerías,Kentucky,East South Central
-49,Green River Distilling Co.,224,Destilerías,Kentucky,East South Central
-50,Frazier History Museum,835,"Tiendas de regalos, Museos especializados",Kentucky,East South Central
-51,Louisville Zoo,1.540,Zoológicos,Kentucky,East South Central
-52,Abraham Lincoln Birthplace National Historical Park,705,Lugares históricos,Kentucky,East South Central
-53,Boone County Distilling Company,261,Destilerías,Kentucky,East South Central
-54,Bernheim Arboretum & Forest,262,Áreas de naturaleza y vida silvestre,Kentucky,East South Central
-55,Old Forester Distilling,279,Destilerías,Kentucky,East South Central
-56,Shaker Village of Pleasant Hill,728,"Lugares históricos, Granjas",Kentucky,East South Central
-57,WinStar Farm,170,Granjas,Kentucky,East South Central
-58,My Old Kentucky Home,535,"Lugares históricos, Parques estatales",Kentucky,East South Central
-59,Chaney's Dairy Barn,497,Granjas,Kentucky,East South Central
-60,Waverly Hills Sanatorium,486,Lugares misteriosos,Kentucky,East South Central
-61,Jeptha Creed,259,Destilerías,Kentucky,East South Central
-62,Onyx Cave,242,Cavernas y cuevas,Kentucky,East South Central
-63,Farmington Historic Plantation,120,Lugares históricos,Kentucky,East South Central
-64,Bluegrass Distillers,253,Destilerías,Kentucky,East South Central
-65,Dinosaur World,612,Museos especializados,Kentucky,East South Central
-66,Preservation Distillery,153,Destilerías,Kentucky,East South Central
-67,Glenns Creek Distillery,147,Destilerías,Kentucky,East South Central
-68,Rabbit Hole Distillery,118,Destilerías,Kentucky,East South Central
-69,Coolmore America - Ashford Stud,139,"Áreas de naturaleza y vida silvestre, Granjas",Kentucky,East South Central
-70,Log Still Distillery,53,Destilerías,Kentucky,East South Central
-71,Harland Sanders Cafe And Museum,562,Museos de historia,Kentucky,East South Central
-72,Runnymede Farm,60,Granjas,Kentucky,East South Central
-73,Lane's End,48,Granjas,Kentucky,East South Central
-74,Hartfield & Co.,53,Destilerías,Kentucky,East South Central
-75,Malibu Jack's Lexington,657,"Centros de juego y entretenimiento, Minigolf",Kentucky,East South Central
-76,Barrel House Distillery,700,"Tiendas de regalos, Destilerías",Kentucky,East South Central
-77,Breakout Games - Lexington,1.059,Juegos de escape,Kentucky,East South Central
-78,Sherlock's Escape Rooms,633,Juegos de escape,Kentucky,East South Central
-79,Prohibition Craft Spirits Distillery,41,"Destilerías, Museos especializados",Kentucky,East South Central
-80,Vicksburg National Military Park,3.161,"Campos de batalla, Parques",Mississipi,East South Central
-81,Elvis Presley Birthplace & Museum,1.670,"Museos especializados, Lugares históricos",Mississipi,East South Central
-82,Natchez Trace Parkway,1.775,Rutas turísticas,Mississipi,East South Central
-83,U.S.S. Cairo Museum,1.531,"Barcos, Museos de historia",Mississipi,East South Central
-84,Longwood,1.634,"Lugares históricos, Monumentos y lugares de interés",Mississipi,East South Central
-85,Biloxi Visitors Center,1.374,Centros de información turística,Mississipi,East South Central
-86,Beauvoir,1.236,"Lugares históricos, Monumentos y lugares de interés",Mississipi,East South Central
-87,Stanton Hall,899,Lugares históricos,Mississipi,East South Central
-88,Rosalie Mansion,782,"Museos especializados, Lugares históricos",Mississipi,East South Central
-89,St. Mary Basilica,482,Iglesias y catedrales,Mississipi,East South Central
-90,Melrose,539,"Lugares históricos, Parques nacionales",Mississipi,East South Central
-91,Biloxi Beach,1.153,Playas,Mississipi,East South Central
-92,Natchez Visitor Center,848,Centros de información turística,Mississipi,East South Central
-93,Mississippi Civil Rights Museum,234,"Galerías de arte, Museos especializados",Mississipi,East South Central
-94,Old Court House Museum,607,Museos de historia,Mississipi,East South Central
-95,McRaven House,197,Monumentos y lugares de interés,Mississipi,East South Central
-96,Hattiesburg Zoo,312,Zoológicos,Mississipi,East South Central
-97,Jesse Brent Lower Mississippi River Museum and Interpretive Center,289,Museos especializados,Mississipi,East South Central
-98,Lauren Rogers Museum of Art,144,Museos de arte,Mississipi,East South Central
-99,The Belmont 1857,101,"Lugares históricos, Edificios con valor arquitectónico",Mississipi,East South Central
-100,Maritime and Seafood Industry Museum,245,Museos especializados,Mississipi,East South Central
-101,Ohr-O'Keefe Museum of Art,307,"Galerías de arte, Museos de arte",Mississipi,East South Central
-102,Choctaw Hall,122,"Lugares históricos, Monumentos y lugares de interés",Mississipi,East South Central
-103,Vicksburg Riverfront Murals,545,Monumentos y lugares de interés,Mississipi,East South Central
-104,Natchez Brewing Company,97,Cervecerías,Mississipi,East South Central
-105,Tupelo Veteran's Museum,92,"Museos militares, Museos de historia",Mississipi,East South Central
-106,The Natchez Trace Parkway,140,Rutas turísticas,Mississipi,East South Central
-107,Waveland's Ground Zero Hurricane Museum,64,"Galerías de arte, Museos especializados",Mississipi,East South Central
-108,Vicksburg Civil War Museum,44,Museos de historia,Mississipi,East South Central
-109,Liberation Escape Rooms,141,Juegos de escape,Mississipi,East South Central
-110,Grand Ole Opry,14.039,Teatros,Tennessee,East South Central
-111,Graceland,20.205,"Museos especializados, Monumentos y lugares de interés",Tennessee,East South Central
-112,Ole Smoky,14.423,Destilerías,Tennessee,East South Central
-113,Sun Studio,12.312,Lugares históricos,Tennessee,East South Central
-114,Country Music Hall of Fame and Museum,15.402,Museos especializados,Tennessee,East South Central
-115,Ryman Auditorium,13.757,"Monumentos y lugares de interés, Teatros",Tennessee,East South Central
-116,Dollywood,18.777,"Parques de diversión y temáticos, Parques acuáticos",Tennessee,East South Central
-117,Parrot Mountain & Gardens,6.020,Jardines,Tennessee,East South Central
-118,Belle Meade Historic Site & Winery,7.948,Lugares históricos,Tennessee,East South Central
-119,Titanic Museum Attraction,11.069,Museos especializados,Tennessee,East South Central
-120,National Civil Rights Museum - Lorraine Motel,9.146,"Lugares históricos, Museos de historia",Tennessee,East South Central
-121,Ole Smoky Tennessee Moonshine,7.600,Destilerías,Tennessee,East South Central
-122,Ripley's Aquarium of the Smokies,15.082,Acuarios,Tennessee,East South Central
-123,The Island in Pigeon Forge,12.193,Parques de diversión y temáticos,Tennessee,East South Central
-124,RCA Studio B,3.938,Museos especializados,Tennessee,East South Central
-125,Tennessee Aquarium,7.070,Acuarios,Tennessee,East South Central
-126,Tennessee Homemade Wines,7.007,Viñedos con bodegas,Tennessee,East South Central
-127,Andrew Jackson's Hermitage,5.844,"Museos especializados, Lugares históricos",Tennessee,East South Central
-128,Gatlinburg SkyLift Park,7.089,"Parques de diversión y temáticos, Miradores",Tennessee,East South Central
-129,Lookout Mountain,4.353,"Montañas, Miradores",Tennessee,East South Central
-130,Gaylord Opryland Resort Gardens,6.136,Jardines,Tennessee,East South Central
-131,The Johnny Cash Museum,7.104,"Museos especializados, Museos de historia",Tennessee,East South Central
-132,Smoky Mountain Alpine Coaster,5.372,Parques de diversión y temáticos,Tennessee,East South Central
-133,Lotz House Museum,3.347,"Lugares históricos, Museos de historia",Tennessee,East South Central
-134,Mountain Valley Winery,2.718,Viñedos con bodegas,Tennessee,East South Central
-135,Tuckaleechee Caverns,2.895,Cavernas y cuevas,Tennessee,East South Central
-136,Clingmans Dome,3.132,Montañas,Tennessee,East South Central
-137,Hillside Winery,2.690,Viñedos con bodegas,Tennessee,East South Central
-138,Great Smoky Mountains National Park,2.567,Parques nacionales,Tennessee,East South Central
-139,Raccoon Mountain Caverns,1.929,Cavernas y cuevas,Tennessee,East South Central
-140,Walnut Street Bridge,2.952,Puentes,Tennessee,East South Central
-141,Rockin' Raceway Arcade,2.080,Parques de diversión y temáticos,Tennessee,East South Central
-142,Tennessee Shine Company - Gatlinburg,2.331,Destilerías,Tennessee,East South Central
-143,Stax Museum of American Soul Music,2.188,"Museos especializados, Lugares educativos",Tennessee,East South Central
-144,Market Square,2.979,Monumentos y lugares de interés,Tennessee,East South Central
-145,Tennessee Valley Railroad Museum,1.740,"Museos especializados, Museos para niños",Tennessee,East South Central
-146,Roaring Fork Motor Nature Trail,1.794,Rutas para senderismo,Tennessee,East South Central
-147,Tennessee Cider Company,2.730,Viñedos con bodegas,Tennessee,East South Central
-148,Junction 35 Spirits,1.372,Destilerías,Tennessee,East South Central
-149,Smoky Mountain River Rat Tubing,1.640,Parques de diversión y temáticos,Tennessee,East South Central
-150,Goats on the Roof,3.058,Centros comerciales,Tennessee,East South Central
-151,Smoky Mountain Deer Farm & Exotic Petting Zoo,1.425,Zoológicos,Tennessee,East South Central
-152,Tennessee Legend Distillery,1.354,Destilerías,Tennessee,East South Central
-153,Memphis Rock 'n' Soul Museum,2.409,"Museos especializados, Museos de historia",Tennessee,East South Central
-154,Mill Bridge Winery,1.403,Viñedos con bodegas,Tennessee,East South Central
-155,Musicians Hall of Fame and Museum,1.219,Museos especializados,Tennessee,East South Central
-156,Belmont Mansion,1.095,"Lugares históricos, Jardines",Tennessee,East South Central
-157,Carnton,1.742,"Museos especializados, Lugares históricos",Tennessee,East South Central
-158,Carter House,1.378,"Museos especializados, Lugares históricos",Tennessee,East South Central
-159,Lane Motor Museum,966,Museos especializados,Tennessee,East South Central
-160,Bridgestone Arena,2.044,Campos de juego y estadios,Tennessee,East South Central
-161,Tennessee Legend Distillery - Winfield Dunn Parkway,880,Destilerías,Tennessee,East South Central
-162,Big Top Arcade,1.504,Parques de diversión y temáticos,Tennessee,East South Central
-163,Chattanooga Whiskey Experimental Distillery,1.155,Destilerías,Tennessee,East South Central
-164,Adventures Unlimited,1.200,Masas de agua,Tennessee,East South Central
-165,Tennessee Shine Company - Pigeon Forge,788,Destilerías,Tennessee,East South Central
-166,Arcade City Pigeon Forge,1.499,Parques de diversión y temáticos,Tennessee,East South Central
-167,Tennessee State Museum,988,Museos de historia,Tennessee,East South Central
-168,Forbidden Caverns,1.354,Cavernas y cuevas,Tennessee,East South Central
-169,Main Event Theater,754,Teatros,Tennessee,East South Central
-170,Old Forge Distillery,1.403,"Destilerías, Lugares históricos",Tennessee,East South Central
-171,Cheekwood,1.445,"Lugares históricos, Jardines",Tennessee,East South Central
-172,Downtown Franklin,1.462,"Barrios, Áreas históricas peatonales",Tennessee,East South Central
-173,Gatlinburg Scenic Overlook,1.382,"Miradores, Rutas turísticas",Tennessee,East South Central
-174,Tennessee Legend Distillery,548,Destilerías,Tennessee,East South Central
-175,Bush's Visitor Center,1.221,Museos de historia,Tennessee,East South Central
-176,Hollywood Star Cars Museum,1.461,Museos especializados,Tennessee,East South Central
-177,Shiloh National Military Park,836,"Parques nacionales, Campos de batalla",Tennessee,East South Central
-178,The Village Shops,997,Centros comerciales,Tennessee,East South Central
-179,Ijams Nature Center,869,Áreas de naturaleza y vida silvestre,Tennessee,East South Central
-180,Grotto Falls Trail,939,Rutas para senderismo,Tennessee,East South Central
-181,Paula Deen's Lumberjack Feud Supper Show,1.107,Parques de diversión y temáticos,Tennessee,East South Central
-182,Burgess Falls State Park,500,"Parques estatales, Áreas de naturaleza y vida silvestre",Tennessee,East South Central
-183,Xtreme Racing Center Pigeon Forge,1.150,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",Tennessee,East South Central
-184,"Cascade Hollow Distilling Co., Home of George Dickel",929,Destilerías,Tennessee,East South Central
-185,Newfound Gap Road,780,Rutas turísticas,Tennessee,East South Central
-186,Bicentennial Capitol Mall State Park,968,"Parques estatales, Áreas históricas peatonales",Tennessee,East South Central
-187,Ripley's Mountain Coaster,982,Parques de diversión y temáticos,Tennessee,East South Central
-188,Alum Cave Trail,466,Rutas para senderismo,Tennessee,East South Central
-189,Slave Haven / Burkle Estate Museum,750,"Lugares históricos, Museos de historia",Tennessee,East South Central
-190,Sugarlands Visitors Center,1.074,Centros de información turística,Tennessee,East South Central
-191,Stones River National Battlefield,819,"Centros de información turística, Campos de batalla",Tennessee,East South Central
-192,Wild Gals Old Time Photo,1.716,Centros de juego y entretenimiento,Tennessee,East South Central
-193,Fall Creek Falls,721,Cascadas,Tennessee,East South Central
-194,Smoky Mountain Knife Works,3.269,"Tiendas de regalos, Museos especializados",Tennessee,East South Central
-195,Pigeon Forge Snow,1.208,Parques de diversión y temáticos,Tennessee,East South Central
-196,Outdoor Gravity Park,776,Parques acuáticos,Tennessee,East South Central
-197,Apple Barn Winery,1.013,Viñedos con bodegas,Tennessee,East South Central
-198,John Seigenthaler Pedestrian Bridge,1.075,Puentes,Tennessee,East South Central
-199,Oconaluftee Visitor Center,1.092,Centros de información turística,Tennessee,East South Central
-200,Point Park - Lookout Mountain Battlefields,789,Campos de batalla,Tennessee,East South Central
-201,Bootleggers Homemade Wine,861,Viñedos con bodegas,Tennessee,East South Central
-202,"Ocoee Outdoors, Inc.",682,Masas de agua,Tennessee,East South Central
-203,Fowler's Clay Works,428,Galerías de arte,Tennessee,East South Central
-204,Athena Statue,662,Monumentos y estatuas,Tennessee,East South Central
-205,Foothills Parkway,605,Rutas turísticas,Tennessee,East South Central
-206,Cummins Falls State Park,682,Parques estatales,Tennessee,East South Central
-207,Cumberland Caverns,493,Cavernas y cuevas,Tennessee,East South Central
-208,SkyBridge,463,"Monumentos y lugares de interés, Puentes",Tennessee,East South Central
-209,Shelby Farms Park,582,Parques,Tennessee,East South Central
-210,The Great Smoky Mountain Wheel,1.100,Monumentos y lugares de interés,Tennessee,East South Central
-211,Salt and Pepper Shaker Museum,638,"Tiendas de regalos, Museos especializados",Tennessee,East South Central
-212,Tennessee Legend Distillery,253,Destilerías,Tennessee,East South Central
-213,Museum of Appalachia,457,Museos de historia,Tennessee,East South Central
-214,American Museum of Science & Energy,532,"Museos de ciencia, Museos de historia",Tennessee,East South Central
-215,Tennessee Shine Co.,299,Destilerías,Tennessee,East South Central
-216,Naughty Cat Cafe,682,Centros de juego y entretenimiento,Tennessee,East South Central
-217,Memphis Botanic Garden,435,Jardines,Tennessee,East South Central
-218,Coolidge Park Antique Carousel,350,Monumentos y lugares de interés,Tennessee,East South Central
-219,National Museum of African American Music,187,Museos especializados,Tennessee,East South Central
-220,MagiQuest,1.724,Centros de juego y entretenimiento,Tennessee,East South Central
-221,Smith Creek Moonshine,430,Destilerías,Tennessee,East South Central
-222,Mysterious Mansion,1.000,Centros de juego y entretenimiento,Tennessee,East South Central
-223,The Comedy Barn,4.433,"Teatros, Clubes de comedia",Tennessee,East South Central
-224,Trapped Escape Game,3.179,Juegos de escape,Tennessee,East South Central
-225,Sweetwater Valley Farm,242,Granjas,Tennessee,East South Central
-226,Pigeon Forge Gem Mine,1.142,"Tiendas de regalos, Minas",Tennessee,East South Central
-227,Great Smoky Mountains Heritage Center,277,Museos de historia,Tennessee,East South Central
-228,Leiper's Fork Distillery,211,Destilerías,Tennessee,East South Central
-229,Rowdy Bear Ridge Adventure Park,324,Parques de diversión y temáticos,Tennessee,East South Central
-230,Coker Museum - Honest Charley,188,Museos especializados,Tennessee,East South Central
-231,Old Time Photo Number 5,1.063,Centros de juego y entretenimiento,Tennessee,East South Central
-232,Patsy Cline Museum,404,Museos especializados,Tennessee,East South Central
-233,Music City Center,443,Centros de convenciones,Tennessee,East South Central
-234,LazerPort Fun Center,1.440,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",Tennessee,East South Central
-235,Old Glory Distilling Co.,200,Destilerías,Tennessee,East South Central
-236,SpeedZone Fun Park,499,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",Tennessee,East South Central
-237,Knoxville Museum of Art,353,Museos de arte,Tennessee,East South Central
-238,Samuel T Bryant Distillery,193,Destilerías,Tennessee,East South Central
-239,Historic Brushy Mountain State Penitentiary,223,"Lugares históricos, Monumentos y lugares de interés",Tennessee,East South Central
-240,Hillbilly Golf,2.282,Minigolf,Tennessee,East South Central
-241,President James K. Polk Home & Museum,245,Lugares históricos,Tennessee,East South Central
-242,Tennessee Hills Distillery,204,Destilerías,Tennessee,East South Central
-243,Classic Arcade Pinball Museum,139,"Museos especializados, Centros de juego y entretenimiento",Tennessee,East South Central
-244,The Grand Majestic Theater,924,"Conciertos, Teatros",Tennessee,East South Central
-245,Fall Creek Falls State Park,219,"Parques estatales, Parques",Tennessee,East South Central
-246,Newfound Gap,258,Rutas turísticas,Tennessee,East South Central
-247,Tennessee Homemade Wines,218,Viñedos con bodegas,Tennessee,East South Central
-248,Smoky Mountain Escape Games,1.445,Juegos de escape,Tennessee,East South Central
-249,Short Mountain Distillery,226,Destilerías,Tennessee,East South Central
-250,Elkmont Winery,125,Viñedos con bodegas,Tennessee,East South Central
-251,Tennessee Brew Works,211,Cervecerías,Tennessee,East South Central
-252,TopJump Trampoline & Extreme Arena,1.084,Centros de juego y entretenimiento,Tennessee,East South Central
-253,Old Dominick Distillery,120,Destilerías,Tennessee,East South Central
-254,Edge Motor Museum,68,"Museos especializados, Museos de arte",Tennessee,East South Central
-255,The Christmas Place,1.958,Tiendas de regalos,Tennessee,East South Central
-256,Gatlin's Escape Games,1.117,Juegos de escape,Tennessee,East South Central
-257,Rocky Top Mountain Coaster,1.075,Atracciones y actividades,Tennessee,East South Central
-258,Jack Daniel's Distillery,7.554,Tours a fábricas,Tennessee,East South Central
-259,Conway Twitty Tribute by Travis James,1.147,Teatro y espectáculos,Tennessee,East South Central
-260,Escape Experience - Chattanooga Escape Room Games,1.593,"Juegos de escape, Búsquedas del tesoro",Tennessee,East South Central
-261,"Impossibilities Magic, Mindreading and Mayhem!",890,"Teatros, Teatro y espectáculos",Tennessee,East South Central
-262,Autobahn Indoor Speedway & Events,175,Centros de juego y entretenimiento,Tennessee,East South Central
-263,Smith Creek Moonshine,249,"Tiendas de regalos, Destilerías",Tennessee,East South Central
-264,60 Minute Escape Game Murfreesboro,1.012,Juegos de escape,Tennessee,East South Central
-265,Memphis Escape Rooms,1.635,Juegos de escape,Tennessee,East South Central
-266,Royal Range USA,359,Campos de tiro,Tennessee,East South Central
-267,The Escape Game Nashville (Opry Mills),690,Juegos de escape,Tennessee,East South Central
-268,Trapped Escape Game Nashville,580,Juegos de escape,Tennessee,East South Central
-269,Crave Golf Club,1.030,"Juegos de escape, Centros de juego y entretenimiento",Tennessee,East South Central
-270,CLIMB Works Smoky Mountains,5.506,Tirolesa y parques de aventuras aéreas,Tennessee,East South Central
-271,Stages West,662,Tiendas de regalos,Tennessee,East South Central
-272,Smoky Mountain Outdoors Rafting,5.979,Rafting y nado con salvavidas en el río,Tennessee,East South Central
-273,Time to Escape - Chattanooga Escape Room,524,Juegos de escape,Tennessee,East South Central
-274,The Stage on Broadway,716,Bares y boliches,Tennessee,East South Central
-275,Robert's Western World,608,Bares de música country y western,Tennessee,East South Central
-276,Apple Barn Cider House,419,Tiendas de regalos,Tennessee,East South Central
-277,Sugarland Riding Stables,971,Tours a caballo,Tennessee,East South Central
-278,Tri-Cities Escape Game,828,Juegos de escape,Tennessee,East South Central
-279,River Rat Whitewater Rafting,3.769,"Rafting y nado con salvavidas en el río, Tours extremos y de adrenalina",Tennessee,East South Central
-280,Escape Mission Chattanooga,482,"Juegos de escape, Centros de juego y entretenimiento",Tennessee,East South Central
-281,Murfreesboro Escape Rooms,645,Juegos de escape,Tennessee,East South Central
-282,Bike the Greenway,321,Alquileres de equipos,Tennessee,East South Central
-283,Escape Experience,716,Juegos de escape,Tennessee,East South Central
-284,The Spa at RiverStone Resort,278,Spas,Tennessee,East South Central
-285,Four Bandits Old Time Photo,285,Centros de juego y entretenimiento,Tennessee,East South Central
-286,Joyride Nashville,4.263,"Tours por la ciudad, Tours de bares, discotecas y pubs",Tennessee,East South Central
-287,Smoky Mountain Ziplines,3.504,Tirolesa y parques de aventuras aéreas,Tennessee,East South Central
-288,Craft Axe Throwing- Knoxville,129,Centros de juego y entretenimiento,Tennessee,East South Central
-289,Activate - Gatlinburg,88,Centros de juego y entretenimiento,Tennessee,East South Central
-290,Blanche Manor Horseback Riding,405,Tours a caballo,Tennessee,East South Central
-291,Three Bears Old Time Photo,106,Centros de juego y entretenimiento,Tennessee,East South Central
-292,Legacy Mountain Ziplines,3.123,Tirolesa y parques de aventuras aéreas,Tennessee,East South Central
-293,SkyFly: Soar America,347,Atracciones y actividades,Tennessee,East South Central
-294,Foxfire Adventure Park,4.683,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",Tennessee,East South Central
-295,The Redneck Comedy Bus Tour - Nashville,3.458,"Tours por la ciudad, Tours en autobús",Tennessee,East South Central
-296,High Country Adventures,3.756,Deportes acuáticos,Tennessee,East South Central
-297,Escapology,488,Juegos de escape,Tennessee,East South Central
-298,Davy Crockett Riding Stables,349,Tours a caballo,Tennessee,East South Central
-299,Gray Line Tours,5.699,"Tours por la ciudad, Tours en autobús",Tennessee,East South Central
-300,Scenic Helicopter Tours,2.782,Tours en helicóptero,Tennessee,East South Central
+,state_id,attraction,categories,reviews_url,region
+0,AL,USS ALABAMA Battleship Memorial Park,"Museos militares, Barcos",https://www.tripadvisor.com.ar/Attraction_Review-g30709-d109107-Reviews-USS_ALABAMA_Battleship_Memorial_Park-Mobile_Alabama.html,East South Central
+1,AL,Barber Vintage Motorsports Museum,"Museos especializados, Pistas de carreras de automóviles",https://www.tripadvisor.com.ar/Attraction_Review-g30375-d107359-Reviews-Barber_Vintage_Motorsports_Museum-Birmingham_Alabama.html,East South Central
+2,AL,Gulf State Park,"Parques estatales, Playas",https://www.tripadvisor.com.ar/Attraction_Review-g30582-d143881-Reviews-Gulf_State_Park-Gulf_Shores_Alabama.html,East South Central
+3,AL,Birmingham Civil Rights Institute,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g30375-d106398-Reviews-Birmingham_Civil_Rights_Institute-Birmingham_Alabama.html,East South Central
+4,AL,Legacy Museum,"Museos de arte, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g30712-d13977526-Reviews-Legacy_Museum-Montgomery_Alabama.html,East South Central
+5,AL,U.S. Veterans Memorial Museum,"Museos militares, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g30620-d3626681-Reviews-U_S_Veterans_Memorial_Museum-Huntsville_Alabama.html,East South Central
+6,AL,Vulcan Park and Museum,"Miradores, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g30375-d560502-Reviews-Vulcan_Park_and_Museum-Birmingham_Alabama.html,East South Central
+7,AL,National Memorial for Peace and Justice,"Lugares históricos, Monumentos y estatuas",https://www.tripadvisor.com.ar/Attraction_Review-g30712-d13977560-Reviews-National_Memorial_for_Peace_and_Justice-Montgomery_Alabama.html,East South Central
+8,AL,Huntsville Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g30620-d269098-Reviews-Huntsville_Botanical_Garden-Huntsville_Alabama.html,East South Central
+9,AL,FORT MORGAN HISTORIC SITE,"Lugares históricos, Campos de batalla",https://www.tripadvisor.com.ar/Attraction_Review-g1475965-d116440-Reviews-FORT_MORGAN_HISTORIC_SITE-Fort_Morgan_Alabama.html,East South Central
+10,AL,Rosa Parks Library and Museum,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g30712-d259988-Reviews-Rosa_Parks_Library_and_Museum-Montgomery_Alabama.html,East South Central
+11,AL,The Wharf,Puertos deportivos,https://www.tripadvisor.com.ar/Attraction_Review-g30753-d1847139-Reviews-The_Wharf-Orange_Beach_Alabama.html,East South Central
+12,AL,Bellingrath Gardens & Home,"Áreas históricas peatonales, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g30874-d126982-Reviews-Bellingrath_Gardens_Home-Theodore_Alabama.html,East South Central
+13,AL,Little River Canyon National Preserve,"Parques nacionales, Cañones",https://www.tripadvisor.com.ar/Attraction_Review-g60889-d143199-Reviews-Little_River_Canyon_National_Preserve-Fort_Payne_Alabama.html,East South Central
+14,AL,Birmingham Botanical Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g30375-d560671-Reviews-Birmingham_Botanical_Gardens-Birmingham_Alabama.html,East South Central
+15,AL,Noccalula Falls Park & Campground,"Parques, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g30549-d264873-Reviews-Noccalula_Falls_Park_Campground-Gadsden_Alabama.html,East South Central
+16,AL,Mobile Bay Ferry,Ferris,https://www.tripadvisor.com.ar/Attraction_Review-g30472-d2702974-Reviews-Mobile_Bay_Ferry-Dauphin_Island_Alabama.html,East South Central
+17,AL,Cathedral Caverns State Park,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g30937-d264055-Reviews-Cathedral_Caverns_State_Park-Woodville_Alabama.html,East South Central
+18,AL,Gulf Shores Welcome Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g30582-d216805-Reviews-Gulf_Shores_Welcome_Center-Gulf_Shores_Alabama.html,East South Central
+19,AL,Alabama Aquarium at the Dauphin Island Sea Lab,"Museos de ciencia, Acuarios",https://www.tripadvisor.com.ar/Attraction_Review-g30472-d143874-Reviews-Alabama_Aquarium_at_the_Dauphin_Island_Sea_Lab-Dauphin_Island_Alabama.html,East South Central
+20,AL,Gulf State Park Fishing Pier,"Parques estatales, Muelles y paseos peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g30582-d2300144-Reviews-Gulf_State_Park_Fishing_Pier-Gulf_Shores_Alabama.html,East South Central
+21,AL,USS ALABAMA Battleship Memorial Park,"Museos militares, Barcos",https://www.tripadvisor.com.ar/Attraction_Review-g30709-d109107-Reviews-USS_ALABAMA_Battleship_Memorial_Park-Mobile_Alabama.html,East South Central
+22,AL,Sloss Furnaces National Historic Landmark,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g30375-d525168-Reviews-Sloss_Furnaces_National_Historic_Landmark-Birmingham_Alabama.html,East South Central
+23,AL,First White House of the Confederacy,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g30712-d105428-Reviews-First_White_House_of_the_Confederacy-Montgomery_Alabama.html,East South Central
+24,AL,GulfQuest - National Maritime Museum of the Gulf of Mexico,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g30709-d7761997-Reviews-GulfQuest_National_Maritime_Museum_of_the_Gulf_of_Mexico-Mobile_Alabama.html,East South Central
+25,AL,Fort Gaines,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g30472-d143876-Reviews-Fort_Gaines-Dauphin_Island_Alabama.html,East South Central
+26,AL,Big Beach Brewing Company,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g30582-d11916270-Reviews-Big_Beach_Brewing_Company-Gulf_Shores_Alabama.html,East South Central
+27,AL,Huntsville Escape Rooms,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g30620-d9466435-Reviews-Huntsville_Escape_Rooms-Huntsville_Alabama.html,East South Central
+28,AL,The Fun Boats Dolphin Cruises,"Tours en barco, Alquileres de barcos",https://www.tripadvisor.com.ar/Attraction_Review-g30753-d6765772-Reviews-The_Fun_Boats_Dolphin_Cruises-Orange_Beach_Alabama.html,East South Central
+29,AL,Ike's Beach Service,Alquileres de equipos,https://www.tripadvisor.com.ar/Attraction_Review-g30582-d4728963-Reviews-Ike_s_Beach_Service-Gulf_Shores_Alabama.html,East South Central
+30,KY,Louisville Mega Cavern,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d1887189-Reviews-Louisville_Mega_Cavern-Louisville_Kentucky.html,East South Central
+31,KY,Maker's Mark,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39601-d108035-Reviews-Maker_s_Mark-Loretto_Kentucky.html,East South Central
+32,KY,Louisville Slugger Museum & Factory,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d105618-Reviews-Louisville_Slugger_Museum_Factory-Louisville_Kentucky.html,East South Central
+33,KY,Lost River Cave,"Cavernas y cuevas, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g39214-d287741-Reviews-Lost_River_Cave-Bowling_Green_Kentucky.html,East South Central
+34,KY,Keeneland, Carreras de caballos,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d108503-Reviews-Keeneland-Lexington_Kentucky.html,East South Central
+35,KY,Kentucky Derby Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d104504-Reviews-Kentucky_Derby_Museum-Louisville_Kentucky.html,East South Central
+36,KY,Buffalo Trace Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39426-d1112388-Reviews-Buffalo_Trace_Distillery-Frankfort_Kentucky.html,East South Central
+37,KY,Mammoth Cave,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g143043-d146944-Reviews-Mammoth_Cave-Mammoth_Cave_National_Park_Kentucky.html,East South Central
+38,KY,Ark Encounter,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39995-d10110346-Reviews-Ark_Encounter-Williamstown_Kentucky.html,East South Central
+39,KY,Churchill Downs,"Lugares históricos,  Carreras de caballos",https://www.tripadvisor.com.ar/Attraction_Review-g39604-d144389-Reviews-Churchill_Downs-Louisville_Kentucky.html,East South Central
+40,KY,National Corvette Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39214-d106553-Reviews-National_Corvette_Museum-Bowling_Green_Kentucky.html,East South Central
+41,KY,James E. Pepper Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d14792244-Reviews-James_E_Pepper_Distillery-Lexington_Kentucky.html,East South Central
+42,KY,Conrad-Caldwell House Museum (Conrad's Castle),"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g39604-d784186-Reviews-Conrad_Caldwell_House_Museum_Conrad_s_Castle-Louisville_Kentucky.html,East South Central
+43,KY,Parque Ecuestre Kentucky,"Museos especializados, Parques estatales",https://www.tripadvisor.com.ar/Attraction_Review-g39588-d103526-Reviews-Kentucky_Horse_Park-Lexington_Kentucky.html,East South Central
+44,KY,Crystal Onyx Cave,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g39265-d145670-Reviews-Crystal_Onyx_Cave-Cave_City_Kentucky.html,East South Central
+45,KY,Creation Museum,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g39743-d619562-Reviews-Creation_Museum-Petersburg_Kentucky.html,East South Central
+46,KY,Castle & Key Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39426-d13109537-Reviews-Castle_Key_Distillery-Frankfort_Kentucky.html,East South Central
+47,KY,Woodford Reserve Distillery,"Destilerías, Cervecerías",https://www.tripadvisor.com.ar/Attraction_Review-g39940-d610163-Reviews-Woodford_Reserve_Distillery-Versailles_Kentucky.html,East South Central
+48,KY,The Big Four Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d3947658-Reviews-The_Big_Four_Bridge-Louisville_Kentucky.html,East South Central
+49,KY,James B. Beam Distilling Co.,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39282-d106422-Reviews-James_B_Beam_Distilling_Co-Clermont_Kentucky.html,East South Central
+50,KY,Willett Distilling Company,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39163-d3618942-Reviews-Willett_Distilling_Company-Bardstown_Kentucky.html,East South Central
+51,KY,Four Roses,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39575-d1195663-Reviews-Four_Roses-Lawrenceburg_Kentucky.html,East South Central
+52,KY,The National Quilt Museum,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g39725-d270438-Reviews-The_National_Quilt_Museum-Paducah_Kentucky.html,East South Central
+53,KY,NCM Motorsports Park,Pistas de carreras de automóviles,https://www.tripadvisor.com.ar/Attraction_Review-g39214-d7125698-Reviews-NCM_Motorsports_Park-Bowling_Green_Kentucky.html,East South Central
+54,KY,Muhammad Ali Center,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d587544-Reviews-Muhammad_Ali_Center-Louisville_Kentucky.html,East South Central
+55,KY,Angel's Envy Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d11626792-Reviews-Angel_s_Envy_Distillery-Louisville_Kentucky.html,East South Central
+56,KY,Stitzel-Weller Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d7246852-Reviews-Stitzel_Weller_Distillery-Louisville_Kentucky.html,East South Central
+57,KY,Mill Ridge Farm,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d12604531-Reviews-Mill_Ridge_Farm-Lexington_Kentucky.html,East South Central
+58,KY,Cumberland Gap National Historical Park,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g60782-d264839-Reviews-Cumberland_Gap_National_Historical_Park-Middlesboro_Kentucky.html,East South Central
+59,KY,Cumberland Falls State Resort Park,"Parques estatales, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g39295-d145353-Reviews-Cumberland_Falls_State_Resort_Park-Corbin_Kentucky.html,East South Central
+60,KY,Louisville Mega Cavern,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d1887189-Reviews-Louisville_Mega_Cavern-Louisville_Kentucky.html,East South Central
+61,KY,Maker's Mark,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39601-d108035-Reviews-Maker_s_Mark-Loretto_Kentucky.html,East South Central
+62,KY,Louisville Slugger Museum & Factory,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d105618-Reviews-Louisville_Slugger_Museum_Factory-Louisville_Kentucky.html,East South Central
+63,KY,Lost River Cave,"Cavernas y cuevas, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g39214-d287741-Reviews-Lost_River_Cave-Bowling_Green_Kentucky.html,East South Central
+64,KY,Keeneland, Carreras de caballos,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d108503-Reviews-Keeneland-Lexington_Kentucky.html,East South Central
+65,KY,Kentucky Derby Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d104504-Reviews-Kentucky_Derby_Museum-Louisville_Kentucky.html,East South Central
+66,KY,Lexington Brewing & Distilling Co.,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d1657487-Reviews-Lexington_Brewing_Distilling_Co-Lexington_Kentucky.html,East South Central
+67,KY,Evan Williams Bourbon Experience,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d5505860-Reviews-Evan_Williams_Bourbon_Experience-Louisville_Kentucky.html,East South Central
+68,KY,Old Friends at Dream Chase Farm,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g39440-d631167-Reviews-Old_Friends_at_Dream_Chase_Farm-Georgetown_Kentucky.html,East South Central
+69,KY,Floodwall Murals,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g39725-d270433-Reviews-Floodwall_Murals-Paducah_Kentucky.html,East South Central
+70,KY,Claiborne Farm,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g39728-d6522678-Reviews-Claiborne_Farm-Paris_Kentucky.html,East South Central
+71,KY,Kentucky Peerless Distilling Co,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d8325302-Reviews-Kentucky_Peerless_Distilling_Co-Louisville_Kentucky.html,East South Central
+72,KY,Limestone Branch Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39577-d2716718-Reviews-Limestone_Branch_Distillery-Lebanon_Kentucky.html,East South Central
+73,KY,Natural Bridge State Resort Park,"Parques estatales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g39858-d259757-Reviews-Natural_Bridge_State_Resort_Park-Slade_Kentucky.html,East South Central
+74,KY,Abraham Lincoln Birthplace National Historical Park,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60708-d108188-Reviews-Abraham_Lincoln_Birthplace_National_Historical_Park-Hodgenville_Kentucky.html,East South Central
+75,KY,Boone County Distilling Company,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39528-d11733684-Reviews-Boone_County_Distilling_Company-Independence_Kentucky.html,East South Central
+76,KY,Bernheim Arboretum & Forest,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g39282-d1554910-Reviews-Bernheim_Arboretum_Forest-Clermont_Kentucky.html,East South Central
+77,KY,Old Forester Distilling,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39604-d14154130-Reviews-Old_Forester_Distilling-Louisville_Kentucky.html,East South Central
+78,KY,Bluegrass Distillers,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d12550924-Reviews-Bluegrass_Distillers-Lexington_Kentucky.html,East South Central
+79,KY,Harland Sanders Cafe And Museum,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g39295-d630358-Reviews-Harland_Sanders_Cafe_And_Museum-Corbin_Kentucky.html,East South Central
+80,KY,Breakout Games - Lexington,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g39588-d7352030-Reviews-Breakout_Games_Lexington-Lexington_Kentucky.html,East South Central
+81,KY,Sherlock's Escape Rooms,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g39412-d10679644-Reviews-Sherlock_s_Escape_Rooms-Florence_Kentucky.html,East South Central
+82,MS,Vicksburg National Military Park,"Campos de batalla, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g60985-d104724-Reviews-Vicksburg_National_Military_Park-Vicksburg_Mississippi.html,East South Central
+83,MS,Elvis Presley Birthplace & Museum,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g60746-d286284-Reviews-Elvis_Presley_Birthplace_Museum-Tupelo_Mississippi.html,East South Central
+84,MS,Natchez Trace Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60746-d550082-Reviews-Natchez_Trace_Parkway-Tupelo_Mississippi.html,East South Central
+85,MS,U.S.S. Cairo Museum,"Barcos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60985-d146271-Reviews-U_S_S_Cairo_Museum-Vicksburg_Mississippi.html,East South Central
+86,MS,Longwood,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60910-d265976-Reviews-Longwood-Natchez_Mississippi.html,East South Central
+87,MS,Biloxi Visitors Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g43686-d283548-Reviews-Biloxi_Visitors_Center-Biloxi_Mississippi.html,East South Central
+88,MS,Beauvoir,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g43686-d105573-Reviews-Beauvoir-Biloxi_Mississippi.html,East South Central
+89,MS,Stanton Hall,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60910-d634844-Reviews-Stanton_Hall-Natchez_Mississippi.html,East South Central
+90,MS,Rosalie Mansion,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g60910-d506133-Reviews-Rosalie_Mansion-Natchez_Mississippi.html,East South Central
+91,MS,St. Mary Basilica,Iglesias y catedrales,https://www.tripadvisor.com.ar/Attraction_Review-g60910-d2312558-Reviews-St_Mary_Basilica-Natchez_Mississippi.html,East South Central
+92,MS,Melrose,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60910-d107299-Reviews-Melrose-Natchez_Mississippi.html,East South Central
+93,MS,Biloxi Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g43686-d6561286-Reviews-Biloxi_Beach-Biloxi_Mississippi.html,East South Central
+94,MS,Natchez Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g60910-d6698297-Reviews-Natchez_Visitor_Center-Natchez_Mississippi.html,East South Central
+95,MS,Mississippi Civil Rights Museum,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g43833-d13382408-Reviews-Mississippi_Civil_Rights_Museum-Jackson_Mississippi.html,East South Central
+96,MS,Old Court House Museum,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g60985-d3403591-Reviews-Old_Court_House_Museum-Vicksburg_Mississippi.html,East South Central
+97,MS,Vicksburg National Military Park,"Campos de batalla, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g60985-d104724-Reviews-Vicksburg_National_Military_Park-Vicksburg_Mississippi.html,East South Central
+98,MS,Elvis Presley Birthplace & Museum,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g60746-d286284-Reviews-Elvis_Presley_Birthplace_Museum-Tupelo_Mississippi.html,East South Central
+99,MS,Natchez Trace Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60746-d550082-Reviews-Natchez_Trace_Parkway-Tupelo_Mississippi.html,East South Central
+100,MS,U.S.S. Cairo Museum,"Barcos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60985-d146271-Reviews-U_S_S_Cairo_Museum-Vicksburg_Mississippi.html,East South Central
+101,MS,McRaven House,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g60985-d8733650-Reviews-McRaven_House-Vicksburg_Mississippi.html,East South Central
+102,MS,Hattiesburg Zoo,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g43810-d2076456-Reviews-Hattiesburg_Zoo-Hattiesburg_Mississippi.html,East South Central
+103,MS,Jesse Brent Lower Mississippi River Museum and Interpretive Center,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60985-d3206086-Reviews-Jesse_Brent_Lower_Mississippi_River_Museum_and_Interpretive_Center-Vicksburg_Missi.html,East South Central
+104,MS,Lauren Rogers Museum of Art,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g43848-d2078431-Reviews-Lauren_Rogers_Museum_of_Art-Laurel_Mississippi.html,East South Central
+105,MS,The Belmont 1857,"Lugares históricos, Edificios con valor arquitectónico",https://www.tripadvisor.com.ar/Attraction_Review-g44087-d10723192-Reviews-The_Belmont_1857-Wayside_Mississippi.html,East South Central
+106,MS,Maritime and Seafood Industry Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g43686-d105571-Reviews-Maritime_and_Seafood_Industry_Museum-Biloxi_Mississippi.html,East South Central
+107,MS,Waveland's Ground Zero Hurricane Museum,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g44085-d7692389-Reviews-Waveland_s_Ground_Zero_Hurricane_Museum-Waveland_Mississippi.html,East South Central
+108,MS,Vicksburg Civil War Museum,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g60985-d23542709-Reviews-Vicksburg_Civil_War_Museum-Vicksburg_Mississippi.html,East South Central
+109,TN,Grand Ole Opry,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d106503-Reviews-Grand_Ole_Opry-Nashville_Davidson_County_Tennessee.html,East South Central
+110,TN,Graceland,"Museos especializados, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g55197-d105746-Reviews-Graceland-Memphis_Tennessee.html,East South Central
+111,TN,Ole Smoky,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d1822813-Reviews-Ole_Smoky-Gatlinburg_Tennessee.html,East South Central
+112,TN,Sun Studio,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g55197-d109305-Reviews-Sun_Studio-Memphis_Tennessee.html,East South Central
+113,TN,Country Music Hall of Fame and Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d106493-Reviews-Country_Music_Hall_of_Fame_and_Museum-Nashville_Davidson_County_Tennessee.html,East South Central
+114,TN,Ryman Auditorium,"Monumentos y lugares de interés, Teatros",https://www.tripadvisor.com.ar/Attraction_Review-g55229-d106496-Reviews-Ryman_Auditorium-Nashville_Davidson_County_Tennessee.html,East South Central
+115,TN,Dollywood,"Parques de diversión y temáticos, Parques acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g55270-d103537-Reviews-Dollywood-Pigeon_Forge_Tennessee.html,East South Central
+116,TN,Parrot Mountain & Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d587905-Reviews-Parrot_Mountain_Gardens-Pigeon_Forge_Tennessee.html,East South Central
+117,TN,Belle Meade Historic Site & Winery,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d108042-Reviews-Belle_Meade_Historic_Site_Winery-Nashville_Davidson_County_Tennessee.html,East South Central
+118,TN,Titanic Museum Attraction,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d1649446-Reviews-Titanic_Museum_Attraction-Pigeon_Forge_Tennessee.html,East South Central
+119,TN,National Civil Rights Museum - Lorraine Motel,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55197-d105742-Reviews-National_Civil_Rights_Museum_Lorraine_Motel-Memphis_Tennessee.html,East South Central
+120,TN,Ole Smoky Tennessee Moonshine,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d7147426-Reviews-Ole_Smoky_Tennessee_Moonshine-Pigeon_Forge_Tennessee.html,East South Central
+121,TN,Ripley's Aquarium of the Smokies,Acuarios,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d247701-Reviews-Ripley_s_Aquarium_of_the_Smokies-Gatlinburg_Tennessee.html,East South Central
+122,TN,The Island in Pigeon Forge,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d4412583-Reviews-The_Island_in_Pigeon_Forge-Pigeon_Forge_Tennessee.html,East South Central
+123,TN,RCA Studio B,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d106495-Reviews-RCA_Studio_B-Nashville_Davidson_County_Tennessee.html,East South Central
+124,TN,Tennessee Aquarium,Acuarios,https://www.tripadvisor.com.ar/Attraction_Review-g54946-d104477-Reviews-Tennessee_Aquarium-Chattanooga_Tennessee.html,East South Central
+125,TN,Tennessee Homemade Wines,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d8780307-Reviews-Tennessee_Homemade_Wines-Gatlinburg_Tennessee.html,East South Central
+126,TN,Andrew Jackson's Hermitage,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g55229-d106501-Reviews-Andrew_Jackson_s_Hermitage-Nashville_Davidson_County_Tennessee.html,East South Central
+127,TN,Gatlinburg SkyLift Park,"Parques de diversión y temáticos, Miradores",https://www.tripadvisor.com.ar/Attraction_Review-g60842-d284003-Reviews-Gatlinburg_SkyLift_Park-Gatlinburg_Tennessee.html,East South Central
+128,TN,Gaylord Opryland Resort Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d592251-Reviews-Gaylord_Opryland_Resort_Gardens-Nashville_Davidson_County_Tennessee.html,East South Central
+129,TN,Lookout Mountain,"Montañas, Miradores",https://www.tripadvisor.com.ar/Attraction_Review-g54946-d105134-Reviews-Lookout_Mountain-Chattanooga_Tennessee.html,East South Central
+130,TN,The Johnny Cash Museum,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55229-d4177748-Reviews-The_Johnny_Cash_Museum-Nashville_Davidson_County_Tennessee.html,East South Central
+131,TN,Smoky Mountain Alpine Coaster,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d4606908-Reviews-Smoky_Mountain_Alpine_Coaster-Pigeon_Forge_Tennessee.html,East South Central
+132,TN,Lotz House Museum,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55055-d538186-Reviews-Lotz_House_Museum-Franklin_Tennessee.html,East South Central
+133,TN,Mountain Valley Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d649413-Reviews-Mountain_Valley_Winery-Pigeon_Forge_Tennessee.html,East South Central
+134,TN,Tuckaleechee Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g55383-d654817-Reviews-Tuckaleechee_Caverns-Townsend_Tennessee.html,East South Central
+135,TN,Clingmans Dome,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d145147-Reviews-Clingmans_Dome-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+136,TN,Hillside Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g55328-d1634267-Reviews-Hillside_Winery-Sevierville_Tennessee.html,East South Central
+137,TN,Alum Cave Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d145151-Reviews-Alum_Cave_Trail-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+138,TN,Slave Haven / Burkle Estate Museum,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55197-d108044-Reviews-Slave_Haven_Burkle_Estate_Museum-Memphis_Tennessee.html,East South Central
+139,TN,Sugarlands Visitors Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d145146-Reviews-Sugarlands_Visitors_Center-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+140,TN,Stones River National Battlefield,"Centros de información turística, Campos de batalla",https://www.tripadvisor.com.ar/Attraction_Review-g60970-d277911-Reviews-Stones_River_National_Battlefield-Murfreesboro_Tennessee.html,East South Central
+141,TN,Wild Gals Old Time Photo,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d5776833-Reviews-Wild_Gals_Old_Time_Photo-Pigeon_Forge_Tennessee.html,East South Central
+142,TN,Fall Creek Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g55353-d207254-Reviews-Fall_Creek_Falls-Spencer_Tennessee.html,East South Central
+143,TN,Smoky Mountain Knife Works,"Tiendas de regalos, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g55328-d1018189-Reviews-Smoky_Mountain_Knife_Works-Sevierville_Tennessee.html,East South Central
+144,TN,Outdoor Gravity Park,Parques acuáticos,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d7791318-Reviews-Outdoor_Gravity_Park-Pigeon_Forge_Tennessee.html,East South Central
+145,TN,Pigeon Forge Snow,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d13834626-Reviews-Pigeon_Forge_Snow-Pigeon_Forge_Tennessee.html,East South Central
+146,TN,Apple Barn Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g55328-d1070778-Reviews-Apple_Barn_Winery-Sevierville_Tennessee.html,East South Central
+147,TN,John Seigenthaler Pedestrian Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d10533133-Reviews-John_Seigenthaler_Pedestrian_Bridge-Nashville_Davidson_County_Tennessee.html,East South Central
+148,TN,Oconaluftee Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d2268328-Reviews-Oconaluftee_Visitor_Center-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+149,TN,Point Park - Lookout Mountain Battlefields,Campos de batalla,https://www.tripadvisor.com.ar/Attraction_Review-g55165-d269209-Reviews-Point_Park_Lookout_Mountain_Battlefields-Lookout_Mountain_Tennessee.html,East South Central
+150,TN,Bootleggers Homemade Wine,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d2208909-Reviews-Bootleggers_Homemade_Wine-Gatlinburg_Tennessee.html,East South Central
+151,TN,"Ocoee Outdoors, Inc.",Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g55247-d1108997-Reviews-Ocoee_Outdoors_Inc-Ocoee_Tennessee.html,East South Central
+152,TN,Fowler's Clay Works,Galerías de arte,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d8431583-Reviews-Fowler_s_Clay_Works-Gatlinburg_Tennessee.html,East South Central
+153,TN,Athena Statue,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d558651-Reviews-Athena_Statue-Nashville_Davidson_County_Tennessee.html,East South Central
+154,TN,Foothills Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d3320053-Reviews-Foothills_Parkway-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+155,TN,Cummins Falls State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g54971-d3427574-Reviews-Cummins_Falls_State_Park-Cookeville_Tennessee.html,East South Central
+156,TN,Cumberland Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g55193-d546877-Reviews-Cumberland_Caverns-McMinnville_Tennessee.html,East South Central
+157,TN,SkyBridge,"Monumentos y lugares de interés, Puentes",https://www.tripadvisor.com.ar/Attraction_Review-g60842-d17852753-Reviews-SkyBridge-Gatlinburg_Tennessee.html,East South Central
+158,TN,Shelby Farms Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g55197-d3188112-Reviews-Shelby_Farms_Park-Memphis_Tennessee.html,East South Central
+159,TN,The Great Smoky Mountain Wheel,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d4513336-Reviews-The_Great_Smoky_Mountain_Wheel-Pigeon_Forge_Tennessee.html,East South Central
+160,TN,Salt and Pepper Shaker Museum,"Tiendas de regalos, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g60842-d1458613-Reviews-Salt_and_Pepper_Shaker_Museum-Gatlinburg_Tennessee.html,East South Central
+161,TN,Alum Cave Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d145151-Reviews-Alum_Cave_Trail-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+162,TN,Slave Haven / Burkle Estate Museum,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55197-d108044-Reviews-Slave_Haven_Burkle_Estate_Museum-Memphis_Tennessee.html,East South Central
+163,TN,Sugarlands Visitors Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g143031-d145146-Reviews-Sugarlands_Visitors_Center-Great_Smoky_Mountains_National_Park_Tennessee.html,East South Central
+164,TN,Stones River National Battlefield,"Centros de información turística, Campos de batalla",https://www.tripadvisor.com.ar/Attraction_Review-g60970-d277911-Reviews-Stones_River_National_Battlefield-Murfreesboro_Tennessee.html,East South Central
+165,TN,Wild Gals Old Time Photo,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d5776833-Reviews-Wild_Gals_Old_Time_Photo-Pigeon_Forge_Tennessee.html,East South Central
+166,TN,Tennessee Legend Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d14980937-Reviews-Tennessee_Legend_Distillery-Nashville_Davidson_County_Tennessee.html,East South Central
+167,TN,Museum of Appalachia,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g54958-d534819-Reviews-Museum_of_Appalachia-Clinton_Tennessee.html,East South Central
+168,TN,American Museum of Science & Energy,"Museos de ciencia, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g55242-d599371-Reviews-American_Museum_of_Science_Energy-Oak_Ridge_Tennessee.html,East South Central
+169,TN,The Comedy Barn,"Teatros, Clubes de comedia",https://www.tripadvisor.com.ar/Attraction_Review-g55270-d143732-Reviews-The_Comedy_Barn-Pigeon_Forge_Tennessee.html,East South Central
+170,TN,SpeedZone Fun Park,"Pistas de carreras de automóviles, Centros de juego y entretenimiento",https://www.tripadvisor.com.ar/Attraction_Review-g55270-d1674343-Reviews-SpeedZone_Fun_Park-Pigeon_Forge_Tennessee.html,East South Central
+171,TN,Knoxville Museum of Art,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g55138-d266190-Reviews-Knoxville_Museum_of_Art-Knoxville_Tennessee.html,East South Central
+172,TN,Samuel T Bryant Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g55123-d10990364-Reviews-Samuel_T_Bryant_Distillery-Jackson_Tennessee.html,East South Central
+173,TN,Historic Brushy Mountain State Penitentiary,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g55267-d14996376-Reviews-Historic_Brushy_Mountain_State_Penitentiary-Petros_Tennessee.html,East South Central
+174,TN,Hillbilly Golf,Minigolf,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d292825-Reviews-Hillbilly_Golf-Gatlinburg_Tennessee.html,East South Central
+175,TN,Elkmont Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g60842-d23474593-Reviews-Elkmont_Winery-Gatlinburg_Tennessee.html,East South Central
+176,TN,Tennessee Brew Works,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g55229-d6385478-Reviews-Tennessee_Brew_Works-Nashville_Davidson_County_Tennessee.html,East South Central
+177,TN,TopJump Trampoline & Extreme Arena,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d9727686-Reviews-TopJump_Trampoline_Extreme_Arena-Pigeon_Forge_Tennessee.html,East South Central
+178,TN,Conway Twitty Tribute by Travis James,Teatro y espectáculos,https://www.tripadvisor.com.ar/Attraction_Review-g55270-d12365756-Reviews-Conway_Twitty_Tribute_by_Travis_James-Pigeon_Forge_Tennessee.html,East South Central

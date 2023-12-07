@@ -103,19 +103,16 @@ def scrape_attractions_attribute(urls: str, report=True) -> list:
 
 # This function takes a list of cities and returns a dataframe with each hotel's data
 def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) -> list:
-    
     cities_hotels = [] # to store data while scrapping
     failed_cities = [] # to store errors while scrapping
-
     # Instanciate and configurate driver
     chrome_options = selenium.webdriver.chrome.options.Options()
     chrome_options.add_argument('--headless') if not interfase else None
     chrome_options.add_argument('--disable-infobars') # unables image loading
     driver = webdriver.Chrome(options=chrome_options)
-
+    
     # Iterate over each city and scrape data into cities_hotels list
     for i, city in enumerate(cities):
-
         try:
             print(f'{i+1}/{len(cities)} - {city}')
             # Connect to url and wait to load
@@ -130,7 +127,6 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
             driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.85);") # scroll to load page and buttons
             pages = driver.find_elements(By.CLASS_NAME, "b16a89683f") # find list of pages
             n_pages = int(pages[len(pages)-2].text) # read last page button
-
             # Iterate over each page to scrape data
             for page in range(n_pages):
                 # Find each hotel box
@@ -164,21 +160,17 @@ def scrape_cities_hotels(cities: list, state: str, report=True, interfase=True) 
                     else: 
                         buttons = driver.find_elements(By.CLASS_NAME, "b16a89683f") # find list of pages
                         buttons[len(buttons)-1].click() # click last page button
-
-        except:
+        except Exception as e:
             failed_cities.append(city)
-            if report:
-                print(f"{city} city added to failed cities.") # Console report
-
+            print(f"{city} city added to failed cities.") if report else None
+    
     # Transform
     cities_hotels = pd.DataFrame(cities_hotels)
     cities_hotels = cities_hotels.drop_duplicates(subset=['reviews_url'])
-
     # Process avg_score
     cities_hotels['avg_score'] = cities_hotels['avg_score'].replace(',', '.')
     cities_hotels['avg_score'] = cities_hotels['avg_score'].replace('[^\d.]', '', regex=True)
     cities_hotels['avg_score'] = pd.to_numeric(cities_hotels['avg_score'], errors='coerce')
-
     # Process price
     for i, row in cities_hotels.iterrows():
         price = row['price']

@@ -292,39 +292,37 @@ def scrape_hotels_reviews(ids: list, urls: list, report=True, interfase=False) -
         driver.get(urls[i]) # acces to url
         time.sleep(5) # wait to load
         
-        
         try:
-            # Open reviews section
-            #attempts = 0
-            #while attempts <= 5:
-            #    try:
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.45);")
-            buttons = driver.find_elements(By.CLASS_NAME, 'a83ed08757')
-            for b in buttons:
-                if b.text == "Leer todos los comentarios":
-                    b.click()
-                    attempts = 5
-            #    except Exception as e:
-            #        print("Error clicking the button to open the reviews section. Retrying...")
-            #        driver.get(urls[i])
-            #        time.sleep(1)
-            #        attempts += 1
+            # Open reviews section with retry
+            attempts = 0
+            while attempts <= 5:
+                try:
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.45);")
+                    buttons = driver.find_elements(By.CLASS_NAME, 'a83ed08757')
+                    for b in buttons:
+                        if b.text == "Leer todos los comentarios":
+                            b.click()
+                            attempts = 5
+                except Exception as e:
+                    print("Error clicking the button to open the reviews section. Retrying...")
+                    driver.get(urls[i])
+                    time.sleep(1)
+                    attempts += 1
 
             # Find the amount of pages
-            #attempts = 0
-            #while attempts <= 5:
-            #    try:
-            #WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "c-pagination")))
-            #pagination = driver.find_element(By.CLASS_NAME, "c-pagination")
-            #pages = pagination.find_elements(By.CLASS_NAME, "bui-pagination__item")
-            #n_pages = int(pages[-2].text) if pages else 1
-            #print(f"Number of pages: {n_pages}") if report else None
-            #attempts = 5
-            #    except Exception as e:
-            #        print("Error finding the number of pages. Retrying...")
-            #        driver.get(urls[i])
-            #        time.sleep(1)
-            #        attempts += 1
+            attempts = 0
+            while attempts <= 5:
+                try:
+                    #WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "c-pagination")))
+                    pagination = driver.find_element(By.CLASS_NAME, "c-pagination")
+                    pages = pagination.find_elements(By.CLASS_NAME, "bui-pagination__item")
+                    n_pages = int(pages[-2].text) if pages else 1
+                    print(f"Number of pages: {n_pages}") if report else None
+                    attempts = 5
+                except Exception as e:
+                    print("Error finding the number of pages. Retrying...")
+                    time.sleep(1)
+                    attempts += 1
                     
         except Exception as e:
             print(f"Error while opening the reviews section and finding the number of pages: {e}")

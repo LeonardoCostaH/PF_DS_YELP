@@ -47,34 +47,37 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 ### KPIS propuestos
 
-- #### KPI 1: Porcentaje de Sentimientos Positivos
+- #### KPI 1: Aumentar el porcentaje de reseñas positivas (PRP) en un 5% cada 3 meses.
 
   Fórmula:
-  (Número de reseñas positivas / Total de reseñas) 100*
+  PRP = (Numero de reseñas positivas/Total de reseñas) * 100
 
   Descripción:
-  Este KPI calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes.
-- #### KPI 2: Volumen de Reseñas
+  El PRP calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes.
+
+- #### KPI 2: Disminuir la cantidad de reseñas negativas por limpieza en un 10% cada trimestre.
 
   Fórmula:
-  Volumen de Reseñas = Número total de reseñas
+  Reducción porcentual = (Cantidad de reseñas negativas anteriores – Cantidad de reseñas negativas actuales) / Cantidad de reseñas negativas anteriores * 100.
 
   Descripción:
-  Este KPI representa el número total de reseñas recibidas por cada hotel a lo largo del tiempo. Proporciona una visión general del nivel de participación y compromiso de los clientes con el establecimiento.
-- #### KPI 3: Diversidad de Temas
+  Una vez identificada un área problemática que contribuye a la negatividad de las reseñas, adoptamos este KPI para solucionarla progresivamente.
+
+- #### KPI 3: Mantener el índice de Respuestas a Reseñas Negativas (IRRN) por encima del 95%.
 
   Fórmula:
-  Diversidad de Temas=Número de temas únicos / Número total de reseñas
+  IRRN = (Reseñas negativas contestadas/Total de reseñas negativas) * 100
 
   Descripción:
-  Este KPI mide la diversidad de temas discutidos en las reseñas. Cuanto mayor sea el valor, mayor será la variedad de temas abordados por los clientes en sus reseñas.
-- #### KPI 4: Variación Estacional
+  Este KPI permite reflejar que nos importan los huéspedes y sus opiniones. Es importante que, si hay alguien no satisfecho por la calidad del servicio o por alguna otra cuestión, podemos mostrar a los huéspedes que nos preocupamos por su experiencia y que estamos dispuestos a resolver cualquier obstáculo que se interponga entre él y una experiencia lo más placentera posible. 
+
+- #### KPI 4: Aumentar en un 2% el porcentaje de clientes recurrentes cada temporada.
 
   Fórmula:
-  Variación Estacional = Desviación estándar de calificaciones y emociones por temporada
+  Aumentar en un X% el Porcentaje de Clientes Recurrentes cada temporada.
 
   Descripción:
-  Este KPI explora cómo las emociones y calificaciones de las reseñas varían estacionalmente. La desviación estándar indica la dispersión de las calificaciones y emociones, proporcionando información sobre la consistencia entre las estaciones del año.
+  En el marco de nuestro proyecto como consultora especializada en la mejora de hoteles, uno de nuestros principales indicadores clave de rendimiento (KPI) es el "Porcentaje de Clientes Recurrentes". Este KPI se enfoca en medir la fidelidad y satisfacción de nuestros clientes, siendo esencial para evaluar el éxito a largo plazo de nuestras iniciativas de mejora hotelera.
 
 ---
 

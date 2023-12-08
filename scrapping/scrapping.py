@@ -274,3 +274,167 @@ def scrape_hotels_attributes(urls, ids, report=True):
 
     driver.quit()
     return hotels_attributes
+
+
+
+# This function takes a list of hotel's urls and returns a panads dataframe with all the reviews
+def scrape_hotels_reviews(ids: list, urls: list, report=True, interfase=False) -> list:
+    
+    hotel_reviews = pd.DataFrame(columns=["nationality", "acommodation", "stay", "company", "review_title", "good_review", "bad_review", "url"])
+
+    chrome_options = selenium.webdriver.chrome.options.Options()
+    chrome_options.add_argument('--headless') if not interfase else None
+    chrome_options.add_argument('--disable-infobars') # disables image loading
+    driver = webdriver.Chrome(options=chrome_options) 
+
+    for i in range(len(urls)):
+
+        driver.get(urls[i]) # acces to url
+        time.sleep(5) # wait to load
+        
+        try:
+            # Open reviews section with retry
+            attempts = 0
+            while attempts <= 5:
+                try:
+                    driver.execute_script("window.scrollTo(0, document.body.scrollHeight*0.45);")
+                    buttons = driver.find_elements(By.CLASS_NAME, 'a83ed08757')
+                    for b in buttons:
+                        if b.text == "Leer todos los comentarios":
+                            b.click()
+                            attempts = 5
+                except Exception as e:
+                    print("Error clicking the button to open the reviews section. Retrying...")
+                    driver.get(urls[i])
+                    time.sleep(1)
+                    attempts += 1
+
+            # Find the amount of pages
+            attempts = 0
+            while attempts <= 5:
+                try:
+                    #WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "c-pagination")))
+                    pagination = driver.find_element(By.CLASS_NAME, "c-pagination")
+                    pages = pagination.find_elements(By.CLASS_NAME, "bui-pagination__item")
+                    n_pages = int(pages[-2].text) if pages else 1
+                    print(f"Number of pages: {n_pages}") if report else None
+                    attempts = 5
+                except Exception as e:
+                    print("Error finding the number of pages. Retrying...")
+                    time.sleep(1)
+                    attempts += 1
+                    
+        except Exception as e:
+            print(f"Error while opening the reviews section and finding the number of pages: {e}")
+            n_pages = 2  # Set a default value in case of failure
+
+        for page in range(n_pages):
+            time.sleep(2)
+            review_list = driver.find_element(By.CLASS_NAME, 'review_list')
+            review_blocks = review_list.find_elements(By.CLASS_NAME, 'review_list_new_item_block')
+            for block in review_blocks:
+
+                try: # obtein user information
+                    user_information_element = block.find_elements(By.CLASS_NAME, "bui-list__item")
+                    if len(user_information_element) == 3:
+                        acommodation = user_information_element[0].text
+                        print(acommodation) if report else None
+                        try:
+                            stay, date = user_information_element[1].text.split(' ·  ')
+                            print(stay) if report else None
+                            print(date) if report else None
+                        except Exception as e:
+                            stay = None
+                            date = None
+                        company = user_information_element[2].text
+                        print(company) if report else None
+                    elif len(user_information_element) == 2:
+                        try:
+                            stay, date = user_information_element[0].text.split(' ·  ')
+                            print(stay) if report else None
+                            print(date) if report else None
+                        except Exception as e:
+                            stay = None
+                            date = None
+                        company = user_information_element[1].text
+                        print(company) if report else None
+                    else:
+                        acommodation = None
+                        stay = None
+                        date = None
+                        company = None
+                        print(f"ERROR WHILE SCRAPPING USER INFORMATION: {len(user_information_element)} elements founded, excepction must be handled")
+                        for element in user_information_element:
+                            print(element.text)
+                        print("-------------------------------------------------------------------------------------------------------------------")
+                except Exception as e:
+                    acommodation = None
+                    stay = None
+                    date = None
+                    company = None
+                    print(f"ERROR: WHILE SCRAPING USER INFORMATION - {type(e).__name__}: {e}")
+
+                try: # obtein user nationality
+                    nationality_element = block.find_elements(By.CLASS_NAME, "bui-avatar-block__subtitle")
+                    nationality = nationality_element[0].text
+                    print(nationality) if report else None
+                except Exception as e: 
+                    nationality =  None
+                    print("ERROR: WHILE SCRAPPING USER NATIONALITY")
+
+                try: # obtein review title
+                    review_title_element = block.find_element(By.CLASS_NAME, "c-review-block__title")
+                    review_title = review_title_element.text
+                    print(review_title) if report else None
+                except Exception as e:
+                    review_title =  None
+                    print("ERROR: WHILE SCRAPPING TITLE REVIEW")
+
+                try: # obtein positive and bad reviews
+                    reviews_element = block.find_elements(By.CLASS_NAME, "c-review__body")
+                    if len(reviews_element) == 1:
+                        good_review =  reviews_element[0].text
+                        print(good_review) if report else None
+                        bad_review =  None
+                    elif len(reviews_element) == 2:
+                        good_review =  reviews_element[0].text
+                        print(good_review) if report else None
+                        bad_review =  reviews_element[1].text
+                        print(bad_review) if report else None
+                    elif len(reviews_element) == 4:
+                        good_review =  reviews_element[0].text
+                        print(good_review) if report else None
+                        bad_review =  reviews_element[2].text
+                        print(bad_review) if report else None
+                    else:
+                        good_review =  None
+                        bad_review =  None
+                        print(f"ERROR WHILE SCRAPPING POSITIVE AND NEGATIVE REVIEWS: {len(reviews_element)} elements founded, excepction must be handled")
+                        for element in reviews_element:
+                            print(element.text)
+                        print("-------------------------------------------------------------------------------------------------------------------")
+                except Exception as e:
+                    good_review =  None
+                    bad_review =  None
+                    print("ERROR: WHILE SCRAPPING POSITIVE AND NEGATIVE REVIEWS")
+            
+                # add data to dataframe
+                review = pd.DataFrame({
+                    "hotel_id": [ids[i]],
+                    "nationality": [nationality],
+                    "acommodation": [acommodation],
+                    "stay": [stay],
+                    "date": [date],
+                    "company": [company],
+                    "review_title": [review_title],
+                    "good_review": [good_review],
+                    "bad_review": [bad_review]})
+                hotel_reviews = pd.concat([hotel_reviews, review], ignore_index=True)
+
+            # Go to next page
+            if page+1 < n_pages:
+                next_page_button = WebDriverWait(driver, 5).until(EC.element_to_be_clickable((By.CLASS_NAME, 'pagenext'))) 
+                next_page_button.click() 
+            
+    driver.quit()
+    return hotel_reviews

@@ -206,7 +206,7 @@ def scrape_hotels_attributes(urls, report=True):
 
     # Instanciate and configurate driver
     chrome_options = selenium.webdriver.chrome.options.Options()
-    # chrome_options.add_argument('--headless') # unables GUI
+    chrome_options.add_argument('--headless') # unables GUI
     chrome_options.add_argument('--disable-infobars') # unables images loading
     chrome_options.add_argument('--blink-settings=imagesEnabled=false')  # deshabilita carga de imágenes
     driver = webdriver.Chrome(options=chrome_options)
@@ -239,7 +239,6 @@ def scrape_hotels_attributes(urls, report=True):
                 if attribute not in attributes_set:
                     attributes_set.add(attribute)
             attributes_list = list(attributes_set)  # Convertir el conjunto a lista
-            print(attributes_list)
         except:
             attributes_list = None
 

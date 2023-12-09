@@ -19,17 +19,17 @@ warnings.filterwarnings("ignore", category=FutureWarning, module="seaborn._core"
 
 
 # Importar y transformar sig data
-usa_states = pd.read_csv("data/usa_states.csv")
-usa_cities = pd.read_csv("data/usa_cities.csv")
-sig_states = gpd.read_file("data/sig/Estados/Estados_Unidos_Estados.shp")
-sig_cities = gpd.read_file("data/sig/Ciudades/Estados_Unidos_Poblaciones.shp")
-sig_routes = gpd.read_file("data/sig/Vialidad/Estados_Unidos_Vialidad.shp")
-sig_hidrography = gpd.read_file("data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp")
+usa_states = pd.read_csv("../files/data/usa_states.csv")
+usa_cities = pd.read_csv("../files/data/usa_cities.csv")
+sig_states = gpd.read_file("../files/data/sig/Estados/Estados_Unidos_Estados.shp")
+sig_cities = gpd.read_file("../files/data/sig/Ciudades/Estados_Unidos_Poblaciones.shp")
+sig_routes = gpd.read_file("../files/data/sig/Vialidad/Estados_Unidos_Vialidad.shp")
+sig_hidrography = gpd.read_file("../files/data/sig/Hidrografia/Estados_Unidos_Hidrografia.shp")
 sig_california = sig_states[sig_states["STATE_NAME"] == "California"]
 sig_florida = sig_states[sig_states["STATE_NAME"] == "Florida"]
 sig_newyork = sig_states[sig_states["STATE_NAME"] == "New York"]
 sig_utah = sig_states[sig_states["STATE_NAME"] == "Utah"]
-utah_attractions = pd.read_csv("data/utah_attractions.csv")
+utah_attractions = pd.read_csv("../files/data/utah_attractions.csv")
 
 # Supongamos que usa_cities es tu DataFrame con columnas 'latitude' y 'longitude'
 usa_cities['geometry'] = usa_cities.apply(lambda row: Point(row.longitude, row.latitude), axis=1)

@@ -25,27 +25,33 @@ st.set_page_config(
     page_icon=":chart_with_upwards_trend:"
 )
 
+# FILTER
+
+
 # Create hotel filters
 st.sidebar.markdown("### Filters")
 date_range = st.sidebar.date_input("Date Range", 
                                    min_value=clients_reviews['date'].min(), 
                                    max_value=clients_reviews['date'].max(), 
                                    value=(clients_reviews['date'].min(), clients_reviews['date'].max()))
+
 selected_state = st.sidebar.selectbox('State', clients['state'].unique())
+
 selected_cities = st.sidebar.multiselect('City', clients['city'][clients["state"] == selected_state].unique())
+
 selected_hotels = st.sidebar.multiselect('Hotel', 
                                          clients['name'][clients["city"].isin(selected_cities)].unique(),
                                          default=clients['name'][clients["city"].isin(selected_cities)].unique())
 
-
 # Create user filters
-
 selected_company = st.sidebar.selectbox('Company', clients_reviews['company'].unique())
+if selected_company != -1:
+    st.write(f'Se seleccionó la compañía: {selected_company}')
+else:
+    st.write('No se seleccionó ninguna compañía.')
 selected_acommodation = st.sidebar.selectbox('Acommodation', clients_reviews['acommodation'].unique())
 selected_stay = st.sidebar.selectbox('Stay lenght', clients_reviews['stay'].unique())
 selected_nationality = st.sidebar.selectbox('Nationality', clients_reviews['is_american'].unique())
-
-
 
 
 # Filter data and calculate
@@ -58,6 +64,9 @@ filtered_clients_reviews['useful'] = 0.1
 
 
 
+
+# GRAFICAR
+
 # Crear el gráfico de torta con la paleta de colores específica
 if average_sentiment > 0.5:
     lista_de_colores = ["#689F38", "#8BC34A", "#9CCC65", "#AED581", "#C5E1A5"]
@@ -65,8 +74,6 @@ elif 0.5 > average_sentiment > 0:
     lista_de_colores = ["#FFB300", "#FFCA28", "#FFD54F", "#FFE082", "#FFFFFF"]
 elif average_sentiment < -0:
     lista_de_colores = ["#3C0000", "#670010", "#960018", "#CB4C46", "#FF8478"]
-
-
 
 # Group by month and calculate the average sentiment for each month
 filtered_clients_reviews['month'] = filtered_clients_reviews['date'].dt.to_period('M').astype(str)
@@ -83,27 +90,6 @@ scatter_plot = px.scatter(filtered_clients_reviews, x="date", y="sentiment",
                           height=900,
                           size_max=10)
 
-
-line_chart = px.line(monthly_average_sentiment, x='month', y='sentiment', title='Monthly Evolution of Average Sentiment',
-                     text='sentiment', labels={'sentiment': 'Average Sentiment'})
-
-# Customize the layout of the line chart
-line_chart.update_layout(
-    xaxis_title='Month',
-    yaxis_title='Average Sentiment',
-    showlegend=False)
-
-# Add the line chart as a new trace to the scatter plot
-scatter_plot.add_trace(go.Scatter(x=monthly_average_sentiment['month'], y=monthly_average_sentiment['sentiment'],
-                                  mode='lines', name='avg sentiment',
-                                  line=dict(color="black", width=2)))
-
-
-
-line_chart.update_traces(textposition="bottom right")
-
-
-
 max_porciones = 5
 counts = filtered_clients_reviews['acommodation'].value_counts()
 categorias_principales = counts.head(max_porciones).index
@@ -113,19 +99,15 @@ torta_acommodation = px.pie(filtered_clients_reviews, names="acommodation_agrupa
 torta_acommodation.update_layout(showlegend=False)
 torta_acommodation.update_traces(textinfo='label')
 
-
-
 torta_company = px.pie(filtered_clients_reviews, names="company", height=400, hole=.5, title='Company:',
                        color_discrete_sequence=lista_de_colores)
 torta_company.update_layout(showlegend=False)
 torta_company.update_traces(textinfo='label')
 
-
 torta_isamerican = px.pie(filtered_clients_reviews, names="is_american", height=400, hole=.5, title='Nationality:',
                        color_discrete_sequence=lista_de_colores)
 torta_isamerican.update_layout(showlegend=False)
 torta_isamerican.update_traces(textinfo='label')
-
 
 max_porciones = 5
 counts = filtered_clients_reviews['stay'].value_counts()
@@ -138,11 +120,9 @@ torta_stay.update_traces(textinfo='label')
 
 
 
-
-
+# STRUCTURE
 
 col1, col2, col3 = st.columns((3, 1, 1))
-
 with col3:
     st.text("")
     st.plotly_chart(torta_acommodation, use_container_width=True)
@@ -153,4 +133,3 @@ with col2:
     st.plotly_chart(torta_isamerican, use_container_width=True)
 with col1:
     st.plotly_chart(scatter_plot, use_container_width=True)
-    

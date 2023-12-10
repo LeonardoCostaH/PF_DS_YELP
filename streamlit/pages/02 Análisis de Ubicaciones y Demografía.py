@@ -5,8 +5,9 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 # Cargar los datos
-#utah_hotels = pd.read_csv("../../files/data/booking_utah_hotels.csv", index_col=0)
-#utah_hotels_reviews = pd.read_csv("../../files/data/utah_hotels_reviews.csv", index_col=0)
+clients = pd.read_csv("../files/data/usa_clients.csv", index_col=0)
+clients_reviews = pd.read_csv("../files/data/usa_clients_reviews.csv", index_col=0)
+clients_reviews['date'] = pd.to_datetime(clients_reviews['date'])
 
 # Establecer la configuración de la página
 st.set_page_config(
@@ -16,7 +17,17 @@ st.set_page_config(
     page_icon=":chart_with_upwards_trend:"
 )
 
-# Map
+# Create hotel filters
+st.sidebar.markdown("### Filters")
+date_range = st.sidebar.date_input("Date Range", 
+                                   min_value=clients_reviews['date'].min(), 
+                                   max_value=clients_reviews['date'].max(), 
+                                   value=(clients_reviews['date'].min(), clients_reviews['date'].max()))
+selected_state = st.sidebar.selectbox('State', clients['state'].unique())
+selected_cities = st.sidebar.multiselect('City', clients['city'][clients["state"] == selected_state].unique())
+selected_hotels = st.sidebar.multiselect('Hotel', 
+                                         clients['name'][clients["city"].isin(selected_cities)].unique(),
+                                         default=clients['name'][clients["city"].isin(selected_cities)].unique())
 
 # Datos
 categorias = ['Categoria 1', 'Categoria 2', 'Categoria 3', 'Categoria 4', 'Categoria 5']

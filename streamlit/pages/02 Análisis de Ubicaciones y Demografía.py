@@ -16,8 +16,6 @@ st.set_page_config(
     page_icon=":chart_with_upwards_trend:"
 )
 
-st.title("G L O B A L  A N A L Y S I S")
-
 # Map
 
 # Datos
@@ -60,9 +58,11 @@ fig3.update_layout(
 col1, col2 = st.columns((2, 5))
 
 with col1:
-    st.plotly_chart(fig1)
-    st.plotly_chart(fig2)
+    ...
+    #st.plotly_chart(fig1)
+    #st.plotly_chart(fig2)
     
 with col2:
-    st.plotly_chart(map)
+    ...
+    #st.plotly_chart(map)
     

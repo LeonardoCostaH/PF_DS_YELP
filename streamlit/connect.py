@@ -15,3 +15,24 @@ conn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, 
 
 # Crear un cursor
 cursor = conn.cursor()
+
+
+def guardar_en_postgres(dataframe, nombre_tabla, conn):
+    """
+    Guarda los datos de un DataFrame en una tabla en PostgreSQL.
+
+    Parámetros:
+    - dataframe: El DataFrame que se desea guardar.
+    - nombre_tabla: El nombre de la tabla en PostgreSQL.
+    - conn: La conexión a la base de datos PostgreSQL.
+
+    Ejemplo de uso:
+    conn = psycopg2.connect(database="nombre_base_de_datos", user="usuario", password="contraseña", host="localhost", port="5432")
+    guardar_en_postgres(df, 'nombre_de_tu_tabla', conn)
+    conn.close()
+    """
+    # Crear la tabla si no existe
+    dataframe.head(0).to_sql(nombre_tabla, conn, if_exists='replace', index=False)
+    
+    # Guardar el DataFrame en la tabla
+    dataframe.to_sql(nombre_tabla, conn, if_exists='append', index=False)

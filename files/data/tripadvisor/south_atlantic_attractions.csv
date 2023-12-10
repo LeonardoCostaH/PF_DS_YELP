@@ -1,925 +1,455 @@
-,attraction,n_reviews,categories,state,region
-0,Air Mobility Command Museum,1.116,"Museos militares, Museos especializados",Delaware,South Atlantic
-1,Cape May-Lewes Ferry,1.929,Ferris,Delaware,South Atlantic
-2,Cape Henlopen State Park,1.460,"Parques estatales, Playas",Delaware,South Atlantic
-3,Nemours Estate,741,"Lugares históricos, Jardines",Delaware,South Atlantic
-4,Funland,1.823,Parques de diversión y temáticos,Delaware,South Atlantic
-5,"Winterthur Museum, Garden & Library",1.052,Museos de historia,Delaware,South Atlantic
-6,Hagley Museum And Library,823,Museos de historia,Delaware,South Atlantic
-7,Rehoboth Beach Boardwalk,2.001,Muelles y paseos peatonales,Delaware,South Atlantic
-8,Dogfish Head Craft Brewery,619,Cervecerías,Delaware,South Atlantic
-9,Lewes Historical Society,94,"Lugares históricos, Museos de historia",Delaware,South Atlantic
-10,Hopkins Farm Creamery,314,Granjas,Delaware,South Atlantic
-11,Barn Hill Preserve Delaware,76,Zoológicos,Delaware,South Atlantic
-12,Camp Adventureland,112,"Juegos de escape, Centros de juego y entretenimiento",Delaware,South Atlantic
-13,Cape Water Tours,2.655,"Tours históricos, Tours en barco",Delaware,South Atlantic
-14,Universal's Islands of Adventure,52.311,Parques de diversión y temáticos,Florida,South Atlantic
-15,The Wizarding World of Harry Potter at Universal Orlando Resort,41.317,Parques de diversión y temáticos,Florida,South Atlantic
-16,Hollywood Beach,8.031,Playas,Florida,South Atlantic
-17,Museo de la Casa de Ernest Hemingway,20.926,Museos especializados,Florida,South Atlantic
-18,Key West Butterfly and Nature Conservatory,13.025,Áreas de naturaleza y vida silvestre,Florida,South Atlantic
-19,Clearwater Beach,12.832,Playas,Florida,South Atlantic
-20,Disney Springs,13.788,Centros comerciales,Florida,South Atlantic
-21,Stetson Mansion,5.681,Edificios con valor arquitectónico,Florida,South Atlantic
-22,McCarthy's Wildlife,3.475,"Áreas de naturaleza y vida silvestre, Zoológicos",Florida,South Atlantic
-23,Lincoln Road,17.929,"Áreas históricas peatonales, Parques",Florida,South Atlantic
-24,Mallory Square,14.931,"Monumentos y lugares de interés, Muelles y paseos peatonales",Florida,South Atlantic
-25,Busch Gardens,18.379,Parques de diversión y temáticos,Florida,South Atlantic
-26,Calle Duval,14.477,Monumentos y lugares de interés,Florida,South Atlantic
-27,Ocean Drive,12.466,Monumentos y lugares de interés,Florida,South Atlantic
-28,St. Augustine Wild Reserve,2.241,"Áreas de naturaleza y vida silvestre, Zoológicos",Florida,South Atlantic
-29,Lock & Load Museum,1.008,"Galerías de arte, Museos especializados",Florida,South Atlantic
-30,Medieval Torture Museum,1.491,"Museos especializados, Museos de historia",Florida,South Atlantic
-31,Duncan McClellan Gallery,700,"Galerías de arte, Museos especializados",Florida,South Atlantic
-32,The Wizard of Oz Museum,471,"Museos especializados, Museos de arte",Florida,South Atlantic
-33,Hatchet Hangout - Axe Throwing St Pete,725,Complejos deportivos,Florida,South Atlantic
-34,Happily Ever After Fireworks,25.019,"Parques de Disney y actividades, Teatro y espectáculos",Florida,South Atlantic
-35,Bear Creek Feline Center,415,Áreas de naturaleza y vida silvestre,Florida,South Atlantic
-36,Wonder House,446,"Museos especializados, Museos de historia",Florida,South Atlantic
-37,Shy Wolf Sanctuary Education & Experience Center,336,Áreas de naturaleza y vida silvestre,Florida,South Atlantic
-38,Equestrian Adventures of Florida,134,Rutas ecuestres,Florida,South Atlantic
-39,C Ponies Beach Horses,3.677,Tours a caballo,Florida,South Atlantic
-40,Grizzly Axes,159,Complejos deportivos,Florida,South Atlantic
-41,Panther Ridge Conservation Center,213,Áreas de naturaleza y vida silvestre,Florida,South Atlantic
-42,Arcade Monsters,589,Centros de juego y entretenimiento,Florida,South Atlantic
-43,The Escape Game Orlando,6.412,"Juegos de escape, Centros de juego y entretenimiento",Florida,South Atlantic
-44,Escapology,5.003,Juegos de escape,Florida,South Atlantic
-45,Amelia Island Horseback Riding,2.192,Tours a caballo,Florida,South Atlantic
-46,Access Line Transportation,1.501,Taxis y otros servicios de traslado,Florida,South Atlantic
-47,Redemptive Love Farm,102,Granjas,Florida,South Atlantic
-48,St. Petersburg Distillery,143,Destilerías,Florida,South Atlantic
-49,Room Escape Miami by Fox in a Box,1.518,Juegos de escape,Florida,South Atlantic
-50,Can You Escape? Tampa,1.883,Juegos de escape,Florida,South Atlantic
-51,Devon Transportation,637,Taxis y otros servicios de traslado,Florida,South Atlantic
-52,C Ponies Beach Horseback rides,751,Tours a caballo,Florida,South Atlantic
-53,Orlando Transfer LLC,787,Taxis y otros servicios de traslado,Florida,South Atlantic
-54,Christina D Swim and Resort,299,"Tiendas de regalos, Centros comerciales",Florida,South Atlantic
-55,Hatchet Hangout - Axe Throwing Clearwater,265,Centros de juego y entretenimiento,Florida,South Atlantic
-56,Lazy Days Beach Service,886,Alquileres de equipos,Florida,South Atlantic
-57,King Fisher Fleet,7.190,"Tours en barco, Tours turísticos",Florida,South Atlantic
-58,American Escape Rooms,1.083,Juegos de escape,Florida,South Atlantic
-59,Escape On Palafox,815,Juegos de escape,Florida,South Atlantic
-60,South Florida Elite Shuttle,421,Taxis y otros servicios de traslado,Florida,South Atlantic
-61,Breakout Games - Jacksonville,491,Juegos de escape,Florida,South Atlantic
-62,Florida Beach Horses,414,Tours a caballo,Florida,South Atlantic
-63,Escape Thrill,509,Juegos de escape,Florida,South Atlantic
-64,Danger Charters,6.363,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-65,Escapology,909,Juegos de escape,Florida,South Atlantic
-66,Outerlife Studios - Escape Room St. Pete,663,"Juegos de escape, Centros de juego y entretenimiento",Florida,South Atlantic
-67,The Great Magic Hall,479,"Tiendas de regalos, Teatros",Florida,South Atlantic
-68,Fun 2 Dive Manatee Tours,4.249,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-69,Miami Culinary Tours,6.010,"Tours culturales, Tours a pie",Florida,South Atlantic
-70,Wild Willy's Airboat Tours,8.144,Tours en barco,Florida,South Atlantic
-71,Spa By JW,217,Spas,Florida,South Atlantic
-72,Magic Hideaway,258,Cabarets,Florida,South Atlantic
-73,John Pennekamp Coral Reef State Park Concession,6.815,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-74,River Ventures,6.095,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-75,Little Toot Dolphin Adventure,4.423,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-76,Canyons Zip Line & Canopy Tours,3.810,Tirolesa y parques de aventuras aéreas,Florida,South Atlantic
-77,Plantation Adventure Center,4.168,Buceo y esnórquel,Florida,South Atlantic
-78,DreamRide Luxury Transportation,321,Taxis y otros servicios de traslado,Florida,South Atlantic
-79,Aluna Wellness Center & Spa,231,"Yoga y pilates, Spas",Florida,South Atlantic
-80,Get Up And Go Kayaking - Tampa Bay,4.277,"Tours ecológicos, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-81,The Escape Game Jacksonville,460,Juegos de escape,Florida,South Atlantic
-82,Breakout,225,Juegos de escape,Florida,South Atlantic
-83,Key West Adventures,558,Alquileres de equipos,Florida,South Atlantic
-84,Spirit of the Swamp Airboat Rides,3.069,"Tours en barco, Tours privados",Florida,South Atlantic
-85,Babcock Ranch Eco Tours,3.087,"Tours históricos, Tours ecológicos",Florida,South Atlantic
-86,Florida Adventures and Rentals,3.313,"Tours en barco, Esquí acuático y moto acuática",Florida,South Atlantic
-87,Silver City Sarasota,336,Tiendas de regalos,Florida,South Atlantic
-88,Intense Escape,243,Juegos de escape,Florida,South Atlantic
-89,Kayaking SRQ Tours and Rentals,3.777,"Alquileres de equipos, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-90,BlueFoot Pirate Adventures,3.807,Tours en barco,Florida,South Atlantic
-91,iLoveKickboxing Mandarin,268,Clínicas y campos deportivos,Florida,South Atlantic
-92,Zubrick Magic Theatre,166,"Teatros, Teatro y espectáculos",Florida,South Atlantic
-93,Bird's Underwater,2.818,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-94,Everglades Swamp Tours,2.372,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-95,Marsh Landing Adventures,3.664,Tours en barco,Florida,South Atlantic
-96,Key West Extreme Adventures Shark Tours,1.558,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-97,Sea Life Kayak Adventures,2.676,"Tours ecológicos, Alquileres de equipos",Florida,South Atlantic
-98,Sea Screamer,2.068,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-99,Fin Expeditions,2.180,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-100,Cruisin Tikis Destin,2.124,Tours en barco,Florida,South Atlantic
-101,Lazy Dog Adventures,2.317,"Deportes acuáticos, Tours ecológicos",Florida,South Atlantic
-102,Prototype Escape Games,177,Juegos de escape,Florida,South Atlantic
-103,AJ's Water Adventures,2.745,"Buceo y esnórquel, Nado con delfines",Florida,South Atlantic
-104,Island Ferry St. Pete Beach,2.523,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-105,Get Up And Go Kayaking - Rock Springs,2.078,"Tours ecológicos, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-106,Key Lime Bike Tours,2.451,"Tours por la ciudad, Tours históricos",Florida,South Atlantic
-107,Real Florida Adventures,2.507,"Tours por la ciudad, Tours culturales",Florida,South Atlantic
-108,The Exit Games FL,307,Juegos de escape,Florida,South Atlantic
-109,Therapy IV Deep Sea Fishing Experience,1.893,Excursiones de pesca,Florida,South Atlantic
-110,Cocoa Kayaking,1.862,"Tours ecológicos, Excursiones de pesca",Florida,South Atlantic
-111,Catamaran Echo,2.282,Tours en barco,Florida,South Atlantic
-112,Everglades River of Grass Adventures,2.065,"Tours en barco, Tours turísticos",Florida,South Atlantic
-113,Amelia River Cruises & Charters,1.921,"Tours históricos, Tours en barco",Florida,South Atlantic
-114,Honest Eco,2.135,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-115,a-rrive Transportation,176,Taxis y otros servicios de traslado,Florida,South Atlantic
-116,The Official Art Deco Walking Tour by the Miami Design Preservation League,1.574,"Tours históricos, Tours a pie",Florida,South Atlantic
-117,Angelic Moon Holistic Day Spa & APOTHECARY,175,Spas,Florida,South Atlantic
-118,Lagoon Pontoons,2.239,"Nado con delfines, Tours en barco",Florida,South Atlantic
-119,Encounters With Dolphins,1.915,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-120,Explorida,2.161,"Buceo y esnórquel, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-121,Affari Transportation,168,"Servicios de autobús, Taxis y otros servicios de traslado",Florida,South Atlantic
-122,Dreamlander Tours,2.479,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-123,Pick Me Up Tampa,110,Taxis y otros servicios de traslado,Florida,South Atlantic
-124,The Tasting Tours,1.961,"Tours de bares, discotecas y pubs, Tours y degustaciones de cerveza",Florida,South Atlantic
-125,Sweet Liberty Catamaran Sailing & Boat Tours,2.117,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-126,My VIP Tour,1.348,Tours privados,Florida,South Atlantic
-127,River Safaris - Adventures on the Wild Side,2.279,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-128,The Dolphin Explorer,1.600,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-129,Alligator Cove Airboat Nature Tours,2.117,"Tours en barco, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-130,H2O Jet Ski Rentals,1.991,"Tours extremos y de adrenalina, Esquí acuático y moto acuática",Florida,South Atlantic
-131,Sea Screamer,1.896,"Tours en barco, Avistamiento de delfines y ballenas",Florida,South Atlantic
-132,Almost Heaven Kayak Adventures,1.864,Práctica de kayak y canotaje,Florida,South Atlantic
-133,Hemingway Water Shuttle,1.375,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-134,Down South Airboat Tours,1.915,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-135,The Living Water Boat Cruises,1.473,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-136,Key West Food Tours,1.939,"Tours culturales, Tours a pie",Florida,South Atlantic
-137,Wynwood Art Walk,1.694,"Tours culturales, Tours de literatura, arte y música",Florida,South Atlantic
-138,Ilovekickboxing,174,Gimnasios,Florida,South Atlantic
-139,Orlando Tree Trek Adventure Park,1.021,Tirolesa y parques de aventuras aéreas,Florida,South Atlantic
-140,Anna Maria Island Dolphin Tours,1.026,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-141,Parasail Siesta,1.164,"Paravelismo y parapente, Tours en barco",Florida,South Atlantic
-142,Rising Tide Explorers,1.784,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-143,Coastal Cruises,974,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-144,Adventures in Florida,1.383,"Tours de naturaleza y vida silvestre, Práctica de kayak y canotaje",Florida,South Atlantic
-145,World Class VIP - Disney Tours,953,Tours turísticos,Florida,South Atlantic
-146,Tour The Glades - Private Wildlife Tours,1.522,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-147,Adventure Paddle Tours,998,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-148,Sundance Watersports,1.327,"Paravelismo y parapente, Buceo y esnórquel",Florida,South Atlantic
-149,Sea Horse Private Charters,992,"Tours en barco, Excursiones de pesca",Florida,South Atlantic
-150,Fired Up Fishing Charters,1.635,Excursiones de pesca,Florida,South Atlantic
-151,Cocoa Beach Dolphin Tours,859,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-152,Schooner Jolly II Rover,1.243,Tours en barco,Florida,South Atlantic
-153,Capt. Ron's Awesome Everglades Adventures,1.637,"Tours extremos y de adrenalina, Tours en barco",Florida,South Atlantic
-154,Swamp Fever Airboat Adventures,1.695,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-155,Paddle Marco,1.871,"Tours ecológicos, Alquileres de equipos",Florida,South Atlantic
-156,A Boat Day,1.165,"Tours en barco, Alquileres de barcos",Florida,South Atlantic
-157,Treasure Seekers Shell Tours,1.095,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-158,Fin and Fly Fishing Charters,1.142,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-159,Adventures In Paradise,1.965,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-160,American Ghost Adventures,1.172,"Tours por la ciudad, Tours de fantasmas y vampiros",Florida,South Atlantic
-161,IntraCoastal Experience - Destin Fishing Charter,1.073,"Tours en barco, Excursiones de pesca",Florida,South Atlantic
-162,Gulf Coast Expeditions,1.102,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-163,SURFit USA,1.076,"Surf y windsurf, Surf de remo",Florida,South Atlantic
-164,Panama City Diving,930,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-165,Segway Fort Lauderdale,1.339,"Tours en Segway, Alquileres de equipos",Florida,South Atlantic
-166,Red Boat Water Tours,1.252,Tours en barco,Florida,South Atlantic
-167,Jolly Sailing & Dolphin Cruise,751,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-168,Suncoast Watersports,1.493,"Paravelismo y parapente, Buceo y esnórquel",Florida,South Atlantic
-169,Marathon Mermaid Charters,699,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-170,Suncoast Tours,911,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-171,Fun Boat Tours,716,"Tours en barco, Alquileres de barcos",Florida,South Atlantic
-172,Crab Island Cruises,480,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-173,"Luther's Pontoon, Waverunner, & Kayak Rentals",788,Alquileres de barcos,Florida,South Atlantic
-174,West Palm Beach Food Tours,1.147,"Tours por la ciudad, Tours históricos",Florida,South Atlantic
-175,St. Augustine Experiences,858,"Tours por la ciudad, Tours culturales",Florida,South Atlantic
-176,Five Star Orlando VIP Tours,318,"Tours turísticos, Tours privados",Florida,South Atlantic
-177,Cruisin’ Tikis KeyWest,1.122,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-178,Sea Leveler Sport Fishing Charters,1.627,Excursiones de pesca,Florida,South Atlantic
-179,Liquid Blue Outfitters,1.863,"Tours ecológicos, Tours autoguiados y alquileres",Florida,South Atlantic
-180,Sarasota Paddleboard Company,950,"Alquileres de equipos, Tours autoguiados y alquileres",Florida,South Atlantic
-181,Key Largo Parasail,903,"Paravelismo y parapente, Tours extremos y de adrenalina",Florida,South Atlantic
-182,Turtle Mound River Tours,1.355,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-183,Backwater Cat Adventure,1.058,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-184,The Paddling Center at Shingle Creek,790,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-185,Coastal Wildlife Adventures - Dolphin And Snorkeling Tours,1.492,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-186,Segway Tours of Naples,906,Tours en Segway,Florida,South Atlantic
-187,KAY K IV Sport Fishing Charters,841,Excursiones de pesca,Florida,South Atlantic
-188,Coldwater Excursions,525,"Tours ecológicos, Alquileres de equipos",Florida,South Atlantic
-189,Empower Adventures Tampa Bay,771,Tirolesa y parques de aventuras aéreas,Florida,South Atlantic
-190,eBoats Tampa,640,Alquileres de barcos,Florida,South Atlantic
-191,Amelia Island Kayak Excursions,1.151,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-192,Gulf Angler Fishing Charters,969,Excursiones de pesca,Florida,South Atlantic
-193,Ron Jon Surf School,848,Surf y windsurf,Florida,South Atlantic
-194,"Sea N Things, LLC",542,Tours en barco,Florida,South Atlantic
-195,Gulf Coast Kayak,601,"Tours ecológicos, Excursiones de pesca",Florida,South Atlantic
-196,Wild About Dolphins,811,"Tours en barco, Avistamiento de delfines y ballenas",Florida,South Atlantic
-197,Captain's Corner Dive Center,1.089,Buceo y esnórquel,Florida,South Atlantic
-198,Garl's Coastal Kayaking Everglades,694,Práctica de kayak y canotaje,Florida,South Atlantic
-199,Coastline Dolphin & Snorkeling Excursions,570,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-200,A Family Fun Boat Tour Company,963,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-201,Happy Paddler Kayak Tours & EcoVentures,869,"Surf y windsurf, Tours ecológicos",Florida,South Atlantic
-202,Caribbean Watersports,906,"Paravelismo y parapente, Buceo y esnórquel",Florida,South Atlantic
-203,Sight Sea-R Cruises,681,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-204,Kokomo Charters,807,"Tours en barco, Tours turísticos",Florida,South Atlantic
-205,Parasailing The Pass,686,Paravelismo y parapente,Florida,South Atlantic
-206,La Vita e' Bella- Marco Eco Tours,703,"Tours ecológicos, Alquileres de equipos",Florida,South Atlantic
-207,Eagle Parasail,923,Paravelismo y parapente,Florida,South Atlantic
-208,Jupiter Scuba Diving,844,Buceo y esnórquel,Florida,South Atlantic
-209,Get Up And Go Kayaking - Winter Park,554,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-210,Islander Girl Snorkel &Tours,627,Tours en barco,Florida,South Atlantic
-211,O Sea D Fishing Charters,809,Excursiones de pesca,Florida,South Atlantic
-212,Manatees In Paradise,958,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-213,Anna Maria Charters,482,Excursiones de pesca,Florida,South Atlantic
-214,ParrotDise Express Boat Tours,622,Tours en barco,Florida,South Atlantic
-215,Ms. B. Haven Charters,1.007,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-216,Cruisin’ Tikis West Palm Beach,419,"Tours en barco, Tours privados",Florida,South Atlantic
-217,Stallion 51,411,"Tours extremos y de adrenalina, Tours aéreos",Florida,South Atlantic
-218,Key West Fishing Connection,892,Excursiones de pesca,Florida,South Atlantic
-219,Amelia Adventures,643,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-220,Native Guided Fishing Charters,736,Excursiones de pesca,Florida,South Atlantic
-221,Bluewater Adventure St Augustine,646,"Tours en barco, Alquileres de barcos",Florida,South Atlantic
-222,Everglades Airboat Expeditions,320,"Tours en barco, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-223,Cocoa Beach Aerial Adventures,587,Tirolesa y parques de aventuras aéreas,Florida,South Atlantic
-224,Keys Boat Tours,696,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-225,Nature's Discovery Manatee Tours,469,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-226,Island Time Dolphin & Shelling Cruises,656,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-227,Paddle Naples,481,"Tours ecológicos, Surf de remo",Florida,South Atlantic
-228,Kayak St Augustine,601,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-229,Riptide Watersports,609,"Surf y windsurf, Tours en barco",Florida,South Atlantic
-230,Stone VIPs,565,"Tours de cine y TV, Tours turísticos",Florida,South Atlantic
-231,Shark Addicts,369,"Buceo y esnórquel, Buceo con tiburones",Florida,South Atlantic
-232,Blue Heaven River Tours,438,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-233,SunVenture Cruises,535,"Tours en barco, Avistamiento de delfines y ballenas",Florida,South Atlantic
-234,Reel Kind Fishing and Tours,636,"Tours ecológicos, Excursiones de pesca",Florida,South Atlantic
-235,Drop Back Fishing Charters,539,Excursiones de pesca,Florida,South Atlantic
-236,Bluewater Adventure The Keys,405,"Tours en barco, Avistamiento de delfines y ballenas",Florida,South Atlantic
-237,Capt. Bob's Airboat Adventure Tours,507,"Tours en barco, Tours de naturaleza y vida silvestre",Florida,South Atlantic
-238,Key Largo Adventures,548,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-239,Tons of Fun Tours and Rentals,558,"Tours culturales, Tours para vehículos todo terreno y 4 x 4",Florida,South Atlantic
-240,Get Up And Go Kayaking - Silver Springs,384,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-241,Pompano Joe's Parasailing,482,"Paravelismo y parapente, Buceo y esnórquel",Florida,South Atlantic
-242,Suncoast Adventure Tours and Charters,444,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-243,Gulf Islands Adventures,318,"Tours en barco, Esquí acuático y moto acuática",Florida,South Atlantic
-244,Key Life Charters,410,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-245,Get Up And Go Kayaking - Fort Pierce,428,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-246,Charterfinders.com,472,"Tours de varios días, Buceo y esnórquel",Florida,South Atlantic
-247,Salt and Mist Sea Tours,466,"Tours en barco, Avistamiento de delfines y ballenas",Florida,South Atlantic
-248,Get Up and Go Kayaking - Titusville,464,"Tours ecológicos, Tours nocturnos",Florida,South Atlantic
-249,Smile n Wave Sailing Adventures,310,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-250,School Of Surf,464,Surf y windsurf,Florida,South Atlantic
-251,Central Florida Airboat Tours,218,"Tours en barco, Tours ecológicos",Florida,South Atlantic
-252,Native Bass Fishing Charters Orlando,301,Excursiones de pesca,Florida,South Atlantic
-253,Go Local Manatee Tours,366,"Buceo y esnórquel, Tours en barco",Florida,South Atlantic
-254,Jones Brothers Air & Seaplane Adventures,219,Tours aéreos,Florida,South Atlantic
-255,Allens Aquatic Adventures,294,"Rafting y nado con salvavidas en el río, Buceo y esnórquel",Florida,South Atlantic
-256,Everglades Swamp Tours,401,"Tours turísticos, Tours privados",Florida,South Atlantic
-257,Blue Sky Fishing 30A,232,Excursiones de pesca,Florida,South Atlantic
-258,Paradise Cycle Boat Cruises,356,"Tours en barco, Tours privados",Florida,South Atlantic
-259,Sanibel Offshore Fishing Charters,759,"Tours en barco, Excursiones de pesca",Florida,South Atlantic
-260,Condor Sailing Adventures,381,"Tours en barco, Deportes acuáticos",Florida,South Atlantic
-261,Airboat and Gator Charters,259,"Tours en barco, Excursiones de pesca",Florida,South Atlantic
-262,Sail La Vie,257,"Tours en barco, Tours privados",Florida,South Atlantic
-263,Callion Fishing Charters,297,Excursiones de pesca,Florida,South Atlantic
-264,FishEye Sportfishing,259,Excursiones de pesca,Florida,South Atlantic
-265,Paddle Out Adventures,359,Surf y windsurf,Florida,South Atlantic
-266,SV Argo Navis,355,Tours en barco,Florida,South Atlantic
-267,Savannah Historic District,14.382,"Lugares históricos, Áreas históricas peatonales",Georgia,South Atlantic
-268,Catedral de San Juan el Bautista,9.806,Lugares religiosos,Georgia,South Atlantic
-269,Parque Forsyth,9.039,Parques,Georgia,South Atlantic
-270,Bonaventure Cemetery,6.769,Cementerios,Georgia,South Atlantic
-271,Atlanta Botanical Garden,5.190,Jardines,Georgia,South Atlantic
-272,Anna Ruby Falls,2.880,Cascadas,Georgia,South Atlantic
-273,Rock City,3.741,Miradores,Georgia,South Atlantic
-274,Martin Luther King Jr. National Historic Site,3.513,Lugares históricos,Georgia,South Atlantic
-275,Historic Savannah Theatre,3.308,Teatros,Georgia,South Atlantic
-276,Olde Pink House,3.102,"Lugares históricos, Lugares misteriosos",Georgia,South Atlantic
-277,Historic River Street,8.226,Monumentos y lugares de interés,Georgia,South Atlantic
-278,Driftwood Beach,3.073,Playas,Georgia,South Atlantic
-279,National Infantry Museum and Soldier Center,2.284,"Museos militares, Museos de historia",Georgia,South Atlantic
-280,Fort Pulaski National Monument,2.717,"Lugares históricos, Áreas históricas peatonales",Georgia,South Atlantic
-281,Mercier Orchards,2.516,Granjas,Georgia,South Atlantic
-282,National Center for Civil and Human Rights,2.181,"Monumentos y lugares de interés, Museos de arte",Georgia,South Atlantic
-283,Owens-Thomas House & Slave Quarters,2.392,"Lugares históricos, Museos de historia",Georgia,South Atlantic
-284,The Old Sorrel Weed House Museum & Tours,2.460,"Museos especializados, Lugares históricos",Georgia,South Atlantic
-285,Parque Piedmont,2.393,Parques,Georgia,South Atlantic
-286,Centennial Olympic Park,4.366,"Lugares históricos, Parques",Georgia,South Atlantic
-287,Old Fort Jackson,1.567,"Museos militares, Museos de historia",Georgia,South Atlantic
-288,Tybee Island Light Station And Museum,2.683,"Museos especializados, Faros",Georgia,South Atlantic
-289,Zoo Atlanta,3.695,Zoológicos,Georgia,South Atlantic
-290,Consolidated Gold Mine,1.213,Minas,Georgia,South Atlantic
-291,Amicalola Falls State Park,1.433,Parques estatales,Georgia,South Atlantic
-292,Brasstown Bald Mountain,1.164,Montañas,Georgia,South Atlantic
-293,Georgia Sea Turtle Center,2.337,Áreas de naturaleza y vida silvestre,Georgia,South Atlantic
-294,Atlanta History Center,1.460,"Lugares históricos, Jardines",Georgia,South Atlantic
-295,Congregation Mickve Israel,1.213,Lugares religiosos,Georgia,South Atlantic
-296,Jimmy Carter Presidential Library & Museum,1.271,"Bibliotecas, Museos de historia",Georgia,South Atlantic
-297,Rock City Gardens,1.077,Jardines,Georgia,South Atlantic
-298,Tallulah Gorge State Park,1.079,"Parques estatales, Formaciones geológicas",Georgia,South Atlantic
-299,Wormsloe Historic Site,1.907,"Lugares históricos, Parques estatales",Georgia,South Atlantic
-300,National Museum of the Mighty Eighth Air Force,1.029,"Museos militares, Museos especializados",Georgia,South Atlantic
-301,North Georgia Wildlife Park,856,Zoológicos,Georgia,South Atlantic
-302,American Prohibition Museum,1.161,Museos especializados,Georgia,South Atlantic
-303,SCADstory,629,"Museos especializados, Lugares educativos",Georgia,South Atlantic
-304,Juliette Gordon Low Birthplace Museum,1.623,Lugares históricos,Georgia,South Atlantic
-305,College Football Hall of Fame,1.576,Museos especializados,Georgia,South Atlantic
-306,Cloudland Canyon State Park,703,Parques estatales,Georgia,South Atlantic
-307,Little White House,857,"Lugares históricos, Museos de historia",Georgia,South Atlantic
-308,Fort Frederica National Monument,1.178,"Lugares históricos, Monumentos y estatuas",Georgia,South Atlantic
-309,Jekyll Island Historic District,1.278,Barrios,Georgia,South Atlantic
-310,Mercer Williams House Museum,1.526,Lugares históricos,Georgia,South Atlantic
-311,Pin Point Heritage Museum,575,Museos de historia,Georgia,South Atlantic
-312,Unicoi State Park,895,Parques estatales,Georgia,South Atlantic
-313,Colonial Park Cemetery,1.782,Cementerios,Georgia,South Atlantic
-314,Webb Military Museum,536,Museos militares,Georgia,South Atlantic
-315,Ocmulgee Mounds National Historical Park,652,Parques nacionales,Georgia,South Atlantic
-316,Columbus Riverwalk,1.087,"Masas de agua, Áreas históricas peatonales",Georgia,South Atlantic
-317,Ponce City Market,982,Centros comerciales,Georgia,South Atlantic
-318,Andersonville National Historic Site and National Prisoner of War Museum,772,"Lugares históricos, Museos de historia",Georgia,South Atlantic
-319,Chickamauga and Chattanooga National Military Park,569,"Lugares históricos, Parques nacionales",Georgia,South Atlantic
-320,Gibbs Gardens,806,Jardines,Georgia,South Atlantic
-321,Skidaway Island State Park,619,Parques estatales,Georgia,South Atlantic
-322,Center for Puppetry Arts,493,"Museos especializados, Teatros",Georgia,South Atlantic
-323,St. Simons Lighthouse Museum,1.082,Museos especializados,Georgia,South Atlantic
-324,St. Simons Island,680,Islas,Georgia,South Atlantic
-325,Savannah Visitors Center,791,Centros de información turística,Georgia,South Atlantic
-326,Ebenezer Baptist Church,815,Lugares religiosos,Georgia,South Atlantic
-327,Crisson Gold Mine,453,Minas,Georgia,South Atlantic
-328,Davenport House Museum,825,Museos de historia,Georgia,South Atlantic
-329,Toccoa Falls,398,Cascadas,Georgia,South Atlantic
-330,Oatland Island Wildlife Center,666,Áreas de naturaleza y vida silvestre,Georgia,South Atlantic
-331,State Farm Arena,910,Campos de juego y estadios,Georgia,South Atlantic
-332,BabyLand General Hospital,609,Monumentos y lugares de interés,Georgia,South Atlantic
-333,Okefenokee Swamp Park,669,"Áreas de naturaleza y vida silvestre, Parques",Georgia,South Atlantic
-334,F. D. Roosevelt State Park,512,Parques estatales,Georgia,South Atlantic
-335,Chippewa Square,614,Monumentos y lugares de interés,Georgia,South Atlantic
-336,Fernbank Museum,1.126,Museos de historia natural,Georgia,South Atlantic
-337,Cumberland Island Ferry,344,Ferris,Georgia,South Atlantic
-338,Wolf Mountain Vineyards & Winery,501,Viñedos con bodegas,Georgia,South Atlantic
-339,Toccoa River Swinging Bridge,444,Puentes,Georgia,South Atlantic
-340,Okefenokee National Wildlife Refuge,369,Áreas de naturaleza y vida silvestre,Georgia,South Atlantic
-341,National Civil War Naval Museum,536,"Museos militares, Barcos",Georgia,South Atlantic
-342,Telfair Academy,824,Museos de arte,Georgia,South Atlantic
-343,Hardman Farm,248,"Lugares históricos, Monumentos y lugares de interés",Georgia,South Atlantic
-344,Jimmy Carter National Historic Site,313,"Lugares históricos, Áreas históricas peatonales",Georgia,South Atlantic
-345,Riverfront Plaza,661,Monumentos y lugares de interés,Georgia,South Atlantic
-346,Providence Canyon State Park,488,"Parques estatales, Cañones",Georgia,South Atlantic
-347,Stately Oaks,314,"Lugares históricos, Monumentos y lugares de interés",Georgia,South Atlantic
-348,Tybee Island Marine Science Center,534,Lugares educativos,Georgia,South Atlantic
-349,The King Center,424,Monumentos y lugares de interés,Georgia,South Atlantic
-350,Jekyll Island Trail System,238,Rutas para ciclismo,Georgia,South Atlantic
-351,Crooked River State Park,326,Parques estatales,Georgia,South Atlantic
-352,Delta Flight Museum,453,Museos especializados,Georgia,South Atlantic
-353,Pexcho's American Dime Museum,143,Museos especializados,Georgia,South Atlantic
-354,Chateau Elan Winery,349,Viñedos con bodegas,Georgia,South Atlantic
-355,Helton Creek Falls,355,Cascadas,Georgia,South Atlantic
-356,Jepson Center & Telfair Children's Art Museum,576,Museos de arte,Georgia,South Atlantic
-357,Madison Morgan County Welcome Center,188,Centros de información turística,Georgia,South Atlantic
-358,Cumberland Island National Seashore Museum,223,"Museos militares, Museos de historia natural",Georgia,South Atlantic
-359,Meadow Garden,96,"Lugares históricos, Museos de historia",Georgia,South Atlantic
-360,Summit Skyride,371,Tranvías,Georgia,South Atlantic
-361,Goats on the Roof,268,Zoológicos,Georgia,South Atlantic
-362,"Mosaic, Jekyll Island Museum",364,Museos de historia,Georgia,South Atlantic
-363,Yonah Mountain Vineyards,308,Viñedos con bodegas,Georgia,South Atlantic
-364,Bell Mountain,260,Montañas,Georgia,South Atlantic
-365,Talmadge Memorial Bridge,344,Puentes,Georgia,South Atlantic
-366,Savannah Belles Ferry,212,Ferris,Georgia,South Atlantic
-367,Cavender Creek Vineyards and Winery,179,Viñedos con bodegas,Georgia,South Atlantic
-368,Georgia Mountain Coaster,202,Parques de diversión y temáticos,Georgia,South Atlantic
-369,World War II Home Front Museum,120,"Museos militares, Museos especializados",Georgia,South Atlantic
-370,The Waving Girl Statue,300,Monumentos y lugares de interés,Georgia,South Atlantic
-371,Chef Darin's Kitchen Table Hands-On Cooking Classes,1.165,Clases de cocina,Georgia,South Atlantic
-372,Pounce Cat Cafe,217,Centros de juego y entretenimiento,Georgia,South Atlantic
-373,Mastermind Escape Games,371,Juegos de escape,Georgia,South Atlantic
-374,Mastermind Escape Games,389,Juegos de escape,Georgia,South Atlantic
-375,Time to Escape - Atlanta Escape Room (Brookhaven),801,Juegos de escape,Georgia,South Atlantic
-376,Milan Day Spa on Broughton,642,Spas,Georgia,South Atlantic
-377,Lake Blue Ridge Marina,394,Alquileres de equipos,Georgia,South Atlantic
-378,The Escape Game Atlanta,470,Juegos de escape,Georgia,South Atlantic
-379,AxeBilly Helen-Ga,95,Centros de juego y entretenimiento,Georgia,South Atlantic
-380,Front Porch Improv,75,"Teatros, Clubes de comedia",Georgia,South Atlantic
-381,Time to Escape - Atlanta Escape Room (Downtown),388,"Juegos de escape, Centros de juego y entretenimiento",Georgia,South Atlantic
-382,Atlanta Magic Theater,267,"Teatros, Clubes de comedia",Georgia,South Atlantic
-383,Mastermind Escape Games,287,"Juegos de escape, Centros de juego y entretenimiento",Georgia,South Atlantic
-384,Escape Savannah,532,Juegos de escape,Georgia,South Atlantic
-385,Old Town Trolley Savannah Tours,9.468,"Tours por la ciudad, Tours de fantasmas y vampiros",Georgia,South Atlantic
-386,Savannah's Candy Kitchen,764,Tiendas de regalos,Georgia,South Atlantic
-387,The Salt Table,388,Tiendas de regalos,Georgia,South Atlantic
-388,Old Savannah Tours,8.917,"Tours por la ciudad, Tours de fantasmas y vampiros",Georgia,South Atlantic
-389,Hansel and Gretel Candy Kitchen,494,Tiendas de regalos,Georgia,South Atlantic
-390,Captain Derek's Dolphin Adventure,3.281,"Tours en barco, Excursiones de pesca",Georgia,South Atlantic
-391,The Spa at Chateau Elan,277,Spas,Georgia,South Atlantic
-392,Rolling Thunder River Company,2.935,Rafting y nado con salvavidas en el río,Georgia,South Atlantic
-393,The Upper Hand Day Spa,137,Spas,Georgia,South Atlantic
-394,Jekyll Island Dolphin Tours,2.481,"Tours en barco, Tours ecológicos",Georgia,South Atlantic
-395,Savannah Taste Experience,4.732,"Tours a pie, Tours gastronómicos",Georgia,South Atlantic
-396,Gray Line Savannah,4.870,"Tours por la ciudad, Tours de fantasmas y vampiros",Georgia,South Atlantic
-397,Ghost City Tours,4.530,Tours de fantasmas y vampiros,Georgia,South Atlantic
-398,Against The Clock,125,"Juegos de escape, Búsquedas del tesoro",Georgia,South Atlantic
-399,Brookgreen Gardens,4.070,"Zoológicos, Jardines",South Carolina,South Atlantic
-400,Broadway at the Beach,9.079,Centros comerciales,South Carolina,South Atlantic
-401,Patriots Point Naval & Maritime Museum,4.671,"Museos militares, Museos especializados",South Carolina,South Atlantic
-402,Falls Park on the Reedy,4.428,"Parques, Cascadas",South Carolina,South Atlantic
-403,Fort Sumter National Monument,5.894,"Lugares históricos, Bases e instalaciones militares",South Carolina,South Atlantic
-404,Middleton Place,4.386,"Lugares históricos, Monumentos y lugares de interés",South Carolina,South Atlantic
-405,Parque Charleston Waterfront,5.651,"Monumentos y lugares de interés, Parques",South Carolina,South Atlantic
-406,Magnolia Plantation & Gardens,7.233,"Lugares históricos, Jardines",South Carolina,South Atlantic
-407,Boone Hall Plantation,4.715,Lugares históricos,South Carolina,South Atlantic
-408,Coligny Beach,4.292,Playas,South Carolina,South Atlantic
-409,Arthur Ravenel Jr. Bridge,4.932,Puentes,South Carolina,South Atlantic
-410,SkyWheel Myrtle Beach,7.605,Torres y observatorios,South Carolina,South Atlantic
-411,Huntington Beach State Park,2.127,Parques estatales,South Carolina,South Atlantic
-412,Hilton Head Distillery,1.076,Destilerías,South Carolina,South Atlantic
-413,Hunting Island State Park,2.349,Parques estatales,South Carolina,South Atlantic
-414,Hilton Head Island Bike Trails,3.192,Rutas para senderismo,South Carolina,South Atlantic
-415,Barefoot Landing,4.013,Monumentos y lugares de interés,South Carolina,South Atlantic
-416,The Center for Birds of Prey,1.345,Áreas de naturaleza y vida silvestre,South Carolina,South Atlantic
-417,Nathaniel Russell House,2.068,"Lugares históricos, Museos de historia",South Carolina,South Atlantic
-418,Angel Oak Tree,2.429,"Monumentos y lugares de interés, Formaciones geológicas",South Carolina,South Atlantic
-419,Riverbanks Zoo and Garden,2.957,"Áreas de naturaleza y vida silvestre, Zoológicos",South Carolina,South Atlantic
-420,GTS Theatre,1.315,Teatros,South Carolina,South Atlantic
-421,Charleston Tea Garden,1.674,Granjas,South Carolina,South Atlantic
-422,Drayton Hall,2.008,"Lugares históricos, Monumentos y lugares de interés",South Carolina,South Atlantic
-423,Aiken-Rhett House,1.713,Lugares históricos,South Carolina,South Atlantic
-424,Battery & White Point Gardens,2.459,Jardines,South Carolina,South Atlantic
-425,The Black Fedora Comedy Mystery Theatre,973,Teatros,South Carolina,South Atlantic
-426,McLeod Plantation Historic Site,1.353,"Lugares históricos, Monumentos y lugares de interés",South Carolina,South Atlantic
-427,Hopsewee Plantation,1.415,Lugares históricos,South Carolina,South Atlantic
-428,Myrtle Beach State Park,1.949,Parques estatales,South Carolina,South Atlantic
-429,Old Exchange & Provost Dungeon,1.503,Museos de historia,South Carolina,South Atlantic
-430,Cathedral of Saint John the Baptist,1.030,"Edificios con valor arquitectónico, Lugares religiosos",South Carolina,South Atlantic
-431,The Charleston Museum,1.107,"Lugares históricos, Museos de historia natural",South Carolina,South Atlantic
-432,Cypress Gardens,386,Jardines,South Carolina,South Atlantic
-433,Botany Bay Plantation Heritage Preserve/ Wildlife Management Area,666,Áreas de naturaleza y vida silvestre,South Carolina,South Atlantic
-434,Hollywood Wax Museum,1.326,Museos especializados,South Carolina,South Atlantic
-435,Sea Pines Forest Preserve,1.271,Áreas de naturaleza y vida silvestre,South Carolina,South Atlantic
-436,Henry C. Chambers Waterfront Park,1.137,Parques,South Carolina,South Atlantic
-437,H.L. Hunley Submarine,881,"Monumentos y lugares de interés, Museos de historia",South Carolina,South Atlantic
-438,Duplin Winery,875,Viñedos con bodegas,South Carolina,South Atlantic
-439,Pinckney Island National Wildlife Refuge,971,Áreas de naturaleza y vida silvestre,South Carolina,South Atlantic
-440,Charleston Visitor Center,1.326,Centros de información turística,South Carolina,South Atlantic
-441,Pat Conroy Literary Center,436,Museos especializados,South Carolina,South Atlantic
-442,St. Michael's Church,830,"Lugares históricos, Lugares religiosos",South Carolina,South Atlantic
-443,Shelter Cove Harbour & Marina,1.284,Puertos deportivos,South Carolina,South Atlantic
-444,Fort Moultrie,971,"Lugares históricos, Monumentos y estatuas",South Carolina,South Atlantic
-445,Congaree National Park,615,Parques nacionales,South Carolina,South Atlantic
-446,Shem Creek Park,810,Parques,South Carolina,South Atlantic
-447,Myrtle Beach Pinball Museum,283,Museos especializados,South Carolina,South Atlantic
-448,Myrtle Beach Pelicans,878,Campos de juego y estadios,South Carolina,South Atlantic
-449,MarshWalk,1.240,Muelles y paseos peatonales,South Carolina,South Atlantic
-450,South Carolina State House,664,"Lugares históricos, Edificios con valor arquitectónico",South Carolina,South Atlantic
-451,GHS Swamp Rabbit Trail,744,Rutas para ciclismo,South Carolina,South Atlantic
-452,LuLu's Beach Arcade and Ropes Course,250,Parques de diversión y temáticos,South Carolina,South Atlantic
-453,Cherry Grove Beach,906,Playas,South Carolina,South Atlantic
-454,Charles Towne Landing State Historic Site,658,Lugares históricos,South Carolina,South Atlantic
-455,Morris Island Lighthouse,435,Faros,South Carolina,South Atlantic
-456,Sullivan's Island Beach,430,Playas,South Carolina,South Atlantic
-457,BMW Zentrum,426,Museos especializados,South Carolina,South Atlantic
-458,South Carolina State Museum,648,Museos especializados,South Carolina,South Atlantic
-459,Tanger Outlets Myrtle Beach Hwy 17,923,Tiendas de fábricas,South Carolina,South Atlantic
-460,Folly Field Beach Park,445,"Playas, Parques",South Carolina,South Atlantic
-461,Pineapple Fountain,677,"Monumentos y lugares de interés, Fuentes",South Carolina,South Atlantic
-462,Pirates Voyage,6.318,Teatros donde se puede cenar,South Carolina,South Atlantic
-463,Mitchelville Freedom Park,406,"Lugares históricos, Parques",South Carolina,South Atlantic
-464,Magnolia Cemetery,542,Cementerios,South Carolina,South Atlantic
-465,Heyward-Washington House,427,"Lugares históricos, Museos de historia",South Carolina,South Atlantic
-466,Robert Trent Jones Oceanfront Course,536,Campos de golf,South Carolina,South Atlantic
-467,Liberty Bridge,367,Puentes,South Carolina,South Atlantic
-468,Robert Lange Studios,147,Galerías de arte,South Carolina,South Atlantic
-469,The Carolina Opry,2.244,Teatro y espectáculos,South Carolina,South Atlantic
-470,Wheels of Yesteryear,343,Museos especializados,South Carolina,South Atlantic
-471,The Final Door Escape Room Columbia,1.778,"Juegos de escape, Centros de juego y entretenimiento",South Carolina,South Atlantic
-472,Comedy Magic Cabaret,1.282,"Teatros donde se puede cenar, Clubes de comedia",South Carolina,South Atlantic
-473,Franklin G. Burroughs - Simeon B. Chapin Art Museum,335,Museos de arte,South Carolina,South Atlantic
-474,Hampton Plantation State Historic Site,224,Lugares históricos,South Carolina,South Atlantic
-475,Columbia Museum of Art,285,Museos de arte,South Carolina,South Atlantic
-476,Joseph Manigault House,394,Lugares históricos,South Carolina,South Atlantic
-477,City Scape Winery,168,Viñedos con bodegas,South Carolina,South Atlantic
-478,Captain Hook's Adventure Golf,1.022,Campos de golf,South Carolina,South Atlantic
-479,Old South Carriage Company,10.717,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-480,The Asher Theatre,150,Teatros,South Carolina,South Atlantic
-481,Escape Plan Columbia,2.047,"Juegos de escape, Centros de juego y entretenimiento",South Carolina,South Atlantic
-482,Pounce Cat Cafe,425,Centros de juego y entretenimiento,South Carolina,South Atlantic
-483,Polynesian Fire,1.226,"Teatros donde se puede cenar, Luaus",South Carolina,South Atlantic
-484,The Golf Courses of Palmetto Dunes,378,Campos de golf,South Carolina,South Atlantic
-485,Escapology Columbia (Vista),1.173,Juegos de escape,South Carolina,South Atlantic
-486,Island Life Bike Rentals & Tours,1.680,Alquileres de equipos,South Carolina,South Atlantic
-487,Riddles Escape Rooms,889,"Juegos de escape, Centros de juego y entretenimiento",South Carolina,South Atlantic
-488,Twelve 33 Distillery,90,Destilerías,South Carolina,South Atlantic
-489,Alabama Theatre,1.826,"Conciertos, Teatros",South Carolina,South Atlantic
-490,Eudora Farms,91,"Áreas de naturaleza y vida silvestre, Zoológicos",South Carolina,South Atlantic
-491,Pirate's Island Adventure Golf,1.277,Minigolf,South Carolina,South Atlantic
-492,Medieval Times Dinner & Tournament,2.136,Teatros donde se puede cenar,South Carolina,South Atlantic
-493,Escape in 60,952,Juegos de escape,South Carolina,South Atlantic
-494,Outside Hilton Head,6.505,"Tours en barco, Excursiones de pesca",South Carolina,South Atlantic
-495,Craft Axe Throwing- Greenville,299,Centros de juego y entretenimiento,South Carolina,South Atlantic
-496,Palmetto Carriage Works,9.348,"Tours turísticos, Tours en carruajes tirados por caballos",South Carolina,South Atlantic
-497,The Art of Massage and Yoga Therapy,636,"Gimnasios, Yoga y pilates",South Carolina,South Atlantic
-498,Middleton Place Equestrian Center,131,"Rutas ecuestres, Tours a caballo",South Carolina,South Atlantic
-499,Arthur Hills Golf Course,272,Campos de golf,South Carolina,South Atlantic
-500,Coastal Expeditions,2.690,"Tours en barco, Avistamiento de delfines y ballenas",South Carolina,South Atlantic
-501,Escapology Myrtle Beach,776,Juegos de escape,South Carolina,South Atlantic
-502,Jack Axe Throwing North Myrtle,130,Centros de juego y entretenimiento,South Carolina,South Atlantic
-503,Hilton Head Outfitters and Bike Rentals,618,Alquileres de equipos,South Carolina,South Atlantic
-504,Bulldog Tours,9.485,"Tours por la ciudad, Tours de fantasmas y vampiros",South Carolina,South Atlantic
-505,Craft Axe Throwing- Columbia,220,Centros de juego y entretenimiento,South Carolina,South Atlantic
-506,Palmetto Dunes Tennis & Pickleball Center,376,Clínicas y campos deportivos,South Carolina,South Atlantic
-507,Escape Artist Greenville,762,Juegos de escape,South Carolina,South Atlantic
-508,Charleston Outdoor Adventures,3.000,"Tours ecológicos, Excursiones de pesca",South Carolina,South Atlantic
-509,Charleston Harbor Tours,6.817,"Tours históricos, Tours en barco",South Carolina,South Atlantic
-510,Sound of Charleston,519,Teatro y espectáculos,South Carolina,South Atlantic
-511,Walks of Charleston,3.430,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-512,Estuary Spa,267,Spas,South Carolina,South Atlantic
-513,The Awakening Spa,230,Spas,South Carolina,South Atlantic
-514,Horseback Riding of Myrtle Beach,330,Tours a caballo,South Carolina,South Atlantic
-515,Cross Island Bike Rental,668,Alquileres de equipos,South Carolina,South Atlantic
-516,Charleston Sailing Charters,1.701,"Tours en barco, Tours privados",South Carolina,South Atlantic
-517,Legendary Golf,533,Minigolf,South Carolina,South Atlantic
-518,Pirates of Hilton Head,3.009,Tours en barco,South Carolina,South Atlantic
-519,Hilton Head Escape Room,187,Juegos de escape,South Carolina,South Atlantic
-520,The Escape Quest,210,Juegos de escape,South Carolina,South Atlantic
-521,Zendulgence Salon and Spa & Mobile Spa Services,181,"Yoga y pilates, Spas",South Carolina,South Atlantic
-522,Comedy Cabana,367,Clubes de comedia,South Carolina,South Atlantic
-523,Lowcountry Walking Tours,2.204,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-524,Pawleys Kayaks,150,Alquileres de equipos,South Carolina,South Atlantic
-525,Tour Charleston,2.048,"Tours por la ciudad, Tours de fantasmas y vampiros",South Carolina,South Atlantic
-526,Charleston Water Taxi,1.690,"Tours en barco, Ferris",South Carolina,South Atlantic
-527,Wheelz of Hilton Head,196,Alquileres de equipos,South Carolina,South Atlantic
-528,Lowcountry Watersports,2.358,"Tours en barco, Avistamiento de delfines y ballenas",South Carolina,South Atlantic
-529,Nightly Spirits,1.213,"Tours por la ciudad, Tours de bares, discotecas y pubs",South Carolina,South Atlantic
-530,Fountain Spa,284,Spas,South Carolina,South Atlantic
-531,Island Explorer,2.178,"Tours en barco, Tours ecológicos",South Carolina,South Atlantic
-532,Bluewater Adventure,1.721,"Tours en barco, Tours de naturaleza y vida silvestre",South Carolina,South Atlantic
-533,"J & L Kayaks, LLC Kayak Tours and Rentals",1.907,"Tours en barco, Tours ecológicos",South Carolina,South Atlantic
-534,Southeastern Summer Theatre Institute,128,"Teatros, Teatro y espectáculos",South Carolina,South Atlantic
-535,Michael Anthony's Cooking Classes,103,Clases de cocina,South Carolina,South Atlantic
-536,"Lowsea Bike, Beach and Baby Rental",215,Alquileres de equipos,South Carolina,South Atlantic
-537,Namaste Spa at Barony Beach Club,112,Spas,South Carolina,South Atlantic
-538,Charleston Rickshaw Company,304,Taxis y otros servicios de traslado,South Carolina,South Atlantic
-539,Off The Hook Fishing Charters,1.209,"Tours en barco, Deportes acuáticos",South Carolina,South Atlantic
-540,Fort Sumter Tours,1.536,Tours en barco,South Carolina,South Atlantic
-541,Coastal Discovery Museum,1.253,"Galerías de arte, Museos especializados",South Carolina,South Atlantic
-542,Barrier Islands Eco Tours,865,Tours ecológicos,South Carolina,South Atlantic
-543,Myrtle Beach Watersports,1.354,"Tours en barco, Esquí acuático y moto acuática",South Carolina,South Atlantic
-544,Free Tours by Foot,1.198,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-545,Carolina Polo and Carriage Company,2.251,"Tours privados, Tours en carruajes tirados por caballos",South Carolina,South Atlantic
-546,Time Traveler Escape Games,143,Juegos de escape,South Carolina,South Atlantic
-547,Two Sisters Historic Walking Tours,1.586,Tours a pie,South Carolina,South Atlantic
-548,Blackbeard's Pirate Cruise,1.502,Tours en barco,South Carolina,South Atlantic
-549,Vagabond Cruise,1.950,"Tours en barco, Tours turísticos",South Carolina,South Atlantic
-550,Pineapple Tour Group,1.214,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-551,Undiscovered Charleston,694,"Tours históricos, Clases de cocina",South Carolina,South Atlantic
-552,Forte Jazz Lounge,84,Bares de jazz,South Carolina,South Atlantic
-553,Pirates of Charleston,1.057,"Tours en barco, Tours turísticos",South Carolina,South Atlantic
-554,Adventure Sightseeing,2.476,"Tours culturales, Tours históricos",South Carolina,South Atlantic
-555,Myrtle Beach Safari,1.308,Tours de naturaleza y vida silvestre,South Carolina,South Atlantic
-556,Southurn Rose Buggy Tours,942,"Tours históricos, Tours en carruajes tirados por caballos",South Carolina,South Atlantic
-557,Adventure Hilton Head,1.842,"Tirolesa y parques de aventuras aéreas, Tours para escalar",South Carolina,South Atlantic
-558,Hilton Head Helicopter Tours,1.196,"Tours en helicóptero, Tours extremos y de adrenalina",South Carolina,South Atlantic
-559,Myrtle Beach Segway,878,Tours en Segway,South Carolina,South Atlantic
-560,Island Skiff Adventure Tours,768,"Tours en barco, Esquí acuático y moto acuática",South Carolina,South Atlantic
-561,Black River Outdoors,1.093,"Tours de naturaleza y vida silvestre, Práctica de kayak y canotaje",South Carolina,South Atlantic
-562,Charleston Black Cab Company,746,Tours en autobús,South Carolina,South Atlantic
-563,Beaufort Tours,897,"Tours históricos, Tours a pie",South Carolina,South Atlantic
-564,Charleston Footprints Walking Tours,2.580,"Tours por la ciudad, Tours históricos",South Carolina,South Atlantic
-565,Island Adventure Watersports,677,"Tours en barco, Esquí acuático y moto acuática",South Carolina,South Atlantic
-566,Kokopelli Surf Lessons Paddleboard Kayak Tours & Rentals,820,"Surf y windsurf, Tours en barco",South Carolina,South Atlantic
-567,Escape Lounges - The Centurion® Studio Partner GSP,85,Salas de aeropuerto,South Carolina,South Atlantic
-568,Jocassee Lake Tours,520,"Tours de varios días, Tours en barco",South Carolina,South Atlantic
-569,Jack's Surf Lessons and Board Rentals,786,"Surf y windsurf, Alquileres de equipos",South Carolina,South Atlantic
-570,Charleston Fossil Adventures,423,Tours de naturaleza y vida silvestre,South Carolina,South Atlantic
-571,Adventure Harbor Tours,1.234,"Tours en barco, Deportes acuáticos",South Carolina,South Atlantic
-572,Flipper Finders Boat & Sea Kayak Tour Co.,683,"Tours en barco, Alquileres de equipos",South Carolina,South Atlantic
-573,Native Son Adventures,600,"Tours en barco, Deportes acuáticos",South Carolina,South Atlantic
-574,Cap'n Rod's Lowcountry Shell Island & Plantation Tours,631,"Tours históricos, Tours en barco",South Carolina,South Atlantic
-575,Biltmore,27.635,"Lugares históricos, Museos de historia",North Carolina,South Atlantic
-576,Blue Ridge Parkway,6.995,Rutas turísticas,North Carolina,South Atlantic
-577,Elijah Mountain Gem Mine and Goat Farm,2.008,"Granjas, Minas",North Carolina,South Atlantic
-578,Battleship North Carolina,3.607,Barcos,North Carolina,South Atlantic
-579,Wright Brothers National Memorial,4.432,"Lugares históricos, Museos de historia",North Carolina,South Atlantic
-580,Billy Graham Library,2.489,Bibliotecas,North Carolina,South Atlantic
-581,The North Carolina Arboretum,2.802,"Parques nacionales, Jardines",North Carolina,South Atlantic
-582,North Carolina Museum of Natural Sciences,2.331,"Museos de historia natural, Museos de ciencia",North Carolina,South Atlantic
-583,International Civil Rights Center & Museum,1.825,Museos especializados,North Carolina,South Atlantic
-584,Jockey's Ridge State Park,2.325,"Parques estatales, Parques",North Carolina,South Atlantic
-585,Sarah P. Duke Gardens,2.206,Jardines,North Carolina,South Atlantic
-586,Dry Falls,1.637,Cascadas,North Carolina,South Atlantic
-587,Cape Hatteras Lighthouse,2.630,"Lugares históricos, Faros",North Carolina,South Atlantic
-588,Chimney Rock at Chimney Rock State Park,2.626,"Áreas de naturaleza y vida silvestre, Miradores",North Carolina,South Atlantic
-589,Grandfather Mountain,2.226,"Montañas, Áreas de naturaleza y vida silvestre",North Carolina,South Atlantic
-590,NASCAR Hall of Fame,2.481,Museos especializados,North Carolina,South Atlantic
-591,North Carolina Museum of Art,1.833,Museos de arte,North Carolina,South Atlantic
-592,Wheels Through Time Transportation Museum,1.448,Museos especializados,North Carolina,South Atlantic
-593,Currituck Beach Lighthouse,2.266,"Museos especializados, Faros",North Carolina,South Atlantic
-594,The Folk Art Center (Southern Highland Craft Guild),1.428,"Museos especializados, Bibliotecas",North Carolina,South Atlantic
-595,Bodie Island Lighthouse,2.186,Faros,North Carolina,South Atlantic
-596,Mingo Falls,1.233,Cascadas,North Carolina,South Atlantic
-597,JOLO Winery & Vineyards,905,Viñedos con bodegas,North Carolina,South Atlantic
-598,Sierra Nevada Brewing Co. Tours & Tastings,1.418,Cervecerías,North Carolina,South Atlantic
-599,North Carolina Aquarium on Roanoke Island,1.564,Acuarios,North Carolina,South Atlantic
-600,Airlie Gardens,1.125,Lugares históricos,North Carolina,South Atlantic
-601,Greensboro Science Center,1.313,Museos de ciencia,North Carolina,South Atlantic
-602,Museum of the Cherokee Indian,1.583,Museos especializados,North Carolina,South Atlantic
-603,Mount Mitchell State Park,803,"Parques estatales, Montañas",North Carolina,South Atlantic
-604,Cape Hatteras National Seashore,593,"Parques nacionales, Playas",North Carolina,South Atlantic
-605,Asheville Pinball Museum,941,Museos especializados,North Carolina,South Atlantic
-606,Basilica of Saint Lawrence,1.230,Iglesias y catedrales,North Carolina,South Atlantic
-607,Jennette's Pier,1.512,Muelles y paseos peatonales,North Carolina,South Atlantic
-608,Old Salem Museums & Gardens,1.290,Lugares históricos,North Carolina,South Atlantic
-609,Oconaluftee Indian Village,1.056,"Museos especializados, Lugares históricos",North Carolina,South Atlantic
-610,Crystal Mountain Gem Mine,409,Minas,North Carolina,South Atlantic
-611,North Carolina Museum of History,934,Museos especializados,North Carolina,South Atlantic
-612,Lake Lure Flowering Bridge,782,"Monumentos y lugares de interés, Puentes",North Carolina,South Atlantic
-613,Pisgah National Forest,688,"Parques nacionales, Bosques",North Carolina,South Atlantic
-614,North Carolina Aquarium at Pine Knoll Shores,1.053,Acuarios,North Carolina,South Atlantic
-615,North Carolina Maritime Museum,900,Museos especializados,North Carolina,South Atlantic
-616,Asheville Visitor Center,849,Centros de información turística,North Carolina,South Atlantic
-617,North Carolina History Center - Tryon Palace,957,"Lugares históricos, Museos de historia",North Carolina,South Atlantic
-618,Lexington Glassworks,982,Galerías de arte,North Carolina,South Atlantic
-619,Fort Macon State Park,1.073,Parques estatales,North Carolina,South Atlantic
-620,Pilot Mountain State Park,774,"Parques estatales, Montañas",North Carolina,South Atlantic
-621,Woolworth Walk,854,Galerías de arte,North Carolina,South Atlantic
-622,Winchester Creek Farm,291,Granjas,North Carolina,South Atlantic
-623,Looking Glass Falls,914,Cascadas,North Carolina,South Atlantic
-624,Freedom Park,801,Parques,North Carolina,South Atlantic
-625,Duke University Chapel,1.020,Lugares religiosos,North Carolina,South Atlantic
-626,Riverwalk,1.449,Monumentos y lugares de interés,North Carolina,South Atlantic
-627,Western North Carolina Nature Center,827,Áreas de naturaleza y vida silvestre,North Carolina,South Atlantic
-628,North Carolina Aquarium at Fort Fisher,1.385,Acuarios,North Carolina,South Atlantic
-629,Durham Bulls Athletic Park,969,Campos de juego y estadios,North Carolina,South Atlantic
-630,Duck Town Boardwalk,771,Muelles y paseos peatonales,North Carolina,South Atlantic
-631,Duke University,661,Lugares educativos,North Carolina,South Atlantic
-632,Historic District,1.055,Barrios,North Carolina,South Atlantic
-633,Bellamy Mansion,634,"Museos especializados, Lugares históricos",North Carolina,South Atlantic
-634,Reynolda House Museum of American Art,658,Museos de arte,North Carolina,South Atlantic
-635,New Belgium Brewing Company,651,Cervecerías,North Carolina,South Atlantic
-636,Mint Museum Uptown,494,Museos especializados,North Carolina,South Atlantic
-637,Charlotte Motor Speedway,985,Pistas de carreras de automóviles,North Carolina,South Atlantic
-638,Southport-Fort Fisher Ferry,518,Ferris,North Carolina,South Atlantic
-639,The Andy Griffith Museum,1.061,Museos especializados,North Carolina,South Atlantic
-640,Thomas Wolfe Memorial,529,"Lugares históricos, Monumentos y lugares de interés",North Carolina,South Atlantic
-641,Cherokee Ruby & Sapphire Mine,259,Minas,North Carolina,South Atlantic
-642,Soco Falls,557,Cascadas,North Carolina,South Atlantic
-643,Downtown Wilmington,694,Barrios,North Carolina,South Atlantic
-644,Oconaluftee Islands Park,460,Parques,North Carolina,South Atlantic
-645,Asheville Gem Mine,126,Minas,North Carolina,South Atlantic
-646,Shelton Vineyards,420,Viñedos con bodegas,North Carolina,South Atlantic
-647,Grandfather Mountain State Park,311,"Áreas de naturaleza y vida silvestre, Parques",North Carolina,South Atlantic
-648,Downtown Mt. Airy,540,Barrios,North Carolina,South Atlantic
-649,Highland Brewing Company,367,Cervecerías,North Carolina,South Atlantic
-650,Grandfather Vineyard & Winery,426,Viñedos con bodegas,North Carolina,South Atlantic
-651,Mayberry Replica Courthouse,312,Monumentos y lugares de interés,North Carolina,South Atlantic
-652,Tail of the Dragon,1.248,"Tiendas de regalos, Senderos para vehículos todo terreno",North Carolina,South Atlantic
-653,Deep Creek Trail,214,Áreas peatonales pintorescas,North Carolina,South Atlantic
-654,Blue ridge Parkway Visitor Center,413,Centros de información turística,North Carolina,South Atlantic
-655,Smoky Mountain Trains Museum,515,Museos especializados,North Carolina,South Atlantic
-656,Still Point Wellness Spa,892,Spas,North Carolina,South Atlantic
-657,Urban Axes Durham,567,Centros de juego y entretenimiento,North Carolina,South Atlantic
-658,Apple Hill Farm,289,"Tiendas de regalos, Granjas",North Carolina,South Atlantic
-659,The Karen Beasley Sea Turtle Rescue and Rehabilitation Center,578,"Tiendas de regalos, Áreas de naturaleza y vida silvestre",North Carolina,South Atlantic
-660,Escapology Fayetteville,915,Juegos de escape,North Carolina,South Atlantic
-661,Green Light Escape Room,1.089,Juegos de escape,North Carolina,South Atlantic
-662,Wild Horse Adventure Tours,11.556,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",North Carolina,South Atlantic
-663,Equine Adventures,452,Tours a caballo,North Carolina,South Atlantic
-664,Sandy Bottom Trail Rides,562,Tours a caballo,North Carolina,South Atlantic
-665,Axeville Axe Throwing,102,"Complejos deportivos, Bares y boliches",North Carolina,South Atlantic
-666,Cracked It Escape Games,804,Juegos de escape,North Carolina,South Atlantic
-667,Timed Out Escape,387,Juegos de escape,North Carolina,South Atlantic
-668,Inis Spa,327,Spas,North Carolina,South Atlantic
-669,Breakout Games - Greensboro,398,Juegos de escape,North Carolina,South Atlantic
-670,FOX-N-OTTER Adventure Escape Rooms,505,"Juegos de escape, Centros de juego y entretenimiento",North Carolina,South Atlantic
-671,Ride The Wind Surf & Kayak,310,Alquileres de equipos,North Carolina,South Atlantic
-672,Crazy Axe,75,Centros de juego y entretenimiento,North Carolina,South Atlantic
-673,Unto These Hills,792,Teatro y espectáculos,North Carolina,South Atlantic
-674,Kersey Valley Laser Tag,162,Centros de juego y entretenimiento,North Carolina,South Atlantic
-675,Vx3 Trail Rides,330,Tours a caballo,North Carolina,South Atlantic
-676,North Carolina Glass Center,261,Clases y talleres,North Carolina,South Atlantic
-677,LaZoom,5.168,"Tours por la ciudad, Tours de fantasmas y vampiros",North Carolina,South Atlantic
-678,Asheville Massage & Bodywork Sauna & Foot Soak Spa,176,Spas,North Carolina,South Atlantic
-679,Battery Park Book Exchange and Champagne Bar,566,Tiendas de regalos,North Carolina,South Atlantic
-680,Outer Banks Horseback,338,Tours a caballo,North Carolina,South Atlantic
-681,Kersey Valley Escape,528,Juegos de escape,North Carolina,South Atlantic
-682,The Exit Games,896,Juegos de escape,North Carolina,South Atlantic
-683,Kersey Valley Axe Throwing,138,Centros de juego y entretenimiento,North Carolina,South Atlantic
-684,Bull City Escape,233,Juegos de escape,North Carolina,South Atlantic
-685,Callahan's of Calabash,458,Tiendas de regalos,North Carolina,South Atlantic
-686,OB-Xscape Rooms,265,Juegos de escape,North Carolina,South Atlantic
-687,Blackstone Shooting Sports,191,"Campos de tiro, Centros de juego y entretenimiento",North Carolina,South Atlantic
-688,Breakout Games - Charlotte,188,Juegos de escape,North Carolina,South Atlantic
-689,Back Country Safari Tours,2.291,"Tours para vehículos todo terreno y 4 x 4, Safaris",North Carolina,South Atlantic
-690,Escape Room Fayetteville,133,Juegos de escape,North Carolina,South Atlantic
-691,Black Mountain Escape,156,Juegos de escape,North Carolina,South Atlantic
-692,Gray Line Trolley Tours,2.573,"Tours por la ciudad, Tours históricos",North Carolina,South Atlantic
-693,Highlands Aerial Park,1.962,Tirolesa y parques de aventuras aéreas,North Carolina,South Atlantic
-694,French Broad Adventures,2.672,"Rafting y nado con salvavidas en el río, Tours para practicar rápel y barranquismo",North Carolina,South Atlantic
-695,Navitat Canopy Adventures - Asheville Zipline,2.156,Tirolesa y parques de aventuras aéreas,North Carolina,South Atlantic
-696,Canopy Ridge Farm,1.736,Tirolesa y parques de aventuras aéreas,North Carolina,South Atlantic
-697,Charlotte NC Tours,1.954,"Tours por la ciudad, Tours en Segway",North Carolina,South Atlantic
-698,Game On Escapes & More,91,Juegos de escape,North Carolina,South Atlantic
-699,Crazy Axe,64,"Bares y boliches, Centros de juego y entretenimiento",North Carolina,South Atlantic
-700,Asheville Food Tours,1.472,"Tours a pie, Tours gastronómicos",North Carolina,South Atlantic
-701,Corolla Outback Adventures,1.230,"Tours para vehículos todo terreno y 4 x 4, Tours ecológicos",North Carolina,South Atlantic
-702,Nantahala Outdoor Center - Bryson City Nantahala River Rafting,1.406,"Rafting y nado con salvavidas en el río, Tirolesa y parques de aventuras aéreas",North Carolina,South Atlantic
-703,Game On Escape Rooms,134,Juegos de escape,North Carolina,South Atlantic
-704,The Flying Bike,1.370,"Tours por la ciudad, Tours en bicicleta",North Carolina,South Atlantic
-705,Haunted Asheville Ghost Tours,1.777,Tours de fantasmas y vampiros,North Carolina,South Atlantic
-706,The Swamp Park,1.100,"Tours para vehículos todo terreno y 4 x 4, Tours extremos y de adrenalina",North Carolina,South Atlantic
-707,Eating Asheville,1.784,"Tours por la ciudad, Tours a pie",North Carolina,South Atlantic
-708,Capt Johnny's Outer Banks Dolphin Tours,1.025,"Tours en barco, Avistamiento de delfines y ballenas",North Carolina,South Atlantic
-709,U.S. Naval Academy,3.024,"Museos militares, Bases e instalaciones militares",Maryland,South Atlantic
-710,Oriole Park at Camden Yards,5.107,Campos de juego y estadios,Maryland,South Atlantic
-711,Fort McHenry National Monument and Historic Shrine,3.437,"Lugares históricos, Parques nacionales",Maryland,South Atlantic
-712,Ocean City Beach,4.316,Playas,Maryland,South Atlantic
-713,Fell's Point,2.808,"Barrios, Áreas históricas peatonales",Maryland,South Atlantic
-714,Assateague Island National Seashore,1.188,"Parques nacionales, Áreas de naturaleza y vida silvestre",Maryland,South Atlantic
-715,Antietam National Battlefield,1.448,"Áreas históricas peatonales, Parques nacionales",Maryland,South Atlantic
-716,The Walters Art Museum,1.482,Museos de arte,Maryland,South Atlantic
-717,American Visionary Art Museum,1.646,Museos especializados,Maryland,South Atlantic
-718,Sagamore Spirit Distillery,1.057,Destilerías,Maryland,South Atlantic
-719,The Adventure Park at Sandy Spring,794,Parques de diversión y temáticos,Maryland,South Atlantic
-720,Baltimore Museum of Art,836,"Lugares históricos, Monumentos y lugares de interés",Maryland,South Atlantic
-721,Chesapeake Bay Maritime Museum,1.068,Museos especializados,Maryland,South Atlantic
-722,Annapolis Historic District,1.278,Barrios,Maryland,South Atlantic
-723,Peabody Library,265,Bibliotecas,Maryland,South Atlantic
-724,Guinness Open Gate Brewery & Barrel House,489,Cervecerías,Maryland,South Atlantic
-725,Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary,476,Lugares religiosos,Maryland,South Atlantic
-726,Calvert Marine Museum and Drum Point Lighthouse,435,"Museos especializados, Faros",Maryland,South Atlantic
-727,William Paca House & Garden,276,"Lugares históricos, Jardines",Maryland,South Atlantic
-728,Edgar Allan Poe's Grave Site and Memorial,400,Cementerios,Maryland,South Atlantic
-729,Great Allegheny Passage,254,"Rutas para ciclismo, Rutas para senderismo",Maryland,South Atlantic
-730,Main Street Berlin,363,"Lugares históricos, Monumentos y lugares de interés",Maryland,South Atlantic
-731,National Harbor,371,Barrios,Maryland,South Atlantic
-732,Washington Monument and Mount Vernon Place,290,"Monumentos y lugares de interés, Torres y observatorios",Maryland,South Atlantic
-733,West OC Watersports,214,Parques acuáticos,Maryland,South Atlantic
-734,Urban Axes Baltimore,593,Centros de juego y entretenimiento,Maryland,South Atlantic
-735,Harriet Tubman Underground Railroad National Historical Park,144,"Centros de información turística, Museos de historia",Maryland,South Atlantic
-736,Autobahn Indoor Speedway & Events,373,Centros de juego y entretenimiento,Maryland,South Atlantic
-737,Autobahn Indoor Speedway & Events,170,Centros de juego y entretenimiento,Maryland,South Atlantic
-738,Templo de Washington D.C.,35,"Lugares históricos, Monumentos y lugares de interés",Maryland,South Atlantic
-739,KD Elite Transportation,802,Taxis y otros servicios de traslado,Maryland,South Atlantic
-740,Autobahn Axe Throwing,58,Centros de juego y entretenimiento,Maryland,South Atlantic
-741,Arlington National Cemetery,9.627,"Lugares históricos, Cementerios",Virginia,South Atlantic
-742,Monticello de Thomas Jefferson,7.213,"Lugares históricos, Jardines",Virginia,South Atlantic
-743,Historic Jamestowne,5.538,"Lugares históricos, Museos de historia",Virginia,South Atlantic
-744,Steven F Udvar-Hazy Center,4.516,Museos especializados,Virginia,South Atlantic
-745,Luray Caverns,4.882,"Cañones, Cavernas y cuevas",Virginia,South Atlantic
-746,Virginia Beach Boardwalk,7.981,Muelles y paseos peatonales,Virginia,South Atlantic
-747,George Washington's Mount Vernon,4.832,"Museos especializados, Lugares históricos",Virginia,South Atlantic
-748,Virginia Museum of Fine Arts,3.135,Museos de arte,Virginia,South Atlantic
-749,Jamestown Settlement,4.428,"Lugares históricos, Barcos",Virginia,South Atlantic
-750,Tumba de los Desconocidos,4.114,Áreas históricas peatonales,Virginia,South Atlantic
-751,Maymont,2.097,"Monumentos y lugares de interés, Granjas",Virginia,South Atlantic
-752,Skyline Drive,2.784,"Masas de agua, Rutas turísticas",Virginia,South Atlantic
-753,Chincoteague National Wildlife Refuge,3.160,"Parques nacionales, Áreas de naturaleza y vida silvestre",Virginia,South Atlantic
-754,Virginia Safari Park,1.879,Áreas de naturaleza y vida silvestre,Virginia,South Atlantic
-755,Old Town,2.817,"Lugares históricos, Barrios",Virginia,South Atlantic
-756,Military Aviation Museum,1.445,"Museos militares, Museos especializados",Virginia,South Atlantic
-757,Lewis Ginter Botanical Garden,1.635,Jardines,Virginia,South Atlantic
-758,Battleship Wisconsin at Nauticus,1.675,Barcos,Virginia,South Atlantic
-759,Virginia Creeper Trail,1.283,Rutas para senderismo,Virginia,South Atlantic
-760,Great Falls Park,1.368,"Masas de agua, Parques nacionales",Virginia,South Atlantic
-761,Governor's Palace,2.544,Lugares históricos,Virginia,South Atlantic
-762,U.S. Marine Corps War Memorial,2.443,Monumentos y estatuas,Virginia,South Atlantic
-763,Chrysler Museum of Art,1.026,Museos de arte,Virginia,South Atlantic
-764,Natural Bridge State Park,2.134,"Lugares históricos, Monumentos y lugares de interés",Virginia,South Atlantic
-765,National D-Day Memorial,968,Monumentos y estatuas,Virginia,South Atlantic
-766,Tarnished Truth Distilling Co.,871,Destilerías,Virginia,South Atlantic
-767,Hollywood Cemetery,1.438,Cementerios,Virginia,South Atlantic
-768,National Museum of the Marine Corps,1.167,"Museos militares, Museos especializados",Virginia,South Atlantic
-769,Grand Caverns,554,Cavernas y cuevas,Virginia,South Atlantic
-770,Norfolk Botanical Garden,1.120,Jardines,Virginia,South Atlantic
-771,The Mariners' Museum and Park,955,"Museos especializados, Parques",Virginia,South Atlantic
-772,Barter Theatre,1.015,Teatros,Virginia,South Atlantic
-773,American Revolution Museum at Yorktown,1.403,"Lugares históricos, Campos de batalla",Virginia,South Atlantic
-774,Catoctin Creek Distillery,649,Destilerías,Virginia,South Atlantic
-775,Virginia Beach,3.102,Playas,Virginia,South Atlantic
-776,University of Virginia,1.277,"Monumentos y lugares de interés, Edificios con valor arquitectónico",Virginia,South Atlantic
-777,Mill Mountain Star & Park,1.300,"Monumentos y lugares de interés, Parques",Virginia,South Atlantic
-778,Yorktown Battlefield,1.685,"Lugares históricos, Campos de batalla",Virginia,South Atlantic
-779,Appomattox Court House National Historical Park,1.034,"Lugares históricos, Parques nacionales",Virginia,South Atlantic
-780,Manassas National Battlefield Park,1.140,Campos de batalla,Virginia,South Atlantic
-781,First Landing State Park,1.112,"Parques estatales, Áreas de naturaleza y vida silvestre",Virginia,South Atlantic
-782,Jamestown-Scotland Ferry,732,Ferris,Virginia,South Atlantic
-783,Frontier Culture Museum,735,Museos de historia,Virginia,South Atlantic
-784,Nauticus,1.111,"Museos especializados, Museos de ciencia",Virginia,South Atlantic
-785,White House of the Confederacy,1.273,"Museos militares, Museos especializados",Virginia,South Atlantic
-786,Pentagon Memorial,1.571,Monumentos y estatuas,Virginia,South Atlantic
-787,Bedford Boys Tribute Center,369,"Museos militares, Museos especializados",Virginia,South Atlantic
-788,Old Town Waterfront,1.310,Muelles y paseos peatonales,Virginia,South Atlantic
-789,Grayson Highlands State Park,338,Parques estatales,Virginia,South Atlantic
-790,Stonewall Jackson's Headquarters,326,"Museos especializados, Museos de historia",Virginia,South Atlantic
-791,Chesapeake Bay Bridge-Tunnel,920,Puentes,Virginia,South Atlantic
-792,Trump Winery,930,Viñedos con bodegas,Virginia,South Atlantic
-793,Museum of Chincoteague,560,Museos de historia,Virginia,South Atlantic
-794,Virginia Museum of Transportation,714,Museos especializados,Virginia,South Atlantic
-795,Museum of the Shenandoah Valley,544,"Museos de arte, Museos de historia",Virginia,South Atlantic
-796,Jamestown Glasshouse,697,Monumentos y lugares de interés,Virginia,South Atlantic
-797,Riddick's Folly House Museum,213,Lugares históricos,Virginia,South Atlantic
-798,Cape Henry Lighthouse,1.300,"Lugares históricos, Monumentos y lugares de interés",Virginia,South Atlantic
-799,Carter Mountain Orchard,1.222,Granjas,Virginia,South Atlantic
-800,James Monroe's Highland,962,Lugares históricos,Virginia,South Atlantic
-801,Tysons Corner Center,425,Centros comerciales,Virginia,South Atlantic
-802,Shenandoah Caverns,600,Cavernas y cuevas,Virginia,South Atlantic
-803,The Birthplace of Country Music Museum,309,"Museos especializados, Museos de historia",Virginia,South Atlantic
-804,Breaks Interstate Park,324,Parques estatales,Virginia,South Atlantic
-805,The Car and Carriage Caravan Museum,826,"Museos especializados, Museos de historia",Virginia,South Atlantic
-806,Tall Ship Providence,202,Museos especializados,Virginia,South Atlantic
-807,Colonial Parkway,808,Rutas turísticas,Virginia,South Atlantic
-808,Woodlawn & Pope-Leighey House,262,"Lugares históricos, Museos de historia",Virginia,South Atlantic
-809,Skyline Caverns,508,Cavernas y cuevas,Virginia,South Atlantic
-810,Old Rag Mountain Hike,386,Rutas para senderismo,Virginia,South Atlantic
-811,White Oak Lavender Farm & The Purple WOLF Tasting Room,519,Granjas,Virginia,South Atlantic
-812,Barboursville Vineyards and Historic Ruins,633,Viñedos con bodegas,Virginia,South Atlantic
-813,Edgar Allan Poe Museum,550,"Museos especializados, Lugares históricos",Virginia,South Atlantic
-814,Cape Charles Beach,474,Playas,Virginia,South Atlantic
-815,Stonewall Jackson House,415,Lugares históricos,Virginia,South Atlantic
-816,Colonial National Historic Park,275,"Parques nacionales, Parques",Virginia,South Atlantic
-817,Woodrow Wilson Presidential Library and Museum,740,"Museos especializados, Lugares históricos",Virginia,South Atlantic
-818,American Civil War Museum- Historic Tredegar,449,"Museos militares, Lugares históricos",Virginia,South Atlantic
-819,Endless Caverns,243,Cavernas y cuevas,Virginia,South Atlantic
-820,Colonial Williamsburg Visitor Center,391,Centros de información turística,Virginia,South Atlantic
-821,King Neptune Statue on the Boardwalk,302,"Monumentos y lugares de interés, Monumentos y estatuas",Virginia,South Atlantic
-822,Colonial Williamsburg Capitol Building,238,Monumentos y lugares de interés,Virginia,South Atlantic
-823,Yorktown Beach,461,Playas,Virginia,South Atlantic
-824,Bryce Resort,194,Áreas para esquiar y practicar snowboard,Virginia,South Atlantic
-825,Fort Monroe National Monument,233,"Monumentos y lugares de interés, Monumentos y estatuas",Virginia,South Atlantic
-826,Virginia Air & Space Science Center,557,"Museos especializados, Museos de ciencia",Virginia,South Atlantic
-827,Edith Bolling Wilson Birthplace Museum,122,"Museos especializados, Museos de historia",Virginia,South Atlantic
-828,Camera Heritage Museum,159,Museos especializados,Virginia,South Atlantic
-829,Caverns At Natural Bridge,536,Cavernas y cuevas,Virginia,South Atlantic
-830,Autobahn Indoor Speedway & Events,260,Centros de juego y entretenimiento,Virginia,South Atlantic
-831,Pearmund Cellars,149,Viñedos con bodegas,Virginia,South Atlantic
-832,Autobahn Indoor Speedway & Events,290,Centros de juego y entretenimiento,Virginia,South Atlantic
-833,NASA Wallops Visitor Center,225,"Centros de información turística, Museos de ciencia",Virginia,South Atlantic
-834,Breakout Games - Richmond,543,Juegos de escape,Virginia,South Atlantic
-835,Windsor Castle Park,190,Parques,Virginia,South Atlantic
-836,Rocking S Ranch,502,Ranchos,Virginia,South Atlantic
-837,Yorktown Victory Monument,303,Monumentos y estatuas,Virginia,South Atlantic
-838,Trans-Allegheny Lunatic Asylum,7.190,Lugares históricos,West Virginia,South Atlantic
-839,Harpers Ferry National Historical Park,2.141,"Lugares históricos, Parques nacionales",West Virginia,South Atlantic
-840,West Virginia Penitentiary,1.296,Lugares históricos,West Virginia,South Atlantic
-841,New River Gorge Bridge,1.140,Puentes,West Virginia,South Atlantic
-842,Beckley Exhibition Coal Mine and Youth Museum,852,"Museos especializados, Minas",West Virginia,South Atlantic
-843,Blackwater Falls State Park,1.075,"Parques estatales, Cascadas",West Virginia,South Atlantic
-844,Gandy Dancer Theatre and Conference Center,1.115,Teatros,West Virginia,South Atlantic
-845,Lost World Caverns,489,Cavernas y cuevas,West Virginia,South Atlantic
-846,Cass Scenic Railroad State Park,576,Parques estatales,West Virginia,South Atlantic
-847,The Greenbrier Falconry,313,Áreas de naturaleza y vida silvestre,West Virginia,South Atlantic
-848,Berkeley Springs State Park,559,Parques estatales,West Virginia,South Atlantic
-849,New River Gorge,221,"Masas de agua, Parques nacionales",West Virginia,South Atlantic
-850,Babcock State Park,249,"Parques estatales, Bosques",West Virginia,South Atlantic
-851,Heritage Farm Museum and Village,198,Museos de historia,West Virginia,South Atlantic
-852,Blennerhassett Island Historical State Park,367,"Lugares históricos, Parques estatales",West Virginia,South Atlantic
-853,Mothman Museum,315,Museos especializados,West Virginia,South Atlantic
-854,Greenbrier Government Relocation Facility,486,"Lugares históricos, Bases e instalaciones militares",West Virginia,South Atlantic
-855,Wonderment Puppet Theater,186,Teatros,West Virginia,South Atlantic
-856,Endless Wall Trail,156,Rutas para senderismo,West Virginia,South Atlantic
-857,The Point,139,"Lugares históricos, Monumentos y lugares de interés",West Virginia,South Atlantic
-858,Canyon Rim Visitor Center,169,Centros de información turística,West Virginia,South Atlantic
-859,Smooth Ambler Distillery,154,Destilerías,West Virginia,South Atlantic
-860,Long Point Trail,106,Rutas para senderismo,West Virginia,South Atlantic
-861,Thurmond Ghost Town,104,Pueblos fantasma,West Virginia,South Atlantic
-862,Blennerhassett Museum,127,Museos de historia,West Virginia,South Atlantic
-863,Jefferson Rock,141,"Monumentos y lugares de interés, Miradores",West Virginia,South Atlantic
-864,New River Gorge National Park & Preserve,47,Parques nacionales,West Virginia,South Atlantic
-865,Pomona Salt Cave And Spa,646,"Yoga y pilates, Spas",West Virginia,South Atlantic
-866,Tamarack Marketplace,1.113,Tiendas de regalos,West Virginia,South Atlantic
-867,Lincoln Memorial,31.996,Monumentos y estatuas,District of Columbia,South Atlantic
-868,Museo Nacional Smithsoniano de Historia Natural,12.493,Museos de historia natural,District of Columbia,South Atlantic
-869,Galería Nacional de Arte,9.342,Museos de arte,District of Columbia,South Atlantic
-870,Museo Nacional del Aire y del Espacio,23.536,Museos especializados,District of Columbia,South Atlantic
-871,Biblioteca del Congreso,9.136,"Bibliotecas, Edificios gubernamentales",District of Columbia,South Atlantic
-872,Museo Estadounidense Conmemorativo del Holocausto,11.326,Museos de historia,District of Columbia,South Atlantic
-873,Monumento a los Veteranos de Vietnam,11.996,Monumentos y estatuas,District of Columbia,South Atlantic
-874,Monumento Conmemorativo a los Veteranos de la Guerra de Corea,11.089,Monumentos y estatuas,District of Columbia,South Atlantic
-875,Explanada Nacional,8.404,"Áreas históricas peatonales, Parques",District of Columbia,South Atlantic
-876,Monumento Conmemorativo Nacional de la Segunda Guerra Mundial,10.206,Monumentos y estatuas,District of Columbia,South Atlantic
-877,U.S. Capitol,7.124,Edificios gubernamentales,District of Columbia,South Atlantic
-878,Washington Monument,9.487,Monumentos y estatuas,District of Columbia,South Atlantic
-879,National Museum of African American History and Culture,3.714,Museos de historia,District of Columbia,South Atlantic
-880,National Portrait Gallery,3.587,"Museos de arte, Museos de historia",District of Columbia,South Atlantic
-881,Monumento Conmemorativo a Franklin Delano Roosevelt,5.974,Monumentos y estatuas,District of Columbia,South Atlantic
-882,Ford's Theatre,4.394,"Lugares históricos, Teatros",District of Columbia,South Atlantic
-883,Jefferson Memorial,6.522,Monumentos y estatuas,District of Columbia,South Atlantic
-884,National Museum of American History,5.061,Museos de historia,District of Columbia,South Atlantic
-885,"Martin Luther King, Jr. Memorial",5.833,Monumentos y estatuas,District of Columbia,South Atlantic
-886,Washington National Cathedral,3.112,"Edificios con valor arquitectónico, Lugares religiosos",District of Columbia,South Atlantic
-887,United States Botanic Garden,2.847,Jardines,District of Columbia,South Atlantic
-888,White House,8.206,Edificios gubernamentales,District of Columbia,South Atlantic
-889,"Hillwood Estate, Museum & Gardens",1.304,"Lugares históricos, Jardines",District of Columbia,South Atlantic
-890,The National Archives Museum,3.571,Museos especializados,District of Columbia,South Atlantic
-891,Basilica of the National Shrine of the Immaculate Conception,1.914,"Lugares religiosos, Iglesias y catedrales",District of Columbia,South Atlantic
-892,International Spy Museum,5.648,Museos especializados,District of Columbia,South Atlantic
-893,Georgetown,3.025,Barrios,District of Columbia,South Atlantic
-894,Capitol Hill,3.485,"Barrios, Áreas históricas peatonales",District of Columbia,South Atlantic
-895,Smithsonian’s National Zoo & Conservation Biology Institute,4.612,Zoológicos,District of Columbia,South Atlantic
-896,Tidal Basin,1.702,Masas de agua,District of Columbia,South Atlantic
-897,Smithsonian American Art Museum,1.578,"Museos de arte, Museos de historia",District of Columbia,South Atlantic
-898,The Phillips Collection,1.424,Museos de arte,District of Columbia,South Atlantic
-899,Museum of the Bible,1.193,Museos especializados,District of Columbia,South Atlantic
-900,National Postal Museum,1.147,Museos especializados,District of Columbia,South Atlantic
-901,Smithsonian National Museum of Asian Art,744,Museos de arte,District of Columbia,South Atlantic
-902,U.S. National Arboretum,687,"Áreas de naturaleza y vida silvestre, Rutas para senderismo",District of Columbia,South Atlantic
-903,Vietnam Women's Memorial,654,Monumentos y estatuas,District of Columbia,South Atlantic
-904,Planet Word,65,Museos especializados,District of Columbia,South Atlantic
-905,The Wharf DC,169,"Puertos deportivos, Monumentos y lugares de interés",District of Columbia,South Atlantic
-906,The Spa at Hotel Washington,151,Spas,District of Columbia,South Atlantic
-907,USA Guided Tours,6.689,"Tours por la ciudad, Tours turísticos",District of Columbia,South Atlantic
-908,The Escape Game DC - Downtown,102,Juegos de escape,District of Columbia,South Atlantic
-909,Fletcher's Boathouse,123,Tiendas de regalos,District of Columbia,South Atlantic
-910,Capital Segway Tours,2.440,Tours en Segway,District of Columbia,South Atlantic
-911,Babylon Tours Washington D.C.,1.585,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-912,DC By Foot,3.203,"Tours de fantasmas y vampiros, Tours a pie",District of Columbia,South Atlantic
-913,Signature Tours of DC- Day/Night,2.199,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-914,Kick Axe Throwing DC,213,"Bares y boliches, Centros de juego y entretenimiento",District of Columbia,South Atlantic
-915,Unscripted by Guided Tours DC,1.152,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-916,Private Tours of Washington,661,Tours privados,District of Columbia,South Atlantic
-917,Nonpartisan Pedicab,538,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-918,Signature Tours DC,454,"Tours culturales, Tours históricos",District of Columbia,South Atlantic
-919,DC Design Tours,420,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-920,Private DC Tours,427,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-921,Monuments by Moonlight Night Tour,967,"Tours por la ciudad, Tours históricos",District of Columbia,South Atlantic
-922,Trip Hacks DC,291,"Tours por la ciudad, Tours culturales",District of Columbia,South Atlantic
-923,Grand Atlas Tours,275,"Tours por la ciudad, Tours nocturnos",District of Columbia,South Atlantic
+,state_id,attraction,categories,reviews_url,region
+0,DE,Air Mobility Command Museum,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g34009-d274543-Reviews-Air_Mobility_Command_Museum-Dover_Delaware.html,South Atlantic
+1,DE,Cape May-Lewes Ferry,Ferris,https://www.tripadvisor.com.ar/Attraction_Review-g34028-d1172802-Reviews-Cape_May_Lewes_Ferry-Lewes_Delaware.html,South Atlantic
+2,DE,Cape Henlopen State Park,"Parques estatales, Playas",https://www.tripadvisor.com.ar/Attraction_Review-g34028-d103510-Reviews-Cape_Henlopen_State_Park-Lewes_Delaware.html,South Atlantic
+3,DE,Nemours Estate,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g34059-d258874-Reviews-Nemours_Estate-Wilmington_Delaware.html,South Atlantic
+4,DE,Funland,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34048-d268889-Reviews-Funland-Rehoboth_Beach_Delaware.html,South Atlantic
+5,DE,"Winterthur Museum, Garden & Library",Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g34060-d138300-Reviews-Winterthur_Museum_Garden_Library-Winterthur_Delaware.html,South Atlantic
+6,DE,Hagley Museum And Library,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g34059-d107854-Reviews-Hagley_Museum_And_Library-Wilmington_Delaware.html,South Atlantic
+7,DE,Rehoboth Beach Boardwalk,Muelles y paseos peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g34048-d23235344-Reviews-Rehoboth_Beach_Boardwalk-Rehoboth_Beach_Delaware.html,South Atlantic
+8,DE,Dogfish Head Craft Brewery,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g34039-d657793-Reviews-Dogfish_Head_Craft_Brewery-Milton_Delaware.html,South Atlantic
+9,DE,Lewes Historical Society,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g34028-d552705-Reviews-Lewes_Historical_Society-Lewes_Delaware.html,South Atlantic
+10,DE,Hopkins Farm Creamery,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g34028-d2415342-Reviews-Hopkins_Farm_Creamery-Lewes_Delaware.html,South Atlantic
+11,DE,Air Mobility Command Museum,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g34009-d274543-Reviews-Air_Mobility_Command_Museum-Dover_Delaware.html,South Atlantic
+12,DE,Cape May-Lewes Ferry,Ferris,https://www.tripadvisor.com.ar/Attraction_Review-g34028-d1172802-Reviews-Cape_May_Lewes_Ferry-Lewes_Delaware.html,South Atlantic
+13,DE,Cape Henlopen State Park,"Parques estatales, Playas",https://www.tripadvisor.com.ar/Attraction_Review-g34028-d103510-Reviews-Cape_Henlopen_State_Park-Lewes_Delaware.html,South Atlantic
+14,DE,Nemours Estate,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g34059-d258874-Reviews-Nemours_Estate-Wilmington_Delaware.html,South Atlantic
+15,DE,Funland,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34048-d268889-Reviews-Funland-Rehoboth_Beach_Delaware.html,South Atlantic
+16,DE,"Winterthur Museum, Garden & Library",Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g34060-d138300-Reviews-Winterthur_Museum_Garden_Library-Winterthur_Delaware.html,South Atlantic
+17,FL,Universal's Islands of Adventure,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d258685-Reviews-Universal_Islands_of_Adventure-Orlando_Florida.html,South Atlantic
+18,FL,The Wizarding World of Harry Potter at Universal Orlando Resort,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d1968468-Reviews-The_Wizarding_World_of_Harry_Potter_at_Universal_Orlando_Resort-Orlando_Florida.html,South Atlantic
+19,FL,Hollywood Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g34296-d632053-Reviews-Hollywood_Beach-Hollywood_Broward_County_Florida.html,South Atlantic
+20,FL,Museo de la Casa de Ernest Hemingway,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g34345-d130377-Reviews-The_Ernest_Hemingway_Home_and_Museum-Key_West_Florida_Keys_Florida.html,South Atlantic
+21,FL,Key West Butterfly and Nature Conservatory,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g34345-d599396-Reviews-Key_West_Butterfly_and_Nature_Conservatory-Key_West_Florida_Keys_Florida.html,South Atlantic
+22,FL,Clearwater Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g34141-d117476-Reviews-Clearwater_Beach-Clearwater_Florida.html,South Atlantic
+23,FL,Disney Springs,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d130846-Reviews-Disney_Springs-Orlando_Florida.html,South Atlantic
+24,FL,Stetson Mansion,Edificios con valor arquitectónico,https://www.tripadvisor.com.ar/Attraction_Review-g34178-d2355042-Reviews-Stetson_Mansion-DeLand_Florida.html,South Atlantic
+25,FL,McCarthy's Wildlife,"Áreas de naturaleza y vida silvestre, Zoológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34731-d1181294-Reviews-McCarthy_s_Wildlife-West_Palm_Beach_Florida.html,South Atlantic
+26,FL,Lincoln Road,"Áreas históricas peatonales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g34439-d109886-Reviews-Lincoln_Road-Miami_Beach_Florida.html,South Atlantic
+27,FL,Mallory Square,"Monumentos y lugares de interés, Muelles y paseos peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g34345-d104133-Reviews-Mallory_Square-Key_West_Florida_Keys_Florida.html,South Atlantic
+28,FL,Busch Gardens,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34678-d107648-Reviews-Busch_Gardens-Tampa_Florida.html,South Atlantic
+29,FL,Calle Duval,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g34345-d108770-Reviews-Duval_Street-Key_West_Florida_Keys_Florida.html,South Atlantic
+30,FL,Ocean Drive,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g34439-d108858-Reviews-Ocean_Drive-Miami_Beach_Florida.html,South Atlantic
+31,FL,St. Augustine Wild Reserve,"Áreas de naturaleza y vida silvestre, Zoológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34599-d1848903-Reviews-St_Augustine_Wild_Reserve-St_Augustine_Florida.html,South Atlantic
+32,FL,Lock & Load Museum,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g34438-d14864466-Reviews-Lock_Load_Museum-Miami_Florida.html,South Atlantic
+33,FL,Medieval Torture Museum,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g34599-d12352576-Reviews-Medieval_Torture_Museum-St_Augustine_Florida.html,South Atlantic
+34,FL,Duncan McClellan Gallery,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g34607-d3341237-Reviews-Duncan_McClellan_Gallery-St_Petersburg_Florida.html,South Atlantic
+35,FL,The Wizard of Oz Museum,"Museos especializados, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g34117-d23751000-Reviews-The_Wizard_of_Oz_Museum-Cape_Canaveral_Brevard_County_Florida.html,South Atlantic
+36,FL,Hatchet Hangout - Axe Throwing St Pete,Complejos deportivos,https://www.tripadvisor.com.ar/Attraction_Review-g34607-d23116259-Reviews-Hatchet_Hangout_Axe_Throwing_St_Pete-St_Petersburg_Florida.html,South Atlantic
+37,FL,Happily Ever After Fireworks,"Parques de Disney y actividades, Teatro y espectáculos",https://www.tripadvisor.com.ar/Attraction_Review-g34515-d253208-Reviews-Happily_Ever_After_Fireworks-Orlando_Florida.html,South Atlantic
+38,FL,Bear Creek Feline Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g34542-d3532463-Reviews-Bear_Creek_Feline_Center-Panama_City_Florida.html,South Atlantic
+39,FL,Wonder House,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g34072-d17670767-Reviews-Wonder_House-Bartow_Florida.html,South Atlantic
+40,FL,Universal's Islands of Adventure,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d258685-Reviews-Universal_Islands_of_Adventure-Orlando_Florida.html,South Atlantic
+41,FL,The Wizarding World of Harry Potter at Universal Orlando Resort,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d1968468-Reviews-The_Wizarding_World_of_Harry_Potter_at_Universal_Orlando_Resort-Orlando_Florida.html,South Atlantic
+42,FL,Shy Wolf Sanctuary Education & Experience Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g34248-d1860709-Reviews-Shy_Wolf_Sanctuary_Education_Experience_Center-Golden_Gate_Florida.html,South Atlantic
+43,FL,Equestrian Adventures of Florida,Rutas ecuestres,https://www.tripadvisor.com.ar/Attraction_Review-g34172-d3498971-Reviews-Equestrian_Adventures_of_Florida-Daytona_Beach_Florida.html,South Atlantic
+44,FL,C Ponies Beach Horses,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g34607-d4356688-Reviews-C_Ponies_Beach_Horses-St_Petersburg_Florida.html,South Atlantic
+45,FL,Grizzly Axes,Complejos deportivos,https://www.tripadvisor.com.ar/Attraction_Review-g34550-d17806489-Reviews-Grizzly_Axes-Pensacola_Florida.html,South Atlantic
+46,FL,Panther Ridge Conservation Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g34404-d15627735-Reviews-Panther_Ridge_Conservation_Center-Loxahatchee_Florida.html,South Atlantic
+47,FL,Arcade Monsters,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g34521-d16853981-Reviews-Arcade_Monsters-Oviedo_Florida.html,South Atlantic
+48,FL,Escape Thrill,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g34141-d10517017-Reviews-Escape_Thrill-Clearwater_Florida.html,South Atlantic
+49,FL,Danger Charters,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34345-d642768-Reviews-Danger_Charters-Key_West_Florida_Keys_Florida.html,South Atlantic
+50,FL,Escapology,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g34373-d12298030-Reviews-Escapology-Lakeland_Florida.html,South Atlantic
+51,FL,Outerlife Studios - Escape Room St. Pete,"Juegos de escape, Centros de juego y entretenimiento",https://www.tripadvisor.com.ar/Attraction_Review-g34607-d12239610-Reviews-Outerlife_Studios_Escape_Room_St_Pete-St_Petersburg_Florida.html,South Atlantic
+52,FL,The Great Magic Hall,"Tiendas de regalos, Teatros",https://www.tripadvisor.com.ar/Attraction_Review-g34352-d8353009-Reviews-The_Great_Magic_Hall-Kissimmee_Florida.html,South Atlantic
+53,FL,Fun 2 Dive Manatee Tours,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34162-d610899-Reviews-Fun_2_Dive_Manatee_Tours-Crystal_River_Florida.html,South Atlantic
+54,FL,Miami Culinary Tours,"Tours culturales, Tours a pie",https://www.tripadvisor.com.ar/Attraction_Review-g34438-d1718364-Reviews-Miami_Culinary_Tours-Miami_Florida.html,South Atlantic
+55,FL,BlueFoot Pirate Adventures,Tours en barco,https://www.tripadvisor.com.ar/Attraction_Review-g34227-d2403008-Reviews-BlueFoot_Pirate_Adventures-Fort_Lauderdale_Broward_County_Florida.html,South Atlantic
+56,FL,iLoveKickboxing Mandarin,Clínicas y campos deportivos,https://www.tripadvisor.com.ar/Attraction_Review-g60805-d20297148-Reviews-ILoveKickboxing_Mandarin-Jacksonville_Florida.html,South Atlantic
+57,FL,Zubrick Magic Theatre,"Teatros, Teatro y espectáculos",https://www.tripadvisor.com.ar/Attraction_Review-g34607-d23125782-Reviews-Zubrick_Magic_Theatre-St_Petersburg_Florida.html,South Atlantic
+58,FL,Bird's Underwater,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34162-d458065-Reviews-Bird_s_Underwater-Crystal_River_Florida.html,South Atlantic
+59,FL,Everglades Swamp Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g10493351-d10404111-Reviews-Everglades_Swamp_Tours-Everglades_Wildlife_Management_Area_Broward_County_Flor.html,South Atlantic
+60,FL,Marsh Landing Adventures,Tours en barco,https://www.tripadvisor.com.ar/Attraction_Review-g34352-d1656400-Reviews-Marsh_Landing_Adventures-Kissimmee_Florida.html,South Atlantic
+61,FL,Key West Extreme Adventures Shark Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34345-d1817867-Reviews-Key_West_Extreme_Adventures_Shark_Tours-Key_West_Florida_Keys_Florida.html,South Atlantic
+62,FL,Sea Life Kayak Adventures,"Tours ecológicos, Alquileres de equipos",https://www.tripadvisor.com.ar/Attraction_Review-g34618-d2561188-Reviews-Sea_Life_Kayak_Adventures-Sarasota_Florida.html,South Atlantic
+63,FL,Sea Screamer,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g34543-d1432180-Reviews-Sea_Screamer-Panama_City_Beach_Florida.html,South Atlantic
+64,FL,Fin Expeditions,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g34145-d650791-Reviews-Fin_Expeditions-Cocoa_Beach_Brevard_County_Florida.html,South Atlantic
+65,FL,Encounters With Dolphins,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34141-d2249219-Reviews-Encounters_With_Dolphins-Clearwater_Florida.html,South Atlantic
+66,FL,Explorida,"Buceo y esnórquel, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g34162-d15635974-Reviews-Explorida-Crystal_River_Florida.html,South Atlantic
+67,FL,Affari Transportation,"Servicios de autobús, Taxis y otros servicios de traslado",https://www.tripadvisor.com.ar/Attraction_Review-g34678-d13929817-Reviews-Affari_Transportation-Tampa_Florida.html,South Atlantic
+68,FL,Dreamlander Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34420-d2423145-Reviews-Dreamlander_Tours-Marco_Island_Florida.html,South Atlantic
+69,FL,Pick Me Up Tampa,Taxis y otros servicios de traslado,https://www.tripadvisor.com.ar/Attraction_Review-g34678-d12831270-Reviews-Pick_Me_Up_Tampa-Tampa_Florida.html,South Atlantic
+70,FL,World Class VIP - Disney Tours,Tours turísticos,https://www.tripadvisor.com.ar/Attraction_Review-g34515-d4367859-Reviews-World_Class_VIP_Disney_Tours-Orlando_Florida.html,South Atlantic
+71,FL,Tour The Glades - Private Wildlife Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34210-d1908766-Reviews-Tour_The_Glades_Private_Wildlife_Tours-Everglades_City_Florida.html,South Atlantic
+72,FL,Adventure Paddle Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34467-d11889181-Reviews-Adventure_Paddle_Tours-Naples_Florida.html,South Atlantic
+73,FL,Sundance Watersports,"Paravelismo y parapente, Buceo y esnórquel",https://www.tripadvisor.com.ar/Attraction_Review-g34346-d2355610-Reviews-Sundance_Watersports-Islamorada_Florida_Keys_Florida.html,South Atlantic
+74,FL,Sea Horse Private Charters,"Tours en barco, Excursiones de pesca",https://www.tripadvisor.com.ar/Attraction_Review-g34346-d1887209-Reviews-Sea_Horse_Private_Charters-Islamorada_Florida_Keys_Florida.html,South Atlantic
+75,FL,Fired Up Fishing Charters,Excursiones de pesca,https://www.tripadvisor.com.ar/Attraction_Review-g34574-d3525388-Reviews-Fired_Up_Fishing_Charters-Port_Canaveral_Brevard_County_Florida.html,South Atlantic
+76,FL,Cocoa Beach Dolphin Tours,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34145-d2513343-Reviews-Cocoa_Beach_Dolphin_Tours-Cocoa_Beach_Brevard_County_Florida.html,South Atlantic
+77,FL,Crab Island Cruises,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g34182-d3400562-Reviews-Crab_Island_Cruises-Destin_Florida.html,South Atlantic
+78,FL,"Luther's Pontoon, Waverunner, & Kayak Rentals",Alquileres de barcos,https://www.tripadvisor.com.ar/Attraction_Review-g34182-d2441624-Reviews-Luther_s_Pontoon_Waverunner_Kayak_Rentals-Destin_Florida.html,South Atlantic
+79,FL,West Palm Beach Food Tours,"Tours por la ciudad, Tours históricos",https://www.tripadvisor.com.ar/Attraction_Review-g34731-d8528429-Reviews-West_Palm_Beach_Food_Tours-West_Palm_Beach_Florida.html,South Atlantic
+80,FL,St. Augustine Experiences,"Tours por la ciudad, Tours culturales",https://www.tripadvisor.com.ar/Attraction_Review-g34599-d19432805-Reviews-St_Augustine_Experiences-St_Augustine_Florida.html,South Atlantic
+81,FL,Five Star Orlando VIP Tours,"Tours turísticos, Tours privados",https://www.tripadvisor.com.ar/Attraction_Review-g34515-d13392502-Reviews-Five_Star_Orlando_VIP_Tours-Orlando_Florida.html,South Atlantic
+82,FL,Cruisin’ Tikis KeyWest,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g34345-d13413969-Reviews-Cruisin_Tikis_KeyWest-Key_West_Florida_Keys_Florida.html,South Atlantic
+83,FL,Sea Leveler Sport Fishing Charters,Excursiones de pesca,https://www.tripadvisor.com.ar/Attraction_Review-g34574-d1555392-Reviews-Sea_Leveler_Sport_Fishing_Charters-Port_Canaveral_Brevard_County_Florida.html,South Atlantic
+84,FL,Wild About Dolphins,"Tours en barco, Avistamiento de delfines y ballenas",https://www.tripadvisor.com.ar/Attraction_Review-g34345-d1101215-Reviews-Wild_About_Dolphins-Key_West_Florida_Keys_Florida.html,South Atlantic
+85,FL,Captain's Corner Dive Center,Buceo y esnórquel,https://www.tripadvisor.com.ar/Attraction_Review-g34345-d736043-Reviews-Captain_s_Corner_Dive_Center-Key_West_Florida_Keys_Florida.html,South Atlantic
+86,FL,Garl's Coastal Kayaking Everglades,Práctica de kayak y canotaje,https://www.tripadvisor.com.ar/Attraction_Review-g34344-d1770873-Reviews-Garl_s_Coastal_Kayaking_Everglades-Key_Largo_Florida_Keys_Florida.html,South Atlantic
+87,FL,Coastline Dolphin & Snorkeling Excursions,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g60786-d4040917-Reviews-Coastline_Dolphin_Snorkeling_Excursions-Bradenton_Florida.html,South Atlantic
+88,FL,A Family Fun Boat Tour Company,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34346-d6993648-Reviews-A_Family_Fun_Boat_Tour_Company-Islamorada_Florida_Keys_Florida.html,South Atlantic
+89,FL,Happy Paddler Kayak Tours & EcoVentures,"Surf y windsurf, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g635970-d6158264-Reviews-Happy_Paddler_Kayak_Tours_EcoVentures-Anna_Maria_Island_Florida.html,South Atlantic
+90,FL,Caribbean Watersports,"Paravelismo y parapente, Buceo y esnórquel",https://www.tripadvisor.com.ar/Attraction_Review-g34344-d1381339-Reviews-Caribbean_Watersports-Key_Largo_Florida_Keys_Florida.html,South Atlantic
+91,FL,Sight Sea-R Cruises,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g34231-d7299184-Reviews-Sight_Sea_R_Cruises-Fort_Myers_Beach_Florida.html,South Atlantic
+92,FL,Kokomo Charters,"Tours en barco, Tours turísticos",https://www.tripadvisor.com.ar/Attraction_Review-g34636-d8704313-Reviews-Kokomo_Charters-Siesta_Key_Florida.html,South Atlantic
+93,FL,Parasailing The Pass,Paravelismo y parapente,https://www.tripadvisor.com.ar/Attraction_Review-g34693-d8275829-Reviews-Parasailing_The_Pass-Treasure_Island_Florida.html,South Atlantic
+94,FL,La Vita e' Bella- Marco Eco Tours,"Tours ecológicos, Alquileres de equipos",https://www.tripadvisor.com.ar/Attraction_Review-g34420-d20539271-Reviews-La_Vita_e_Bella_Marco_Eco_Tours-Marco_Island_Florida.html,South Atlantic
+95,FL,Everglades Airboat Expeditions,"Tours en barco, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g34438-d16929212-Reviews-Everglades_Airboat_Expeditions-Miami_Florida.html,South Atlantic
+96,FL,Cocoa Beach Aerial Adventures,Tirolesa y parques de aventuras aéreas,https://www.tripadvisor.com.ar/Attraction_Review-g34117-d10801354-Reviews-Cocoa_Beach_Aerial_Adventures-Cape_Canaveral_Brevard_County_Florida.html,South Atlantic
+97,FL,Keys Boat Tours,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34085-d8814558-Reviews-Keys_Boat_Tours-Big_Pine_Key_Florida_Keys_Florida.html,South Atlantic
+98,FL,Nature's Discovery Manatee Tours,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34162-d23687305-Reviews-Nature_s_Discovery_Manatee_Tours-Crystal_River_Florida.html,South Atlantic
+99,FL,Island Time Dolphin & Shelling Cruises,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34231-d4325664-Reviews-Island_Time_Dolphin_Shelling_Cruises-Fort_Myers_Beach_Florida.html,South Atlantic
+100,FL,Paddle Naples,"Tours ecológicos, Surf de remo",https://www.tripadvisor.com.ar/Attraction_Review-g34091-d7317610-Reviews-Paddle_Naples-Bonita_Springs_Florida.html,South Atlantic
+101,FL,Kayak St Augustine,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g34599-d6436065-Reviews-Kayak_St_Augustine-St_Augustine_Florida.html,South Atlantic
+102,FL,Riptide Watersports,"Surf y windsurf, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34218-d12403570-Reviews-Riptide_Watersports-Fernandina_Beach_Amelia_Island_Florida.html,South Atlantic
+103,FL,Stone VIPs,"Tours de cine y TV, Tours turísticos",https://www.tripadvisor.com.ar/Attraction_Review-g34515-d7906300-Reviews-Stone_VIPs-Orlando_Florida.html,South Atlantic
+104,FL,Shark Addicts,"Buceo y esnórquel, Buceo con tiburones",https://www.tripadvisor.com.ar/Attraction_Review-g34335-d12911759-Reviews-Shark_Addicts-Jupiter_Florida.html,South Atlantic
+105,FL,Blue Heaven River Tours,"Buceo y esnórquel, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g34300-d9559418-Reviews-Blue_Heaven_River_Tours-Homosassa_Florida.html,South Atlantic
+106,FL,SunVenture Cruises,"Tours en barco, Avistamiento de delfines y ballenas",https://www.tripadvisor.com.ar/Attraction_Review-g34182-d3243965-Reviews-SunVenture_Cruises-Destin_Florida.html,South Atlantic
+107,FL,Reel Kind Fishing and Tours,"Tours ecológicos, Excursiones de pesca",https://www.tripadvisor.com.ar/Attraction_Review-g34252-d3318092-Reviews-Reel_Kind_Fishing_and_Tours-Goodland_Marco_Island_Florida.html,South Atlantic
+108,FL,Drop Back Fishing Charters,Excursiones de pesca,https://www.tripadvisor.com.ar/Attraction_Review-g34346-d2460727-Reviews-Drop_Back_Fishing_Charters-Islamorada_Florida_Keys_Florida.html,South Atlantic
+109,GA,Savannah Historic District,"Lugares históricos, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d181706-Reviews-Savannah_Historic_District-Savannah_Georgia.html,South Atlantic
+110,GA,Catedral de San Juan el Bautista,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d103143-Reviews-Cathedral_of_St_John_the_Baptist-Savannah_Georgia.html,South Atlantic
+111,GA,Parque Forsyth,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d259614-Reviews-Forsyth_Park-Savannah_Georgia.html,South Atlantic
+112,GA,Bonaventure Cemetery,Cementerios,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d103148-Reviews-Bonaventure_Cemetery-Savannah_Georgia.html,South Atlantic
+113,GA,Atlanta Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d104713-Reviews-Atlanta_Botanical_Garden-Atlanta_Georgia.html,South Atlantic
+114,GA,Anna Ruby Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g35004-d1191816-Reviews-Anna_Ruby_Falls-Helen_Georgia.html,South Atlantic
+115,GA,Rock City,Miradores,https://www.tripadvisor.com.ar/Attraction_Review-g35073-d105864-Reviews-Rock_City-Lookout_Mountain_Georgia.html,South Atlantic
+116,GA,Martin Luther King Jr. National Historic Site,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d103496-Reviews-Martin_Luther_King_Jr_National_Historic_Site-Atlanta_Georgia.html,South Atlantic
+117,GA,Olde Pink House,"Lugares históricos, Lugares misteriosos",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d252767-Reviews-Olde_Pink_House-Savannah_Georgia.html,South Atlantic
+118,GA,Historic Savannah Theatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d1144712-Reviews-Historic_Savannah_Theatre-Savannah_Georgia.html,South Atlantic
+119,GA,Historic River Street,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d1090246-Reviews-Historic_River_Street-Savannah_Georgia.html,South Atlantic
+120,GA,Driftwood Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g35034-d2415179-Reviews-Driftwood_Beach-Jekyll_Island_Golden_Isles_of_Georgia_Georgia.html,South Atlantic
+121,GA,National Infantry Museum and Soldier Center,"Museos militares, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g34859-d103687-Reviews-National_Infantry_Museum_and_Soldier_Center-Columbus_Georgia.html,South Atlantic
+122,GA,Fort Pulaski National Monument,"Lugares históricos, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g35328-d208719-Reviews-Fort_Pulaski_National_Monument-Tybee_Island_Georgia.html,South Atlantic
+123,GA,Mercier Orchards,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g34778-d633496-Reviews-Mercier_Orchards-Blue_Ridge_Georgia.html,South Atlantic
+124,GA,National Center for Civil and Human Rights,"Monumentos y lugares de interés, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g60898-d6781793-Reviews-National_Center_for_Civil_and_Human_Rights-Atlanta_Georgia.html,South Atlantic
+125,GA,Owens-Thomas House & Slave Quarters,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d181707-Reviews-Owens_Thomas_House_Slave_Quarters-Savannah_Georgia.html,South Atlantic
+126,GA,The Old Sorrel Weed House Museum & Tours,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d1186619-Reviews-The_Old_Sorrel_Weed_House_Museum_Tours-Savannah_Georgia.html,South Atlantic
+127,GA,Parque Piedmont,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d126944-Reviews-Piedmont_Park-Atlanta_Georgia.html,South Atlantic
+128,GA,Old Fort Jackson,"Museos militares, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d132648-Reviews-Old_Fort_Jackson-Savannah_Georgia.html,South Atlantic
+129,GA,Centennial Olympic Park,"Lugares históricos, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g60898-d103492-Reviews-Centennial_Olympic_Park-Atlanta_Georgia.html,South Atlantic
+130,GA,Tybee Island Light Station And Museum,"Museos especializados, Faros",https://www.tripadvisor.com.ar/Attraction_Review-g35328-d103913-Reviews-Tybee_Island_Light_Station_And_Museum-Tybee_Island_Georgia.html,South Atlantic
+131,GA,Zoo Atlanta,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d102784-Reviews-Zoo_Atlanta-Atlanta_Georgia.html,South Atlantic
+132,GA,Consolidated Gold Mine,Minas,https://www.tripadvisor.com.ar/Attraction_Review-g34882-d146710-Reviews-Consolidated_Gold_Mine-Dahlonega_Georgia.html,South Atlantic
+133,GA,Amicalola Falls State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g34892-d132604-Reviews-Amicalola_Falls_State_Park-Dawsonville_Georgia.html,South Atlantic
+134,GA,Brasstown Bald Mountain,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g34775-d266002-Reviews-Brasstown_Bald_Mountain-Blairsville_Georgia.html,South Atlantic
+135,GA,Savannah Historic District,"Lugares históricos, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d181706-Reviews-Savannah_Historic_District-Savannah_Georgia.html,South Atlantic
+136,GA,Catedral de San Juan el Bautista,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d103143-Reviews-Cathedral_of_St_John_the_Baptist-Savannah_Georgia.html,South Atlantic
+137,GA,Parque Forsyth,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d259614-Reviews-Forsyth_Park-Savannah_Georgia.html,South Atlantic
+138,GA,Bonaventure Cemetery,Cementerios,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d103148-Reviews-Bonaventure_Cemetery-Savannah_Georgia.html,South Atlantic
+139,GA,Atlanta Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d104713-Reviews-Atlanta_Botanical_Garden-Atlanta_Georgia.html,South Atlantic
+140,GA,Georgia Sea Turtle Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g35034-d940525-Reviews-Georgia_Sea_Turtle_Center-Jekyll_Island_Golden_Isles_of_Georgia_Georgia.html,South Atlantic
+141,GA,Atlanta History Center,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g60898-d103493-Reviews-Atlanta_History_Center-Atlanta_Georgia.html,South Atlantic
+142,GA,Congregation Mickve Israel,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d1117705-Reviews-Congregation_Mickve_Israel-Savannah_Georgia.html,South Atlantic
+143,GA,Jimmy Carter Presidential Library & Museum,"Bibliotecas, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60898-d126907-Reviews-Jimmy_Carter_Presidential_Library_Museum-Atlanta_Georgia.html,South Atlantic
+144,GA,Rock City Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g35073-d266189-Reviews-Rock_City_Gardens-Lookout_Mountain_Georgia.html,South Atlantic
+145,GA,Tallulah Gorge State Park,"Parques estatales, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g35300-d256196-Reviews-Tallulah_Gorge_State_Park-Tallulah_Falls_Rabun_County_Georgia.html,South Atlantic
+146,GA,Wormsloe Historic Site,"Lugares históricos, Parques estatales",https://www.tripadvisor.com.ar/Attraction_Review-g60814-d169881-Reviews-Wormsloe_Historic_Site-Savannah_Georgia.html,South Atlantic
+147,GA,Chickamauga and Chattanooga National Military Park,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60770-d105137-Reviews-Chickamauga_and_Chattanooga_National_Military_Park-Fort_Oglethorpe_Georgia.html,South Atlantic
+148,GA,Skidaway Island State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d146889-Reviews-Skidaway_Island_State_Park-Savannah_Georgia.html,South Atlantic
+149,GA,Gibbs Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g34762-d2578254-Reviews-Gibbs_Gardens-Ball_Ground_Georgia.html,South Atlantic
+150,GA,Center for Puppetry Arts,"Museos especializados, Teatros",https://www.tripadvisor.com.ar/Attraction_Review-g60898-d116441-Reviews-Center_for_Puppetry_Arts-Atlanta_Georgia.html,South Atlantic
+151,GA,Fernbank Museum,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g60898-d103499-Reviews-Fernbank_Museum-Atlanta_Georgia.html,South Atlantic
+152,GA,Cumberland Island Ferry,Ferris,https://www.tripadvisor.com.ar/Attraction_Review-g60783-d19807974-Reviews-Cumberland_Island_Ferry-St_Marys_Georgia.html,South Atlantic
+153,GA,Wolf Mountain Vineyards & Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g34882-d612656-Reviews-Wolf_Mountain_Vineyards_Winery-Dahlonega_Georgia.html,South Atlantic
+154,GA,Toccoa River Swinging Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g34778-d8559477-Reviews-Toccoa_River_Swinging_Bridge-Blue_Ridge_Georgia.html,South Atlantic
+155,GA,Okefenokee National Wildlife Refuge,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g34948-d103327-Reviews-Okefenokee_National_Wildlife_Refuge-Folkston_Georgia.html,South Atlantic
+156,GA,National Civil War Naval Museum,"Museos militares, Barcos",https://www.tripadvisor.com.ar/Attraction_Review-g34859-d103688-Reviews-National_Civil_War_Naval_Museum-Columbus_Georgia.html,South Atlantic
+157,GA,Telfair Academy,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d107725-Reviews-Telfair_Academy-Savannah_Georgia.html,South Atlantic
+158,GA,Jekyll Island Trail System,Rutas para ciclismo,https://www.tripadvisor.com.ar/Attraction_Review-g35034-d11732975-Reviews-Jekyll_Island_Trail_System-Jekyll_Island_Golden_Isles_of_Georgia_Georgia.html,South Atlantic
+159,GA,Meadow Garden,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g29212-d5214543-Reviews-Meadow_Garden-Augusta_Georgia.html,South Atlantic
+160,GA,Cavender Creek Vineyards and Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g34882-d3397780-Reviews-Cavender_Creek_Vineyards_and_Winery-Dahlonega_Georgia.html,South Atlantic
+161,GA,The Waving Girl Statue,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d8693164-Reviews-The_Waving_Girl_Statue-Savannah_Georgia.html,South Atlantic
+162,GA,Chef Darin's Kitchen Table Hands-On Cooking Classes,Clases de cocina,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d7062353-Reviews-Chef_Darin_s_Kitchen_Table_Hands_On_Cooking_Classes-Savannah_Georgia.html,South Atlantic
+163,GA,Pounce Cat Cafe,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g60814-d15129109-Reviews-Pounce_Cat_Cafe-Savannah_Georgia.html,South Atlantic
+164,SC,Brookgreen Gardens,"Zoológicos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g54358-d136419-Reviews-Brookgreen_Gardens-Murrells_Inlet_South_Carolina.html,South Atlantic
+165,SC,Broadway at the Beach,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d469564-Reviews-Broadway_at_the_Beach-Myrtle_Beach_South_Carolina.html,South Atlantic
+166,SC,Patriots Point Naval & Maritime Museum,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g54354-d527374-Reviews-Patriots_Point_Naval_Maritime_Museum-Mount_Pleasant_South_Carolina.html,South Atlantic
+167,SC,Falls Park on the Reedy,"Parques, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g54258-d605036-Reviews-Falls_Park_on_the_Reedy-Greenville_South_Carolina.html,South Atlantic
+168,SC,Fort Sumter National Monument,"Lugares históricos, Bases e instalaciones militares",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104632-Reviews-Fort_Sumter_National_Monument-Charleston_South_Carolina.html,South Atlantic
+169,SC,Middleton Place,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d144683-Reviews-Middleton_Place-Charleston_South_Carolina.html,South Atlantic
+170,SC,Parque Charleston Waterfront,"Monumentos y lugares de interés, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d144260-Reviews-Joe_Riley_Waterfront_Park-Charleston_South_Carolina.html,South Atlantic
+171,SC,Magnolia Plantation & Gardens,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104636-Reviews-Magnolia_Plantation_Gardens-Charleston_South_Carolina.html,South Atlantic
+172,SC,Boone Hall Plantation,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g54354-d144263-Reviews-Boone_Hall_Plantation-Mount_Pleasant_South_Carolina.html,South Atlantic
+173,SC,Coligny Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d556460-Reviews-Coligny_Beach-Hilton_Head_South_Carolina.html,South Atlantic
+174,SC,Arthur Ravenel Jr. Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d573722-Reviews-Arthur_Ravenel_Jr_Bridge-Charleston_South_Carolina.html,South Atlantic
+175,SC,SkyWheel Myrtle Beach,Torres y observatorios,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d2172659-Reviews-SkyWheel_Myrtle_Beach-Myrtle_Beach_South_Carolina.html,South Atlantic
+176,SC,Huntington Beach State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g54358-d218798-Reviews-Huntington_Beach_State_Park-Murrells_Inlet_South_Carolina.html,South Atlantic
+177,SC,Hilton Head Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d11094478-Reviews-Hilton_Head_Distillery-Hilton_Head_South_Carolina.html,South Atlantic
+178,SC,Hunting Island State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g54135-d146911-Reviews-Hunting_Island_State_Park-Beaufort_South_Carolina.html,South Atlantic
+179,SC,Hilton Head Island Bike Trails,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d4680778-Reviews-Hilton_Head_Island_Bike_Trails-Hilton_Head_South_Carolina.html,South Atlantic
+180,SC,The Center for Birds of Prey,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g30093-d1491507-Reviews-The_Center_for_Birds_of_Prey-Awendaw_South_Carolina.html,South Atlantic
+181,SC,Barefoot Landing,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g54371-d268825-Reviews-Barefoot_Landing-North_Myrtle_Beach_South_Carolina.html,South Atlantic
+182,SC,Nathaniel Russell House,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104625-Reviews-Nathaniel_Russell_House-Charleston_South_Carolina.html,South Atlantic
+183,SC,Angel Oak Tree,"Monumentos y lugares de interés, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g54291-d1078464-Reviews-Angel_Oak_Tree-Johns_Island_South_Carolina.html,South Atlantic
+184,SC,Riverbanks Zoo and Garden,"Áreas de naturaleza y vida silvestre, Zoológicos",https://www.tripadvisor.com.ar/Attraction_Review-g54184-d126621-Reviews-Riverbanks_Zoo_and_Garden-Columbia_South_Carolina.html,South Atlantic
+185,SC,GTS Theatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d4060362-Reviews-GTS_Theatre-Myrtle_Beach_South_Carolina.html,South Atlantic
+186,SC,Charleston Tea Garden,Granjas,https://www.tripadvisor.com.ar/Attraction_Review-g54482-d561003-Reviews-Charleston_Tea_Garden-Wadmalaw_Island_South_Carolina.html,South Atlantic
+187,SC,Drayton Hall,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d105765-Reviews-Drayton_Hall-Charleston_South_Carolina.html,South Atlantic
+188,SC,Aiken-Rhett House,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104623-Reviews-Aiken_Rhett_House-Charleston_South_Carolina.html,South Atlantic
+189,SC,Battery & White Point Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d2172814-Reviews-Battery_White_Point_Gardens-Charleston_South_Carolina.html,South Atlantic
+190,SC,The Black Fedora Comedy Mystery Theatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d3487690-Reviews-The_Black_Fedora_Comedy_Mystery_Theatre-Charleston_South_Carolina.html,South Atlantic
+191,SC,McLeod Plantation Historic Site,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d8036493-Reviews-McLeod_Plantation_Historic_Site-Charleston_South_Carolina.html,South Atlantic
+192,SC,Hopsewee Plantation,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g54245-d143503-Reviews-Hopsewee_Plantation-Georgetown_South_Carolina.html,South Atlantic
+193,SC,Myrtle Beach State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d527485-Reviews-Myrtle_Beach_State_Park-Myrtle_Beach_South_Carolina.html,South Atlantic
+194,SC,Brookgreen Gardens,"Zoológicos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g54358-d136419-Reviews-Brookgreen_Gardens-Murrells_Inlet_South_Carolina.html,South Atlantic
+195,SC,Broadway at the Beach,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d469564-Reviews-Broadway_at_the_Beach-Myrtle_Beach_South_Carolina.html,South Atlantic
+196,SC,Patriots Point Naval & Maritime Museum,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g54354-d527374-Reviews-Patriots_Point_Naval_Maritime_Museum-Mount_Pleasant_South_Carolina.html,South Atlantic
+197,SC,Falls Park on the Reedy,"Parques, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g54258-d605036-Reviews-Falls_Park_on_the_Reedy-Greenville_South_Carolina.html,South Atlantic
+198,SC,Fort Sumter National Monument,"Lugares históricos, Bases e instalaciones militares",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104632-Reviews-Fort_Sumter_National_Monument-Charleston_South_Carolina.html,South Atlantic
+199,SC,Middleton Place,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d144683-Reviews-Middleton_Place-Charleston_South_Carolina.html,South Atlantic
+200,SC,Old Exchange & Provost Dungeon,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104630-Reviews-Old_Exchange_Provost_Dungeon-Charleston_South_Carolina.html,South Atlantic
+201,SC,Cathedral of Saint John the Baptist,"Edificios con valor arquitectónico, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d1209845-Reviews-Cathedral_of_Saint_John_the_Baptist-Charleston_South_Carolina.html,South Atlantic
+202,SC,The Charleston Museum,"Lugares históricos, Museos de historia natural",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104631-Reviews-The_Charleston_Museum-Charleston_South_Carolina.html,South Atlantic
+203,SC,Cypress Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g54348-d144258-Reviews-Cypress_Gardens-Moncks_Corner_South_Carolina.html,South Atlantic
+204,SC,Botany Bay Plantation Heritage Preserve/ Wildlife Management Area,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g54215-d2624530-Reviews-Botany_Bay_Plantation_Heritage_Preserve_Wildlife_Management_Area-Edisto_Island_Sou.html,South Atlantic
+205,SC,LuLu's Beach Arcade and Ropes Course,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g54371-d16629097-Reviews-LuLu_s_Beach_Arcade_and_Ropes_Course-North_Myrtle_Beach_South_Carolina.html,South Atlantic
+206,SC,Cherry Grove Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g54371-d5828775-Reviews-Cherry_Grove_Beach-North_Myrtle_Beach_South_Carolina.html,South Atlantic
+207,SC,Charles Towne Landing State Historic Site,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d144262-Reviews-Charles_Towne_Landing_State_Historic_Site-Charleston_South_Carolina.html,South Atlantic
+208,SC,Morris Island Lighthouse,Faros,https://www.tripadvisor.com.ar/Attraction_Review-g54231-d263245-Reviews-Morris_Island_Lighthouse-Folly_Beach_South_Carolina.html,South Atlantic
+209,SC,Sullivan's Island Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g54454-d143448-Reviews-Sullivan_s_Island_Beach-Sullivan_s_Island_South_Carolina.html,South Atlantic
+210,SC,Robert Trent Jones Oceanfront Course,Campos de golf,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d1584041-Reviews-Robert_Trent_Jones_Oceanfront_Course-Hilton_Head_South_Carolina.html,South Atlantic
+211,SC,Liberty Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g54258-d10251285-Reviews-Liberty_Bridge-Greenville_South_Carolina.html,South Atlantic
+212,SC,Robert Lange Studios,Galerías de arte,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d3930661-Reviews-Robert_Lange_Studios-Charleston_South_Carolina.html,South Atlantic
+213,SC,The Carolina Opry,Teatro y espectáculos,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d257721-Reviews-The_Carolina_Opry-Myrtle_Beach_South_Carolina.html,South Atlantic
+214,SC,Wheels of Yesteryear,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d4097800-Reviews-Wheels_of_Yesteryear-Myrtle_Beach_South_Carolina.html,South Atlantic
+215,SC,Columbia Museum of Art,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g54184-d534096-Reviews-Columbia_Museum_of_Art-Columbia_South_Carolina.html,South Atlantic
+216,SC,Joseph Manigault House,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g54171-d104626-Reviews-Joseph_Manigault_House-Charleston_South_Carolina.html,South Atlantic
+217,SC,City Scape Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g54388-d4307467-Reviews-City_Scape_Winery-Pelzer_South_Carolina.html,South Atlantic
+218,SC,Island Life Bike Rentals & Tours,Alquileres de equipos,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d13413798-Reviews-Island_Life_Bike_Rentals_Tours-Hilton_Head_South_Carolina.html,South Atlantic
+219,SC,Riddles Escape Rooms,"Juegos de escape, Centros de juego y entretenimiento",https://www.tripadvisor.com.ar/Attraction_Review-g54359-d10440776-Reviews-Riddles_Escape_Rooms-Myrtle_Beach_South_Carolina.html,South Atlantic
+220,SC,Twelve 33 Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g54319-d17381733-Reviews-Twelve_33_Distillery-Little_River_South_Carolina.html,South Atlantic
+221,SC,Craft Axe Throwing- Greenville,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g54258-d13753524-Reviews-Craft_Axe_Throwing_Greenville-Greenville_South_Carolina.html,South Atlantic
+222,SC,Palmetto Carriage Works,"Tours turísticos, Tours en carruajes tirados por caballos",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d626818-Reviews-Palmetto_Carriage_Works-Charleston_South_Carolina.html,South Atlantic
+223,SC,The Art of Massage and Yoga Therapy,"Gimnasios, Yoga y pilates",https://www.tripadvisor.com.ar/Attraction_Review-g54273-d1955649-Reviews-The_Art_of_Massage_and_Yoga_Therapy-Hilton_Head_South_Carolina.html,South Atlantic
+224,SC,Middleton Place Equestrian Center,"Rutas ecuestres, Tours a caballo",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d2447449-Reviews-Middleton_Place_Equestrian_Center-Charleston_South_Carolina.html,South Atlantic
+225,SC,Horseback Riding of Myrtle Beach,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g54359-d1198681-Reviews-Horseback_Riding_of_Myrtle_Beach-Myrtle_Beach_South_Carolina.html,South Atlantic
+226,SC,Cross Island Bike Rental,Alquileres de equipos,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d12491296-Reviews-Cross_Island_Bike_Rental-Hilton_Head_South_Carolina.html,South Atlantic
+227,SC,Charleston Sailing Charters,"Tours en barco, Tours privados",https://www.tripadvisor.com.ar/Attraction_Review-g54171-d1898472-Reviews-Charleston_Sailing_Charters-Charleston_South_Carolina.html,South Atlantic
+228,SC,Legendary Golf,Minigolf,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d1985579-Reviews-Legendary_Golf-Hilton_Head_South_Carolina.html,South Atlantic
+229,SC,Pirates of Hilton Head,Tours en barco,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d1812035-Reviews-Pirates_of_Hilton_Head-Hilton_Head_South_Carolina.html,South Atlantic
+230,SC,Hilton Head Escape Room,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d12833355-Reviews-Hilton_Head_Escape_Room-Hilton_Head_South_Carolina.html,South Atlantic
+231,SC,Island Explorer,"Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g54273-d1235663-Reviews-Island_Explorer-Hilton_Head_South_Carolina.html,South Atlantic
+232,SC,Bluewater Adventure,"Tours en barco, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g54273-d13981738-Reviews-Bluewater_Adventure-Hilton_Head_South_Carolina.html,South Atlantic
+233,SC,"J & L Kayaks, LLC Kayak Tours and Rentals","Tours en barco, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g54371-d2578939-Reviews-J_L_Kayaks_LLC_Kayak_Tours_and_Rentals-North_Myrtle_Beach_South_Carolina.html,South Atlantic
+234,SC,Southeastern Summer Theatre Institute,"Teatros, Teatro y espectáculos",https://www.tripadvisor.com.ar/Attraction_Review-g54273-d23390991-Reviews-Southeastern_Summer_Theatre_Institute-Hilton_Head_South_Carolina.html,South Atlantic
+235,SC,Michael Anthony's Cooking Classes,Clases de cocina,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d13563289-Reviews-Michael_Anthony_s_Cooking_Classes-Hilton_Head_South_Carolina.html,South Atlantic
+236,SC,"Lowsea Bike, Beach and Baby Rental",Alquileres de equipos,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d6782485-Reviews-Lowsea_Bike_Beach_and_Baby_Rental-Hilton_Head_South_Carolina.html,South Atlantic
+237,SC,Namaste Spa at Barony Beach Club,Spas,https://www.tripadvisor.com.ar/Attraction_Review-g54273-d8533214-Reviews-Namaste_Spa_at_Barony_Beach_Club-Hilton_Head_South_Carolina.html,South Atlantic
+238,NC,Biltmore,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d102846-Reviews-Biltmore-Asheville_North_Carolina.html,South Atlantic
+239,NC,Blue Ridge Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g1438847-d108327-Reviews-Blue_Ridge_Parkway-North_Carolina_Mountains_North_Carolina.html,South Atlantic
+240,NC,Elijah Mountain Gem Mine and Goat Farm,"Granjas, Minas",https://www.tripadvisor.com.ar/Attraction_Review-g49206-d2279593-Reviews-Elijah_Mountain_Gem_Mine_and_Goat_Farm-Hendersonville_North_Carolina.html,South Atlantic
+241,NC,Battleship North Carolina,Barcos,https://www.tripadvisor.com.ar/Attraction_Review-g49673-d126588-Reviews-Battleship_North_Carolina-Wilmington_North_Carolina.html,South Atlantic
+242,NC,Wright Brothers National Memorial,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g49256-d108046-Reviews-Wright_Brothers_National_Memorial-Kill_Devil_Hills_Outer_Banks_North_Carolina.html,South Atlantic
+243,NC,Billy Graham Library,Bibliotecas,https://www.tripadvisor.com.ar/Attraction_Review-g49022-d877925-Reviews-Billy_Graham_Library-Charlotte_North_Carolina.html,South Atlantic
+244,NC,The North Carolina Arboretum,"Parques nacionales, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d144459-Reviews-The_North_Carolina_Arboretum-Asheville_North_Carolina.html,South Atlantic
+245,NC,International Civil Rights Center & Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60845-d1798732-Reviews-International_Civil_Rights_Center_Museum-Greensboro_North_Carolina.html,South Atlantic
+246,NC,North Carolina Museum of Natural Sciences,"Museos de historia natural, Museos de ciencia",https://www.tripadvisor.com.ar/Attraction_Review-g49463-d103570-Reviews-North_Carolina_Museum_of_Natural_Sciences-Raleigh_North_Carolina.html,South Atlantic
+247,NC,Jockey's Ridge State Park,"Parques estatales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g49382-d136522-Reviews-Jockey_s_Ridge_State_Park-Nags_Head_Outer_Banks_North_Carolina.html,South Atlantic
+248,NC,Sarah P. Duke Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g49092-d527148-Reviews-Sarah_P_Duke_Gardens-Durham_North_Carolina.html,South Atlantic
+249,NC,Dry Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g49215-d181861-Reviews-Dry_Falls-Highlands_North_Carolina.html,South Atlantic
+250,NC,Cape Hatteras Lighthouse,"Lugares históricos, Faros",https://www.tripadvisor.com.ar/Attraction_Review-g48993-d104621-Reviews-Cape_Hatteras_Lighthouse-Buxton_Hatteras_Island_Outer_Banks_North_Carolina.html,South Atlantic
+251,NC,Chimney Rock at Chimney Rock State Park,"Áreas de naturaleza y vida silvestre, Miradores",https://www.tripadvisor.com.ar/Attraction_Review-g49025-d143574-Reviews-Chimney_Rock_at_Chimney_Rock_State_Park-Chimney_Rock_North_Carolina.html,South Atlantic
+252,NC,Grandfather Mountain,"Montañas, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g49294-d143571-Reviews-Grandfather_Mountain-Linville_North_Carolina.html,South Atlantic
+253,NC,North Carolina Museum of Art,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g49463-d137058-Reviews-North_Carolina_Museum_of_Art-Raleigh_North_Carolina.html,South Atlantic
+254,NC,NASCAR Hall of Fame,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g49022-d1771645-Reviews-NASCAR_Hall_of_Fame-Charlotte_North_Carolina.html,South Atlantic
+255,NC,Wheels Through Time Transportation Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g49313-d254932-Reviews-Wheels_Through_Time_Transportation_Museum-Maggie_Valley_North_Carolina.html,South Atlantic
+256,NC,Currituck Beach Lighthouse,"Museos especializados, Faros",https://www.tripadvisor.com.ar/Attraction_Review-g49058-d256096-Reviews-Currituck_Beach_Lighthouse-Corolla_Outer_Banks_North_Carolina.html,South Atlantic
+257,NC,The Folk Art Center (Southern Highland Craft Guild),"Museos especializados, Bibliotecas",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d284822-Reviews-The_Folk_Art_Center_Southern_Highland_Craft_Guild-Asheville_North_Carolina.html,South Atlantic
+258,NC,Bodie Island Lighthouse,Faros,https://www.tripadvisor.com.ar/Attraction_Review-g49382-d1211847-Reviews-Bodie_Island_Lighthouse-Nags_Head_Outer_Banks_North_Carolina.html,South Atlantic
+259,NC,Mingo Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g49023-d1382808-Reviews-Mingo_Falls-Cherokee_North_Carolina.html,South Atlantic
+260,NC,JOLO Winery & Vineyards,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g49430-d6642663-Reviews-JOLO_Winery_Vineyards-Pilot_Mountain_North_Carolina.html,South Atlantic
+261,NC,Sierra Nevada Brewing Co. Tours & Tastings,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g1552723-d7181312-Reviews-Sierra_Nevada_Brewing_Co_Tours_Tastings-Mills_River_North_Carolina.html,South Atlantic
+262,NC,North Carolina Aquarium on Roanoke Island,Acuarios,https://www.tripadvisor.com.ar/Attraction_Review-g60755-d532104-Reviews-North_Carolina_Aquarium_on_Roanoke_Island-Manteo_Roanoke_Island_Outer_Banks_North_C.html,South Atlantic
+263,NC,Airlie Gardens,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g49673-d318472-Reviews-Airlie_Gardens-Wilmington_North_Carolina.html,South Atlantic
+264,NC,Greensboro Science Center,Museos de ciencia,https://www.tripadvisor.com.ar/Attraction_Review-g60845-d2195481-Reviews-Greensboro_Science_Center-Greensboro_North_Carolina.html,South Atlantic
+265,NC,Museum of the Cherokee Indian,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g49023-d144661-Reviews-Museum_of_the_Cherokee_Indian-Cherokee_North_Carolina.html,South Atlantic
+266,NC,Biltmore,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d102846-Reviews-Biltmore-Asheville_North_Carolina.html,South Atlantic
+267,NC,Blue Ridge Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g1438847-d108327-Reviews-Blue_Ridge_Parkway-North_Carolina_Mountains_North_Carolina.html,South Atlantic
+268,NC,Elijah Mountain Gem Mine and Goat Farm,"Granjas, Minas",https://www.tripadvisor.com.ar/Attraction_Review-g49206-d2279593-Reviews-Elijah_Mountain_Gem_Mine_and_Goat_Farm-Hendersonville_North_Carolina.html,South Atlantic
+269,NC,Battleship North Carolina,Barcos,https://www.tripadvisor.com.ar/Attraction_Review-g49673-d126588-Reviews-Battleship_North_Carolina-Wilmington_North_Carolina.html,South Atlantic
+270,NC,Wright Brothers National Memorial,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g49256-d108046-Reviews-Wright_Brothers_National_Memorial-Kill_Devil_Hills_Outer_Banks_North_Carolina.html,South Atlantic
+271,NC,Billy Graham Library,Bibliotecas,https://www.tripadvisor.com.ar/Attraction_Review-g49022-d877925-Reviews-Billy_Graham_Library-Charlotte_North_Carolina.html,South Atlantic
+272,NC,The North Carolina Arboretum,"Parques nacionales, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d144459-Reviews-The_North_Carolina_Arboretum-Asheville_North_Carolina.html,South Atlantic
+273,NC,Mount Mitchell State Park,"Parques estatales, Montañas",https://www.tripadvisor.com.ar/Attraction_Review-g48991-d144423-Reviews-Mount_Mitchell_State_Park-Burnsville_North_Carolina.html,South Atlantic
+274,NC,Cape Hatteras National Seashore,"Parques nacionales, Playas",https://www.tripadvisor.com.ar/Attraction_Review-g49200-d106530-Reviews-Cape_Hatteras_National_Seashore-Hatteras_Island_Outer_Banks_North_Carolina.html,South Atlantic
+275,NC,Asheville Pinball Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d5948292-Reviews-Asheville_Pinball_Museum-Asheville_North_Carolina.html,South Atlantic
+276,NC,Basilica of Saint Lawrence,Iglesias y catedrales,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d3571849-Reviews-Basilica_of_Saint_Lawrence-Asheville_North_Carolina.html,South Atlantic
+277,NC,Jennette's Pier,Muelles y paseos peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g49382-d2183211-Reviews-Jennette_s_Pier-Nags_Head_Outer_Banks_North_Carolina.html,South Atlantic
+278,NC,Old Salem Museums & Gardens,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g49680-d144858-Reviews-Old_Salem_Museums_Gardens-Winston_Salem_North_Carolina.html,South Atlantic
+279,NC,Duke University Chapel,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g49092-d532114-Reviews-Duke_University_Chapel-Durham_North_Carolina.html,South Atlantic
+280,NC,Riverwalk,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g49673-d4020985-Reviews-Riverwalk-Wilmington_North_Carolina.html,South Atlantic
+281,NC,Western North Carolina Nature Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d284819-Reviews-Western_North_Carolina_Nature_Center-Asheville_North_Carolina.html,South Atlantic
+282,NC,North Carolina Aquarium at Fort Fisher,Acuarios,https://www.tripadvisor.com.ar/Attraction_Review-g49265-d126593-Reviews-North_Carolina_Aquarium_at_Fort_Fisher-Kure_Beach_North_Carolina.html,South Atlantic
+283,NC,Durham Bulls Athletic Park,Campos de juego y estadios,https://www.tripadvisor.com.ar/Attraction_Review-g49092-d550093-Reviews-Durham_Bulls_Athletic_Park-Durham_North_Carolina.html,South Atlantic
+284,NC,Thomas Wolfe Memorial,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d105015-Reviews-Thomas_Wolfe_Memorial-Asheville_North_Carolina.html,South Atlantic
+285,NC,Blue ridge Parkway Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d8365151-Reviews-Blue_ridge_Parkway_Visitor_Center-Asheville_North_Carolina.html,South Atlantic
+286,NC,Smoky Mountain Trains Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g48984-d5217866-Reviews-Smoky_Mountain_Trains_Museum-Bryson_City_North_Carolina.html,South Atlantic
+287,NC,The Karen Beasley Sea Turtle Rescue and Rehabilitation Center,"Tiendas de regalos, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g49584-d2186945-Reviews-The_Karen_Beasley_Sea_Turtle_Rescue_and_Rehabilitation_Center-Surf_City_Topsail_Is.html,South Atlantic
+288,NC,Escapology Fayetteville,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g49136-d16819648-Reviews-Escapology_Fayetteville-Fayetteville_North_Carolina.html,South Atlantic
+289,NC,Green Light Escape Room,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g49673-d10771221-Reviews-Green_Light_Escape_Room-Wilmington_North_Carolina.html,South Atlantic
+290,NC,Vx3 Trail Rides,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g48966-d4272846-Reviews-Vx3_Trail_Rides-Blowing_Rock_North_Carolina.html,South Atlantic
+291,NC,North Carolina Glass Center,Clases y talleres,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d3954787-Reviews-North_Carolina_Glass_Center-Asheville_North_Carolina.html,South Atlantic
+292,NC,LaZoom,"Tours por la ciudad, Tours de fantasmas y vampiros",https://www.tripadvisor.com.ar/Attraction_Review-g60742-d1114024-Reviews-LaZoom-Asheville_North_Carolina.html,South Atlantic
+293,NC,Asheville Massage & Bodywork Sauna & Foot Soak Spa,Spas,https://www.tripadvisor.com.ar/Attraction_Review-g60742-d23965488-Reviews-Asheville_Massage_Bodywork_Sauna_Foot_Soak_Spa-Asheville_North_Carolina.html,South Atlantic
+294,MD,U.S. Naval Academy,"Museos militares, Bases e instalaciones militares",https://www.tripadvisor.com.ar/Attraction_Review-g29494-d258251-Reviews-U_S_Naval_Academy-Annapolis_Maryland.html,South Atlantic
+295,MD,Oriole Park at Camden Yards,Campos de juego y estadios,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d104307-Reviews-Oriole_Park_at_Camden_Yards-Baltimore_Maryland.html,South Atlantic
+296,MD,Fort McHenry National Monument and Historic Shrine,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60811-d109069-Reviews-Fort_McHenry_National_Monument_and_Historic_Shrine-Baltimore_Maryland.html,South Atlantic
+297,MD,Ocean City Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g41298-d273168-Reviews-Ocean_City_Beach-Ocean_City_Maryland.html,South Atlantic
+298,MD,Fell's Point,"Barrios, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g60811-d109074-Reviews-Fell_s_Point-Baltimore_Maryland.html,South Atlantic
+299,MD,Assateague Island National Seashore,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g57603-d106596-Reviews-Assateague_Island_National_Seashore-Assateague_Island_Maryland.html,South Atlantic
+300,MD,Antietam National Battlefield,"Áreas históricas peatonales, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60720-d146725-Reviews-Antietam_National_Battlefield-Sharpsburg_Maryland.html,South Atlantic
+301,MD,The Walters Art Museum,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d103081-Reviews-The_Walters_Art_Museum-Baltimore_Maryland.html,South Atlantic
+302,MD,American Visionary Art Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d144284-Reviews-American_Visionary_Art_Museum-Baltimore_Maryland.html,South Atlantic
+303,MD,Sagamore Spirit Distillery,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d12093928-Reviews-Sagamore_Spirit_Distillery-Baltimore_Maryland.html,South Atlantic
+304,MD,The Adventure Park at Sandy Spring,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g41366-d1861813-Reviews-The_Adventure_Park_at_Sandy_Spring-Sandy_Spring_Montgomery_County_Maryland.html,South Atlantic
+305,MD,Baltimore Museum of Art,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60811-d109079-Reviews-Baltimore_Museum_of_Art-Baltimore_Maryland.html,South Atlantic
+306,MD,Chesapeake Bay Maritime Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g41364-d103770-Reviews-Chesapeake_Bay_Maritime_Museum-St_Michaels_Talbot_County_Maryland.html,South Atlantic
+307,MD,Annapolis Historic District,Barrios,https://www.tripadvisor.com.ar/Attraction_Review-g29494-d4546220-Reviews-Annapolis_Historic_District-Annapolis_Maryland.html,South Atlantic
+308,MD,Peabody Library,Bibliotecas,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d532175-Reviews-Peabody_Library-Baltimore_Maryland.html,South Atlantic
+309,MD,Guinness Open Gate Brewery & Barrel House,Cervecerías,https://www.tripadvisor.com.ar/Attraction_Review-g41182-d13508023-Reviews-Guinness_Open_Gate_Brewery_Barrel_House-Halethorpe_Maryland.html,South Atlantic
+310,MD,U.S. Naval Academy,"Museos militares, Bases e instalaciones militares",https://www.tripadvisor.com.ar/Attraction_Review-g29494-d258251-Reviews-U_S_Naval_Academy-Annapolis_Maryland.html,South Atlantic
+311,MD,Oriole Park at Camden Yards,Campos de juego y estadios,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d104307-Reviews-Oriole_Park_at_Camden_Yards-Baltimore_Maryland.html,South Atlantic
+312,MD,Fort McHenry National Monument and Historic Shrine,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60811-d109069-Reviews-Fort_McHenry_National_Monument_and_Historic_Shrine-Baltimore_Maryland.html,South Atlantic
+313,MD,Ocean City Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g41298-d273168-Reviews-Ocean_City_Beach-Ocean_City_Maryland.html,South Atlantic
+314,MD,Basilica of the National Shrine of the Assumption of the Blessed Virgin Mary,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d144281-Reviews-Basilica_of_the_National_Shrine_of_the_Assumption_of_the_Blessed_Virgin_Mary-Baltim.html,South Atlantic
+315,MD,Calvert Marine Museum and Drum Point Lighthouse,"Museos especializados, Faros",https://www.tripadvisor.com.ar/Attraction_Review-g41382-d319124-Reviews-Calvert_Marine_Museum_and_Drum_Point_Lighthouse-Solomons_Calvert_County_Maryland.html,South Atlantic
+316,MD,William Paca House & Garden,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g29494-d116665-Reviews-William_Paca_House_Garden-Annapolis_Maryland.html,South Atlantic
+317,MD,Edgar Allan Poe's Grave Site and Memorial,Cementerios,https://www.tripadvisor.com.ar/Attraction_Review-g60811-d144278-Reviews-Edgar_Allan_Poe_s_Grave_Site_and_Memorial-Baltimore_Maryland.html,South Atlantic
+318,MD,Great Allegheny Passage,"Rutas para ciclismo, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g41098-d2292777-Reviews-Great_Allegheny_Passage-Cumberland_Maryland.html,South Atlantic
+319,MD,National Harbor,Barrios,https://www.tripadvisor.com.ar/Attraction_Review-g7791276-d10847405-Reviews-National_Harbor-National_Harbor_Maryland.html,South Atlantic
+320,MD,Washington Monument and Mount Vernon Place,"Monumentos y lugares de interés, Torres y observatorios",https://www.tripadvisor.com.ar/Attraction_Review-g60811-d109117-Reviews-Washington_Monument_and_Mount_Vernon_Place-Baltimore_Maryland.html,South Atlantic
+321,MD,Harriet Tubman Underground Railroad National Historical Park,"Centros de información turística, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g41064-d12164730-Reviews-Harriet_Tubman_Underground_Railroad_National_Historical_Park-Church_Creek_Marylan.html,South Atlantic
+322,MD,Autobahn Indoor Speedway & Events,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g41208-d4475701-Reviews-Autobahn_Indoor_Speedway_Events-Jessup_Maryland.html,South Atlantic
+323,MD,Templo de Washington D.C.,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g41212-d20951766-Reviews-Washington_D_C_Temple_Visitors_Center-Kensington_Montgomery_County_Maryland.html,South Atlantic
+324,VA,Arlington National Cemetery,"Lugares históricos, Cementerios",https://www.tripadvisor.com.ar/Attraction_Review-g30242-d102529-Reviews-Arlington_National_Cemetery-Arlington_Virginia.html,South Atlantic
+325,VA,Monticello de Thomas Jefferson,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g57592-d102649-Reviews-Monticello-Charlottesville_Virginia.html,South Atlantic
+326,VA,Historic Jamestowne,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g58313-d102548-Reviews-Historic_Jamestowne-Williamsburg_Virginia.html,South Atlantic
+327,VA,Steven F Udvar-Hazy Center,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g57589-d1957407-Reviews-Steven_F_Udvar_Hazy_Center-Chantilly_Fairfax_County_Virginia.html,South Atlantic
+328,VA,Luray Caverns,"Cañones, Cavernas y cuevas",https://www.tripadvisor.com.ar/Attraction_Review-g60964-d104021-Reviews-Luray_Caverns-Luray_Virginia.html,South Atlantic
+329,VA,Virginia Beach Boardwalk,Muelles y paseos peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g58277-d269374-Reviews-Virginia_Beach_Boardwalk-Virginia_Beach_Virginia.html,South Atlantic
+330,VA,George Washington's Mount Vernon,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g57996-d104407-Reviews-George_Washington_s_Mount_Vernon-Mount_Vernon_Fairfax_County_Virginia.html,South Atlantic
+331,VA,Virginia Museum of Fine Arts,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g60893-d267437-Reviews-Virginia_Museum_of_Fine_Arts-Richmond_Virginia.html,South Atlantic
+332,VA,Jamestown Settlement,"Lugares históricos, Barcos",https://www.tripadvisor.com.ar/Attraction_Review-g58313-d559162-Reviews-Jamestown_Settlement-Williamsburg_Virginia.html,South Atlantic
+333,VA,Tumba de los Desconocidos,Áreas históricas peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g30242-d104638-Reviews-The_Tomb_of_the_Unknown_Soldier-Arlington_Virginia.html,South Atlantic
+334,VA,Maymont,"Monumentos y lugares de interés, Granjas",https://www.tripadvisor.com.ar/Attraction_Review-g60893-d258006-Reviews-Maymont-Richmond_Virginia.html,South Atlantic
+335,VA,Skyline Drive,"Masas de agua, Rutas turísticas",https://www.tripadvisor.com.ar/Attraction_Review-g143051-d145001-Reviews-Skyline_Drive-Shenandoah_National_Park_Virginia.html,South Atlantic
+336,VA,Chincoteague National Wildlife Refuge,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g57602-d104406-Reviews-Chincoteague_National_Wildlife_Refuge-Chincoteague_Island_Virginia.html,South Atlantic
+337,VA,Virginia Safari Park,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g58003-d597021-Reviews-Virginia_Safari_Park-Natural_Bridge_Virginia.html,South Atlantic
+338,VA,Old Town,"Lugares históricos, Barrios",https://www.tripadvisor.com.ar/Attraction_Review-g30226-d266201-Reviews-Old_Town-Alexandria_Virginia.html,South Atlantic
+339,VA,Military Aviation Museum,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g58277-d1632663-Reviews-Military_Aviation_Museum-Virginia_Beach_Virginia.html,South Atlantic
+340,VA,Lewis Ginter Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60893-d102958-Reviews-Lewis_Ginter_Botanical_Garden-Richmond_Virginia.html,South Atlantic
+341,VA,Battleship Wisconsin at Nauticus,Barcos,https://www.tripadvisor.com.ar/Attraction_Review-g58026-d316125-Reviews-Battleship_Wisconsin_at_Nauticus-Norfolk_Virginia.html,South Atlantic
+342,VA,Virginia Creeper Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g30220-d145561-Reviews-Virginia_Creeper_Trail-Abingdon_Virginia.html,South Atlantic
+343,VA,Great Falls Park,"Masas de agua, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60726-d285884-Reviews-Great_Falls_Park-McLean_Fairfax_County_Virginia.html,South Atlantic
+344,VA,Governor's Palace,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g58313-d143926-Reviews-Governor_s_Palace-Williamsburg_Virginia.html,South Atlantic
+345,VA,U.S. Marine Corps War Memorial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g30242-d103272-Reviews-U_S_Marine_Corps_War_Memorial-Arlington_Virginia.html,South Atlantic
+346,VA,Chrysler Museum of Art,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g58026-d316129-Reviews-Chrysler_Museum_of_Art-Norfolk_Virginia.html,South Atlantic
+347,VA,Natural Bridge State Park,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g58003-d279478-Reviews-Natural_Bridge_State_Park-Natural_Bridge_Virginia.html,South Atlantic
+348,VA,National D-Day Memorial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g57494-d265902-Reviews-National_D_Day_Memorial-Bedford_Virginia.html,South Atlantic
+349,VA,Tarnished Truth Distilling Co.,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g58277-d13810360-Reviews-Tarnished_Truth_Distilling_Co-Virginia_Beach_Virginia.html,South Atlantic
+350,VA,Hollywood Cemetery,Cementerios,https://www.tripadvisor.com.ar/Attraction_Review-g60893-d318453-Reviews-Hollywood_Cemetery-Richmond_Virginia.html,South Atlantic
+351,VA,National Museum of the Marine Corps,"Museos militares, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g60940-d562393-Reviews-National_Museum_of_the_Marine_Corps-Triangle_Prince_William_County_Virginia.html,South Atlantic
+352,VA,Arlington National Cemetery,"Lugares históricos, Cementerios",https://www.tripadvisor.com.ar/Attraction_Review-g30242-d102529-Reviews-Arlington_National_Cemetery-Arlington_Virginia.html,South Atlantic
+353,VA,Monticello de Thomas Jefferson,"Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g57592-d102649-Reviews-Monticello-Charlottesville_Virginia.html,South Atlantic
+354,VA,Historic Jamestowne,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g58313-d102548-Reviews-Historic_Jamestowne-Williamsburg_Virginia.html,South Atlantic
+355,VA,Steven F Udvar-Hazy Center,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g57589-d1957407-Reviews-Steven_F_Udvar_Hazy_Center-Chantilly_Fairfax_County_Virginia.html,South Atlantic
+356,VA,Luray Caverns,"Cañones, Cavernas y cuevas",https://www.tripadvisor.com.ar/Attraction_Review-g60964-d104021-Reviews-Luray_Caverns-Luray_Virginia.html,South Atlantic
+357,VA,Virginia Beach Boardwalk,Muelles y paseos peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g58277-d269374-Reviews-Virginia_Beach_Boardwalk-Virginia_Beach_Virginia.html,South Atlantic
+358,VA,George Washington's Mount Vernon,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g57996-d104407-Reviews-George_Washington_s_Mount_Vernon-Mount_Vernon_Fairfax_County_Virginia.html,South Atlantic
+359,VA,Grand Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g57792-d108583-Reviews-Grand_Caverns-Grottoes_Virginia.html,South Atlantic
+360,VA,Grayson Highlands State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g57997-d1028278-Reviews-Grayson_Highlands_State_Park-Mouth_of_Wilson_Virginia.html,South Atlantic
+361,VA,Stonewall Jackson's Headquarters,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g58318-d534501-Reviews-Stonewall_Jackson_s_Headquarters-Winchester_Virginia.html,South Atlantic
+362,VA,Chesapeake Bay Bridge-Tunnel,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g57567-d1208667-Reviews-Chesapeake_Bay_Bridge_Tunnel-Cape_Charles_Virginia.html,South Atlantic
+363,VA,Trump Winery,Viñedos con bodegas,https://www.tripadvisor.com.ar/Attraction_Review-g57592-d267479-Reviews-Trump_Winery-Charlottesville_Virginia.html,South Atlantic
+364,VA,Museum of Chincoteague,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g57602-d278923-Reviews-Museum_of_Chincoteague-Chincoteague_Island_Virginia.html,South Atlantic
+365,VA,Virginia Museum of Transportation,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g58134-d278984-Reviews-Virginia_Museum_of_Transportation-Roanoke_Virginia.html,South Atlantic
+366,VA,Museum of the Shenandoah Valley,"Museos de arte, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g58318-d561581-Reviews-Museum_of_the_Shenandoah_Valley-Winchester_Virginia.html,South Atlantic
+367,VA,Tall Ship Providence,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g30226-d21143313-Reviews-Tall_Ship_Providence-Alexandria_Virginia.html,South Atlantic
+368,VA,Colonial Parkway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60775-d3628264-Reviews-Colonial_Parkway-Yorktown_Virginia.html,South Atlantic
+369,VA,Skyline Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g57755-d108290-Reviews-Skyline_Caverns-Front_Royal_Virginia.html,South Atlantic
+370,VA,Woodlawn & Pope-Leighey House,"Lugares históricos, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g30226-d536537-Reviews-Woodlawn_Pope_Leighey_House-Alexandria_Virginia.html,South Atlantic
+371,VA,Cape Charles Beach,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g57567-d2470029-Reviews-Cape_Charles_Beach-Cape_Charles_Virginia.html,South Atlantic
+372,VA,Stonewall Jackson House,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g57896-d207461-Reviews-Stonewall_Jackson_House-Lexington_Virginia.html,South Atlantic
+373,VA,Colonial National Historic Park,"Parques nacionales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g58313-d6684153-Reviews-Colonial_National_Historic_Park-Williamsburg_Virginia.html,South Atlantic
+374,VA,Endless Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g58013-d108289-Reviews-Endless_Caverns-New_Market_Shenandoah_County_Virginia.html,South Atlantic
+375,VA,Colonial Williamsburg Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g58313-d12816248-Reviews-Colonial_Williamsburg_Visitor_Center-Williamsburg_Virginia.html,South Atlantic
+376,VA,King Neptune Statue on the Boardwalk,"Monumentos y lugares de interés, Monumentos y estatuas",https://www.tripadvisor.com.ar/Attraction_Review-g58277-d14102540-Reviews-King_Neptune_Statue_on_the_Boardwalk-Virginia_Beach_Virginia.html,South Atlantic
+377,VA,Virginia Air & Space Science Center,"Museos especializados, Museos de ciencia",https://www.tripadvisor.com.ar/Attraction_Review-g57804-d104883-Reviews-Virginia_Air_Space_Science_Center-Hampton_Virginia.html,South Atlantic
+378,VA,Caverns At Natural Bridge,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g58003-d2201545-Reviews-Caverns_At_Natural_Bridge-Natural_Bridge_Virginia.html,South Atlantic
+379,VA,Autobahn Indoor Speedway & Events,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g60895-d10593880-Reviews-Autobahn_Indoor_Speedway_Events-Manassas_Prince_William_County_Virginia.html,South Atlantic
+380,WV,Trans-Allegheny Lunatic Asylum,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g59638-d1049077-Reviews-Trans_Allegheny_Lunatic_Asylum-Weston_West_Virginia.html,South Atlantic
+381,WV,Harpers Ferry National Historical Park,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60722-d143167-Reviews-Harpers_Ferry_National_Historical_Park-Harpers_Ferry_West_Virginia.html,South Atlantic
+382,WV,West Virginia Penitentiary,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g59336-d116991-Reviews-West_Virginia_Penitentiary-Moundsville_West_Virginia.html,South Atlantic
+383,WV,New River Gorge Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g59058-d624014-Reviews-New_River_Gorge_Bridge-Fayetteville_West_Virginia.html,South Atlantic
+384,WV,Beckley Exhibition Coal Mine and Youth Museum,"Museos especializados, Minas",https://www.tripadvisor.com.ar/Attraction_Review-g58856-d108070-Reviews-Beckley_Exhibition_Coal_Mine_and_Youth_Museum-Beckley_West_Virginia.html,South Atlantic
+385,WV,Blackwater Falls State Park,"Parques estatales, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g58999-d1819675-Reviews-Blackwater_Falls_State_Park-Davis_West_Virginia.html,South Atlantic
+386,WV,Gandy Dancer Theatre and Conference Center,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g59035-d2311317-Reviews-Gandy_Dancer_Theatre_and_Conference_Center-Elkins_West_Virginia.html,South Atlantic
+387,WV,Lost World Caverns,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g59251-d664793-Reviews-Lost_World_Caverns-Lewisburg_West_Virginia.html,South Atlantic
+388,WV,Cass Scenic Railroad State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g58938-d292764-Reviews-Cass_Scenic_Railroad_State_Park-Cass_West_Virginia.html,South Atlantic
+389,WV,The Greenbrier Falconry,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g59644-d3530893-Reviews-The_Greenbrier_Falconry-White_Sulphur_Springs_West_Virginia.html,South Atlantic
+390,WV,Berkeley Springs State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g58870-d146097-Reviews-Berkeley_Springs_State_Park-Berkeley_Springs_West_Virginia.html,South Atlantic
+391,WV,New River Gorge,"Masas de agua, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g28971-d105480-Reviews-New_River_Gorge-West_Virginia.html,South Atlantic
+392,WV,Babcock State Park,"Parques estatales, Bosques",https://www.tripadvisor.com.ar/Attraction_Review-g58961-d105486-Reviews-Babcock_State_Park-Clifftop_West_Virginia.html,South Atlantic
+393,WV,Heritage Farm Museum and Village,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g59175-d1053226-Reviews-Heritage_Farm_Museum_and_Village-Huntington_West_Virginia.html,South Atlantic
+394,WV,Mothman Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g59426-d621279-Reviews-Mothman_Museum-Point_Pleasant_West_Virginia.html,South Atlantic
+395,WV,Blennerhassett Island Historical State Park,"Lugares históricos, Parques estatales",https://www.tripadvisor.com.ar/Attraction_Review-g59401-d274484-Reviews-Blennerhassett_Island_Historical_State_Park-Parkersburg_West_Virginia.html,South Atlantic
+396,WV,Greenbrier Government Relocation Facility,"Lugares históricos, Bases e instalaciones militares",https://www.tripadvisor.com.ar/Attraction_Review-g59644-d104465-Reviews-Greenbrier_Government_Relocation_Facility-White_Sulphur_Springs_West_Virginia.html,South Atlantic
+397,WV,Wonderment Puppet Theater,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g59292-d6105861-Reviews-Wonderment_Puppet_Theater-Martinsburg_West_Virginia.html,South Atlantic
+398,WV,Trans-Allegheny Lunatic Asylum,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g59638-d1049077-Reviews-Trans_Allegheny_Lunatic_Asylum-Weston_West_Virginia.html,South Atlantic
+399,WV,Harpers Ferry National Historical Park,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60722-d143167-Reviews-Harpers_Ferry_National_Historical_Park-Harpers_Ferry_West_Virginia.html,South Atlantic
+400,WV,West Virginia Penitentiary,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g59336-d116991-Reviews-West_Virginia_Penitentiary-Moundsville_West_Virginia.html,South Atlantic
+401,WV,New River Gorge Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g59058-d624014-Reviews-New_River_Gorge_Bridge-Fayetteville_West_Virginia.html,South Atlantic
+402,WV,Beckley Exhibition Coal Mine and Youth Museum,"Museos especializados, Minas",https://www.tripadvisor.com.ar/Attraction_Review-g58856-d108070-Reviews-Beckley_Exhibition_Coal_Mine_and_Youth_Museum-Beckley_West_Virginia.html,South Atlantic
+403,WV,Blackwater Falls State Park,"Parques estatales, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g58999-d1819675-Reviews-Blackwater_Falls_State_Park-Davis_West_Virginia.html,South Atlantic
+404,WV,Gandy Dancer Theatre and Conference Center,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g59035-d2311317-Reviews-Gandy_Dancer_Theatre_and_Conference_Center-Elkins_West_Virginia.html,South Atlantic
+405,WV,Endless Wall Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g59234-d6580473-Reviews-Endless_Wall_Trail-Lansing_West_Virginia.html,South Atlantic
+406,WV,The Point,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60722-d10700624-Reviews-The_Point-Harpers_Ferry_West_Virginia.html,South Atlantic
+407,WV,Long Point Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g59058-d12189741-Reviews-Long_Point_Trail-Fayetteville_West_Virginia.html,South Atlantic
+408,WV,New River Gorge National Park & Preserve,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g60743-d23142694-Reviews-New_River_Gorge_National_Park_Preserve-Glen_Jean_West_Virginia.html,South Atlantic
+409,DC,Lincoln Memorial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d10105731-Reviews-Lincoln_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+410,DC,Museo Nacional Smithsoniano de Historia Natural,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104867-Reviews-Smithsonian_National_Museum_of_Natural_History-Washington_DC_District_of_Columbia.html,South Atlantic
+411,DC,Galería Nacional de Arte,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107892-Reviews-National_Gallery_of_Art-Washington_DC_District_of_Columbia.html,South Atlantic
+412,DC,Museo Nacional del Aire y del Espacio,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107967-Reviews-National_Air_and_Space_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+413,DC,Biblioteca del Congreso,"Bibliotecas, Edificios gubernamentales",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104859-Reviews-Library_of_Congress-Washington_DC_District_of_Columbia.html,South Atlantic
+414,DC,Museo Estadounidense Conmemorativo del Holocausto,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d103441-Reviews-United_States_Holocaust_Memorial_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+415,DC,Monumento a los Veteranos de Vietnam,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104863-Reviews-Vietnam_Veterans_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+416,DC,Monumento Conmemorativo a los Veteranos de la Guerra de Corea,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d108434-Reviews-Korean_War_Veterans_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+417,DC,Explanada Nacional,"Áreas históricas peatonales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107965-Reviews-National_Mall-Washington_DC_District_of_Columbia.html,South Atlantic
+418,DC,Monumento Conmemorativo Nacional de la Segunda Guerra Mundial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d497518-Reviews-National_World_War_II_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+419,DC,U.S. Capitol,Edificios gubernamentales,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143718-Reviews-U_S_Capitol-Washington_DC_District_of_Columbia.html,South Atlantic
+420,DC,Washington Monument,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107009-Reviews-Washington_Monument-Washington_DC_District_of_Columbia.html,South Atlantic
+421,DC,National Museum of African American History and Culture,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d10895065-Reviews-National_Museum_of_African_American_History_and_Culture-Washington_DC_District_of.html,South Atlantic
+422,DC,National Portrait Gallery,"Museos de arte, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d108423-Reviews-National_Portrait_Gallery-Washington_DC_District_of_Columbia.html,South Atlantic
+423,DC,Monumento Conmemorativo a Franklin Delano Roosevelt,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143758-Reviews-Franklin_Delano_Roosevelt_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+424,DC,Ford's Theatre,"Lugares históricos, Teatros",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104861-Reviews-Ford_s_Theatre-Washington_DC_District_of_Columbia.html,South Atlantic
+425,DC,Jefferson Memorial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d103436-Reviews-Jefferson_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+426,DC,National Museum of American History,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d103446-Reviews-National_Museum_of_American_History-Washington_DC_District_of_Columbia.html,South Atlantic
+427,DC,"Martin Luther King, Jr. Memorial",Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d2267934-Reviews-Martin_Luther_King_Jr_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+428,DC,Washington National Cathedral,"Edificios con valor arquitectónico, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143751-Reviews-Washington_National_Cathedral-Washington_DC_District_of_Columbia.html,South Atlantic
+429,DC,United States Botanic Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143930-Reviews-United_States_Botanic_Garden-Washington_DC_District_of_Columbia.html,South Atlantic
+430,DC,White House,Edificios gubernamentales,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d103227-Reviews-White_House-Washington_DC_District_of_Columbia.html,South Atlantic
+431,DC,"Hillwood Estate, Museum & Gardens","Lugares históricos, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d266635-Reviews-Hillwood_Estate_Museum_Gardens-Washington_DC_District_of_Columbia.html,South Atlantic
+432,DC,The National Archives Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104857-Reviews-The_National_Archives_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+433,DC,Basilica of the National Shrine of the Immaculate Conception,"Lugares religiosos, Iglesias y catedrales",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d218282-Reviews-Basilica_of_the_National_Shrine_of_the_Immaculate_Conception-Washington_DC_District.html,South Atlantic
+434,DC,International Spy Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d254773-Reviews-International_Spy_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+435,DC,Georgetown,Barrios,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143709-Reviews-Georgetown-Washington_DC_District_of_Columbia.html,South Atlantic
+436,DC,Capitol Hill,"Barrios, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d143712-Reviews-Capitol_Hill-Washington_DC_District_of_Columbia.html,South Atlantic
+437,DC,Smithsonian’s National Zoo & Conservation Biology Institute,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d109242-Reviews-Smithsonian_s_National_Zoo_Conservation_Biology_Institute-Washington_DC_District_of.html,South Atlantic
+438,DC,Lincoln Memorial,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d10105731-Reviews-Lincoln_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+439,DC,Museo Nacional Smithsoniano de Historia Natural,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104867-Reviews-Smithsonian_National_Museum_of_Natural_History-Washington_DC_District_of_Columbia.html,South Atlantic
+440,DC,Galería Nacional de Arte,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107892-Reviews-National_Gallery_of_Art-Washington_DC_District_of_Columbia.html,South Atlantic
+441,DC,Museo Nacional del Aire y del Espacio,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107967-Reviews-National_Air_and_Space_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+442,DC,Biblioteca del Congreso,"Bibliotecas, Edificios gubernamentales",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104859-Reviews-Library_of_Congress-Washington_DC_District_of_Columbia.html,South Atlantic
+443,DC,Museo Estadounidense Conmemorativo del Holocausto,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d103441-Reviews-United_States_Holocaust_Memorial_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+444,DC,Monumento a los Veteranos de Vietnam,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d104863-Reviews-Vietnam_Veterans_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+445,DC,Monumento Conmemorativo a los Veteranos de la Guerra de Corea,Monumentos y estatuas,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d108434-Reviews-Korean_War_Veterans_Memorial-Washington_DC_District_of_Columbia.html,South Atlantic
+446,DC,Explanada Nacional,"Áreas históricas peatonales, Parques",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d107965-Reviews-National_Mall-Washington_DC_District_of_Columbia.html,South Atlantic
+447,DC,Tidal Basin,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d105014-Reviews-Tidal_Basin-Washington_DC_District_of_Columbia.html,South Atlantic
+448,DC,Smithsonian American Art Museum,"Museos de arte, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d532224-Reviews-Smithsonian_American_Art_Museum-Washington_DC_District_of_Columbia.html,South Atlantic
+449,DC,The Phillips Collection,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d130097-Reviews-The_Phillips_Collection-Washington_DC_District_of_Columbia.html,South Atlantic
+450,DC,Planet Word,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d20145439-Reviews-Planet_Word-Washington_DC_District_of_Columbia.html,South Atlantic
+451,DC,The Escape Game DC - Downtown,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g28970-d23998460-Reviews-The_Escape_Game_DC_Downtown-Washington_DC_District_of_Columbia.html,South Atlantic
+452,DC,DC By Foot,"Tours de fantasmas y vampiros, Tours a pie",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d12276905-Reviews-DC_By_Foot-Washington_DC_District_of_Columbia.html,South Atlantic
+453,DC,Unscripted by Guided Tours DC,"Tours por la ciudad, Tours históricos",https://www.tripadvisor.com.ar/Attraction_Review-g28970-d10682254-Reviews-Unscripted_by_Guided_Tours_DC-Washington_DC_District_of_Columbia.html,South Atlantic

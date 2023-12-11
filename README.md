@@ -1,10 +1,6 @@
+<p align=center><img src=files/img/geogenesis_portada.gif><p>
+
 # Proyecto GeoGenesis Metadata
-
----
-
-<p align=center><img src=files/img/Geogenesis_logo.png><p>
-
----
 
 ### INDICE
 
@@ -54,7 +50,6 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
   Descripción:
   El PRP calcula el porcentaje de reseñas que contienen sentimientos positivos en comparación con el total de reseñas. Proporciona una medida cuantitativa de la positividad de las experiencias compartidas por los clientes.
-
 - #### KPI 2: Disminuir la cantidad de reseñas negativas por limpieza en un 10% cada trimestre.
 
   Fórmula:
@@ -62,15 +57,13 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
   Descripción:
   Una vez identificada un área problemática que contribuye a la negatividad de las reseñas, adoptamos este KPI para solucionarla progresivamente.
-
 - #### KPI 3: Mantener el índice de Respuestas a Reseñas Negativas (IRRN) por encima del 95%.
 
   Fórmula:
   IRRN = (Reseñas negativas contestadas/Total de reseñas negativas) * 100
 
   Descripción:
-  Este KPI permite reflejar que nos importan los huéspedes y sus opiniones. Es importante que, si hay alguien no satisfecho por la calidad del servicio o por alguna otra cuestión, podemos mostrar a los huéspedes que nos preocupamos por su experiencia y que estamos dispuestos a resolver cualquier obstáculo que se interponga entre él y una experiencia lo más placentera posible. 
-
+  Este KPI permite reflejar que nos importan los huéspedes y sus opiniones. Es importante que, si hay alguien no satisfecho por la calidad del servicio o por alguna otra cuestión, podemos mostrar a los huéspedes que nos preocupamos por su experiencia y que estamos dispuestos a resolver cualquier obstáculo que se interponga entre él y una experiencia lo más placentera posible.
 - #### KPI 4: Aumentar en un 2% el porcentaje de clientes recurrentes cada temporada.
 
   Fórmula:
@@ -86,7 +79,8 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 <p align=center><img src=files/img/workflow.jpeg><p>
 
 - Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
- - ETL pipeline se encuentra [aqui](pipeline.md)
+- ETL pipeline se encuentra [aqui](pipeline.md)
+
 ---
 
 ## Tecnologías
@@ -106,20 +100,16 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 ![Trello](https://img.shields.io/badge/Trello-badge?style=for-the-badge&logo=trello&logoColor=white&color=blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-badge?style=for-the-badge&logo=streamlit&logoColor=red&color=white)
 
-
-
-
-
 ---
 
 ## Desarrolladores
 
-| Rol           | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                  | ![GitHub](files/img/github.png)                                     |
-| ------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| Data Enginner | [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)                      | [melisaamelia.arce](mailto:melisaamelia.arce@gmail.com)         | [Melisa Arce](https://github.com/melisaameliaarce)                   |
-| Data Enginner | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
-| Data Analyst  | [Leonardo Augusto Costa Hermes](https://linkedin.com/in/leonardo-costa-672a3a1b9) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/)                 |
-| Data Analyst  | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
-| Data Analyst  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
+| Rol                                          | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                            | ![GitHub](files/img/github.png)                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| ![Data](files/img/Melisa.gif)*Data Engineer* | [melisaamelia.arce](https://www.linkedin.com/in/melisaameliaarce)                 | [melisaamelia.arce@gmail.com](mailto:melisaamelia.arce@gmail.com)         | [MelisaArce](https://github.com/MelisaArce)                          |
+| ![Data](files/img/Luís.gif)*Data Engineer*  | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386@gmail.com](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
+| ![Data](files/img/Léo.gif)*Data Analyst*    | [Leonardo Augusto Costa Hermes](https://linkedin.com/in/leonardo-costa-672a3a1b9) | [leonardocostahermes@gmail.com](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://github.com/LeonardoCostaH/)                 |
+| ![Data](files/img/Diego.gif)*Data Analyst*   | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis@gmail.com](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
+| ![Data](files/img/Joaquin.gif)*ML Engineer*  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin@gmail.com](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
 
 ---

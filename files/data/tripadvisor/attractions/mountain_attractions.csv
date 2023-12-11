@@ -1,0 +1,327 @@
+,state_id,attraction,categories,reviews_url,region
+0,AZ,Grand Canyon South Rim,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g143028-d109440-Reviews-Grand_Canyon_South_Rim-Grand_Canyon_National_Park_Arizona.html,Mountain
+1,AZ,Horseshoe Bend,"Miradores, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g60834-d621712-Reviews-Horseshoe_Bend-Page_Arizona.html,Mountain
+2,AZ,Antelope Canyon,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60834-d103191-Reviews-Antelope_Canyon-Page_Arizona.html,Mountain
+3,AZ,Desert Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g31310-d109186-Reviews-Desert_Botanical_Garden-Phoenix_Arizona.html,Mountain
+4,AZ,Chapel of the Holy Cross,"Edificios con valor arquitectónico, Lugares misteriosos",https://www.tripadvisor.com.ar/Attraction_Review-g31352-d117113-Reviews-Chapel_of_the_Holy_Cross-Sedona_Arizona.html,Mountain
+5,AZ,Arizona-Sonora Desert Museum,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g60950-d108867-Reviews-Arizona_Sonora_Desert_Museum-Tucson_Arizona.html,Mountain
+6,AZ,Musical Instrument Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g31310-d1798067-Reviews-Musical_Instrument_Museum-Phoenix_Arizona.html,Mountain
+7,AZ,Cathedral Rock,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d126802-Reviews-Cathedral_Rock-Sedona_Arizona.html,Mountain
+8,AZ,Lower Antelope Canyon,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60834-d4743450-Reviews-Lower_Antelope_Canyon-Page_Arizona.html,Mountain
+9,AZ,Pima Air and Space Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d109172-Reviews-Pima_Air_and_Space_Museum-Tucson_Arizona.html,Mountain
+10,AZ,Devil's Bridge Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d107190-Reviews-Devil_s_Bridge_Trail-Sedona_Arizona.html,Mountain
+11,AZ,Sabino Canyon,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d209268-Reviews-Sabino_Canyon-Tucson_Arizona.html,Mountain
+12,AZ,Bell Rock,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d126801-Reviews-Bell_Rock-Sedona_Arizona.html,Mountain
+13,AZ,Taliesin West,Edificios con valor arquitectónico,https://www.tripadvisor.com.ar/Attraction_Review-g31350-d142235-Reviews-Taliesin_West-Scottsdale_Arizona.html,Mountain
+14,AZ,Southwest Wildlife Conservation Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g31350-d3346494-Reviews-Southwest_Wildlife_Conservation_Center-Scottsdale_Arizona.html,Mountain
+15,AZ,Oak Creek Canyon,"Cañones, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g31352-d105473-Reviews-Oak_Creek_Canyon-Sedona_Arizona.html,Mountain
+16,AZ,Bearizona Wildlife Park,"Safaris, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g31407-d1799577-Reviews-Bearizona_Wildlife_Park-Williams_Arizona.html,Mountain
+17,AZ,Heard Museum,"Museos especializados, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g31310-d116632-Reviews-Heard_Museum-Phoenix_Arizona.html,Mountain
+18,AZ,Walnut Canyon National Monument,"Parques nacionales, Cañones",https://www.tripadvisor.com.ar/Attraction_Review-g60971-d108787-Reviews-Walnut_Canyon_National_Monument-Flagstaff_Arizona.html,Mountain
+19,AZ,Red Rock Scenic Byway (SR 179),Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g4813352-d611391-Reviews-Red_Rock_Scenic_Byway_SR_179-Village_of_Oak_Creek_Arizona.html,Mountain
+20,AZ,Mission San Xavier del Bac,"Edificios con valor arquitectónico, Misiones",https://www.tripadvisor.com.ar/Attraction_Review-g60950-d109094-Reviews-Mission_San_Xavier_del_Bac-Tucson_Arizona.html,Mountain
+21,AZ,Mt. Lemmon Scenic Byway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d3665608-Reviews-Mt_Lemmon_Scenic_Byway-Tucson_Arizona.html,Mountain
+22,AZ,Camelback Mountain,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g31310-d260028-Reviews-Camelback_Mountain-Phoenix_Arizona.html,Mountain
+23,AZ,Bright Angel Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143028-d109403-Reviews-Bright_Angel_Trail-Grand_Canyon_National_Park_Arizona.html,Mountain
+24,AZ,Kartchner Caverns State Park,"Parques estatales, Cavernas y cuevas",https://www.tripadvisor.com.ar/Attraction_Review-g31170-d127212-Reviews-Kartchner_Caverns_State_Park-Benson_Arizona.html,Mountain
+25,AZ,Montezuma Castle National Monument,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60904-d116675-Reviews-Montezuma_Castle_National_Monument-Camp_Verde_Arizona.html,Mountain
+26,AZ,Airport Mesa,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d255401-Reviews-Airport_Mesa-Sedona_Arizona.html,Mountain
+27,AZ,Wupatki National Monument,"Lugares históricos, Ruinas antiguas",https://www.tripadvisor.com.ar/Attraction_Review-g60971-d108883-Reviews-Wupatki_National_Monument-Flagstaff_Arizona.html,Mountain
+28,AZ,Grand Canyon North Rim,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g143028-d109439-Reviews-Grand_Canyon_North_Rim-Grand_Canyon_National_Park_Arizona.html,Mountain
+29,AZ,Titan Missile Museum,Museos militares,https://www.tripadvisor.com.ar/Attraction_Review-g31338-d103133-Reviews-Titan_Missile_Museum-Sahuarita_Arizona.html,Mountain
+30,AZ,Slide Rock State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d103915-Reviews-Slide_Rock_State_Park-Sedona_Arizona.html,Mountain
+31,AZ,O.K. Corral,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g31381-d103872-Reviews-O_K_Corral-Tombstone_Arizona.html,Mountain
+32,AZ,Canyon de Chelly National Monument,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60753-d106552-Reviews-Canyon_de_Chelly_National_Monument-Chinle_Apache_County_Arizona.html,Mountain
+33,AZ,Jardín Botánico de Tucson,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d126843-Reviews-Tucson_Botanical_Gardens-Tucson_Arizona.html,Mountain
+34,AZ,Tonto Natural Bridge State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g31305-d667285-Reviews-Tonto_Natural_Bridge_State_Park-Payson_Arizona.html,Mountain
+35,AZ,Pinnacle Peak Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g31350-d2409093-Reviews-Pinnacle_Peak_Park-Scottsdale_Arizona.html,Mountain
+36,AZ,KOLI Equestrian Center,Rutas ecuestres,https://www.tripadvisor.com.ar/Attraction_Review-g31190-d3739234-Reviews-KOLI_Equestrian_Center-Chandler_Arizona.html,Mountain
+37,AZ,Catalina State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d149481-Reviews-Catalina_State_Park-Tucson_Arizona.html,Mountain
+38,AZ,Glen Canyon National Recreation Area,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g60834-d143156-Reviews-Glen_Canyon_National_Recreation_Area-Page_Arizona.html,Mountain
+39,AZ,Downtown Historic Area,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g31323-d109519-Reviews-Downtown_Historic_Area-Prescott_Arizona.html,Mountain
+40,AZ,Amitabha Stupa & Peace Park,"Parques, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g31352-d3174730-Reviews-Amitabha_Stupa_Peace_Park-Sedona_Arizona.html,Mountain
+41,AZ,Boyce Thompson Arboretum,"Lugares históricos, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g31372-d126840-Reviews-Boyce_Thompson_Arboretum-Superior_Arizona.html,Mountain
+42,AZ,Glen Canyon Dam Overlook,Represas,https://www.tripadvisor.com.ar/Attraction_Review-g60834-d7267957-Reviews-Glen_Canyon_Dam_Overlook-Page_Arizona.html,Mountain
+43,AZ,The Gaslight Theatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d2202920-Reviews-The_Gaslight_Theatre-Tucson_Arizona.html,Mountain
+44,AZ,Apache Trail Scenic Drive,"Rutas para senderismo, Rutas turísticas",https://www.tripadvisor.com.ar/Attraction_Review-g28924-d212121-Reviews-Apache_Trail_Scenic_Drive-Arizona.html,Mountain
+45,AZ,Colossal Cave Mountain Park,"Cavernas y cuevas, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g31394-d145835-Reviews-Colossal_Cave_Mountain_Park-Vail_Arizona.html,Mountain
+46,AZ,Reid Park Zoo,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g60950-d143936-Reviews-Reid_Park_Zoo-Tucson_Arizona.html,Mountain
+47,AZ,Mesa Arizona Temple Visitors' Center,"Centros de información turística, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g31281-d4765332-Reviews-Mesa_Arizona_Temple_Visitors_Center-Mesa_Arizona.html,Mountain
+48,AZ,Sedona Airport Overlook,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g31352-d6599465-Reviews-Sedona_Airport_Overlook-Sedona_Arizona.html,Mountain
+49,AZ,Western Spirit: Scottsdale's Museum of the West,"Museos especializados, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g31350-d7644807-Reviews-Western_Spirit_Scottsdale_s_Museum_of_the_West-Scottsdale_Arizona.html,Mountain
+50,CO,Jardín de los Dioses,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d104029-Reviews-Garden_of_the_Gods-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+51,CO,Denver Botanic Gardens,"Galerías de arte, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d144226-Reviews-Denver_Botanic_Gardens-Denver_Colorado.html,Mountain
+52,CO,Pikes Peak - America's Mountain,"Monumentos y lugares de interés, Rutas turísticas",https://www.tripadvisor.com.ar/Attraction_Review-g33344-d534479-Reviews-Pikes_Peak_America_s_Mountain-Cascade_El_Paso_County_Colorado.html,Mountain
+53,CO,Red Rocks Park and Amphitheatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g33561-d130320-Reviews-Red_Rocks_Park_and_Amphitheatre-Morrison_Colorado.html,Mountain
+54,CO,Cheyenne Mountain Zoo,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d274331-Reviews-Cheyenne_Mountain_Zoo-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+55,CO,Cave of the Winds Mountain Park,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g33537-d143457-Reviews-Cave_of_the_Winds_Mountain_Park-Manitou_Springs_El_Paso_County_Colorado.html,Mountain
+56,CO,Denver Museum of Nature & Science,"Museos de historia natural, Museos de ciencia",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d128688-Reviews-Denver_Museum_of_Nature_Science-Denver_Colorado.html,Mountain
+57,CO,National Museum of World War II Aviation,Museos militares,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d3844540-Reviews-National_Museum_of_World_War_II_Aviation-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+58,CO,Coors Field,Campos de juego y estadios,https://www.tripadvisor.com.ar/Attraction_Review-g33388-d142967-Reviews-Coors_Field-Denver_Colorado.html,Mountain
+59,CO,Trail Ridge Road,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143048-d1946612-Reviews-Trail_Ridge_Road-Rocky_Mountain_National_Park_Colorado.html,Mountain
+60,CO,Mount Evans,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g33388-d145862-Reviews-Mount_Evans-Denver_Colorado.html,Mountain
+61,CO,Maroon Bells,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g29141-d2292499-Reviews-Maroon_Bells-Aspen_Colorado.html,Mountain
+62,CO,The International Church of Cannabis,"Museos especializados, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d15200553-Reviews-The_International_Church_of_Cannabis-Denver_Colorado.html,Mountain
+63,CO,Telluride Mountain Village Gondola,"Tranvías, Sistemas de transporte público",https://www.tripadvisor.com.ar/Attraction_Review-g33667-d2305408-Reviews-Telluride_Mountain_Village_Gondola-Telluride_Colorado.html,Mountain
+64,CO,Colorado National Monument,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g28927-d117416-Reviews-Colorado_National_Monument-Colorado.html,Mountain
+65,CO,Fish Creek Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g33657-d538038-Reviews-Fish_Creek_Falls-Steamboat_Springs_Colorado.html,Mountain
+66,CO,Argo Mill and Tunnel,"Museos especializados, Minas",https://www.tripadvisor.com.ar/Attraction_Review-g33485-d2155318-Reviews-Argo_Mill_and_Tunnel-Idaho_Springs_Colorado.html,Mountain
+67,CO,Stranahan's Whiskey Distillery & Cocktail Bar,Destilerías,https://www.tripadvisor.com.ar/Attraction_Review-g33388-d3211085-Reviews-Stranahan_s_Whiskey_Distillery_Cocktail_Bar-Denver_Colorado.html,Mountain
+68,CO,Hanging Lake Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g33446-d258799-Reviews-Hanging_Lake_Trail-Glenwood_Springs_Colorado.html,Mountain
+69,CO,Peak to Peak Scenic Byway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60945-d102555-Reviews-Peak_to_Peak_Scenic_Byway-Estes_Park_Colorado.html,Mountain
+70,CO,United States Air Force Academy,"Bases e instalaciones militares, Lugares educativos",https://www.tripadvisor.com.ar/Attraction_Review-g33364-d103508-Reviews-United_States_Air_Force_Academy-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+71,CO,Molly Brown House Museum,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d103534-Reviews-Molly_Brown_House_Museum-Denver_Colorado.html,Mountain
+72,CO,Glenwood Caverns Adventure Park,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g33446-d116239-Reviews-Glenwood_Caverns_Adventure_Park-Glenwood_Springs_Colorado.html,Mountain
+73,CO,Main Street,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g33327-d143721-Reviews-Main_Street-Breckenridge_Colorado.html,Mountain
+74,CO,Cosmo's Magic Theater,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d13166905-Reviews-Cosmo_s_Magic_Theater-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+75,CO,Black Canyon Of The Gunnison National Park,"Parques nacionales, Cañones",https://www.tripadvisor.com.ar/Attraction_Review-g143014-d145009-Reviews-Black_Canyon_Of_The_Gunnison_National_Park-Black_Canyon_Of_The_Gunnison_National_P.html,Mountain
+76,CO,Box Canyon Waterfall & Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g33581-d104150-Reviews-Box_Canyon_Waterfall_Park-Ouray_Colorado.html,Mountain
+77,CO,Independence Pass,"Monumentos y lugares de interés, Miradores",https://www.tripadvisor.com.ar/Attraction_Review-g29141-d559952-Reviews-Independence_Pass-Aspen_Colorado.html,Mountain
+78,CO,Cliff Palace,"Lugares históricos, Ruinas antiguas",https://www.tripadvisor.com.ar/Attraction_Review-g60900-d125453-Reviews-Cliff_Palace-Mesa_Verde_National_Park_Colorado.html,Mountain
+79,CO,Skyline Drive,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g33340-d107618-Reviews-Skyline_Drive-Canon_City_Colorado.html,Mountain
+80,CO,Jardín de los Dioses,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d104029-Reviews-Garden_of_the_Gods-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+81,CO,Denver Botanic Gardens,"Galerías de arte, Jardines",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d144226-Reviews-Denver_Botanic_Gardens-Denver_Colorado.html,Mountain
+82,CO,Pikes Peak - America's Mountain,"Monumentos y lugares de interés, Rutas turísticas",https://www.tripadvisor.com.ar/Attraction_Review-g33344-d534479-Reviews-Pikes_Peak_America_s_Mountain-Cascade_El_Paso_County_Colorado.html,Mountain
+83,CO,Red Rocks Park and Amphitheatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g33561-d130320-Reviews-Red_Rocks_Park_and_Amphitheatre-Morrison_Colorado.html,Mountain
+84,CO,Cheyenne Mountain Zoo,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d274331-Reviews-Cheyenne_Mountain_Zoo-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+85,CO,Historic Downtown Durango,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g33397-d124502-Reviews-Historic_Downtown_Durango-Durango_Colorado.html,Mountain
+86,CO,Colorado Chautauqua: Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g33324-d107197-Reviews-Colorado_Chautauqua_Park-Boulder_Colorado.html,Mountain
+87,CO,Glen Eyrie Castle,"Tiendas de regalos, Castillos",https://www.tripadvisor.com.ar/Attraction_Review-g33364-d288158-Reviews-Glen_Eyrie_Castle-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+88,CO,Red Rock Canyon,"Parques, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g33364-d547217-Reviews-Red_Rock_Canyon-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+89,CO,Bear Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g143048-d1946611-Reviews-Bear_Lake-Rocky_Mountain_National_Park_Colorado.html,Mountain
+90,CO,Mollie Kathleen Gold Mine,Minas,https://www.tripadvisor.com.ar/Attraction_Review-g33379-d458069-Reviews-Mollie_Kathleen_Gold_Mine-Cripple_Creek_Colorado.html,Mountain
+91,CO,Bachelor Syracuse Mine Tour,Minas,https://www.tripadvisor.com.ar/Attraction_Review-g33581-d102624-Reviews-Bachelor_Syracuse_Mine_Tour-Ouray_Colorado.html,Mountain
+92,CO,Hovenweep National Monument,"Ruinas antiguas, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60857-d102614-Reviews-Hovenweep_National_Monument-Cortez_Colorado.html,Mountain
+93,CO,Last Chance Mine,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g33376-d2080767-Reviews-Last_Chance_Mine-Creede_Colorado.html,Mountain
+94,CO,National Mining Hall of Fame & Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g33520-d293561-Reviews-National_Mining_Hall_of_Fame_Museum-Leadville_Colorado.html,Mountain
+95,CO,North Pole - Santa's Workshop,Parques de diversión y temáticos,https://www.tripadvisor.com.ar/Attraction_Review-g33344-d534497-Reviews-North_Pole_Santa_s_Workshop-Cascade_El_Paso_County_Colorado.html,Mountain
+96,CO,National Ballpark Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g33388-d3187639-Reviews-National_Ballpark_Museum-Denver_Colorado.html,Mountain
+97,CO,Tunnel Drive,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g33340-d2282167-Reviews-Tunnel_Drive-Canon_City_Colorado.html,Mountain
+98,CO,Escapology,"Juegos de escape, Bares y boliches",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d12918871-Reviews-Escapology-Denver_Colorado.html,Mountain
+99,CO,Academy Riding Stables,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g33364-d560621-Reviews-Academy_Riding_Stables-Colorado_Springs_El_Paso_County_Colorado.html,Mountain
+100,CO,Durango and Silverton Narrow Gauge Railroad and Museum,Ferrocarriles turísticos,https://www.tripadvisor.com.ar/Attraction_Review-g33397-d196341-Reviews-Durango_and_Silverton_Narrow_Gauge_Railroad_and_Museum-Durango_Colorado.html,Mountain
+101,CO,Peak 1 Express,Taxis y otros servicios de traslado,https://www.tripadvisor.com.ar/Attraction_Review-g33327-d10742829-Reviews-Peak_1_Express-Breckenridge_Colorado.html,Mountain
+102,CO,WildSide 4x4 Tours,"Tours para vehículos todo terreno y 4 x 4, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g60945-d1811947-Reviews-WildSide_4x4_Tours-Estes_Park_Colorado.html,Mountain
+103,CO,Aspire Tours,"Tours por la ciudad, Tours históricos",https://www.tripadvisor.com.ar/Attraction_Review-g33388-d7928918-Reviews-Aspire_Tours-Denver_Colorado.html,Mountain
+104,CO,The Crooked Key,"Juegos de escape, Búsquedas del tesoro",https://www.tripadvisor.com.ar/Attraction_Review-g33657-d11827132-Reviews-The_Crooked_Key-Steamboat_Springs_Colorado.html,Mountain
+105,CO,Echo Canyon River Expeditions,Rafting y nado con salvavidas en el río,https://www.tripadvisor.com.ar/Attraction_Review-g33340-d1515457-Reviews-Echo_Canyon_River_Expeditions-Canon_City_Colorado.html,Mountain
+106,CO,Steamboat Tennis and Pickleball Center,"Complejos deportivos, Clases y talleres",https://www.tripadvisor.com.ar/Attraction_Review-g33657-d3575712-Reviews-Steamboat_Tennis_and_Pickleball_Center-Steamboat_Springs_Colorado.html,Mountain
+107,ID,Shoshone Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g35625-d573717-Reviews-Shoshone_Falls-Twin_Falls_Idaho.html,Mountain
+108,ID,Cinturón Verde del Rio Boise,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g35394-d144727-Reviews-Boise_River_Greenbelt-Boise_Idaho.html,Mountain
+109,ID,Coeur d'Alene Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g35418-d146555-Reviews-Coeur_d_Alene_Lake-Coeur_d_Alene_Idaho.html,Mountain
+110,ID,Craters of the Moon National Monument,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g60781-d107632-Reviews-Craters_of_the_Moon_National_Monument-Arco_Idaho.html,Mountain
+111,ID,Old Idaho Penitentiary,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g35394-d558607-Reviews-Old_Idaho_Penitentiary-Boise_Idaho.html,Mountain
+112,ID,Idaho Falls Temple & Visitors' Center,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g35489-d20951744-Reviews-Idaho_Falls_Temple_Visitors_Center-Idaho_Falls_Idaho.html,Mountain
+113,ID,Perrine Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g35625-d3332180-Reviews-Perrine_Bridge-Twin_Falls_Idaho.html,Mountain
+114,ID,Mesa Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g29229-d3165555-Reviews-Mesa_Falls-Ashton_Idaho.html,Mountain
+115,ID,Lava Hot Springs,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g35511-d2104035-Reviews-Lava_Hot_Springs-Lava_Hot_Springs_Idaho.html,Mountain
+116,ID,Idaho Falls River Walk,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g35489-d12618876-Reviews-Idaho_Falls_River_Walk-Idaho_Falls_Idaho.html,Mountain
+117,ID,Idaho Potato Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g35390-d3168093-Reviews-Idaho_Potato_Museum-Blackfoot_Idaho.html,Mountain
+118,ID,Shoshone Falls,Cascadas,https://www.tripadvisor.com.ar/Attraction_Review-g35625-d573717-Reviews-Shoshone_Falls-Twin_Falls_Idaho.html,Mountain
+119,ID,Historic Wallace,Áreas históricas peatonales,https://www.tripadvisor.com.ar/Attraction_Review-g35629-d10387612-Reviews-Historic_Wallace-Wallace_Idaho.html,Mountain
+120,ID,"Tranquil Turtle Massage, LLC",Spas,https://www.tripadvisor.com.ar/Attraction_Review-g35418-d9820668-Reviews-Tranquil_Turtle_Massage_LLC-Coeur_d_Alene_Idaho.html,Mountain
+121,MT,Going-to-the-Sun Road,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143026-d146551-Reviews-Going_to_the_Sun_Road-Glacier_National_Park_Montana.html,Mountain
+122,MT,Grizzly and Wolf Discovery Center,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g45399-d254116-Reviews-Grizzly_and_Wolf_Discovery_Center-West_Yellowstone_Montana.html,Mountain
+123,MT,Little Bighorn Battlefield National Monument,"Lugares históricos, Campos de batalla",https://www.tripadvisor.com.ar/Attraction_Review-g60888-d145853-Reviews-Little_Bighorn_Battlefield_National_Monument-Crow_Agency_Montana.html,Mountain
+124,MT,Museum of the Rockies,"Museos de historia natural, Museos de ciencia",https://www.tripadvisor.com.ar/Attraction_Review-g45095-d146792-Reviews-Museum_of_the_Rockies-Bozeman_Montana.html,Mountain
+125,MT,Playmill Theatre,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g45399-d1520134-Reviews-Playmill_Theatre-West_Yellowstone_Montana.html,Mountain
+126,MT,Beartooth Highway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g28947-d267833-Reviews-Beartooth_Highway-Montana.html,Mountain
+127,MT,Lewis and Clark Interpretive Center,"Áreas históricas peatonales, Teatros",https://www.tripadvisor.com.ar/Attraction_Review-g45198-d103830-Reviews-Lewis_and_Clark_Interpretive_Center-Great_Falls_Montana.html,Mountain
+128,MT,Lake McDonald,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g143026-d144765-Reviews-Lake_McDonald-Glacier_National_Park_Montana.html,Mountain
+129,MT,Big Sky Resort,Áreas para esquiar y practicar snowboard,https://www.tripadvisor.com.ar/Attraction_Review-g45082-d107415-Reviews-Big_Sky_Resort-Big_Sky_Montana.html,Mountain
+130,MT,Avalanche Lake,"Masas de agua, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g143026-d145409-Reviews-Avalanche_Lake-Glacier_National_Park_Montana.html,Mountain
+131,MT,Hidden Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g60832-d125434-Reviews-Hidden_Lake-West_Glacier_Montana.html,Mountain
+132,MT,Gates of the Mountains,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g45212-d319136-Reviews-Gates_of_the_Mountains-Helena_Montana.html,Mountain
+133,MT,Ousel Falls Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g45082-d7148335-Reviews-Ousel_Falls_Trail-Big_Sky_Montana.html,Mountain
+134,MT,American Computer & Robotics Museum,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g45095-d481531-Reviews-American_Computer_Robotics_Museum-Bozeman_Montana.html,Mountain
+135,MT,World Museum of Mining,"Museos especializados, Lugares históricos",https://www.tripadvisor.com.ar/Attraction_Review-g45106-d481540-Reviews-World_Museum_of_Mining-Butte_Montana.html,Mountain
+136,MT,Yellowstone River,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g45399-d209768-Reviews-Yellowstone_River-West_Yellowstone_Montana.html,Mountain
+137,MT,Cathedral of St. Helena,"Edificios con valor arquitectónico, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g45212-d319138-Reviews-Cathedral_of_St_Helena-Helena_Montana.html,Mountain
+138,MT,St. Mary Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g143026-d532160-Reviews-St_Mary_Lake-Glacier_National_Park_Montana.html,Mountain
+139,MT,Jackson Hole Eco Tour Adventures,"Tours ecológicos, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1547898-Reviews-Jackson_Hole_Eco_Tour_Adventures-Jackson_Jackson_Hole_Wyoming.html,Mountain
+140,MT,BrushBuck Wildlife Tours,"Tours de varios días, Tours ecológicos",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1106488-Reviews-BrushBuck_Wildlife_Tours-Jackson_Jackson_Hole_Wyoming.html,Mountain
+141,MT,Jackson Hole Fly Fishing School,Excursiones de pesca,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d6715434-Reviews-Jackson_Hole_Fly_Fishing_School-Jackson_Jackson_Hole_Wyoming.html,Mountain
+142,MT,Teton Whitewater Rafting and Scenic Trips,"Rafting y nado con salvavidas en el río, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d2203845-Reviews-Teton_Whitewater_Rafting_and_Scenic_Trips-Jackson_Jackson_Hole_Wyoming.html,Mountain
+143,MT,Jackson Hole Wildlife Safaris,"Tours ecológicos, Tours privados",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1450532-Reviews-Jackson_Hole_Wildlife_Safaris-Jackson_Jackson_Hole_Wyoming.html,Mountain
+144,MT,Going-to-the-Sun Road,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143026-d146551-Reviews-Going_to_the_Sun_Road-Glacier_National_Park_Montana.html,Mountain
+145,MT,Wildlife Expeditions of Teton Science Schools,Tours de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1142174-Reviews-Wildlife_Expeditions_of_Teton_Science_Schools-Jackson_Jackson_Hole_Wyoming.html,Mountain
+146,MT,Fish The Fly Guide Service & Travel,"Tours en barco, Deportes acuáticos",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d3396800-Reviews-Fish_The_Fly_Guide_Service_Travel-Jackson_Jackson_Hole_Wyoming.html,Mountain
+147,MT,Mill Iron Ranch,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1825725-Reviews-Mill_Iron_Ranch-Jackson_Jackson_Hole_Wyoming.html,Mountain
+148,MT,West Thumb Geyser Basin,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d290467-Reviews-West_Thumb_Geyser_Basin-Yellowstone_National_Park_Wyoming.html,Mountain
+149,MT,Snow King Mountain Resort,"Tours extremos y de adrenalina, Tours de esquí y de nieve",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d274136-Reviews-Snow_King_Mountain_Resort-Jackson_Jackson_Hole_Wyoming.html,Mountain
+150,MT,Wildland Llamas,Tours de excursionismo y campamentos,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1598702-Reviews-Wildland_Llamas-Jackson_Jackson_Hole_Wyoming.html,Mountain
+151,MT,Lewis and Clark Caverns State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g45380-d456421-Reviews-Lewis_and_Clark_Caverns_State_Park-Three_Forks_Montana.html,Mountain
+152,MT,Kootenai Falls & Swinging Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g45249-d3404287-Reviews-Kootenai_Falls_Swinging_Bridge-Libby_Montana.html,Mountain
+153,MT,Montana Grizzly Encounter,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g45095-d2157062-Reviews-Montana_Grizzly_Encounter-Bozeman_Montana.html,Mountain
+154,MT,Solace Spa At Big Sky Resort,Spas,https://www.tripadvisor.com.ar/Attraction_Review-g45082-d2501221-Reviews-Solace_Spa_At_Big_Sky_Resort-Big_Sky_Montana.html,Mountain
+155,MT,Glacier Raft Company,"Rafting y nado con salvavidas en el río, Tours en barco",https://www.tripadvisor.com.ar/Attraction_Review-g60832-d1772180-Reviews-Glacier_Raft_Company-West_Glacier_Montana.html,Mountain
+156,NV,Fuentes del Hotel Bellagio,"Monumentos y lugares de interés, Fuentes",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d127003-Reviews-Fountains_of_Bellagio-Las_Vegas_Nevada.html,Mountain
+157,NV,Red Rock Canyon National Conservation Area,"Parques estatales, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d103329-Reviews-Red_Rock_Canyon_National_Conservation_Area-Las_Vegas_Nevada.html,Mountain
+158,NV,Bellagio Conservatory & Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d625114-Reviews-Bellagio_Conservatory_Botanical_Garden-Las_Vegas_Nevada.html,Mountain
+159,NV,High Roller,Torres y observatorios,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d6509306-Reviews-High_Roller-Las_Vegas_Nevada.html,Mountain
+160,NV,Valley of Fire State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g45984-d102670-Reviews-Valley_of_Fire_State_Park-Overton_Nevada.html,Mountain
+161,NV,Hoover Dam,Represas,https://www.tripadvisor.com.ar/Attraction_Review-g60881-d150546-Reviews-Hoover_Dam-Boulder_City_Nevada.html,Mountain
+162,NV,The Mob Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d2538527-Reviews-The_Mob_Museum-Las_Vegas_Nevada.html,Mountain
+163,NV,Hoover Dam Bypass,"Monumentos y lugares de interés, Puentes",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d1936404-Reviews-Hoover_Dam_Bypass-Las_Vegas_Nevada.html,Mountain
+164,NV,The Neon Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d110193-Reviews-The_Neon_Museum-Las_Vegas_Nevada.html,Mountain
+165,NV,Titanic: The Artifact Exhibition,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d1501219-Reviews-Titanic_The_Artifact_Exhibition-Las_Vegas_Nevada.html,Mountain
+166,NV,Wynn Las Vegas Casino,Casinos,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d1156204-Reviews-Wynn_Las_Vegas_Casino-Las_Vegas_Nevada.html,Mountain
+167,NV,National Automobile Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g45992-d143008-Reviews-National_Automobile_Museum-Reno_Nevada.html,Mountain
+168,NV,Lion Habitat Ranch,Zoológicos,https://www.tripadvisor.com.ar/Attraction_Review-g45953-d3819966-Reviews-Lion_Habitat_Ranch-Henderson_Nevada.html,Mountain
+169,NV,The Grand Canal Shoppes at The Venetian Resort,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d146795-Reviews-The_Grand_Canal_Shoppes_at_The_Venetian_Resort-Las_Vegas_Nevada.html,Mountain
+170,NV,Welcome to Fabulous Las Vegas Sign,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d2218772-Reviews-Welcome_to_Fabulous_Las_Vegas_Sign-Las_Vegas_Nevada.html,Mountain
+171,NV,Mirage Volcano,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d1224550-Reviews-Mirage_Volcano-Las_Vegas_Nevada.html,Mountain
+172,NV,Forum Shops at Caesars Palace,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g26308655-d102511-Reviews-Forum_Shops_at_Caesars_Palace-Paradise_Nevada.html,Mountain
+173,NV,The LINQ Promenade,Barrios,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d6637961-Reviews-The_LINQ_Promenade-Las_Vegas_Nevada.html,Mountain
+174,NV,"Shelby American, Inc.",Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d2409034-Reviews-Shelby_American_Inc-Las_Vegas_Nevada.html,Mountain
+175,NV,Mount Charleston,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d135565-Reviews-Mount_Charleston-Las_Vegas_Nevada.html,Mountain
+176,NV,Sand Harbor,Playas,https://www.tripadvisor.com.ar/Attraction_Review-g45956-d117163-Reviews-Sand_Harbor-Incline_Village_Lake_Tahoe_Nevada_Nevada.html,Mountain
+177,NV,Fashion Show Las Vegas,Centros comerciales,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d110191-Reviews-Fashion_Show_Las_Vegas-Las_Vegas_Nevada.html,Mountain
+178,NV,Fuentes del Hotel Bellagio,"Monumentos y lugares de interés, Fuentes",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d127003-Reviews-Fountains_of_Bellagio-Las_Vegas_Nevada.html,Mountain
+179,NV,Red Rock Canyon National Conservation Area,"Parques estatales, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d103329-Reviews-Red_Rock_Canyon_National_Conservation_Area-Las_Vegas_Nevada.html,Mountain
+180,NV,Bellagio Conservatory & Botanical Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d625114-Reviews-Bellagio_Conservatory_Botanical_Garden-Las_Vegas_Nevada.html,Mountain
+181,NV,Springs Preserve,"Museos especializados, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d658315-Reviews-Springs_Preserve-Las_Vegas_Nevada.html,Mountain
+182,NV,The Atomic Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d556066-Reviews-The_Atomic_Museum-Las_Vegas_Nevada.html,Mountain
+183,NV,Dig This,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d2169633-Reviews-Dig_This-Las_Vegas_Nevada.html,Mountain
+184,NV,Allegiant Stadium Tours,"Complejos deportivos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d23473814-Reviews-Allegiant_Stadium_Tours-Las_Vegas_Nevada.html,Mountain
+185,NV,Hemenway Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g60881-d4702560-Reviews-Hemenway_Park-Boulder_City_Nevada.html,Mountain
+186,NV,Peppermill Casino,Casinos,https://www.tripadvisor.com.ar/Attraction_Review-g45992-d4083190-Reviews-Peppermill_Casino-Reno_Nevada.html,Mountain
+187,NV,Dolby Live,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d11885722-Reviews-Dolby_Live-Las_Vegas_Nevada.html,Mountain
+188,NV,The River Passage Water Taxi,Ferris,https://www.tripadvisor.com.ar/Attraction_Review-g45964-d8704641-Reviews-The_River_Passage_Water_Taxi-Laughlin_Nevada.html,Mountain
+189,NV,Las Vegas North Premium Outlets,Tiendas de regalos,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d517543-Reviews-Las_Vegas_North_Premium_Outlets-Las_Vegas_Nevada.html,Mountain
+190,NV,Vegas Superkarts - Outdoor Go Kart,Centros de juego y entretenimiento,https://www.tripadvisor.com.ar/Attraction_Review-g45953-d15750023-Reviews-Vegas_Superkarts_Outdoor_Go_Kart-Henderson_Nevada.html,Mountain
+191,NV,Elvis Chapel,Capillas para bodas,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d552957-Reviews-Elvis_Chapel-Las_Vegas_Nevada.html,Mountain
+192,NV,Vegas Weddings,Capillas para bodas,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d1219534-Reviews-Vegas_Weddings-Las_Vegas_Nevada.html,Mountain
+193,NV,Wayne Newton: Up Close and Personal,Teatro y espectáculos,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d11798913-Reviews-Wayne_Newton_Up_Close_and_Personal-Las_Vegas_Nevada.html,Mountain
+194,NV,The Escape Game Las Vegas,Juegos de escape,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d20171620-Reviews-The_Escape_Game_Las_Vegas-Las_Vegas_Nevada.html,Mountain
+195,NV,Rex Center Vegas,"Centros de juego y entretenimiento, Minigolf",https://www.tripadvisor.com.ar/Attraction_Review-g45963-d13358429-Reviews-Rex_Center_Vegas-Las_Vegas_Nevada.html,Mountain
+196,NV,The Chandelier,Bares y boliches,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d2292286-Reviews-The_Chandelier-Las_Vegas_Nevada.html,Mountain
+197,NV,"Alain Nu, The Man Who Knows",Teatro y espectáculos,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d20017489-Reviews-Alain_Nu_The_Man_Who_Knows-Las_Vegas_Nevada.html,Mountain
+198,NV,Reflections The Spa At Planet Hollywood,Spas,https://www.tripadvisor.com.ar/Attraction_Review-g45963-d23830978-Reviews-Reflections_The_Spa_At_Planet_Hollywood-Las_Vegas_Nevada.html,Mountain
+199,NM,Sandia Peak Tramway,Tranvías,https://www.tripadvisor.com.ar/Attraction_Review-g60933-d103161-Reviews-Sandia_Peak_Tramway-Albuquerque_New_Mexico.html,Mountain
+200,NM,White Sands National Park,"Parques nacionales, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g28952-d103700-Reviews-White_Sands_National_Park-New_Mexico.html,Mountain
+201,NM,Bandelier National Monument,"Lugares históricos, Cañones",https://www.tripadvisor.com.ar/Attraction_Review-g60730-d146366-Reviews-Bandelier_National_Monument-Los_Alamos_New_Mexico.html,Mountain
+202,NM,Rio Grande Gorge Bridge,Puentes,https://www.tripadvisor.com.ar/Attraction_Review-g47224-d281481-Reviews-Rio_Grande_Gorge_Bridge-Taos_Taos_County_New_Mexico.html,Mountain
+203,NM,The Cathedral Basilica of St. Francis of Assisi,Iglesias y catedrales,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d123657-Reviews-The_Cathedral_Basilica_of_St_Francis_of_Assisi-Santa_Fe_New_Mexico.html,Mountain
+204,NM,Loretto Chapel,"Lugares históricos, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g60958-d123660-Reviews-Loretto_Chapel-Santa_Fe_New_Mexico.html,Mountain
+205,NM,McGinn's PistachioLand,"Tiendas de regalos, Viñedos con bodegas",https://www.tripadvisor.com.ar/Attraction_Review-g29760-d267690-Reviews-McGinn_s_PistachioLand-Alamogordo_New_Mexico.html,Mountain
+206,NM,Canyon Road,"Barrios, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60958-d117221-Reviews-Canyon_Road-Santa_Fe_New_Mexico.html,Mountain
+207,NM,Albuquerque Old Town,"Barrios, Áreas históricas peatonales",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d144329-Reviews-Albuquerque_Old_Town-Albuquerque_New_Mexico.html,Mountain
+208,NM,Georgia O'Keeffe Museum,Museos de arte,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d787426-Reviews-Georgia_O_Keeffe_Museum-Santa_Fe_New_Mexico.html,Mountain
+209,NM,Santa Fe Plaza,"Lugares históricos, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g60958-d107439-Reviews-Santa_Fe_Plaza-Santa_Fe_New_Mexico.html,Mountain
+210,NM,Indian Pueblo Cultural Center,"Museos especializados, Museos de historia natural",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d110194-Reviews-Indian_Pueblo_Cultural_Center-Albuquerque_New_Mexico.html,Mountain
+211,NM,Museum of International Folk Art,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d135699-Reviews-Museum_of_International_Folk_Art-Santa_Fe_New_Mexico.html,Mountain
+212,NM,The National Museum of Nuclear Science & History,"Museos especializados, Museos de ciencia",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d116492-Reviews-The_National_Museum_of_Nuclear_Science_History-Albuquerque_New_Mexico.html,Mountain
+213,NM,Petroglyph National Monument,"Lugares históricos, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d102667-Reviews-Petroglyph_National_Monument-Albuquerque_New_Mexico.html,Mountain
+214,NM,Big Room,Cavernas y cuevas,https://www.tripadvisor.com.ar/Attraction_Review-g143018-d144825-Reviews-Big_Room-Carlsbad_Caverns_National_Park_New_Mexico.html,Mountain
+215,NM,Santa Fe Opera House,Óperas,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d107440-Reviews-Santa_Fe_Opera_House-Santa_Fe_New_Mexico.html,Mountain
+216,NM,Carlsbad Caverns National Park Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g143018-d3916574-Reviews-Carlsbad_Caverns_National_Park_Visitor_Center-Carlsbad_Caverns_National_Park_New_.html,Mountain
+217,NM,Chaco Culture National Historical Park,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g60767-d123082-Reviews-Chaco_Culture_National_Historical_Park-Nageezi_New_Mexico.html,Mountain
+218,NM,New Mexico History Museum,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d1459364-Reviews-New_Mexico_History_Museum-Santa_Fe_New_Mexico.html,Mountain
+219,NM,Turquoise Museum,"Galerías de arte, Museos especializados",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d1488623-Reviews-Turquoise_Museum-Albuquerque_New_Mexico.html,Mountain
+220,NM,International UFO Museum and Research Center,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g47182-d106380-Reviews-International_UFO_Museum_and_Research_Center-Roswell_New_Mexico.html,Mountain
+221,NM,High Road to Taos,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g47224-d273900-Reviews-High_Road_to_Taos-Taos_Taos_County_New_Mexico.html,Mountain
+222,NM,ABQ BioPark Botanic Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60933-d559793-Reviews-ABQ_BioPark_Botanic_Garden-Albuquerque_New_Mexico.html,Mountain
+223,NM,New Mexico State Capitol (Roundhouse),Edificios gubernamentales,https://www.tripadvisor.com.ar/Attraction_Review-g60958-d534384-Reviews-New_Mexico_State_Capitol_Roundhouse-Santa_Fe_New_Mexico.html,Mountain
+224,NM,Albuquerque International Balloon Fiesta,Eventos culturales,https://www.tripadvisor.com.ar/Attraction_Review-g60933-d8820144-Reviews-Albuquerque_International_Balloon_Fiesta-Albuquerque_New_Mexico.html,Mountain
+225,NM,Sandia Peak Tramway,Tranvías,https://www.tripadvisor.com.ar/Attraction_Review-g60933-d103161-Reviews-Sandia_Peak_Tramway-Albuquerque_New_Mexico.html,Mountain
+226,NM,Heart of the Desert,"Viñedos con bodegas, Granjas",https://www.tripadvisor.com.ar/Attraction_Review-g29760-d2627591-Reviews-Heart_of_the_Desert-Alamogordo_New_Mexico.html,Mountain
+227,NM,San Felipe de Neri Church,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60933-d126557-Reviews-San_Felipe_de_Neri_Church-Albuquerque_New_Mexico.html,Mountain
+228,NM,Anderson-Abruzzo International Balloon Museum,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60933-d583176-Reviews-Anderson_Abruzzo_International_Balloon_Museum-Albuquerque_New_Mexico.html,Mountain
+229,UT,Bryce Canyon National Park,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g143015-d1925256-Reviews-Bryce_Canyon_National_Park-Bryce_Canyon_National_Park_Utah.html,Mountain
+230,UT,Arches National Park,"Parques nacionales, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g60724-d8535374-Reviews-Arches_National_Park-Moab_Utah.html,Mountain
+231,UT,Monument Valley Navajo Tribal Park,"Monumentos y lugares de interés, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g57072-d142989-Reviews-Monument_Valley_Navajo_Tribal_Park-Monument_Valley_Utah.html,Mountain
+232,UT,The Narrows,"Parques nacionales, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g143057-d103399-Reviews-The_Narrows-Zion_National_Park_Utah.html,Mountain
+233,UT,Dead Horse Point State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d254961-Reviews-Dead_Horse_Point_State_Park-Moab_Utah.html,Mountain
+234,UT,Angel's Landing,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d123650-Reviews-Angel_s_Landing-Zion_National_Park_Utah.html,Mountain
+235,UT,Zion National Park,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d10035237-Reviews-Zion_National_Park-Zion_National_Park_Utah.html,Mountain
+236,UT,Canyonlands National Park,"Montañas, Parques nacionales",https://www.tripadvisor.com.ar/Attraction_Review-g60724-d8837806-Reviews-Canyonlands_National_Park-Moab_Utah.html,Mountain
+237,UT,Zion Canyon Scenic Drive,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d146518-Reviews-Zion_Canyon_Scenic_Drive-Zion_National_Park_Utah.html,Mountain
+238,UT,Navajo/Queens Garden Loop,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143015-d144944-Reviews-Navajo_Queens_Garden_Loop-Bryce_Canyon_National_Park_Utah.html,Mountain
+239,UT,Best Friends Animal Sanctuary,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g57030-d185088-Reviews-Best_Friends_Animal_Sanctuary-Kanab_Utah.html,Mountain
+240,UT,Temple Square,"Monumentos y lugares de interés, Lugares religiosos",https://www.tripadvisor.com.ar/Attraction_Review-g60922-d103552-Reviews-Temple_Square-Salt_Lake_City_Utah.html,Mountain
+241,UT,Delicate Arch,"Monumentos y lugares de interés, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g143011-d117172-Reviews-Delicate_Arch-Arches_National_Park_Utah.html,Mountain
+242,UT,Capitol Reef National Park,"Parques nacionales, Áreas de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g143017-d212117-Reviews-Capitol_Reef_National_Park-Capitol_Reef_National_Park_Utah.html,Mountain
+243,UT,Big Cottonwood Canyon,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60922-d255182-Reviews-Big_Cottonwood_Canyon-Salt_Lake_City_Utah.html,Mountain
+244,UT,Hell's Revenge,Senderos para vehículos todo terreno,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d579200-Reviews-Hell_s_Revenge-Moab_Utah.html,Mountain
+245,UT,Natural History Museum of Utah,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g60922-d2415414-Reviews-Natural_History_Museum_of_Utah-Salt_Lake_City_Utah.html,Mountain
+246,UT,Inspiration Point,Miradores,https://www.tripadvisor.com.ar/Attraction_Review-g143015-d146993-Reviews-Inspiration_Point-Bryce_Canyon_National_Park_Utah.html,Mountain
+247,UT,Corona Arch,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d2208126-Reviews-Corona_Arch-Moab_Utah.html,Mountain
+248,UT,Antelope Island State Park,"Parques estatales, Islas",https://www.tripadvisor.com.ar/Attraction_Review-g57143-d140239-Reviews-Antelope_Island_State_Park-Syracuse_Davis_County_Utah.html,Mountain
+249,UT,Cedar Breaks National Monument,"Parques nacionales, Cañones",https://www.tripadvisor.com.ar/Attraction_Review-g60765-d103460-Reviews-Cedar_Breaks_National_Monument-Cedar_City_Utah.html,Mountain
+250,UT,The Tabernacle,Lugares religiosos,https://www.tripadvisor.com.ar/Attraction_Review-g60922-d107701-Reviews-The_Tabernacle-Salt_Lake_City_Utah.html,Mountain
+251,UT,Utah State Capitol,Edificios gubernamentales,https://www.tripadvisor.com.ar/Attraction_Review-g60922-d144020-Reviews-Utah_State_Capitol-Salt_Lake_City_Utah.html,Mountain
+252,UT,Zion-Mt. Carmel Highway,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d146519-Reviews-Zion_Mt_Carmel_Highway-Zion_National_Park_Utah.html,Mountain
+253,UT,Zion Shuttle,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d107747-Reviews-Zion_Shuttle-Zion_National_Park_Utah.html,Mountain
+254,UT,Goblin Valley State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g57000-d631651-Reviews-Goblin_Valley_State_Park-Green_River_Utah.html,Mountain
+255,UT,Mesa Arch,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g143016-d144939-Reviews-Mesa_Arch-Canyonlands_National_Park_Utah.html,Mountain
+256,UT,Bryce Canyon National Park,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g143015-d1925256-Reviews-Bryce_Canyon_National_Park-Bryce_Canyon_National_Park_Utah.html,Mountain
+257,UT,Pioneer Park,Parques,https://www.tripadvisor.com.ar/Attraction_Review-g57119-d3478393-Reviews-Pioneer_Park-St_George_Utah.html,Mountain
+258,UT,Natural Bridges National Monument,"Parques nacionales, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g56935-d145704-Reviews-Natural_Bridges_National_Monument-Blanding_Utah.html,Mountain
+259,UT,Goosenecks State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g56935-d1150260-Reviews-Goosenecks_State_Park-Blanding_Utah.html,Mountain
+260,UT,Park City Main Street Historic District,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g57097-d6818561-Reviews-Park_City_Main_Street_Historic_District-Park_City_Utah.html,Mountain
+261,UT,Coral Pink Sand Dunes State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g57030-d208382-Reviews-Coral_Pink_Sand_Dunes_State_Park-Kanab_Utah.html,Mountain
+262,UT,Potash Road,"Rutas para ciclismo, Rutas turísticas",https://www.tripadvisor.com.ar/Attraction_Review-g60724-d146432-Reviews-Potash_Road-Moab_Utah.html,Mountain
+263,UT,Grand View Point Overlook,Miradores,https://www.tripadvisor.com.ar/Attraction_Review-g143016-d2718699-Reviews-Grand_View_Point_Overlook-Canyonlands_National_Park_Utah.html,Mountain
+264,UT,Riverside Walk,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d146521-Reviews-Riverside_Walk-Zion_National_Park_Utah.html,Mountain
+265,UT,Windows,"Rutas para senderismo, Formaciones geológicas",https://www.tripadvisor.com.ar/Attraction_Review-g143011-d146988-Reviews-Windows-Arches_National_Park_Utah.html,Mountain
+266,UT,Balanced Rock Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d3616824-Reviews-Balanced_Rock_Trail-Moab_Utah.html,Mountain
+267,UT,Scenic Byway Route 12,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g56980-d10110403-Reviews-Scenic_Byway_Route_12-Escalante_Utah.html,Mountain
+268,UT,Clark Planetarium,Museos de ciencia,https://www.tripadvisor.com.ar/Attraction_Review-g60922-d531654-Reviews-Clark_Planetarium-Salt_Lake_City_Utah.html,Mountain
+269,UT,Utah Field House of Natural History State Park,Museos de historia natural,https://www.tripadvisor.com.ar/Attraction_Review-g57155-d106355-Reviews-Utah_Field_House_of_Natural_History_State_Park-Vernal_Utah.html,Mountain
+270,UT,Brian Head Resort,"Rutas para ciclismo, Áreas para esquiar y practicar snowboard",https://www.tripadvisor.com.ar/Attraction_Review-g56941-d276235-Reviews-Brian_Head_Resort-Brian_Head_Utah.html,Mountain
+271,UT,Wilson's Arch,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d3376996-Reviews-Wilson_s_Arch-Moab_Utah.html,Mountain
+272,UT,Emerald Pools,"Formaciones geológicas, Cascadas",https://www.tripadvisor.com.ar/Attraction_Review-g143057-d144948-Reviews-Emerald_Pools-Zion_National_Park_Utah.html,Mountain
+273,UT,Canyon Trail Rides,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g143015-d648892-Reviews-Canyon_Trail_Rides-Bryce_Canyon_National_Park_Utah.html,Mountain
+274,UT,Kodachrome Basin State Park,Parques estatales,https://www.tripadvisor.com.ar/Attraction_Review-g56945-d140537-Reviews-Kodachrome_Basin_State_Park-Cannonville_Utah.html,Mountain
+275,UT,Devil's Garden,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g56980-d2547824-Reviews-Devil_s_Garden-Escalante_Utah.html,Mountain
+276,UT,Wildcat Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g57072-d3645830-Reviews-Wildcat_Trail-Monument_Valley_Utah.html,Mountain
+277,UT,Goulding’s Trading Post Museum.,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g57072-d4475240-Reviews-Goulding_s_Trading_Post_Museum-Monument_Valley_Utah.html,Mountain
+278,UT,Watchman Trail,Rutas para senderismo,https://www.tripadvisor.com.ar/Attraction_Review-g143057-d536303-Reviews-Watchman_Trail-Zion_National_Park_Utah.html,Mountain
+279,UT,McConkie Ranch,"Ruinas antiguas, Monumentos y lugares de interés",https://www.tripadvisor.com.ar/Attraction_Review-g57155-d1913727-Reviews-McConkie_Ranch-Vernal_Utah.html,Mountain
+280,UT,Moab Backyard Theater,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g60724-d6199574-Reviews-Moab_Backyard_Theater-Moab_Utah.html,Mountain
+281,WY,Gran Cañón de Yellowstone,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d290469-Reviews-Grand_Canyon_of_the_Yellowstone-Yellowstone_National_Park_Wyoming.html,Mountain
+282,WY,Centro Histórico Buffalo Bill,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60442-d270556-Reviews-Buffalo_Bill_Center_of_the_West-Cody_Wyoming.html,Mountain
+283,WY,Devils Tower National Monument,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g60792-d144721-Reviews-Devils_Tower_National_Monument-Devils_Tower_Wyoming.html,Mountain
+284,WY,Grand Teton,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g143029-d145270-Reviews-Grand_Teton-Grand_Teton_National_Park_Wyoming.html,Mountain
+285,WY,Lamar Valley,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d2236532-Reviews-Lamar_Valley-Yellowstone_National_Park_Wyoming.html,Mountain
+286,WY,Grand Prismatic Spring,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d126749-Reviews-Grand_Prismatic_Spring-Yellowstone_National_Park_Wyoming.html,Mountain
+287,WY,Yellowstone National Park,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d12235309-Reviews-Yellowstone_National_Park-Yellowstone_National_Park_Wyoming.html,Mountain
+288,WY,Old Faithful,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d142956-Reviews-Old_Faithful-Yellowstone_National_Park_Wyoming.html,Mountain
+289,WY,National Museum of Wildlife Art,"Museos especializados, Museos de arte",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d103233-Reviews-National_Museum_of_Wildlife_Art-Jackson_Jackson_Hole_Wyoming.html,Mountain
+290,WY,Jackson Hole Aerial Tram,Tranvías,https://www.tripadvisor.com.ar/Attraction_Review-g60562-d319055-Reviews-Jackson_Hole_Aerial_Tram-Teton_Village_Jackson_Hole_Wyoming.html,Mountain
+291,WY,Artist Point,"Monumentos y lugares de interés, Rutas para senderismo",https://www.tripadvisor.com.ar/Attraction_Review-g60999-d532065-Reviews-Artist_Point-Yellowstone_National_Park_Wyoming.html,Mountain
+292,WY,Cody Dug Up Gun Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60442-d1546919-Reviews-Cody_Dug_Up_Gun_Museum-Cody_Wyoming.html,Mountain
+293,WY,Upper Geyser Basin,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d126748-Reviews-Upper_Geyser_Basin-Yellowstone_National_Park_Wyoming.html,Mountain
+294,WY,National Elk Refuge,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d104349-Reviews-National_Elk_Refuge-Jackson_Jackson_Hole_Wyoming.html,Mountain
+295,WY,Jackson Town Square,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d6403360-Reviews-Jackson_Town_Square-Jackson_Jackson_Hole_Wyoming.html,Mountain
+296,WY,Yellowstone Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d140435-Reviews-Yellowstone_Lake-Yellowstone_National_Park_Wyoming.html,Mountain
+297,WY,Mammoth Hot Springs,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d126750-Reviews-Mammoth_Hot_Springs-Yellowstone_National_Park_Wyoming.html,Mountain
+298,WY,National Historic Trails Interpretive Center,Museos de historia,https://www.tripadvisor.com.ar/Attraction_Review-g60437-d255669-Reviews-National_Historic_Trails_Interpretive_Center-Casper_Wyoming.html,Mountain
+299,WY,Jenny Lake,Masas de agua,https://www.tripadvisor.com.ar/Attraction_Review-g60524-d107402-Reviews-Jenny_Lake-Moran_Jackson_Hole_Wyoming.html,Mountain
+300,WY,Hayden Valley,Áreas de naturaleza y vida silvestre,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d3400613-Reviews-Hayden_Valley-Yellowstone_National_Park_Wyoming.html,Mountain
+301,WY,Cody Firearms Museum,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60442-d270552-Reviews-Cody_Firearms_Museum-Cody_Wyoming.html,Mountain
+302,WY,Old Trail Town,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60442-d108111-Reviews-Old_Trail_Town-Cody_Wyoming.html,Mountain
+303,WY,Grand Loop Road,Rutas turísticas,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d146784-Reviews-Grand_Loop_Road-Yellowstone_National_Park_Wyoming.html,Mountain
+304,WY,Jackson Hole Rodeo, Carreras de caballos,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d189546-Reviews-Jackson_Hole_Rodeo-Jackson_Jackson_Hole_Wyoming.html,Mountain
+305,WY,Wyoming Territorial Prison State Historic Site,Lugares históricos,https://www.tripadvisor.com.ar/Attraction_Review-g60503-d124523-Reviews-Wyoming_Territorial_Prison_State_Historic_Site-Laramie_Wyoming.html,Mountain
+306,WY,Gran Cañón de Yellowstone,Cañones,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d290469-Reviews-Grand_Canyon_of_the_Yellowstone-Yellowstone_National_Park_Wyoming.html,Mountain
+307,WY,Centro Histórico Buffalo Bill,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60442-d270556-Reviews-Buffalo_Bill_Center_of_the_West-Cody_Wyoming.html,Mountain
+308,WY,Devils Tower National Monument,Formaciones geológicas,https://www.tripadvisor.com.ar/Attraction_Review-g60792-d144721-Reviews-Devils_Tower_National_Monument-Devils_Tower_Wyoming.html,Mountain
+309,WY,Grand Teton,Montañas,https://www.tripadvisor.com.ar/Attraction_Review-g143029-d145270-Reviews-Grand_Teton-Grand_Teton_National_Park_Wyoming.html,Mountain
+310,WY,Buffalo Bill Dam,Represas,https://www.tripadvisor.com.ar/Attraction_Review-g60442-d1086056-Reviews-Buffalo_Bill_Dam-Cody_Wyoming.html,Mountain
+311,WY,West Thumb Geyser Basin,Fuentes termales y géiseres,https://www.tripadvisor.com.ar/Attraction_Review-g60999-d290467-Reviews-West_Thumb_Geyser_Basin-Yellowstone_National_Park_Wyoming.html,Mountain
+312,WY,Wild West Spectacular,Teatros,https://www.tripadvisor.com.ar/Attraction_Review-g60442-d10410062-Reviews-Wild_West_Spectacular-Cody_Wyoming.html,Mountain
+313,WY,Grand Teton National Park,Parques nacionales,https://www.tripadvisor.com.ar/Attraction_Review-g28973-d4341682-Reviews-Grand_Teton_National_Park-Wyoming.html,Mountain
+314,WY,Museum of the Plains Indian,"Museos especializados, Museos de historia",https://www.tripadvisor.com.ar/Attraction_Review-g60442-d270557-Reviews-Museum_of_the_Plains_Indian-Cody_Wyoming.html,Mountain
+315,WY,Antler Arches of Jackson,Monumentos y lugares de interés,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d10642698-Reviews-Antler_Arches_of_Jackson-Jackson_Jackson_Hole_Wyoming.html,Mountain
+316,WY,Museum of the Mountain Man,Museos especializados,https://www.tripadvisor.com.ar/Attraction_Review-g60533-d1067606-Reviews-Museum_of_the_Mountain_Man-Pinedale_Wyoming.html,Mountain
+317,WY,Devil's Tower National Monument Visitor Center,Centros de información turística,https://www.tripadvisor.com.ar/Attraction_Review-g60792-d144722-Reviews-Devil_s_Tower_National_Monument_Visitor_Center-Devils_Tower_Wyoming.html,Mountain
+318,WY,Mill Iron Ranch,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1825725-Reviews-Mill_Iron_Ranch-Jackson_Jackson_Hole_Wyoming.html,Mountain
+319,WY,Cheyenne Botanic Gardens,Jardines,https://www.tripadvisor.com.ar/Attraction_Review-g60439-d279401-Reviews-Cheyenne_Botanic_Gardens-Cheyenne_Wyoming.html,Mountain
+320,WY,Old Faithful Snowmobile Tours - Day Tours,Tours de esquí y de nieve,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d2454725-Reviews-Old_Faithful_Snowmobile_Tours_Day_Tours-Jackson_Jackson_Hole_Wyoming.html,Mountain
+321,WY,Mill Iron Ranch,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1825725-Reviews-Mill_Iron_Ranch-Jackson_Jackson_Hole_Wyoming.html,Mountain
+322,WY,Willow Creek Horseback Rides,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d6753952-Reviews-Willow_Creek_Horseback_Rides-Jackson_Jackson_Hole_Wyoming.html,Mountain
+323,WY,Jackson Hole Eco Tour Adventures,"Tours ecológicos, Tours de naturaleza y vida silvestre",https://www.tripadvisor.com.ar/Attraction_Review-g60491-d1547898-Reviews-Jackson_Hole_Eco_Tour_Adventures-Jackson_Jackson_Hole_Wyoming.html,Mountain
+324,WY,Jackson Hole Backcountry Rentals,Alquileres de equipos,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d12077143-Reviews-Jackson_Hole_Backcountry_Rentals-Jackson_Jackson_Hole_Wyoming.html,Mountain
+325,WY,North Fork Trail Rides,Tours a caballo,https://www.tripadvisor.com.ar/Attraction_Review-g60491-d2299642-Reviews-North_Fork_Trail_Rides-Jackson_Jackson_Hole_Wyoming.html,Mountain

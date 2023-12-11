@@ -17,18 +17,14 @@ conn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, 
 cursor = conn.cursor()
 
 
-def guardar_en_postgres(dataframe, nombre_tabla, conn):
-    # Crear la tabla si no existe
-    dataframe.head(0).to_sql(nombre_tabla, conn, if_exists='replace', index=False)
-    
-    # Guardar el DataFrame en la tabla
-    dataframe.to_sql(nombre_tabla, conn, if_exists='append', index=False)
-
-
 def obtener_datos(cursor, tabla, *columnas):
-    # Aquí ejecuta tu consulta SQL para obtener datos de Google
-    cursor.execute(f"SELECT {', '.join(columnas)} FROM {tabla}")
-    data = cursor.fetchall()
-    # Convierte los resultados en un DataFrame de pandas
-    df = pd.DataFrame(data, columns=columnas)
-    return df
+    try:
+        # Aquí ejecuta tu consulta SQL para obtener datos de Google
+        cursor.execute(f"SELECT {', '.join(columnas)} FROM {tabla}")
+        data = cursor.fetchall()
+        # Convierte los resultados en un DataFrame de pandas
+        df = pd.DataFrame(data, columns=columnas)
+        return df
+    finally:
+        # Cerrar el cursor en el bloque finally para garantizar que se cierre incluso en caso de excepción
+        cursor.close()

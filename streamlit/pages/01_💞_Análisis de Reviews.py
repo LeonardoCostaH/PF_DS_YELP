@@ -45,12 +45,18 @@ selected_hotels = st.sidebar.multiselect('Hotel',
                                          default=clients['name'][clients["city"].isin(selected_cities)].unique())
 
 # Create user filters
-selected_company = st.sidebar.selectbox('Company', clients_reviews['company'].unique())
+all_company= clients_reviews['company'].unique()
+selected_company = st.sidebar.multiselect('Company', all_company, default=all_company)
 
+all_acommodation=clients_reviews['acommodation'].unique()
+selected_acommodation = st.sidebar.multiselect('Accommodation', all_acommodation,default=all_acommodation)
 
-selected_acommodation = st.sidebar.selectbox('Acommodation', clients_reviews['acommodation'].unique())
-selected_stay = st.sidebar.selectbox('Stay lenght', clients_reviews['stay'].unique())
-selected_nationality = st.sidebar.selectbox('Nationality', clients_reviews['is_american'].unique())
+all_stay = list(clients_reviews['stay'].unique())
+selected_stay = st.sidebar.multiselect('Stay length', all_stay, default=all_stay)
+
+all_nationality=clients_reviews['is_american'].unique()
+selected_nationality = st.sidebar.multiselect('Nationality', all_nationality,default=all_nationality)
+
 
 
 # Filter data and calculate

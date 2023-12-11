@@ -15,7 +15,7 @@ import plotly.graph_objects as go
 warnings.filterwarnings("ignore")
 
 clients = pd.read_csv("../files/data/usa_clients.csv", index_col=0)
-clients_reviews = pd.read_csv("../files/data/usa_clients_reviews.csv", index_col=0)
+clients_reviews = pd.read_csv("../files/data/booking/california_hotels_reviews.csv", index_col=0)
 clients_reviews['date'] = pd.to_datetime(clients_reviews['date'])
 
 st.set_page_config(
@@ -24,6 +24,7 @@ st.set_page_config(
     page_title="Tu Aplicación",
     page_icon=":chart_with_upwards_trend:"
 )
+
 
 # FILTER
 
@@ -37,7 +38,8 @@ date_range = st.sidebar.date_input("Date Range",
 
 selected_state = st.sidebar.selectbox('State', clients['state'].unique())
 
-selected_cities = st.sidebar.multiselect('City', clients['city'][clients["state"] == selected_state].unique())
+cities_to_filter_by = clients['city'][clients["state"] == selected_state].unique()
+selected_cities = st.sidebar.multiselect('City', cities_to_filter_by, default=cities_to_filter_by)
 
 selected_hotels = st.sidebar.multiselect('Hotel', 
                                          clients['name'][clients["city"].isin(selected_cities)].unique(),
@@ -45,10 +47,6 @@ selected_hotels = st.sidebar.multiselect('Hotel',
 
 # Create user filters
 selected_company = st.sidebar.selectbox('Company', clients_reviews['company'].unique())
-if selected_company != -1:
-    st.write(f'Se seleccionó la compañía: {selected_company}')
-else:
-    st.write('No se seleccionó ninguna compañía.')
 selected_acommodation = st.sidebar.selectbox('Acommodation', clients_reviews['acommodation'].unique())
 selected_stay = st.sidebar.selectbox('Stay lenght', clients_reviews['stay'].unique())
 selected_nationality = st.sidebar.selectbox('Nationality', clients_reviews['is_american'].unique())
@@ -60,7 +58,6 @@ filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hot
 filtered_clients_reviews['company'].dropna(inplace=True)
 average_sentiment = filtered_clients_reviews['sentiment'].mean()
 filtered_clients_reviews['useful'] = 0.1
-
 
 
 

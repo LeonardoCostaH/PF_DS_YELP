@@ -15,3 +15,16 @@ conn = psycopg2.connect(dbname=dbname, user=user, password=password, host=host, 
 
 # Crear un cursor
 cursor = conn.cursor()
+
+
+def obtener_datos(cursor, tabla, *columnas):
+    try:
+        # Aquí ejecuta tu consulta SQL para obtener datos de Google
+        cursor.execute(f"SELECT {', '.join(columnas)} FROM {tabla}")
+        data = cursor.fetchall()
+        # Convierte los resultados en un DataFrame de pandas
+        df = pd.DataFrame(data, columns=columnas)
+        return df
+    finally:
+        # Cerrar el cursor en el bloque finally para garantizar que se cierre incluso en caso de excepción
+        cursor.close()

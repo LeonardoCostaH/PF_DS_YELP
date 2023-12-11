@@ -61,12 +61,12 @@ selected_nationality = st.sidebar.multiselect('Nationality', all_nationality,def
 
 # Filter data and calculate
 hotel_ids = clients["hotel_id"][clients["name"].isin(selected_hotels)].to_list()
-filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hotel_ids)) & (clients_reviews["company"] == selected_company)]
+
+filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hotel_ids)) & (clients_reviews["company"].isin(selected_company)) & (clients_reviews["stay"].isin(selected_stay))]
+
 filtered_clients_reviews['company'].dropna(inplace=True)
 average_sentiment = filtered_clients_reviews['sentiment'].mean()
 filtered_clients_reviews['useful'] = 0.1
-
-
 
 
 # GRAFICAR

@@ -1,5 +1,5 @@
 import streamlit as st
-from connect import cursor, conn
+from connect import cursor, conn, obtener_datos
 import matplotlib.pyplot as plt
 import matplotlib
 import seaborn as sns
@@ -11,6 +11,7 @@ import plotly.graph_objects as go
 
 warnings.filterwarnings("ignore")
 
+    
 usa_states = pd.read_csv("../files/data/usa_states.csv")
 usa_cities = pd.read_csv("../files/data/usa_cities.csv")
 clients = pd.read_csv("../files/data/usa_clients.csv", index_col=0)

@@ -32,12 +32,12 @@ st.set_page_config(
 
 
 
-usa_states = pd.read_csv("data/usa_states.csv")
+usa_states = pd.read_csv("../files/data/usa_states.csv")
 state_list = sorted(usa_states["state"].tolist()) # Crear una lista de opciones para el checklist
 default_selection = ["Utah"]
 selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)
 
-utah_hotels = pd.read_csv("data/booking_utah_hotels.csv")
+utah_hotels = pd.read_csv("../files/data/usa_hotels.csv")
 utah_hotels.dropna(inplace=True)
 utah_hotels.isna().sum()
 utah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)

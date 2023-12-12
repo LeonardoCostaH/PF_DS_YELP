@@ -16,6 +16,7 @@ warnings.filterwarnings("ignore")
 
 clients = pd.read_csv("../files/data/usa_clients.csv", index_col=0)
 clients_reviews = pd.read_csv("../files/data/usa_clients_reviews.csv", index_col=0)
+
 clients_reviews['date'] = pd.to_datetime(clients_reviews['date'])
 
 st.set_page_config(
@@ -26,7 +27,6 @@ st.set_page_config(
 )
 
 # FILTER
-
 
 # Create hotel filters
 st.sidebar.markdown("### Filters")
@@ -61,23 +61,24 @@ selected_nationality = st.sidebar.multiselect('Nationality', all_nationality,def
 
 # Filter data and calculate
 hotel_ids = clients["hotel_id"][clients["name"].isin(selected_hotels)].to_list()
-filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hotel_ids)) & (clients_reviews["company"] == selected_company)]
+
+filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hotel_ids)) & (clients_reviews["company"].isin(selected_company))]
+
 filtered_clients_reviews['company'].dropna(inplace=True)
 average_sentiment = filtered_clients_reviews['sentiment'].mean()
 filtered_clients_reviews['useful'] = 0.1
 
 
-
-
 # GRAFICAR
-
+average_sentiment = 0.55
 # Crear el gráfico de torta con la paleta de colores específica
 if average_sentiment > 0.5:
     lista_de_colores = ["#689F38", "#8BC34A", "#9CCC65", "#AED581", "#C5E1A5"]
 elif 0.5 > average_sentiment > 0:
     lista_de_colores = ["#FFB300", "#FFCA28", "#FFD54F", "#FFE082", "#FFFFFF"]
-elif average_sentiment < -0:
+elif average_sentiment < 0:
     lista_de_colores = ["#3C0000", "#670010", "#960018", "#CB4C46", "#FF8478"]
+
 
 # Group by month and calculate the average sentiment for each month
 filtered_clients_reviews['month'] = filtered_clients_reviews['date'].dt.to_period('M').astype(str)
@@ -121,7 +122,6 @@ torta_stay = px.pie(filtered_clients_reviews, names="stay_agrupado", height=400,
                     color_discrete_sequence=lista_de_colores)
 torta_stay.update_layout(showlegend=False)
 torta_stay.update_traces(textinfo='label')
-
 
 
 # STRUCTURE

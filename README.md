@@ -76,7 +76,7 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 ## Workflow
 
-<p align=center><img src=files/img/workflow.jpeg><p>
+<p align=center><img src=files/img/workflow1.jpeg><p>
 
 - Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
 - ETL pipeline se encuentra [aqui](pipeline.md)

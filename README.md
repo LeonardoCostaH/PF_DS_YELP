@@ -80,7 +80,7 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 - Diccionario de Datos y DER: [Link diccionario](https://drive.google.com/drive/folders/1kuQy_BOdoovmRketR3T8dd2RiRuLq-Rt?usp=sharing)
 - ETL pipeline se encuentra [aqui](pipeline.md)
-
+- Documentacion del Streamlit [aqui](streamlit.md)
 ---
 
 ## Tecnologías
@@ -102,7 +102,11 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 ---
 
-## Desarrolladores
+## Acerca de Nosotros
+
+Nuestro equipo está formado por profesionales apasionados y dedicados al area de data. Nos esforzamos por ofrecer soluciones innovadoras y personalizadas para cada uno de nuestros clientes.
+
+### Equipo
 
 | Rol                                          | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                            | ![GitHub](files/img/github.png)                                     |
 | -------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
@@ -112,4 +116,9 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 | ![Data](files/img/Diego.gif)*Data Analyst*   | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis@gmail.com](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
 | ![Data](files/img/Joaquin.gif)*ML Engineer*  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin@gmail.com](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
 
+### Vídeo 
+
+¡Descubre más sobre nosotros viendo nuestro video!
+
+- Click aqui ---> [![YouTube](https://img.shields.io/badge/YouTube-badge?style=for-the-badge&logo=youtube&logoColor=%23FF0000&color=black)](https://youtu.be/2MNnqXGmpiU?si=MIVbUoxwEPQWP2Bq)
 ---

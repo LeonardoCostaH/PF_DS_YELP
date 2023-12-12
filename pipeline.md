@@ -42,6 +42,8 @@ Se implementan jobs de AWS Glue para realizar transformaciones en los datos. Est
 ### 5. Orquestación con AWS Step Functions
 Se crea un workflow en AWS Step Functions para orquestar la secuencia de ejecución de los jobs de AWS Glue. Esto garantiza una ejecución ordenada y sin errores del pipeline.
 
+<p align=center><img src=files/img/pipeline1.jpeg><p>
+
 ## Monitoreo y Mantenimiento
 Se establecen prácticas de monitoreo para supervisar el rendimiento del pipeline. Esto incluye el registro de eventos y el uso de las métricas proporcionadas por los servicios de AWS.
 
@@ -49,7 +51,8 @@ Se establecen prácticas de monitoreo para supervisar el rendimiento del pipelin
 El ETL pipeline implementado en AWS proporciona una solución robusta y escalable para la transformación de datos. La combinación de S3, AWS Glue, y Step Functions permite una administración eficiente y automatizada del flujo de datos.
 - A continuacion un video de la implementacion del pipeline:
 
-[![YouTube](https://img.shields.io/badge/YouTube-badge?style=for-the-badge&logo=youtube&logoColor=%23FF0000&color=black)](https://www.youtube.com/watch?v=2szowDhM7RQ&ab_channel=MelisaArce)
+- Click aqui ---> [![YouTube](https://img.shields.io/badge/YouTube-badge?style=for-the-badge&logo=youtube&logoColor=%23FF0000&color=black)](https://www.youtube.com/watch?v=2szowDhM7RQ&ab_channel=MelisaArce)
+
 - Captura del final del proceso (se tarda un tiempo en aparecer las tablas transformadas)
 
 

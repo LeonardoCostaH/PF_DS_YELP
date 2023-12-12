@@ -12,13 +12,14 @@ import plotly.graph_objects as go
 warnings.filterwarnings("ignore")
 
 
-usa_states = obtener_datos(cursor, "usa_states", "*")
-usa_cities = obtener_datos(cursor, "usa_cities", "*")
-clients = obtener_datos(cursor, "usa_clients", "*")
-usa_attractions = obtener_datos(cursor, "usa_attractions", "*")
+usa_states = obtener_datos(cursor, "usa_states")
+usa_cities = obtener_datos(cursor, "usa_cities")
+clients = obtener_datos(cursor, "usa_clients")
+usa_attractions = obtener_datos(cursor, "usa_attractions")
 usa_attractions["n_reviews"].fillna(usa_attractions["n_reviews"].mean() ,inplace=True)
 
-hotels = obtener_datos(cursor, "usa_hotels", "*")
+hotels = obtener_datos(cursor, "usa_hotels")
+cursor.close()
 hotels = pd.merge(hotels, usa_states[['state', 'state_id']], on='state', how="left")
 hotels = pd.merge(hotels, usa_cities[['city', 'state_id', 'latitude', 'longitude', 'population']], on=['state_id', 'city'], how='left')
 

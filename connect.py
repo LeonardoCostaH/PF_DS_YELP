@@ -30,36 +30,24 @@ cursor = conn.cursor()
 #         # Cerrar el cursor en el bloque finally para garantizar que se cierre incluso en caso de excepción
 #         cursor.close()
 
-def obtener_datos(cursor, tabla, *columnas):
+def obtener_datos(cursor, tabla):
     try:
-        # Aquí ejecuta tu consulta SQL para obtener datos de Google
-        cursor.execute(f"SELECT {', '.join(columnas)} FROM {tabla}")
+        # Aquí ejecuta tu consulta SQL para obtener todos los datos de la tabla
+        cursor.execute(f"SELECT * FROM {tabla}")
         data = cursor.fetchall()
+
+        # Verificar si se obtuvieron datos
+        if not data:
+            # Retornar un DataFrame vacío o levantar una excepción según tus necesidades
+            return pd.DataFrame()
+
+        # Obtener los nombres de las columnas de la tabla
+        column_names = [desc[0] for desc in cursor.description]
+
         # Convierte los resultados en un DataFrame de pandas
-        df = pd.DataFrame(data, columns=columnas)
+        df = pd.DataFrame(data, columns=column_names)
         return df
     except Exception as e:
         print(f"Error al obtener datos: {e}")
         # En lugar de cerrar el cursor aquí, lo cerraremos después de usarlo
     return None
-
-def guardar_en_postgres(dataframe, tabla, conn):
-    """
-    Envía los datos de un DataFrame a una tabla en PostgreSQL.
-
-    Parámetros:
-    - dataframe: El DataFrame que se desea enviar.
-    - tabla: El nombre de la tabla en PostgreSQL.
-    - conn: La conexión a la base de datos PostgreSQL.
-
-    Ejemplo de uso:
-    conn = psycopg2.connect(dbname="nombre_base_de_datos", user="usuario", password="contraseña", host="localhost", port="5432")
-    enviar_datos_a_postgres(df, 'nombre_de_tu_tabla', conn)
-    conn.close()
-    """
-    # Crear un motor SQLAlchemy para utilizar el método to_sql
-    engine = create_engine(f'postgresql+psycopg2://{conn.dsn}')
-    
-    # Enviar el DataFrame a la tabla
-    dataframe.to_sql(tabla, engine, if_exists='append', index=False)
-

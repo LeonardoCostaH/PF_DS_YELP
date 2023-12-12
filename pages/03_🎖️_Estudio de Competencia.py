@@ -11,13 +11,13 @@ import plotly.graph_objects as go
 
 warnings.filterwarnings("ignore")
 
-usa_states = obtener_datos(cursor, "usa_states", "*")
-usa_cities = obtener_datos(cursor, "usa_cities", "*")
-clients = obtener_datos(cursor, "usa_clients", "*")
-california_hotels = obtener_datos(cursor, "booking_hotels", "*")
-matrix = obtener_datos(cursor, "california_hotels_similarity_matrix", "*")
+usa_states = obtener_datos(cursor, "usa_states")
+usa_cities = obtener_datos(cursor, "usa_cities")
+clients = obtener_datos(cursor, "usa_clients")
+california_hotels = obtener_datos(cursor, "booking_hotels")
+matrix = obtener_datos(cursor, "california_hotels_similarity_matrix")
 
-
+cursor.close()
 st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",

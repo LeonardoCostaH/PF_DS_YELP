@@ -14,8 +14,9 @@ import plotly.graph_objects as go
 
 warnings.filterwarnings("ignore")
 
-clients = obtener_datos(cursor, "usa_clientes", "*")
-clients_reviews = obtener_datos(cursor, "usa_clients_reviews", "*")
+clients = obtener_datos(cursor, "usa_clients")
+clients_reviews = obtener_datos(cursor, "usa_clients_reviews")
+cursor.close()
 
 clients_reviews['date'] = pd.to_datetime(clients_reviews['date'])
 

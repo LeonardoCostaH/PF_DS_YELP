@@ -77,7 +77,7 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
   Suma de todos los valores de sentimiento / Cantidad de valores de sentimiento
 
   Descripción:
-  El sentimiento es una métrica que mide el grado de satisfacción de la reseña de los clientes. Es un número entre 1 y -1, siendo 1 muy satisfecho y -1 muy insatisfecho. Este KPI se centra en medir la percepción general de los huéspedes que vienen en familia, utilizando el análisis de sentimientos como indicador. El objetivo es mantener un promedio mensual de sentimiento positivo, representado por un valor superior a 0.25. Este KPI busca evaluar la satisfacción y experiencia general de las familias que eligen hospedarse, asegurando que el ambiente y los servicios proporcionados generen opiniones favorables para todo el grupo familiar.
+  El sentimiento es una métrica que mide el grado de satisfacción de las reseñas de los clientes. Es un número entre 1 y -1, siendo 1 muy satisfecho y -1 muy insatisfecho. Este KPI se centra en medir la percepción general de los huéspedes que vienen en familia, utilizando el análisis de sentimientos como indicador. El objetivo es mantener un promedio mensual de sentimiento positivo, representado por un valor superior a 0.25. Este KPI busca evaluar la satisfacción y experiencia general de las familias que eligen hospedarse, asegurando que el ambiente y los servicios proporcionados generen opiniones favorables para todo el grupo familiar.
 
 ---
 

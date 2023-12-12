@@ -70,4 +70,23 @@ fig.update_traces(marker=dict(size=3, sizemode='diameter'))
 fig.update_layout(width=1500, height=800, margin=dict(t=5))  # Adjust the top margin
 fig.update(layout_coloraxis_showscale=False)
 
-st.plotly_chart(fig)
+
+
+
+col1, col2= st.columns((2, 2))
+with col1:
+
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("")
+    st.text("Similar hotels")
+    st.text("")
+    st.text("")
+    california_hotels[["city", "name", "stars", "avg_score", "similarity"]][california_hotels['top_25'] == True]
+with col2:
+    st.plotly_chart(fig, use_container_width=True)

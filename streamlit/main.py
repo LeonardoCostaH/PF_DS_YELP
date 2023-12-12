@@ -7,7 +7,7 @@ from connect import cursor, conn
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-img_logo = "img/Geogen  esis_logo.png"
+img_logo = "img/Geogenesis_logo.png"
 # Mostrar la imagen con tamaño y alineación personalizados
 st.image(img_logo, use_column_width=True)
 st.title("¡Bienvenido a Geogenesis Data Solutions!")

@@ -135,3 +135,26 @@ with col2:
     st.plotly_chart(torta_isamerican, use_container_width=True)
 with col1:
     st.plotly_chart(scatter_plot, use_container_width=True)
+
+
+
+col1, col2 = st.columns((3, 3))
+with col1:
+    st.text("")
+    st.text("")
+    st.text("")
+    df_copy = filtered_clients_reviews.copy()
+    resumenes_texto = ' '.join(df_copy['review'][df_copy['sentiment'] > 0.25].dropna())
+    wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='Greens').generate(resumenes_texto)
+    wordcloud_image = wordcloud.to_image()
+    st.image(wordcloud_image)
+with col2:
+    st.text("")
+    st.text("")
+    st.text("")
+    df_copy = filtered_clients_reviews.copy()
+    resumenes_texto = ' '.join(df_copy['review'][df_copy['sentiment'] < 0.25].dropna())
+    wordcloud = WordCloud(width=800, height=400, background_color='white', colormap='Reds').generate(resumenes_texto)
+    wordcloud_image = wordcloud.to_image()
+    st.image(wordcloud_image)
+

@@ -122,9 +122,48 @@ fig_sent = px.line(average_sentiment_by_month, x=average_sentiment_by_month.inde
 
 
 
+positive_usa_reviews = df_reviews[(df_reviews['sentiment'] > 0) & (df_reviews['nationality'] == 'Estados Unidos')]
 
 
+positive_usa_reviews['quarter'] = positive_usa_reviews['date'].dt.to_period("Q")
+df_reviews['quarter'] = df_reviews['date'].dt.to_period("Q")
 
+
+percentage_positive_usa_by_quarter = (
+    positive_usa_reviews.groupby('quarter').size() / df_reviews[df_reviews['nationality'] == 'Estados Unidos'].groupby('quarter').size()
+) * 100
+
+
+projected_data_usa_six_months = pd.DataFrame(index=pd.date_range(start=percentage_positive_usa_by_quarter.index[-1].to_timestamp(), periods=7, freq='M'))
+
+growth_rate_usa_six_months = 0.07  # 7% de crecimiento en 6 meses
+target_percentage_usa_six_months = round(percentage_positive_usa_by_quarter.iloc[-1] + growth_rate_usa_six_months * 100, 2)
+
+
+projected_data_usa_six_months['Satisfaction Index'] = (
+    percentage_positive_usa_by_quarter.iloc[-1] +
+    np.arange(1, len(projected_data_usa_six_months) + 1) * growth_rate_usa_six_months * 100
+)
+
+
+projected_data_usa_six_months['Satisfaction Index'] = np.minimum(
+    projected_data_usa_six_months['Satisfaction Index'], target_percentage_usa_six_months
+)
+
+fig_usa_six_months = px.line(
+    x=percentage_positive_usa_by_quarter.index.to_timestamp(),
+    y=percentage_positive_usa_by_quarter.values,
+    labels={'y': 'Porcentaje de Reseñas Positivas', 'x': 'Año'},
+    title='Porcentaje de Reseñas Positivas para Huéspedes Estadounidenses por Cuatrimestre con Proyección a 6 Meses'
+)
+
+fig_usa_six_months.add_scatter(
+    x=[projected_data_usa_six_months.index[0], projected_data_usa_six_months.index[-1]],
+    y=[percentage_positive_usa_by_quarter.iloc[-1], target_percentage_usa_six_months],
+    mode='lines',
+    line=dict(color='red', dash='dash'),
+    name=f'Proyección (7% Crecimiento por 6 Meses hasta {target_percentage_usa_six_months}%)'
+)
 
 
 
@@ -143,7 +182,7 @@ with col1:
     
 
 with col2:
-    st.plotly_chart(fig_sent, use_container_width=True)
+    st.plotly_chart(fig_usa_six_months, use_container_width=True)
     st.text("KPI 2: Aumentar el índice de satisfacción de huéspedes de EEUU en los próximos 6 meses en un 7%.")
     st.plotly_chart(fig_sent, use_container_width=True)
     st.text("KPI4: Mantener el promedio mensual de sentimiento para huéspedes que vienen en familia por encima de 0.25.")

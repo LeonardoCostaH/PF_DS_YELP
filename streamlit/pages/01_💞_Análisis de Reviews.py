@@ -37,12 +37,10 @@ date_range = st.sidebar.date_input("Date Range",
 
 selected_state = st.sidebar.selectbox('State', clients['state'].unique())
 
-cities_to_filter_by = clients['city'][clients["state"] == selected_state].unique()
-selected_cities = st.sidebar.multiselect('City', cities_to_filter_by, default=cities_to_filter_by)
+#cities_to_filter_by = clients['city'][clients["state"] == selected_state].unique()
+#selected_cities = st.sidebar.multiselect('City', cities_to_filter_by, default=cities_to_filter_by)
 
-selected_hotels = st.sidebar.multiselect('Hotel', 
-                                         clients['name'][clients["city"].isin(selected_cities)].unique(),
-                                         default=clients['name'][clients["city"].isin(selected_cities)].unique())
+
 
 # Create user filters
 all_company= clients_reviews['company'].unique()
@@ -60,9 +58,9 @@ selected_nationality = st.sidebar.multiselect('Nationality', all_nationality,def
 
 
 # Filter data and calculate
-hotel_ids = clients["hotel_id"][clients["name"].isin(selected_hotels)].to_list()
 
-filtered_clients_reviews = clients_reviews[(clients_reviews["hotel_id"].isin(hotel_ids)) & (clients_reviews["company"].isin(selected_company))]
+
+filtered_clients_reviews = clients_reviews[clients_reviews["company"].isin(selected_company)]
 
 filtered_clients_reviews['company'].dropna(inplace=True)
 average_sentiment = filtered_clients_reviews['sentiment'].mean()

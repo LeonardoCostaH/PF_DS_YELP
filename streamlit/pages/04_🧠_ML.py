@@ -23,6 +23,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from connect import cursor, conn
 
 
+california_hotels = pd.read_csv("../files/data/booking/california_hotels.csv", index_col=0)
+matrix = pd.read_csv("../files/data/booking/california_hotels_similarity_matrix.csv", index_col=0)
+california_hotels = california_hotels[california_hotels["avg_score"] > 10]
+
+
+
 st.set_page_config(
     #page_title="Tu Aplicación",
     #page_icon=":chart_with_upwards_trend:",
@@ -32,58 +38,36 @@ st.set_page_config(
 
 
 
-usa_states = pd.read_csv("../files/data/usa_states.csv")
-state_list = sorted(usa_states["state"].tolist()) # Crear una lista de opciones para el checklist
-default_selection = ["Utah"]
-selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)
 
-utah_hotels = pd.read_csv("../files/data/usa_hotels.csv")
-utah_hotels.dropna(inplace=True)
-utah_hotels.isna().sum()
-utah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)
 
-def lista_diccionarios_a_diccionario(lista_diccionarios):
-    resultado = {}
-    for diccionario in lista_diccionarios:
-        resultado.update(diccionario)
-    return resultado
+# FILTERS
 
-utah_hotels["personal_score"] = None
-utah_hotels["ammenities_score"] = None
-utah_hotels["cleanning_score"] = None
-utah_hotels["confort_score"] = None
-utah_hotels["price_cuality_score"] = None
-utah_hotels["location"] = None
-utah_hotels["wifi_score"] = None
+selected_client = st.sidebar.selectbox('Client hotel', california_hotels['name'].unique())
 
-for i, row in utah_hotels.iterrows():
-    dict_scores = lista_diccionarios_a_diccionario(row["scores"])
-    utah_hotels.at[i, "personal_score"] = dict_scores.get("Personal", 0)
-    utah_hotels.at[i, "ammenities_score"] = dict_scores.get("Instalaciones y servicios", 0)
-    utah_hotels.at[i, "cleanning_score"] = dict_scores.get("Limpieza", 0)
-    utah_hotels.at[i, "confort_score"] = dict_scores.get("Confort", 0)
-    utah_hotels.at[i, "price_cuality_score"] = dict_scores.get("Relación calidad-precio", 0)
-    utah_hotels.at[i, "location"] = dict_scores.get("Ubicación", 0)
-    utah_hotels.at[i, "wifi_score"] = dict_scores.get("WiFi gratis", 0)
-utah_hotels.drop(columns=["scores"], inplace=True)
+filtered_hotel = california_hotels.loc[california_hotels['name'] == selected_client]
+california_hotels['similarity'] = matrix[f"{filtered_hotel.index[0]}"]
 
-hotels = utah_hotels.copy()
-client_list = sorted(hotels["name"].tolist())
-selected_clients = st.sidebar.multiselect('Clients:', client_list) # Crear el checklist desplegable
-hotels['is_client'] = hotels['name'].apply(lambda x: 1 if x in selected_clients else 0)
+california_hotels = california_hotels.sort_values(by='similarity', ascending=False)
 
-mi_gradiente_invertida = ['#9D1E27', '#FFFFFF']
 
-score_categories = ["personal_score", "amenities_score", "cleaning_score", "comfort_score", "price_quality_score", "location", "wifi_score"]
-default_selection = ["personal_score"]
-selected_categories = st.sidebar.multiselect('Categorías:', score_categories, default=default_selection)
 
-fig = px.scatter_3d(hotels, x='price', y='state', z="avg_score", color='is_client',
-                    color_continuous_scale=mi_gradiente_invertida)
+
+# Define color mapping for the top 25 and the rest
+color_map = {
+    True: 'red',  # Top 25 hotels
+    False: 'lightblue'  # Rest of the hotels
+}
+
+# Create a boolean column indicating whether the hotel is in the top 25
+california_hotels['top_25'] = california_hotels.index.isin(california_hotels.head(100).index)
+
+# Plot the 3D scatter plot with color mapping
+fig = px.scatter_3d(california_hotels, x='price', y='stars', z="avg_score",
+                    color="top_25", color_discrete_map=color_map)
 
 fig.update_layout(scene=dict(xaxis=dict(autorange="reversed")))
 fig.update_traces(marker=dict(size=3, sizemode='diameter'))
-fig.update_layout(width=1500, height=800, margin=dict(t=5))  # Ajustar el margen superior
+fig.update_layout(width=1500, height=800, margin=dict(t=5))  # Adjust the top margin
 fig.update(layout_coloraxis_showscale=False)
 
 st.plotly_chart(fig)

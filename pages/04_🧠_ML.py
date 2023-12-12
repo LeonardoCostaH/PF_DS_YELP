@@ -20,7 +20,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-from connect import cursor, conn
+from connect import cursor, conn, obtener_datos
 
 
 st.set_page_config(
@@ -32,12 +32,13 @@ st.set_page_config(
 
 
 
-usa_states = pd.read_csv("../files/data/usa_states.csv")
+usa_states = obtener_datos(cursor, "usa_states", "*")
 state_list = sorted(usa_states["state"].tolist()) # Crear una lista de opciones para el checklist
 default_selection = ["Utah"]
 selected_states = st.sidebar.multiselect('States:', state_list, default=default_selection)
 
-utah_hotels = pd.read_csv("../files/data/usa_hotels.csv")
+
+utah_hotels = obtener_datos(cursor, "usa_hotels", "*")
 utah_hotels.dropna(inplace=True)
 utah_hotels.isna().sum()
 utah_hotels['scores'] = utah_hotels['scores'].apply(literal_eval)

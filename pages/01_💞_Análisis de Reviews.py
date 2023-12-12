@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from connect import cursor, conn
+from connect import cursor, conn, obtener_datos
 import matplotlib.pyplot as plt
 import matplotlib
 import seaborn as sns
@@ -14,8 +14,8 @@ import plotly.graph_objects as go
 
 warnings.filterwarnings("ignore")
 
-clients = pd.read_csv("../files/data/usa_clients.csv", index_col=0)
-clients_reviews = pd.read_csv("../files/data/usa_clients_reviews.csv", index_col=0)
+clients = obtener_datos(cursor, "usa_clientes", "*")
+clients_reviews = obtener_datos(cursor, "usa_clients_reviews", "*")
 
 clients_reviews['date'] = pd.to_datetime(clients_reviews['date'])
 

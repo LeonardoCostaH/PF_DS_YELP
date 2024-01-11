@@ -116,10 +116,10 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 | Rol           | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                  | ![GitHub](files/img/github.png)                                     |
 | ------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| Data Enginner | [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)                      | [melisaamelia.arce](mailto:melisaamelia.arce@gmail.com)         | [Melisa Arce](https://github.com/melisaameliaarce)                   |
-| Data Enginner | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
-| Data Analyst  | [Leonardo Augusto Costa Hermes](https://linkedin.com/in/leonardo-costa-672a3a1b9) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/)                 |
+| Data Engineer | [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)                      | [melisaamelia.arce](mailto:melisaamelia.arce@gmail.com)         | [Melisa Arce](https://github.com/melisaameliaarce)                   |
+| Data Engineer | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
+| Data Analyst  | [Leonardo Augusto Costa Hermes](https://www.linkedin.com/in/leonardo-c-hermes) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/)                 |
 | Data Analyst  | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
-| Data Analyst  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
+| Data Scientist  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
 
 ---

@@ -2,7 +2,7 @@
 
 ---
 
-<p align=center><img src=files/img/Geogenesis_logo.png><p>
+<p align=center><img src=files/img/geogenesis_portada.gif><p>
 
 ---
 
@@ -112,14 +112,24 @@ Nuestra consultora está diseñada específicamente para satisfacer las necesida
 
 ---
 
-## Desarrolladores
+### Equipo
 
-| Rol           | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                  | ![GitHub](files/img/github.png)                                     |
-| ------------- | ------------------------------------------------------------------------------ | ------------------------------------------------------------ | ----------------------------------------------------------------- |
-| Data Engineer | [Melisa Arce](https://www.linkedin.com/in/melisaameliaarce/)                      | [melisaamelia.arce](mailto:melisaamelia.arce@gmail.com)         | [Melisa Arce](https://github.com/melisaameliaarce)                   |
-| Data Engineer | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
-| Data Analyst  | [Leonardo Augusto Costa Hermes](https://www.linkedin.com/in/leonardo-c-hermes) | [leonardocostahermes](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://gitHub.com/LeonardoCostaH/)                 |
-| Data Analyst  | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
-| Data Scientist  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
+| Rol                                          | ![Linkedin](files/img/linkedin.png)                                              | ![Gmail](files/img/gmail.png)                                            | ![GitHub](files/img/github.png)                                     |
+| -------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ----------------------------------------------------------------- |
+*Data Engineer*
+| <img src="files/img/Melisa.gif" width="150" /> | [melisaamelia.arce](https://www.linkedin.com/in/melisaameliaarce)                 | [melisaamelia.arce@gmail.com](mailto:melisaamelia.arce@gmail.com)         | [MelisaArce](https://github.com/MelisaArce)                          |
+*Data Engineer*
+| <img src="files/img/Luís.gif" width="150" />  | [Luis Octavio Varas Jaime](https://www.linkedin.com/in/luis-o-varas/)             | [vluis2386@gmail.com](mailto:vluis2386@gmail.com)                         | [LuisOVaras](https://github.com/LuisOVaras)                          |
+*Data Analyst*
+| <img src="files/img/Léo.gif" width="150" />    | [Leonardo Augusto Costa Hermes](https://www.linkedin.com/in/leonardo-c-hermes/) | [leonardocostahermes@gmail.com](mailto:leonardocostahermes@gmail.com)     | [LeonardoCostaH](https://github.com/LeonardoCostaH/)                 |
+*Data Analyst*
+| <img src="files/img/Diego.gif" width="150" />   | [Diego Saint Denis](https://www.linkedin.com/in/diego-saint-denis/)               | [diego.saintdenis@gmail.com](mailto:diego.saintdenis@gmail.com)           | [data-d-s-d](https://github.com/data-d-s-d)                          |
+*Data Scientist*
+| <img src="files/img/Joaquin.gif" width="150" />  | [Joaquín Jullier](https://www.linkedin.com/in/joaqu%C3%ADn-jullier-6179a4266/)   | [julliercapellojoaquin@gmail.com](mailto:julliercapellojoaquin@gmail.com) | [JullierJoaquin](https://github.com/JullierJoaquin?tab=repositories) |
 
+### Vídeo 
+
+¡Descubre más sobre nosotros viendo nuestro video!
+
+- Click aqui ---> [![YouTube](https://img.shields.io/badge/YouTube-badge?style=for-the-badge&logo=youtube&logoColor=%23FF0000&color=black)](https://youtu.be/2MNnqXGmpiU?si=MIVbUoxwEPQWP2Bq)
 ---
